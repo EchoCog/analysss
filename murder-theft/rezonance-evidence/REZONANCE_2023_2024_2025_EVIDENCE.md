@@ -104,7 +104,7 @@
 ### ReZonance Specific Losses
 
 | Period | Amount (ZAR) | Source | Status |
-|--------|--------------|---------|---------|
+|---------|--------------|---------|---------|
 | Feb 2023-2025 | 1,035,000+ | Withheld payments | Documented |
 | Aug 2023+ | 1,800,000+ | Post-murder theft | Confessed |
 | **TOTAL** | **2,835,000+** | **ReZonance only** | **Conservative** |
