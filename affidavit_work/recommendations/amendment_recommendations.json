@@ -1,0 +1,302 @@
+{
+  "strategic_framework": {
+    "core_strategy": {
+      "title": "Core Strategic Approach",
+      "principles": [
+        "Exploit Peter's material non-disclosures to undermine ex parte interdict",
+        "Use Peter's own inconsistent conduct against him",
+        "Emphasize breakdown of collaborative model (not absence of formal governance)",
+        "Highlight immediate regulatory compliance crisis",
+        "Demonstrate timing and coordination suggesting ulterior motives",
+        "Focus on fact-based evidence, avoid speculation"
+      ]
+    },
+    "key_weaknesses_to_exploit": [
+      {
+        "weakness": "Material Non-Disclosure in Ex Parte Application",
+        "exploitation_strategy": "Systematically demonstrate each material fact Peter failed to disclose, showing court would have refused or modified relief if properly informed",
+        "priority": "CRITICAL",
+        "evidence_required": [
+          "Regulatory appointment letters (Responsible Person)",
+          "Settlement agreement with dates",
+          "Investment payout documentation",
+          "Emails showing Rynette's expanding access",
+          "Historical collaborative business records"
+        ]
+      },
+      {
+        "weakness": "Peter's Inconsistent Conduct",
+        "exploitation_strategy": "Show Peter accepted informal practices for years, then weaponized same practices. Demonstrate he received similar payments without authorization.",
+        "priority": "CRITICAL",
+        "evidence_required": [
+          "Peter's own director loan account withdrawals",
+          "Historical transactions without board resolutions",
+          "Evidence of Peter's participation in collaborative model",
+          "Timeline showing sudden change in position"
+        ]
+      },
+      {
+        "weakness": "Lack of Genuine Urgency",
+        "exploitation_strategy": "Demonstrate alleged issues existed for months, Peter waited strategically, timing suggests ulterior motive (post-settlement, pre-payout)",
+        "priority": "HIGH",
+        "evidence_required": [
+          "Timeline of events (June card cancellation, August interdict)",
+          "Settlement agreement date vs interdict filing date",
+          "Investment payout schedule",
+          "Evidence businesses continue operating normally"
+        ]
+      },
+      {
+        "weakness": "Peter's Own Unilateral Actions Caused Disruption",
+        "exploitation_strategy": "Show Peter's actions (card cancellations, system lockouts, Rynette empowerment) caused the very disruptions he now attributes to respondents",
+        "priority": "HIGH",
+        "evidence_required": [
+          "Card cancellation records",
+          "System access restriction logs",
+          "Evidence of disrupted services",
+          "Rynette's expanding access documentation"
+        ]
+      },
+      {
+        "weakness": "Characterization of Legitimate Expenses as \"Unexplained\"",
+        "exploitation_strategy": "Demonstrate IT expenses are legitimate for international business, Peter restricted access to documentation then claimed it doesn't exist",
+        "priority": "MEDIUM-HIGH",
+        "evidence_required": [
+          "Invoices and contracts for IT services",
+          "Evidence of international operations requiring IT infrastructure",
+          "Evidence Daniel provided requested documentation",
+          "Evidence Peter restricted access to systems containing documentation"
+        ]
+      }
+    ],
+    "key_strengths_to_counter": [
+      {
+        "strength": "Large Monetary Amounts (R8.8M+ IT expenses)",
+        "counter_strategy": "Contextualize within international operations across 37 jurisdictions. Show these are legitimate business expenses for global cosmetics regulatory compliance and operations.",
+        "priority": "HIGH"
+      },
+      {
+        "strength": "Accountant Identified Discrepancies",
+        "counter_strategy": "Show accountant's role is routine tax preparation, not forensic investigation. \"Discrepancies\" are normal documentation requests during tax season, not evidence of misconduct.",
+        "priority": "MEDIUM"
+      },
+      {
+        "strength": "Correctly Cites Statutory Provisions",
+        "counter_strategy": "Acknowledge legal framework but demonstrate no factual basis for application. Delinquency requires gross misconduct/willful breach - none proven.",
+        "priority": "MEDIUM"
+      }
+    ]
+  },
+  "high_priority_amendments": [
+    {
+      "ad_paragraph": "AD PARAGRAPH 7.18 TO 7.20",
+      "responds_to": "Peter's allegations regarding R500,000 \"birthday gift\"",
+      "current_weakness": "Current response may not adequately contextualize within established director loan account practice",
+      "recommended_approach": "EXPLOIT PETER'S INCONSISTENCY",
+      "specific_amendments": [
+        {
+          "section": "Background Context",
+          "content": "\n**RECOMMENDED ADDITION:**\n\n\"7.18.1 Director Loan Account Structure:\n\n7.18.1.1 The RegimA businesses maintain director loan accounts for all directors, including the Applicant, myself, and the Second Respondent.\n\n7.18.1.2 As of [date], the director loan account balances (amounts owed by companies to directors) were:\n\u2022 Applicant: R[X] million (Annexure JF-DLA1)\n\u2022 First Respondent (myself): R[X] million (Annexure JF-DLA2)  \n\u2022 Second Respondent: R[X] million (Annexure JF-DLA3)\n\n7.18.1.3 These substantial credit balances demonstrate that the companies owe the directors large sums at all times, accumulated over [X] years of operations.\n\n7.18.2 Established Practice for Director Loan Transactions:\n\n7.18.2.1 For the entire history of the RegimA businesses ([X] years), director-company transactions have been processed according to the following established practice:\n\u2022 Transactions are clearly marked on bank statements with appropriate references;\n\u2022 Bank feeds automatically allocate transfers to corresponding director loan accounts;\n\u2022 Reconciliation occurs during regular accounting processes;\n\u2022 Formal board resolutions are NOT required for routine director loan account transactions.\n\n7.18.2.2 This practice has been accepted and utilized by all directors, including the Applicant, throughout the history of the businesses.\"\n"
+        },
+        {
+          "section": "The R500,000 Payment",
+          "content": "\n**RECOMMENDED ADDITION:**\n\n\"7.18.3 The R500,000 Payment on 16 July 2025:\n\n7.18.3.1 On or about 16 July 2025, a payment of R500,000 was processed from [company name] to [recipient/account].\n\n7.18.3.2 This payment was clearly marked on the bank statement as [exact reference] (Bank statement, Annexure JF-BS1).\n\n7.18.3.3 The payment was allocated to the appropriate director loan account in accordance with established practice (Accounting records, Annexure JF-AR1).\n\n7.18.3.4 This transaction was entirely consistent with the established practice that has operated successfully for [X] years and that the Applicant has accepted and utilized throughout that period.\"\n"
+        },
+        {
+          "section": "Applicant's Inconsistency - CRITICAL",
+          "content": "\n**RECOMMENDED ADDITION (EXPLOIT WEAKNESS):**\n\n\"7.18.4 The Applicant's Inconsistent Position:\n\n7.18.4.1 The Applicant now characterizes the R500,000 payment as an unauthorized \"birthday gift\" and uses it as a basis for this interdict application.\n\n7.18.4.2 However, the Applicant himself has received similar payments from director loan accounts without formal board resolutions on numerous occasions, including:\n\u2022 [Date 1]: R[amount] - [Reference] (Bank statement, Annexure JF-PA1)\n\u2022 [Date 2]: R[amount] - [Reference] (Bank statement, Annexure JF-PA2)\n\u2022 [Date 3]: R[amount] - [Reference] (Bank statement, Annexure JF-PA3)\n\u2022 [Date 4]: R[amount] - [Reference] (Bank statement, Annexure JF-PA4)\n\n7.18.4.3 The Applicant never objected to this practice, never requested formal board resolutions for his own withdrawals, and never characterized such transactions as \"unauthorized\" or improper until [date/event].\n\n7.18.4.4 The Applicant's sudden objection to the R500,000 payment, despite years of accepting and utilizing the identical practice for his own benefit, is fundamentally inconsistent and demonstrates that this allegation is pretextual.\n\n7.18.5 Timing Demonstrates Pretext:\n\n7.18.5.1 The R500,000 payment occurred on 16 July 2025.\n\n7.18.5.2 The Applicant first consulted attorneys on or about 5 August 2025 (20 days after the payment).\n\n7.18.5.3 The Applicant filed this ex parte interdict application on 13 August 2025 (28 days after the payment).\n\n7.18.5.4 This timeline demonstrates that the R500,000 payment was used as a pretext for the interdict application, rather than representing genuine concern about unauthorized transactions.\"\n"
+        }
+      ],
+      "evidence_checklist": [
+        "\u2610 Director loan account statements for all three directors showing credit balances",
+        "\u2610 Bank statement for 16 July 2025 showing R500K payment with clear reference",
+        "\u2610 Accounting records showing allocation to director loan account",
+        "\u2610 Bank statements showing Peter's own similar withdrawals (minimum 4 examples)",
+        "\u2610 Historical transaction records demonstrating established practice",
+        "\u2610 Timeline documentation (payment date, attorney consultation date, filing date)"
+      ],
+      "priority": "CRITICAL",
+      "impact": "Directly undermines Peter's primary allegation of financial misconduct and demonstrates his bad faith"
+    },
+    {
+      "ad_paragraph": "AD PARAGRAPH 3 TO 3.10",
+      "responds_to": "Respondent identification (opportunity to introduce Responsible Person role)",
+      "current_weakness": "Current response is minimal admission - misses opportunity to establish critical context",
+      "recommended_approach": "ESTABLISH MATERIAL NON-DISCLOSURE",
+      "specific_amendments": [
+        {
+          "section": "Enhanced Respondent Identification",
+          "content": "\n**RECOMMENDED REPLACEMENT:**\n\n\"AD PARAGRAPH 3 TO 3.10\n\n3.1 The contents herein are admitted insofar as they relate to the identification and citation of the Respondents.\n\n3.2 However, the Applicant has failed to disclose material facts regarding my role and responsibilities that are directly and immediately affected by the interdict granted on 19 August 2025.\n\n3.3 My Role as Legally Designated Responsible Person:\n\n3.3.1 I serve as the legally designated \"Responsible Person\" for RegimA International Skin Treatments across 37 international jurisdictions, including all 27 European Union member states, the United Kingdom, and [list other jurisdictions].\n\n3.3.2 This designation is not an administrative or managerial role, but a specific legal requirement under:\n\u2022 EU Cosmetics Regulation 1223/2009 (Article 4);\n\u2022 UK Cosmetics Regulations (as retained EU law post-Brexit);\n\u2022 Equivalent cosmetics regulations in 35 other jurisdictions.\n\n3.3.3 Documentary evidence of this designation is attached as Annexure JF-RP1, including:\n\u2022 Regulatory appointment letters from authorities in 37 jurisdictions;\n\u2022 CPNP (Cosmetic Products Notification Portal) registration confirmations;\n\u2022 Correspondence with regulatory authorities;\n\u2022 Product Information Files (PIFs) bearing my designation.\n\n3.4 Legal Responsibilities and Personal Liability:\n\n3.4.1 As Responsible Person, I bear personal legal liability under international law for:\n(a) Product Information Filing and CPNP Registration in 37 jurisdictions;\n(b) Cosmetic Product Safety Reports (CPSRs) and ongoing toxicological evaluation;\n(c) Good Manufacturing Practice (GMP) Compliance monitoring;\n(d) Regulatory Liaison as designated point of contact with authorities;\n(e) Market Surveillance and Adverse Event Reporting;\n(f) Product Recalls and Corrective Actions when necessary.\n\n3.4.2 These duties are continuous, immediate, and non-delegable without formal regulatory approval in each jurisdiction.\n\n3.5 Direct and Immediate Impact of the Interdict:\n\n3.5.1 The interdict granted on 19 August 2025 prevents me from:\n\u2022 Accessing business premises where regulatory documentation is stored;\n\u2022 Accessing computer systems containing CPNP login credentials and product data;\n\u2022 Accessing manufacturing records and GMP compliance documentation;\n\u2022 Accessing regulatory correspondence and submission records;\n\u2022 Communicating with regulatory authorities on behalf of the businesses.\n\n3.5.2 This is Not Speculation - This is Direct Legal Consequence:\n\nWithout access to these systems and documentation, I cannot legally perform my duties as Responsible Person. The regulatory framework does not provide for temporary suspension of these duties. The obligations are continuous and immediate.\n\n3.5.3 The RegimA businesses cannot legally sell cosmetic products in 37 jurisdictions without a Responsible Person who has access to necessary documentation and systems.\n\n3.5.4 Potential consequences include:\n\u2022 Immediate regulatory non-compliance in 37 jurisdictions;\n\u2022 Regulatory penalties and fines (up to \u20ac[amount] per violation under EU law);\n\u2022 Mandatory product recalls;\n\u2022 Loss of market access affecting R[amount] in annual revenue;\n\u2022 Criminal liability for continued sales without proper designation.\n\n3.6 Material Non-Disclosure by Applicant:\n\n3.6.1 The Applicant failed to disclose any of the above facts in his ex parte application.\n\n3.6.2 Had this Honourable Court been aware that the interdict would create immediate regulatory non-compliance in 37 international jurisdictions and expose the businesses to substantial penalties and loss of market access, the Court would likely have:\n(a) Refused to grant the interdict; or\n(b) Crafted different relief that preserved my ability to perform non-delegable legal duties.\n\n3.6.3 This material non-disclosure undermines the foundation of the ex parte interdict.\"\n"
+        }
+      ],
+      "evidence_checklist": [
+        "\u2610 Regulatory appointment letters from all 37 jurisdictions",
+        "\u2610 CPNP registration confirmations",
+        "\u2610 Product Information Files (PIFs) showing Responsible Person designation",
+        "\u2610 Correspondence with regulatory authorities",
+        "\u2610 Legal analysis of EU Regulation 1223/2009 and equivalent laws",
+        "\u2610 Documentation of potential penalties and consequences",
+        "\u2610 Revenue figures for affected international markets"
+      ],
+      "priority": "CRITICAL",
+      "impact": "Establishes material non-disclosure that undermines entire ex parte interdict"
+    },
+    {
+      "ad_paragraph": "AD PARAGRAPH 8 TO 8.3",
+      "responds_to": "Peter's allegations of unexplained IT expenses",
+      "current_weakness": "Current response may not adequately contextualize expenses within international operations",
+      "recommended_approach": "CONTEXTUALIZE AND DEMONSTRATE PETER'S RESTRICTION OF ACCESS",
+      "specific_amendments": [
+        {
+          "section": "IT Infrastructure Requirements",
+          "content": "\n**RECOMMENDED ADDITION:**\n\n\"8.1 Context: International Operations Requiring Substantial IT Infrastructure:\n\n8.1.1 The RegimA businesses operate across 37 international jurisdictions, including:\n\u2022 All 27 European Union member states;\n\u2022 United Kingdom;\n\u2022 [List other 9 jurisdictions].\n\n8.1.2 This international scope requires substantial IT infrastructure, including:\n(a) Regulatory Compliance Systems:\n\u2022 CPNP (Cosmetic Products Notification Portal) access and management;\n\u2022 Product Information File (PIF) database systems;\n\u2022 Safety assessment and toxicological evaluation platforms;\n\u2022 Regulatory submission and tracking systems for 37 jurisdictions;\n\n(b) Business Operations Systems:\n\u2022 International e-commerce platforms and payment processing;\n\u2022 Multi-jurisdiction inventory and logistics management;\n\u2022 Customer relationship management (CRM) systems;\n\u2022 Enterprise resource planning (ERP) systems;\n\u2022 Cloud storage and data backup systems;\n\n(c) Communications and Collaboration:\n\u2022 International telecommunications and video conferencing;\n\u2022 Email and collaboration platforms for distributed teams;\n\u2022 Translation and localization services;\n\u2022 Technical support and IT security services.\n\n8.1.3 The IT expenses cited by the Applicant (R6,738,007.47 for 2024 and R2,116,159.47 for 2025 year-to-date) must be understood in this context of substantial international operations across 37 jurisdictions.\n\n8.1.4 For a business of this international scope and regulatory complexity, these IT expenses are not unusual or excessive, but rather necessary and appropriate.\"\n"
+        },
+        {
+          "section": "Peter's Restriction of Access - CRITICAL",
+          "content": "\n**RECOMMENDED ADDITION (EXPLOIT WEAKNESS):**\n\n\"8.2 The Applicant's Unilateral Actions Created the Documentation \"Problem\":\n\n8.2.1 In June 2025, the Applicant unilaterally cancelled all business bank cards, including those used by the Second Respondent for IT-related subscriptions and services.\n\n8.2.2 This unilateral cancellation caused immediate disruption to business operations, including:\n\u2022 Suspension of essential IT services and subscriptions;\n\u2022 Loss of access to cloud-based systems and data;\n\u2022 Interruption of regulatory compliance systems;\n\u2022 Disruption of international communications and operations.\n\n8.2.3 Following the card cancellations, the Applicant then requested invoices and documentation for IT expenses.\n\n8.2.4 However, the Applicant simultaneously:\n(a) Restricted the Second Respondent's access to systems containing the requested documentation (System access logs, Annexure JF-SAL1);\n(b) Restricted access to email accounts containing vendor correspondence and invoices (Email access logs, Annexure JF-EAL1);\n(c) Restricted access to financial systems containing transaction records (Financial system logs, Annexure JF-FSL1).\n\n8.2.5 The Second Respondent provided the documentation that was accessible despite these restrictions (Correspondence, Annexure JF-CORR1).\n\n8.2.6 The Applicant then characterized the expenses as \"unexplained\" - but this characterization is misleading because:\n(a) The Applicant himself restricted access to the systems containing the documentation;\n(b) The Second Respondent provided available documentation;\n(c) The Applicant deemed the provided documentation \"insufficient\" without specifying what additional information was required;\n(d) The Applicant never restored access to allow comprehensive documentation gathering.\n\n8.2.7 The Applicant cannot restrict access to documentation systems, then claim documentation doesn't exist, and use that as a basis for allegations of financial misconduct.\"\n"
+        }
+      ],
+      "evidence_checklist": [
+        "\u2610 List of IT services and subscriptions with business justifications",
+        "\u2610 Invoices and contracts for major IT expenses",
+        "\u2610 Documentation of international operations across 37 jurisdictions",
+        "\u2610 System access logs showing restrictions imposed by Peter",
+        "\u2610 Email access logs showing restrictions",
+        "\u2610 Correspondence showing Daniel provided available documentation",
+        "\u2610 Evidence of business disruption caused by card cancellations"
+      ],
+      "priority": "HIGH",
+      "impact": "Demonstrates Peter created the problem he now complains about, undermines \"unexplained expenses\" narrative"
+    },
+    {
+      "ad_paragraph": "AD PARAGRAPH 12 TO 12.1",
+      "responds_to": "Peter's allegations of relationship breakdown and deadlock",
+      "current_weakness": "May not adequately demonstrate Peter's role in causing breakdown",
+      "recommended_approach": "SHOW PETER CAUSED BREAKDOWN THROUGH RYNETTE EMPOWERMENT",
+      "specific_amendments": [
+        {
+          "section": "Historical Collaborative Model",
+          "content": "\n**RECOMMENDED ADDITION:**\n\n\"12.1 Historical Business Model - Collaborative and Successful:\n\n12.1.1 For [X] years, the RegimA businesses operated with an informal but highly functional collaborative approach:\n(a) Directors consulted with each other on significant business decisions;\n(b) Major transactions were discussed among directors before implementation;\n(c) Disagreements were resolved through discussion and consensus;\n(d) All directors had visibility into business operations;\n(e) Financial transactions were transparent and clearly documented;\n(f) Trust and collaboration characterized the business relationships.\n\n12.1.2 This collaborative model operated successfully for [X] years without significant issues, generating substantial revenue and building international operations across 37 jurisdictions.\n\n12.1.3 The Applicant was a full participant in and beneficiary of this collaborative model throughout its history.\n\n12.1.4 Evidence of this historical collaborative approach includes:\n\u2022 Email correspondence from [date range] showing collaborative decision-making (Annexure JF-HIST1);\n\u2022 Examples of directors consulting each other before significant transactions (Annexure JF-HIST2);\n\u2022 Historical financial records showing transparent, clearly marked transactions (Annexure JF-HIST3);\n\u2022 [X] years of successful operation without formal governance disputes.\"\n"
+        },
+        {
+          "section": "Systematic Breakdown Caused by Peter",
+          "content": "\n**RECOMMENDED ADDITION (EXPLOIT WEAKNESS):**\n\n\"12.2 Systematic Breakdown of Collaborative Model - Caused by Applicant:\n\n12.2.1 The breakdown of the collaborative business model was not caused by the First and Second Respondents, but rather by the Applicant's systematic actions to exclude directors and concentrate control in a non-director employee.\n\n12.2.2 Ms. Rynette Farrar's Expanding Access:\n\nMs. Rynette Farrar was initially engaged as a bookkeeper for the RegimA businesses. However, the Applicant systematically expanded her access and authority far beyond this role:\n\n(a) System Access:\n\u2022 On [date], the Applicant granted Ms. Farrar access to all business financial software systems (Email, Annexure JF-RF1);\n\u2022 On [date], the Applicant provided her with all of his passwords and login credentials (Email, Annexure JF-RF2);\n\u2022 She now has access to: [list specific systems].\n\n(b) Banking Authority:\n\u2022 On [date], Ms. Farrar was granted signatory authority on [list specific bank accounts] (Bank authorization forms, Annexure JF-RF3);\n\u2022 She can initiate transactions without requiring co-director approval;\n\u2022 She can transfer funds between accounts unilaterally.\n\n(c) Customer and Vendor Communications:\n\u2022 Ms. Farrar can email customers directly without director oversight;\n\u2022 She can communicate with vendors and make commitments on behalf of the businesses;\n\u2022 She operates without any accountability to other directors.\n\n12.2.3 Current Extent of Ms. Farrar's Access:\n\nAs of the date of this affidavit, Ms. Rynette Farrar, a non-director bookkeeper, has:\n\u2022 Access to every business bank account;\n\u2022 All of the Applicant's passwords and login credentials;\n\u2022 Signatory authority on multiple accounts;\n\u2022 Ability to initiate transactions without director approval;\n\u2022 Ability to email customers and transfer funds unilaterally;\n\u2022 Unfettered access to all books of account, customer lists, and financial records.\n\n12.2.4 This level of access and authority for a non-director employee is unprecedented in the [X]-year history of the RegimA businesses.\n\n12.2.5 Concurrent Exclusion of Directors:\n\nConcurrent with Ms. Farrar's expanding access, the Applicant systematically excluded the First and Second Respondents from business oversight:\n\n(a) On [date], my access to [specific system] was restricted (Access logs, Annexure JF-EX1);\n(b) The Second Respondent's access to [specific system] was restricted on [date] (Access logs, Annexure JF-EX2);\n(c) When we raised concerns about unclear transactions, the Applicant characterized our concerns as \"interference\" and defended Ms. Farrar's actions (Email dated [date], Annexure JF-EX3);\n(d) The Applicant stated we should not \"question Rynette\" and that he \"trusts her completely\" (Email dated [date], Annexure JF-EX4).\n\n12.2.6 The Applicant's Actions Caused the Breakdown:\n\nThe breakdown of the collaborative business model was caused by:\n\u2022 The Applicant's systematic transfer of control to a non-director employee;\n\u2022 The Applicant's concurrent exclusion of directors from oversight;\n\u2022 The Applicant's characterization of director oversight as \"interference\";\n\u2022 The Applicant's replacement of collaborative decision-making with unilateral control.\n\n12.2.7 This interdict application represents the culmination of this systematic exclusion - the Applicant now seeks to completely remove directors from the businesses while maintaining total control through Ms. Farrar.\"\n"
+        }
+      ],
+      "evidence_checklist": [
+        "\u2610 Historical emails showing collaborative decision-making",
+        "\u2610 Emails showing Rynette granted expanding access",
+        "\u2610 Bank authorization forms for Rynette",
+        "\u2610 System access logs showing director restrictions",
+        "\u2610 Emails showing Peter characterizing oversight as \"interference\"",
+        "\u2610 Emails showing Peter defending Rynette",
+        "\u2610 Timeline of Rynette's expanding access vs director exclusion"
+      ],
+      "priority": "HIGH",
+      "impact": "Demonstrates Peter caused the breakdown he now complains about, shows ulterior motive"
+    }
+  ],
+  "strategic_guidance": {
+    "title": "Strategic Guidance for Affidavit Amendments",
+    "overarching_principles": [
+      {
+        "principle": "Use Peter's Own Conduct Against Him",
+        "explanation": "Peter accepted informal practices for years, then weaponized them. Show his inconsistency systematically.",
+        "application": "Every allegation of \"unauthorized\" transactions should be met with evidence of Peter doing the same thing."
+      },
+      {
+        "principle": "Material Non-Disclosure Undermines Ex Parte Interdict",
+        "explanation": "Ex parte relief requires utmost good faith. Peter failed to disclose critical facts.",
+        "application": "Systematically identify each material fact not disclosed, explain why it's material, show court would have decided differently."
+      },
+      {
+        "principle": "Peter Caused the Problems He Complains About",
+        "explanation": "Peter's unilateral actions (card cancellations, system lockouts, Rynette empowerment) created disruptions.",
+        "application": "Show causation: Peter acts unilaterally \u2192 disruption occurs \u2192 Peter blames respondents."
+      },
+      {
+        "principle": "Timing Reveals Ulterior Motive",
+        "explanation": "Settlement agreement \u2192 8 days \u2192 interdict filing. Investment payout in 9 months.",
+        "application": "Timeline demonstrates strategic litigation for control, not genuine concern about misconduct."
+      },
+      {
+        "principle": "Fact-Based Evidence, No Speculation",
+        "explanation": "Every allegation must be supported by documentary evidence. Avoid speculation.",
+        "application": "Cite specific documents, dates, amounts. Use annexures extensively."
+      }
+    ],
+    "evidence_priorities": {
+      "critical_must_have": [
+        "Director loan account statements (all directors, showing credit balances)",
+        "Peter's own withdrawals without board resolutions (minimum 4 examples)",
+        "Responsible Person regulatory appointment letters (37 jurisdictions)",
+        "Settlement agreement with dates",
+        "Rynette Farrar access expansion documentation (emails, bank forms)",
+        "System access restriction logs showing Peter excluded directors",
+        "Timeline documentation (payment dates, filing dates, payout schedule)"
+      ],
+      "high_priority": [
+        "IT service invoices and contracts",
+        "Evidence of international operations (37 jurisdictions)",
+        "Historical collaborative business records (emails, transaction records)",
+        "Evidence of business disruption caused by Peter's card cancellations",
+        "Correspondence showing Daniel provided documentation",
+        "Evidence Peter restricted access to documentation systems"
+      ],
+      "supporting": [
+        "Financial records showing businesses remain profitable",
+        "Evidence of Peter's participation in informal practices",
+        "Historical transaction records showing established practice",
+        "Revenue figures for international markets"
+      ]
+    },
+    "language_guidelines": {
+      "avoid": [
+        "\"Unauthorized transactions\" (use \"consistent with established practice\")",
+        "\"Lack of board approval\" (use \"routine director loan account transaction\")",
+        "\"Missing dual signatures\" (never part of established practice)",
+        "\"Violation of Companies Act\" (for routine transactions)",
+        "Speculation about Peter's motives (stick to observable facts and timing)"
+      ],
+      "use": [
+        "\"Established practice accepted by Applicant for [X] years\"",
+        "\"Applicant's inconsistent position\"",
+        "\"Material non-disclosure in ex parte application\"",
+        "\"Systematic breakdown of collaborative model\"",
+        "\"Applicant's unilateral actions caused disruption\"",
+        "\"Timing demonstrates pretext\""
+      ]
+    },
+    "structural_recommendations": [
+      {
+        "section": "Introduction",
+        "recommendation": "Lead with material non-disclosure. Establish that ex parte interdict was obtained without full disclosure."
+      },
+      {
+        "section": "Responsible Person Role",
+        "recommendation": "Detail early and extensively. This is the strongest material non-disclosure argument."
+      },
+      {
+        "section": "Director Loan Accounts",
+        "recommendation": "Establish practice first, then show Peter's participation, then demonstrate inconsistency."
+      },
+      {
+        "section": "IT Expenses",
+        "recommendation": "Contextualize within international operations, then show Peter restricted access to documentation."
+      },
+      {
+        "section": "Relationship Breakdown",
+        "recommendation": "Show historical collaborative model, then demonstrate Peter caused breakdown through Rynette empowerment."
+      },
+      {
+        "section": "Timing and Coordination",
+        "recommendation": "Create detailed timeline showing: settlement \u2192 8 days \u2192 interdict \u2192 9 months \u2192 payout."
+      }
+    ]
+  },
+  "summary": {
+    "total_high_priority_amendments": 4,
+    "key_weaknesses_to_exploit": 5,
+    "key_strengths_to_counter": 3
+  }
+}
