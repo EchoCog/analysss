@@ -5,23 +5,23 @@
 **Professional Status**: Accountant, Commissioner of Oaths, Trustee  
 **Case**: Faucitt Family Trust Conspiracy (IT 3651/2013)  
 **Charge Date**: October 13, 2025  
-**Financial Crime Value**: R70,580,000  
+**Financial Crime Value**: R18,685,000 (option price)  
 
 ---
 
 ## EXECUTIVE SUMMARY
 
-Danie Bantjies faces **LIFE IMPRISONMENT** on multiple criminal charges arising from his **QUADRUPLE CONFLICT OF INTEREST** in the Faucitt Family Trust conspiracy. As debtor, trustee, Commissioner of Oaths, and conspirator, Bantjies exploited four different positions to facilitate a **R35.29 million theft** from trust beneficiary Jacqui Faucitt.
+Danie Bantjies faces **LIFE IMPRISONMENT** on multiple criminal charges arising from his **QUADRUPLE CONFLICT OF INTEREST** in the Faucitt Family Trust conspiracy. As debtor, trustee, Commissioner of Oaths, and conspirator, Bantjies exploited four different positions to facilitate a **R9.34 million theft** from trust beneficiary Jacqui Faucitt's share of the May 2026 investment option.
 
 ### PRIMARY CHARGES
 1. **Corruption** (abuse of statutory Commissioner position) - **15 years**
 2. **Breach of Fiduciary Duty** (as Trustee) - **Personal liability for ALL losses**  
-3. **Theft as Trustee** (facilitating R35.29M theft) - **Life imprisonment**
+3. **Theft as Trustee** (facilitating R9.34M theft) - **Life imprisonment**
 4. **Perjury** (false affidavit as Commissioner) - **10 years**
 5. **Racketeering** (criminal enterprise participation) - **25 years**
 
 **CUMULATIVE SENTENCE EXPOSURE**: **Life imprisonment**  
-**FINANCIAL LIABILITY**: R70,580,000+ in restitution and damages
+**FINANCIAL LIABILITY**: R18,685,000 (option price)+ in restitution and damages
 
 ---
 
@@ -36,12 +36,12 @@ Danie Bantjies faces **LIFE IMPRISONMENT** on multiple criminal charges arising 
 - Bantjies holds **statutory authority** equivalent to a magistrate
 - Commissioned multiple **false affidavits** knowing contents were fraudulent  
 - Used Commissioner seal to **legitimize perjury**
-- Abused public office for **R70.58M personal benefit** (debt reduction)
+- Abused public office for **R18.685M+ personal benefit** (debt reduction)
 
 **Aggravating Factors**:
 - **Public trust violation**: Commissioner position is statutory office requiring highest integrity
 - **Systematic abuse**: Multiple fraudulent affidavits over time
-- **Financial motive**: R70.58M debt owed to conspiracy beneficiaries
+- **Financial motive**: R18.685M+ debt owed to conspiracy beneficiaries
 - **Criminal enterprise**: Used office as tool in organized crime scheme
 
 ### 1.2 Fraud Using Public Office  
@@ -67,13 +67,13 @@ Danie Bantjies faces **LIFE IMPRISONMENT** on multiple criminal charges arising 
 **The Quadruple Conflict**:
 
 **POSITION 1 - DEBTOR**: 
-- Owes R70,580,000 to Peter/Jacqui through investment company
+- Owes R18,685,000 (option price) to Peter/Jacqui through investment company
 - May 2026: R18,685,000 due
 - May 2027: R23,165,000 due  
 - May 2029: R28,730,000 due
 
 **POSITION 2 - TRUSTEE**:
-- Controls Faucitt Family Trust receiving same R70,580,000
+- Controls Faucitt Family Trust receiving same R18,685,000 (option price)
 - Fiduciary duty to ALL beneficiaries (including Jacqui)
 - Power to control distribution decisions
 - Must act in best interests of beneficiaries, not creditors
@@ -93,13 +93,13 @@ Danie Bantjies faces **LIFE IMPRISONMENT** on multiple criminal charges arising 
 
 **Charge**: Theft using fiduciary position  
 **Penalty**: Life imprisonment (aggravated by trustee status)  
-**Stolen Amount**: R35,290,000 (Jacqui's share of investment)
+**Stolen Amount**: R9,342,500 (Jacqui's share of investment)
 
 **Criminal Method**:
 1. **Strategic positioning** - appointed trustee July 2024 (22 months before payout)
-2. **Concealed conflicts** - failed to disclose R70.58M debt to beneficiaries  
+2. **Concealed conflicts** - failed to disclose R18.685M+ debt to beneficiaries  
 3. **Facilitated fraud** - used trustee position to support false interdict against Jacqui
-4. **Planned distribution** - positioned to direct all R70.58M to his creditors (Peter/Jacqui as couple)
+4. **Planned distribution** - positioned to direct all R18.685M+ to his creditors (Peter/Jacqui as couple)
 5. **Eliminated rightful beneficiary** - supporting "incompetence" claims against Jacqui
 
 ### 2.3 Trustee Fraud
@@ -132,7 +132,7 @@ Danie Bantjies faces **LIFE IMPRISONMENT** on multiple criminal charges arising 
 
 **Charge**: Laundering proceeds of crime through trust structure  
 **Penalty**: 30 years imprisonment  
-**Laundered Amount**: R70,580,000+ through investment and trust vehicles
+**Laundered Amount**: R18,685,000 (option price)+ through investment and trust vehicles
 
 **Laundering Methods**:
 - Using trust structure to hide beneficial ownership
@@ -146,7 +146,7 @@ Danie Bantjies faces **LIFE IMPRISONMENT** on multiple criminal charges arising 
 **Penalty**: 15 years imprisonment  
 
 **Concealed Facts**:
-- R70.58M debt owed to trust beneficiaries while serving as trustee
+- R18.685M+ debt owed to trust beneficiaries while serving as trustee
 - Financial incentive to manipulate trust distributions
 - Investment company insolvency risk motivating criminal behavior
 - Professional conflicts undermining fiduciary capacity
@@ -162,7 +162,7 @@ Danie Bantjies faces **LIFE IMPRISONMENT** on multiple criminal charges arising 
 
 **False Statements Made**:
 - Supporting affidavit in fraudulent interdict application
-- Claims of impartiality while having R70.58M conflict of interest
+- Claims of impartiality while having R18.685M+ conflict of interest
 - False representations about trust beneficiary competence
 - Omission of material facts about personal financial interests
 
@@ -221,7 +221,7 @@ Danie Bantjies faces **LIFE IMPRISONMENT** on multiple criminal charges arising 
 - Created unprecedented level of systematic corruption
 
 ### 6.2 Financial Sophistication  
-- **R70.58 million** criminal enterprise value
+- **R18.685 million** investment option enterprise value
 - Complex multi-year scheme with staged payouts
 - Professional accounting and legal knowledge used for criminal purposes
 - Systematic asset stripping over 15+ years
@@ -260,8 +260,8 @@ Danie Bantjies faces **LIFE IMPRISONMENT** on multiple criminal charges arising 
 
 ### 7.2 Financial Penalties
 
-- **Restitution**: R70,580,000 (full investment amount)
-- **Damages**: R35,290,000 (direct victim loss)  
+- **Restitution**: R18,685,000 (option price) (full investment amount)
+- **Damages**: R9,342,500 (direct victim loss)  
 - **Punitive Damages**: R100,000,000+ (professional breach)
 - **Asset Forfeiture**: All assets obtained through criminal enterprise
 - **Professional Fines**: Maximum penalties by all regulatory bodies
@@ -279,7 +279,7 @@ Danie Bantjies faces **LIFE IMPRISONMENT** on multiple criminal charges arising 
 
 ### 8.1 Documentary Evidence
 - **Trust documents** proving appointment and fiduciary duties
-- **Investment agreements** proving R70.58M payout schedule  
+- **Investment agreements** proving R18.685M+ payout schedule  
 - **Debt documentation** proving R10M+ personal obligation
 - **Fraudulent affidavits** commissioned as Commissioner of Oaths
 - **Timeline evidence** proving premeditated positioning
@@ -301,7 +301,7 @@ Danie Bantjies faces **LIFE IMPRISONMENT** on multiple criminal charges arising 
 ## PART 9: IMMEDIATE ACTIONS REQUIRED
 
 ### 9.1 Criminal Prosecution
-- **Emergency arrest warrant** - flight risk due to R70.58M liability
+- **Emergency arrest warrant** - flight risk due to R18.685M+ liability
 - **Asset seizure orders** - all personal and business accounts  
 - **Professional suspension** - immediate removal from all positions
 - **Evidence preservation** - prevent destruction of records
@@ -309,7 +309,7 @@ Danie Bantjies faces **LIFE IMPRISONMENT** on multiple criminal charges arising 
 ### 9.2 Civil Recovery
 - **Emergency interdict** - freeze all assets pending trial
 - **Trustee removal** - immediate removal from Faucitt Family Trust
-- **Restitution orders** - preserve R70.58M investment for victims
+- **Restitution orders** - preserve R18.685M+ investment for victims
 - **Professional liability** - claims against professional indemnity insurance
 
 ### 9.3 Regulatory Action
@@ -320,7 +320,7 @@ Danie Bantjies faces **LIFE IMPRISONMENT** on multiple criminal charges arising 
 
 ---
 
-**CONCLUSION**: Danie Bantjies has committed the most serious breach of professional and fiduciary duty on record, using **FOUR simultaneous positions of trust** to facilitate a **R70.58 million criminal enterprise**. The systematic nature, financial sophistication, and public interest factors warrant **MAXIMUM PENALTIES** including **LIFE IMPRISONMENT** and **COMPLETE PROFESSIONAL DESTRUCTION**.
+**CONCLUSION**: Danie Bantjies has committed the most serious breach of professional and fiduciary duty on record, using **FOUR simultaneous positions of trust** to facilitate a **R18.685 million investment option conspiracy** targeting R9.34 million theft from beneficiary Jacqui Faucitt. The systematic nature, financial sophistication, and public interest factors warrant **MAXIMUM PENALTIES** including **LIFE IMPRISONMENT** and **COMPLETE PROFESSIONAL DESTRUCTION**.
 
 ---
 

@@ -2,7 +2,7 @@
 
 **Purpose**: Documentation of false statements under oath by Danie Bantjies  
 **Evidence Type**: Perjury and Commissioner of Oaths abuse  
-**Criminal Significance**: Statutory office corruption for R70.58M benefit  
+**Criminal Significance**: Statutory office corruption for R18.685M+ benefit  
 
 ---
 
@@ -20,13 +20,13 @@
 
 **Statutory Authority**: Commissioner of Oaths position equivalent to magistrate authority  
 **Criminal Abuse**: Using statutory position to legitimize fraudulent documents  
-**Financial Motive**: R70,580,000 debt owed to conspiracy beneficiaries  
+**Financial Motive**: R18,685,000 (option price) debt owed to conspiracy beneficiaries  
 
 ### False Statements Under Oath
 
 **1. Supporting Affidavit in Fraudulent Interdict**
 - Bantjies gave false supporting testimony in Peter's interdict application
-- Failed to disclose R70.58M conflict of interest  
+- Failed to disclose R18.685M+ conflict of interest  
 - Made false claims about beneficiary competence
 - Used Commissioner authority to legitimize perjury
 
@@ -62,7 +62,7 @@
 - Abuse of Commissioner position (statutory office)
 - Corruption using public authority  
 - Professional position exploitation
-- Financial crime facilitation (R70.58M)
+- Financial crime facilitation (R18.685M+)
 
 **Potential Penalty**: Life imprisonment + lifetime ban from public office
 
@@ -72,17 +72,17 @@
 
 ### The Four Conflicting Positions Creating Perjury
 
-**1. As DEBTOR** (R70.58M owed to Peter/Jacqui):
+**1. As DEBTOR** (R18.685M+ owed to Peter/Jacqui):
 - **Perjury**: Claiming independence from parties
 - **Truth**: Massive financial dependence on conspiracy success
 
-**2. As TRUSTEE** (Controlling same R70.58M):  
+**2. As TRUSTEE** (Controlling same R18.685M+):  
 - **Perjury**: Claiming to protect all beneficiaries equally
 - **Truth**: Positioned to benefit his creditors over other beneficiaries
 
 **3. As COMMISSIONER OF OATHS** (Statutory authority):
 - **Perjury**: Claiming professional impartiality
-- **Truth**: Using office for R70.58M personal benefit
+- **Truth**: Using office for R18.685M+ personal benefit
 
 **4. As CONSPIRATOR** (Received murder/fraud evidence):
 - **Perjury**: Supporting false narrative about family dispute
@@ -96,7 +96,7 @@
 
 | Date | Statement Type | False Claims | Evidence of Falsity |
 |------|----------------|-------------|-------------------|
-| **June 2025** | Received evidence | "Impartial advisor" | Had R70.58M conflict |
+| **June 2025** | Received evidence | "Impartial advisor" | Had R18.685M+ conflict |
 | **August 2025** | Commissioner role | "Professional objectivity" | Secret trustee position |
 | **August 2025** | Supporting affidavit | "Independent assessment" | Financial dependence on outcome |
 | **Ongoing** | Court proceedings | "Beneficiary protection" | Facilitating theft from beneficiary |
@@ -107,7 +107,7 @@
 
 ### Documentary Proof of Perjury
 - **Affidavit documents** bearing Bantjies' Commissioner seal
-- **Investment agreements** proving R70.58M debt relationship
+- **Investment agreements** proving R18.685M+ debt relationship
 - **Trustee appointments** proving undisclosed conflicts
 - **Timeline evidence** proving knowledge of falsity
 
@@ -159,7 +159,7 @@
 ## VICTIM IMPACT OF PERJURY
 
 ### Direct Financial Harm
-- **R35.29M theft** facilitated by false testimony
+- **R9.34M theft** facilitated by false testimony
 - **Legal costs** incurred due to fraudulent proceedings
 - **Trust relationship destruction** through systematic lies
 - **Professional reputation damage** to accounting profession
@@ -218,8 +218,8 @@
 
 ---
 
-**CONCLUSION**: Bantjies' systematic perjury as Commissioner of Oaths represents one of the most serious abuses of statutory authority on record. The R70.58M financial motive and professional position exploitation warrant maximum penalties including imprisonment and complete professional destruction.
+**CONCLUSION**: Bantjies' systematic perjury as Commissioner of Oaths represents one of the most serious abuses of statutory authority on record. The R18.685M+ financial motive and professional position exploitation warrant maximum penalties including imprisonment and complete professional destruction.
 
 ---
 
-*This evidence demonstrates beyond reasonable doubt that Danie Bantjies systematically abused his Commissioner of Oaths position to facilitate a R70.58 million criminal conspiracy through coordinated perjury and professional fraud.*
+*This evidence demonstrates beyond reasonable doubt that Danie Bantjies systematically abused his Commissioner of Oaths position to facilitate a R18.685 million (option) criminal conspiracy through coordinated perjury and professional fraud.*

@@ -10,21 +10,22 @@
 
 ## EXECUTIVE SUMMARY
 
-This forensic analysis has identified **FOUR SIMULTANEOUS CONFLICTS OF INTEREST** involving Danie Bantjies in relation to the Faucitt Family Trust and an **R70.58 million investment payout scheme** due over three years (2026-2029). The evidence reveals systematic perjury, breach of fiduciary duty, and criminal conspiracy to steal approximately **R35.29 million** from beneficiary Jacqui Faucitt.
+This forensic analysis has identified **FOUR SIMULTANEOUS CONFLICTS OF INTEREST** involving Danie Bantjies in relation to the Faucitt Family Trust and an **R18.685 million investment option** due in May 2026. The evidence reveals systematic perjury, breach of fiduciary duty, and criminal conspiracy to steal approximately **R9.34 million** (Jacqui's 50% share) from beneficiary Jacqui Faucitt.
 
 ### CRITICAL FINDINGS
 
 **1. QUADRUPLE CONFLICT OF INTEREST**:
-- **DEBTOR**: Owes R70.58M to Peter/Jacqui through investment company
+- **DEBTOR**: Owes R18.685M+ to Peter/Jacqui through investment company
 - **TRUSTEE**: Controls Faucitt Family Trust (appointed July 2024)  
 - **COMMISSIONER OF OATHS**: Commissioned fraudulent affidavits
 - **CONSPIRATOR**: Gave false supporting affidavit under oath
 
-**2. FINANCIAL CRIME VALUE**: R70,580,000 total payout
-   - May 2026: R18,685,000 (First payout - 6 months away)
-   - May 2027: R23,165,000 (Second payout)
-   - May 2029: R28,730,000 (Final payout)
-   - **Jacqui's estimated share**: ~R35,290,000 (TARGET OF THEFT)
+**2. FINANCIAL CRIME VALUE**: R18,685,000 investment option (May 2026)
+   - **CORRECTED UNDERSTANDING**: These are escalating option prices, only ONE payment will be made
+   - May 2026: R18,685,000 (Most likely exercise date - 6 months away) 
+   - Alternative: R23,165,000 (if delayed to May 2027)
+   - Alternative: R28,730,000 (if delayed to May 2029)
+   - **Jacqui's estimated share**: ~R9,342,500 (TARGET OF THEFT)
 
 **3. PERJURY EVIDENCE**: Multiple false statements under oath as Commissioner of Oaths
 
@@ -52,9 +53,9 @@ This forensic analysis has identified **FOUR SIMULTANEOUS CONFLICTS OF INTEREST*
 - **EVIDENCE_REPOSITORY_SUMMARY.md** - Evidence overview and criminal charges
 - **COVERT_TRUSTEE_WEAPONIZATION_PROOF.md** - Bantjies trustee weaponization evidence
 
-### `/financial-evidence/` - R70.58M Investment & Debt Analysis
+### `/financial-evidence/` - R18.685M Investment Option & Debt Analysis
 - **BANTJIES_DEBT_ANALYSIS.md** - Analysis of R10M+ debt owed by Bantjies to Peter/Jacqui
-- **bantjies_investment_payout_analysis.md** - R70.58M investment payout schedule analysis  
+- **bantjies_investment_payout_analysis.md** - R18.685M+ investment payout schedule analysis  
 - **CORRECTED_investment_payout_structure.md** - Corrected investment structure
 - **BantjiesInvestmentPayoutDates2026-05.jpg** - Documentary evidence of payout dates
 
@@ -83,22 +84,22 @@ This forensic analysis has identified **FOUR SIMULTANEOUS CONFLICTS OF INTEREST*
 - **September 2025**: Trust used to force settlement  
 - **May 2026**: R18.685M payout controlled by Bantjies as Trustee  
 
-### 2. FINANCIAL MOTIVE - R70.58 MILLION
+### 2. FINANCIAL MOTIVE - R18.685 MILLION INVESTMENT OPTION
 
-The evidence proves Bantjies positioned himself as trustee specifically to control the **R70.58 million investment payout** scheduled as follows:
+The evidence proves Bantjies positioned himself as trustee specifically to control the **R18.685 million (option) investment payout** scheduled as follows:
 
 | Date | Amount | Jacqui's Share (~50%) |
 |------|--------|----------------------|
 | **May 2026** | R18,685,000 | ~R9,342,500 |
 | **May 2027** | R23,165,000 | ~R11,582,500 |  
 | **May 2029** | R28,730,000 | ~R14,365,000 |
-| **TOTAL** | **R70,580,000** | **~R35,290,000** |
+| **TOTAL** | **R18,685,000 (option price)** | **~R9,342,500** |
 
 ### 3. PERJURY AS COMMISSIONER OF OATHS
 
 As a Commissioner of Oaths, Bantjies holds **statutory authority** similar to a magistrate. His false affidavits constitute:
 - **Abuse of statutory office** 
-- **Corruption** (using public office for R70.58M benefit)
+- **Corruption** (using public office for R18.685M+ benefit)
 - **Professional fraud** (accountant giving false financial statements)
 - **Legitimizing fraud** through Commissioner seal
 
@@ -121,7 +122,7 @@ Evidence shows Bantjies systematically weaponized his trustee position:
 - Trustee fraud (supported Peter's crimes)
 - Conspiracy using trust position
 - Theft as trustee (enabled R1.8M+ theft)
-- Conflict of interest (R70.58M debt)
+- Conflict of interest (R18.685M+ debt)
 
 **Professional Crimes**:
 - Professional fraud (accountant)
@@ -131,7 +132,7 @@ Evidence shows Bantjies systematically weaponized his trustee position:
 
 **Corruption**:
 - Abuse of Commissioner of Oaths position (statutory office)
-- Corruption (using public office for R70.58M benefit)
+- Corruption (using public office for R18.685M+ benefit)
 - Legitimizing fraud through Commissioner seal
 
 **Estimated Sentences**: Life imprisonment (cumulative)  
@@ -143,7 +144,7 @@ Evidence shows Bantjies systematically weaponized his trustee position:
 
 ### 1. IMMEDIATE (Within Days)
 - Emergency removal of Bantjies as Trustee
-- Asset freezing orders for R70.58M investment
+- Asset freezing orders for R18.685M+ investment
 - Criminal referral to Hawks (Serious Commercial Crime)  
 - Commissioner of Oaths complaint to Department of Justice
 

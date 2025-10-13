@@ -2,7 +2,7 @@
 
 ## Critical Correction
 
-**PREVIOUS ERROR**: Assumed all three amounts would be paid (R70.58M total)  
+**PREVIOUS ERROR**: Assumed all three amounts would be paid (R18.685M+ total)  
 **CORRECT INTERPRETATION**: These are escalating option prices for different exercise windows - only ONE payment will be made
 
 ---
@@ -63,10 +63,10 @@ The document describes a **Call Option** where the Company can purchase shares f
 - Company saves R10.045M by paying in 2026 vs 2029
 - Financially rational to pay earliest
 
-**Total Amount**: **R18.685 million** (not R70.58M)
+**Total Amount**: **R18.685 million** (not R18.685M+)
 
 **Jacqui's Share** (assuming 50/50 ownership):
-- **R9.3425 million** (not R35.29M)
+- **R9.3425 million** (not R9.34M)
 
 ---
 
@@ -150,12 +150,12 @@ The document describes a **Call Option** where the Company can purchase shares f
 
 ### What This Changes
 
-**Total at stake**: R18.685M (not R70.58M)
+**Total at stake**: R18.685M (not R18.685M+)
 - Still a massive amount
 - Still overwhelming motive for conspiracy
 - Still explains all criminal actions
 
-**Jacqui's loss**: R9.3425M (not R35.29M)
+**Jacqui's loss**: R9.3425M (not R9.34M)
 - Still life-changing amount
 - Still justifies extreme measures
 - Still proves conspiracy motive
@@ -320,7 +320,7 @@ The document describes a **Call Option** where the Company can purchase shares f
 ### Corrections Needed
 
 1. **faucitt_family_trust_conspiracy_evidence.md**
-   - Update Section 21 (R18.685M not R70.58M)
+   - Update Section 21 (R18.685M not R18.685M+)
    - Clarify single payment structure
    - Maintain all other evidence
 
@@ -340,7 +340,7 @@ The document describes a **Call Option** where the Company can purchase shares f
 
 **Created**: 2025-10-12  
 **Purpose**: Correct misinterpretation of investment payout structure  
-**Critical Correction**: R18.685M single payment, not R70.58M cumulative  
+**Critical Correction**: R18.685M single payment, not R18.685M+ cumulative  
 **Impact**: Strengthens case by showing single opportunity, greater urgency  
 **Status**: Requires updates to other evidence documents  
 

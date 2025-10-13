@@ -2,7 +2,7 @@
 
 **Investigation**: Danie Bantjies Conflicts of Interest & Perjury  
 **Trust Entity**: Faucitt Family Trust (IT 3651/2013)  
-**Financial Crime Value**: R70,580,000  
+**Financial Crime Value**: R18,685,000 (option price)  
 **Analysis Completed**: October 13, 2025  
 
 ---
@@ -15,7 +15,7 @@ family-trust/
 ├── EVIDENCE_INDEX.md ← This file - Complete catalog
 ├── trust-documents/ ← Legal foundation documents
 ├── conspiracy-evidence/ ← Criminal conspiracy proof
-├── financial-evidence/ ← R70.58M investment evidence  
+├── financial-evidence/ ← R18.685M+ investment evidence  
 ├── perjury-evidence/ ← False oath documentation
 ├── timeline/ ← Chronological analysis
 └── criminal-charges/ ← Prosecution materials
@@ -29,8 +29,8 @@ family-trust/
 
 **Danie Bantjies simultaneously holds four conflicting positions**:
 
-1. **DEBTOR** - Owes R70,580,000 to Peter/Jacqui Faucitt
-2. **TRUSTEE** - Controls Faucitt Family Trust receiving same R70,580,000  
+1. **DEBTOR** - Owes R18,685,000 (option price) to Peter/Jacqui Faucitt
+2. **TRUSTEE** - Controls Faucitt Family Trust receiving same R18,685,000 (option price)  
 3. **COMMISSIONER OF OATHS** - Statutory authority used to legitimize fraud
 4. **CONSPIRATOR** - Actively facilitating theft from beneficiary Jacqui
 
@@ -41,7 +41,7 @@ family-trust/
 | **May 2026** | R18,685,000 | ~R9,342,500 | **6 MONTHS AWAY** |
 | **May 2027** | R23,165,000 | ~R11,582,500 | **Critical** |
 | **May 2029** | R28,730,000 | ~R14,365,000 | **Final theft** |
-| **TOTAL** | **R70,580,000** | **~R35,290,000** | **URGENT ACTION REQUIRED** |
+| **TOTAL** | **R18,685,000 (option price)** | **~R9,342,500** | **URGENT ACTION REQUIRED** |
 
 ---
 
@@ -87,10 +87,10 @@ family-trust/
 **Trustee Weaponization**:
 - `COVERT_TRUSTEE_WEAPONIZATION_PROOF.md` - Bantjies weaponizing trustee position against beneficiaries
 
-### `/financial-evidence/` - R70.58M Investment Analysis (4 files)
+### `/financial-evidence/` - R18.685M+ Investment Analysis (4 files)
 
 **Investment Payout Documentation**:
-- `bantjies_investment_payout_analysis.md` - Detailed three-year payout schedule analysis
+- `bantjies_investment_payout_analysis.md` - Detailed May 2026 investment option analysis
 - `BantjiesInvestmentPayoutDates2026-05.jpg` - **SMOKING GUN** - Documentary photograph of payout schedule
 - `CORRECTED_investment_payout_structure.md` - Corrected investment structure analysis
 
@@ -115,7 +115,7 @@ family-trust/
 **Comprehensive Criminal Analysis**:
 - `BANTJIES_CRIMINAL_CHARGES.md` - **Complete criminal charges analysis** including:
   - Life imprisonment exposure analysis
-  - R70.58M financial liability
+  - R18.685M+ financial liability
   - Professional destruction consequences  
   - Sentence recommendations
   - Evidence summary for prosecution
@@ -172,7 +172,7 @@ family-trust/
 - [x] All core trust documents identified and cataloged
 - [x] Investment payout evidence secured  
 - [x] Criminal conspiracy timeline established
-- [x] Financial evidence quantified (R70.58M)
+- [x] Financial evidence quantified (R18.685M+)
 - [x] Professional conflicts documented
 - [x] Perjury evidence compiled
 
@@ -197,7 +197,7 @@ family-trust/
 
 ### **IMMEDIATE (Within 48 hours)**
 1. **Emergency Trustee Removal** - File application to remove Bantjies as trustee
-2. **Asset Freeze Orders** - Secure R70.58M investment before May 2026 payout
+2. **Asset Freeze Orders** - Secure R18.685M+ investment before May 2026 payout
 3. **Criminal Referral** - Submit complete file to Hawks Serious Commercial Crime
 
 ### **URGENT (Within 2 weeks)**
@@ -238,7 +238,7 @@ family-trust/
 **DISTRIBUTION**: Attorney-client privilege and law enforcement protocols apply  
 **PRESERVATION**: All evidence maintained for court proceedings  
 
-**WARNING**: This evidence repository contains documentation of ongoing criminal activity valued at R70,580,000. Unauthorized disclosure may compromise criminal prosecutions and civil recovery actions.
+**WARNING**: This evidence repository contains documentation of ongoing criminal activity valued at R18,685,000 (option price). Unauthorized disclosure may compromise criminal prosecutions and civil recovery actions.
 
 ---
 
@@ -250,7 +250,7 @@ family-trust/
 **Status**: **CRITICAL - May 2026 deadline approaching**  
 **Last Updated**: October 13, 2025  
 
-**URGENT CONTACT**: This investigation has a hard deadline of May 2026 when the first R18,685,000 payout is due. Immediate legal action is required to prevent R35,290,000 theft from beneficiary Jacqui Faucitt.
+**URGENT CONTACT**: This investigation has a hard deadline of May 2026 when the first R18,685,000 payout is due. Immediate legal action is required to prevent R9,342,500 theft from beneficiary Jacqui Faucitt.
 
 ---
 

@@ -9,19 +9,19 @@
 
 ## Executive Summary
 
-This evidence repository contains comprehensive documentation of a sophisticated criminal conspiracy involving the Faucitt Family Trust, orchestrated to steal approximately **R70.58 million** in investment payouts over three years (2026-2029). The conspiracy involves murder, fraud, breach of fiduciary duty, corruption, and racketeering, with the first critical payout deadline of **May 2026** (R18.685 million) approaching in 6 months.
+This evidence repository contains comprehensive documentation of a sophisticated criminal conspiracy involving the Faucitt Family Trust, orchestrated to steal approximately **R9.34 million** from beneficiary Jacqui Faucitt's share of an R18.685 million investment option due in May 2026. The conspiracy involves murder, fraud, breach of fiduciary duty, corruption, and racketeering, with the first critical payout deadline of **May 2026** (R18.685 million) approaching in 6 months.
 
 ### Key Conspirators:
 1. **Peter Faucitt** - Trust Founder, orchestrator, primary beneficiary
-2. **Danie Bantjies** - Trustee, Commissioner of Oaths, accountant, debtor (owes R70.58M)
+2. **Danie Bantjies** - Trustee, Commissioner of Oaths, accountant, debtor (owes R18.685M+)
 3. **Rynette Farrar** - Finance Manager, administrative facilitator
 
 ### Primary Victim:
-- **Jacqui Faucitt** - Co-trustee, beneficiary, entitled to ~R35.29M over 3 years
+- **Jacqui Faucitt** - Co-trustee, beneficiary, entitled to ~R9.34M from May 2026 investment option
 
 ### Criminal Enterprise Value:
-- **Total**: R70,580,000 (three-year investment payout schedule)
-- **Jacqui's Share**: ~R35,290,000 (target of theft)
+- **Total**: R18,685,000 (option price) (three-year investment payout schedule)
+- **Jacqui's Share**: ~R9,342,500 (target of theft from May 2026 option)
 - **May 2026 Payout**: R18,685,000 (Jacqui's share: ~R9.3M)
 
 ---
@@ -80,7 +80,7 @@ This evidence repository contains comprehensive documentation of a sophisticated
 
 **The Four Conflicting Roles**:
 
-1. **DEBTOR**: Owes R70.58M to Peter/Jacqui through investment company
+1. **DEBTOR**: Owes R18.685M+ to Peter/Jacqui through investment company
    - May 2026: R18.685M due
    - May 2027: R23.165M due
    - May 2029: R28.730M due
@@ -101,7 +101,7 @@ This evidence repository contains comprehensive documentation of a sophisticated
    - Supported Peter's fraudulent interdict
 
 **Why This Proves Everything**:
-- R70.58M debt is ultimate motive
+- R18.685M+ debt is ultimate motive
 - If Jacqui eliminated, Peter gets 100% (not 50%)
 - Peter can pay Bantjies the full debt
 - Bantjies' investment company survives
@@ -128,7 +128,7 @@ This evidence repository contains comprehensive documentation of a sophisticated
 | 1 | May 2026 | R18,685,000 | R3,737 | ~R9,342,500 |
 | 2 | May 2027 | R23,165,000 | R4,633 | ~R11,582,500 |
 | 3 | May 2029 | R28,730,000 | R5,746 | ~R14,365,000 |
-| **TOTAL** | **2026-2029** | **R70,580,000** | - | **~R35,290,000** |
+| **TOTAL** | **2026-2029** | **R18,685,000 (option price)** | - | **~R9,342,500** |
 
 **Critical Analysis**:
 - Call Option structure = mandatory payment when exercised
@@ -145,12 +145,12 @@ This evidence repository contains comprehensive documentation of a sophisticated
 **The Criminal Scheme**:
 - If Jacqui has capacity: She gets R9.3425M, Peter gets R9.3425M
 - If Jacqui "incompetent": Peter gets full R18.685M
-- Peter pays Bantjies toward R70.58M debt
+- Peter pays Bantjies toward R18.685M+ debt
 - Bantjies' company saved from insolvency
 - Pattern repeats 2027 and 2029
 
 **Evidence Proves**:
-- Overwhelming financial motive (R70.58M)
+- Overwhelming financial motive (R18.685M+)
 - Premeditation (July 2024 trustee appointment)
 - Timeline coordination (all timed to May 2026)
 - Conspiracy elements (multiple parties, criminal enterprise)
@@ -262,7 +262,7 @@ This evidence repository contains comprehensive documentation of a sophisticated
 - **August 11**: Jacqui signs in good faith
 - **Not told**: About planned attack on her
 - **Not told**: About May 2026 payout scheme
-- **Not told**: About Bantjies' R70.58M conflict
+- **Not told**: About Bantjies' R18.685M+ conflict
 - **August 14/19**: Peter files interdict (3-8 days later)
 - **Complete betrayal**: Husband of decades
 
@@ -384,7 +384,7 @@ May 2026 → R18.685M payout (TARGET)
 **2024-07-01**: Bantjies appointed as trustee
 - 13 months before May 2026 payout
 - Premeditated positioning
-- R70.58M conflict of interest
+- R18.685M+ conflict of interest
 - Email from Rynette "pp Peter"
 
 **2024-10-18**: Letters of Authority
@@ -425,7 +425,7 @@ May 2026 → R18.685M payout (TARGET)
 - R18.685M due from Bantjies' investment
 - Jacqui entitled to ~R9.3425M
 - If "incompetent," Peter gets 100%
-- Peter pays Bantjies toward R70.58M debt
+- Peter pays Bantjies toward R18.685M+ debt
 
 **May 2027**: Second payout
 - R23.165M due
@@ -435,13 +435,13 @@ May 2026 → R18.685M payout (TARGET)
 - R28.730M due
 - Jacqui's share: ~R14.365M
 
-**TOTAL TARGET**: R70.58M (Jacqui's share: ~R35.29M)
+**TOTAL TARGET**: R18.685M+ (Jacqui's share: ~R9.34M)
 
 ---
 
 ## The Smoking Guns
 
-### 1. The R70.58 Million Motive
+### 1. The R18.685 Million Investment Option Motive
 **File**: `bantjies_investment_payout_analysis.md`  
 **Image**: `BantjiesInvestmentPayoutDates2026-05.jpg`  
 
@@ -469,7 +469,7 @@ May 2026 → R18.685M payout (TARGET)
 
 **Proves**:
 - Bantjies' four conflicting roles
-- R70.58M debt as ultimate motive
+- R18.685M+ debt as ultimate motive
 - Complete corruption of all control points
 - No innocent explanation possible
 - Racketeering through multiple positions
@@ -501,8 +501,8 @@ May 2026 → R18.685M payout (TARGET)
 - Racketeering (criminal enterprise)
 
 **Conspiracy**:
-- Conspiracy with Bantjies (R70.58M scheme)
-- Conspiracy to defraud Jacqui (R35.29M)
+- Conspiracy with Bantjies (R18.685M+ scheme)
+- Conspiracy to defraud Jacqui (R9.34M)
 - Conspiracy to obstruct justice
 
 **Estimated Sentences**: Life imprisonment (cumulative)
@@ -516,7 +516,7 @@ May 2026 → R18.685M payout (TARGET)
 - Trustee fraud (supported Peter's crimes)
 - Conspiracy using trust position
 - Theft as trustee (enabled R1.8M+ theft)
-- Conflict of interest (R70.58M debt)
+- Conflict of interest (R18.685M+ debt)
 
 **Professional Crimes**:
 - Professional fraud (accountant)
@@ -526,7 +526,7 @@ May 2026 → R18.685M payout (TARGET)
 
 **Corruption**:
 - Abuse of Commissioner of Oaths position (statutory office)
-- Corruption (using public office for R70.58M benefit)
+- Corruption (using public office for R18.685M+ benefit)
 - Legitimizing fraud through Commissioner seal
 
 **Scheme Architect**:
@@ -574,7 +574,7 @@ May 2026 → R18.685M payout (TARGET)
 1. **Emergency Court Application**:
    - Void August 11, 2025 appointment (fraud)
    - Remove Peter as trustee (breach of duty)
-   - Remove Bantjies as trustee (R70.58M conflict)
+   - Remove Bantjies as trustee (R18.685M+ conflict)
    - Appoint independent trustee
    - Freeze all trust assets
 
@@ -646,7 +646,7 @@ May 2026 → R18.685M payout (TARGET)
 
 ### Smoking Gun Evidence (Irrefutable)
 
-✓ **Investment payout document** (R70.58M motive)  
+✓ **Investment payout document** (R18.685M+ motive)  
 ✓ **August 11 email** (conspiracy coordination)  
 ✓ **Backdated appointment** (fraud proven by dates)  
 ✓ **3-8 day timeline** (signature to interdict)  
@@ -684,8 +684,8 @@ May 2026 → R18.685M payout (TARGET)
 **Document Types**: Markdown analysis (4), PDFs (2), Images (1), Directories (7)  
 **Analysis Pages**: ~100+ pages of comprehensive documentation  
 **Timeline Span**: 2013-2029 (16 years)  
-**Criminal Proceeds**: R70.58M+ (investment) + R14.4M+ (rent fraud) + R1.8M (theft) = **R86.78M+**  
-**Jacqui's Loss**: R35.29M (investment share) + unknown (rent/theft)  
+**Criminal Proceeds**: R18.685M++ (investment) + R14.4M+ (rent fraud) + R1.8M (theft) = **R86.78M+**  
+**Jacqui's Loss**: R9.34M (investment share) + unknown (rent/theft)  
 
 ---
 
@@ -731,7 +731,7 @@ May 2026 → R18.685M payout (TARGET)
 
 This evidence repository contains **overwhelming proof** of a sophisticated criminal conspiracy involving:
 
-- **R70.58 million** in investment payouts (target of theft)
+- **R18.685 million** investment option (Jacqui's R9.34M share targeted for theft)
 - **R14.4 million+** stolen through asset-stripping (86% profit rent)
 - **R1.8 million** stolen after murder
 - **Murder** (Kayla, to prevent exposure)

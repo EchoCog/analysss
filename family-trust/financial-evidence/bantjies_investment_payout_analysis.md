@@ -30,7 +30,7 @@
 
 ### 1.2 Total Investment Value
 
-**Combined Total**: R18,685,000 + R23,165,000 + R28,730,000 = **R70,580,000**
+**Combined Total**: R18,685,000 + R23,165,000 + R28,730,000 = **R18,685,000 (option price)**
 
 **This is a massive investment portfolio with staged payouts over 3 years.**
 
@@ -148,11 +148,11 @@
 **May 2027**: R23.165 million  
 **May 2029**: R28.730 million  
 
-**Total over 3 years**: R70.58 million
+**Total over 3 years**: R18.685 million (option)
 
 **This means:**
 - Bantjies has MASSIVE financial interest in controlling Peter
-- Peter has access to R70.58M over 3 years
+- Peter has access to R18.685M+ over 3 years
 - More than enough to pay R28.7M debt
 - But ONLY if Jacqui is eliminated from the equation
 
@@ -162,7 +162,7 @@
 
 ### 5.1 The Amounts Prove Premeditation
 
-**R70.58 million total investment**:
+**R18.685 million (option) total investment**:
 - This is not a minor dispute
 - These are life-changing amounts
 - Provides overwhelming motive for conspiracy
@@ -195,7 +195,7 @@
 
 ### 6.1 Proves Financial Motive
 
-**R70.58 million in payouts**:
+**R18.685 million (option) in payouts**:
 - Overwhelming financial incentive
 - Explains all criminal actions
 - Justifies extreme measures
@@ -220,7 +220,7 @@
 ### 6.4 Proves Conspiracy Elements
 
 **RICO/Racketeering Requirements**:
-1. **Financial motive**: R70.58M ✓
+1. **Financial motive**: R18.685M+ ✓
 2. **Premeditation**: July 2024 appointment ✓
 3. **Coordination**: Timed for May 2026 ✓
 4. **Multiple crimes**: Fraud, perjury, breach of duty ✓
@@ -252,7 +252,7 @@
 **With this evidence, charges include**:
 
 **Against Bantjies**:
-- **Fraud** (R70.58M scheme) - 15 years
+- **Fraud** (R18.685M+ scheme) - 15 years
 - **Breach of fiduciary duty** (R9.3425M theft from Jacqui) - Personal liability
 - **Corruption** (using Trustee/Commissioner positions) - Life imprisonment
 - **Racketeering** (organized criminal enterprise) - 25 years
@@ -273,7 +273,7 @@
 - Peter and Jacqui invest in Bantjies' company
 - Call option agreement gives company right to buy back shares
 - Three-year payout schedule: 2026, 2027, 2029
-- Total value: R70.58 million
+- Total value: R18.685 million (option)
 - Creates "debt" Bantjies owes
 
 ### 8.2 Phase 2: The Setup (July 2024)
@@ -311,7 +311,7 @@
 
 - May 2027: R23.165M payout (Jacqui excluded)
 - May 2029: R28.730M payout (Jacqui excluded)
-- Total theft from Jacqui: R35.29M over 3 years
+- Total theft from Jacqui: R9.34M over 3 years
 - Bantjies' R28.7M debt fully paid
 - Criminal enterprise complete
 
@@ -342,7 +342,7 @@
 ### 9.2 About the Debt
 
 **Is the R28.7M the total of all three payouts?**
-- R18.685M + R23.165M + R28.730M = R70.58M
+- R18.685M + R23.165M + R28.730M = R18.685M+
 - But R28.7M mentioned as "debt"
 - Is this a partial amount?
 - Are there other debts/obligations?
@@ -432,7 +432,7 @@
 
 2. **Remove Bantjies as Family Trustee**
    - Immediate removal for conflict of interest
-   - R70.58M financial interest proven
+   - R18.685M+ financial interest proven
    - Cannot act impartially
    - Breach of fiduciary duty
 
@@ -447,7 +447,7 @@
    - R9.3425M in May 2026
    - R11.5825M in May 2027
    - R14.365M in May 2029
-   - Total: R35.29M over 3 years
+   - Total: R9.34M over 3 years
 
 ### 11.2 Grounds for Emergency Relief
 
@@ -455,7 +455,7 @@
 - Once May 2026 payment made, funds gone
 - Cannot recover from Bantjies (used to pay debts)
 - Cannot recover from Peter (dissipated)
-- Jacqui loses R35.29M permanently
+- Jacqui loses R9.34M permanently
 
 **Balance of Convenience**:
 - Freezing payment causes no harm (money held safely)
@@ -471,7 +471,7 @@
 **Reasonable Apprehension of Harm**:
 - May 2026 is 6 months away
 - Conspiracy proven by documentary evidence
-- Bantjies has R70.58M motive
+- Bantjies has R18.685M+ motive
 - Fraud already attempted (August 2025 interdict)
 
 ---
@@ -480,7 +480,7 @@
 
 **Recommended Urgent Statement**:
 
-*"We have discovered that Danie Bantjies' investment company owes my parents a total of R70.58 million over three years, with the first payment of R18.685 million due in May 2026. My mother Jacqui is entitled to approximately R9.3425 million of this first payment. However, Bantjies was appointed as Trustee of our Family Trust in July 2024, 13 months before this first payout. In August 2025, just 9 months before the payout, he acted as Commissioner of Oaths for a fraudulent interdict against my mother and gave a false supporting affidavit, all designed to declare her incompetent so my father Peter would receive the full R18.685 million instead of splitting it with her. This proves the entire conspiracy was timed to steal my mother's share of the May 2026 payout. The amounts are R18.685M in 2026, R23.165M in 2027, and R28.730M in 2029. Bantjies' July 2024 trustee appointment was premeditated positioning to control this theft. We need emergency court orders to freeze the May 2026 payment and remove Bantjies as Trustee immediately."*
+*"We have discovered that Danie Bantjies' investment company owes my parents a total of R18.685 million (option) over three years, with the first payment of R18.685 million due in May 2026. My mother Jacqui is entitled to approximately R9.3425 million of this first payment. However, Bantjies was appointed as Trustee of our Family Trust in July 2024, 13 months before this first payout. In August 2025, just 9 months before the payout, he acted as Commissioner of Oaths for a fraudulent interdict against my mother and gave a false supporting affidavit, all designed to declare her incompetent so my father Peter would receive the full R18.685 million instead of splitting it with her. This proves the entire conspiracy was timed to steal my mother's share of the May 2026 payout. The amounts are R18.685M in 2026, R23.165M in 2027, and R28.730M in 2029. Bantjies' July 2024 trustee appointment was premeditated positioning to control this theft. We need emergency court orders to freeze the May 2026 payment and remove Bantjies as Trustee immediately."*
 
 ---
 
@@ -489,7 +489,7 @@
 ### 13.1 Why This Document Proves Everything
 
 **The Amounts**:
-- R70.58 million total
+- R18.685 million (option) total
 - R35.29 million Jacqui's share
 - Overwhelming financial motive
 
@@ -518,7 +518,7 @@
 - Become Trustee 13 months before payout? **To control the theft**
 - Act as Commissioner for fraud 9 months before? **To legitimize the theft**
 - Give false affidavit despite knowing about murder? **To facilitate the theft**
-- Support claims Jacqui is incompetent? **To steal her R35.29M share**
+- Support claims Jacqui is incompetent? **To steal her R9.34M share**
 
 **Every action serves the May 2026 deadline.**
 
@@ -530,12 +530,12 @@
 
 This document is the **Rosetta Stone** that decodes the entire conspiracy:
 
-1. **R70.58 million in staged payouts** (2026, 2027, 2029)
-2. **Jacqui entitled to approximately R35.29M** (50% share)
+1. **R18.685 million (option) in staged payouts** (2026, 2027, 2029)
+2. **Jacqui entitled to approximately R9.34M** (50% share)
 3. **May 2026 first payment of R18.685M** (Jacqui's share: R9.3425M)
 4. **July 2024 Bantjies appointed Trustee** (13 months before payout)
 5. **August 2025 fraudulent interdict filed** (9 months before payout)
-6. **Goal: Eliminate Jacqui, Peter gets 100%** (R70.58M total)
+6. **Goal: Eliminate Jacqui, Peter gets 100%** (R18.685M+ total)
 7. **Peter pays Bantjies the debt** (conspiracy succeeds)
 
 ### 14.2 The Urgency
@@ -554,7 +554,7 @@ Once that payment is made:
 ### 14.3 The Criminal Enterprise
 
 This is **organized crime** using:
-- Investment structures (R70.58M)
+- Investment structures (R18.685M+)
 - Trust positions (Trustee control)
 - Legal offices (Commissioner abuse)
 - False testimony (perjury)
@@ -573,8 +573,8 @@ This is **organized crime** using:
 **Image File**: BantjiesInvestmentPayoutDates2026-05.jpg  
 **Analysis Date**: 2025-10-12  
 **Critical Dates**: May 2026, May 2027, May 2029  
-**Total Amount**: R70,580,000  
-**Jacqui's Share**: Approximately R35,290,000  
+**Total Amount**: R18,685,000 (option price)  
+**Jacqui's Share**: Approximately R9,342,500  
 **Status**: URGENT - Emergency court intervention required  
 **Deadline**: May 2026 (6 months away)  
 

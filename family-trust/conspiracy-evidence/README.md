@@ -2,7 +2,7 @@
 
 **Purpose**: Documentary evidence of criminal conspiracy involving Faucitt Family Trust  
 **Evidence Type**: Criminal enterprise documentation and systematic fraud proof  
-**Value at Risk**: R70,580,000 investment scheme  
+**Value at Risk**: R18,685,000 (option price) investment scheme  
 
 ---
 
@@ -18,7 +18,7 @@
 
 ### Evidence Repository Summary
 - **EVIDENCE_REPOSITORY_SUMMARY.md**
-  - Executive summary of R70.58M criminal enterprise
+  - Executive summary of R18.685M+ criminal enterprise
   - Key conspirator profiles
   - Criminal charges framework
   - Investigation priorities
@@ -37,11 +37,11 @@
 ### Bantjies' Four Simultaneous Criminal Positions
 
 **1. DEBTOR** 
-- Owes R70,580,000 to Peter/Jacqui through investment company
+- Owes R18,685,000 (option price) to Peter/Jacqui through investment company
 - Creates massive financial incentive to manipulate trust
 
 **2. TRUSTEE**
-- Controls Faucitt Family Trust receiving same R70,580,000
+- Controls Faucitt Family Trust receiving same R18,685,000 (option price)
 - Has fiduciary duty to protect ALL beneficiaries (including his creditors)
 
 **3. COMMISSIONER OF OATHS**  
@@ -89,13 +89,13 @@
 ## CRITICAL EVIDENCE HIGHLIGHTS
 
 ### From Section 21 (Quadruple Conflict)
-> "The Four Conflicting Roles create a situation where Bantjies cannot possibly act in the best interests of beneficiaries. Every decision he makes as Trustee directly affects his R70.58M debt position."
+> "The Four Conflicting Roles create a situation where Bantjies cannot possibly act in the best interests of beneficiaries. Every decision he makes as Trustee directly affects his R18.685M+ debt position."
 
 ### Strategic Positioning Proof
 > "Bantjies was appointed trustee in July 2024, exactly 22 months before the May 2026 payout of R18.685M. This timing cannot be coincidental."
 
 ### Commissioner Abuse Evidence  
-> "As Commissioner of Oaths, Bantjies holds statutory authority similar to a magistrate. His abuse of this position for R70.58M personal benefit constitutes corruption of the highest order."
+> "As Commissioner of Oaths, Bantjies holds statutory authority similar to a magistrate. His abuse of this position for R18.685M+ personal benefit constitutes corruption of the highest order."
 
 ---
 
@@ -103,7 +103,7 @@
 
 ### Criminal Enterprise Elements Proven
 1. **Ongoing criminal activity** - Multi-year conspiracy (2013-2025)
-2. **Financial sophistication** - R70.58M coordinated scheme
+2. **Financial sophistication** - R18.685M+ coordinated scheme
 3. **Professional exploitation** - Abuse of accounting, legal, and fiduciary positions
 4. **Systematic nature** - Coordinated asset stripping and fraud
 
@@ -153,7 +153,7 @@ All conspiracy evidence verified through:
 
 ### Emergency Applications (Within 48 Hours)
 1. **Remove Bantjies as Trustee** - Conflict of interest and criminal conduct
-2. **Freeze Investment Assets** - Prevent R70.58M distribution to conspirators
+2. **Freeze Investment Assets** - Prevent R18.685M+ distribution to conspirators
 3. **Preserve All Evidence** - Electronic and physical records
 4. **Appoint Independent Trustee** - Protect beneficiary interests
 
@@ -176,4 +176,4 @@ All conspiracy evidence verified through:
 
 ---
 
-*This directory contains evidence of the most sophisticated trust fraud scheme in South African legal history. The systematic abuse of professional positions and R70.58M financial crime value warrant maximum criminal penalties.*
+*This directory contains evidence of the most sophisticated trust fraud scheme in South African legal history. The systematic abuse of professional positions and R18.685M+ financial crime value warrant maximum criminal penalties.*

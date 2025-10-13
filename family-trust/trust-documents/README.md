@@ -62,7 +62,7 @@
 4. **Duty of disclosure** - full transparency on all matters affecting trust
 
 ### Bantjies' Violations
-- **Conflict of Interest**: R70.58M debt to trust beneficiaries while serving as trustee
+- **Conflict of Interest**: R18.685M+ debt to trust beneficiaries while serving as trustee
 - **Breach of Fiduciary Duty**: Facilitated theft instead of protection
 - **Concealment**: Failed to disclose massive financial conflicts
 - **Conspiracy**: Used trustee position to enable criminal enterprise

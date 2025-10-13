@@ -1,6 +1,8 @@
 # Financial Evidence Directory
 
-**Purpose**: Documentary evidence of R70.58 million investment payout scheme and Danie Bantjies' financial conflicts of interest  
+**⚠️ CRITICAL CORRECTION**: Previous analysis incorrectly summed option prices (R18.685M + R23.165M + R28.730M = R70.58M). **CORRECT**: These are escalating option prices - only ONE payment will be made, most likely R18.685M in May 2026.
+
+**Purpose**: Documentary evidence of R18.685M investment **option** and Danie Bantjies' financial conflicts of interest  
 **Evidence Type**: Financial analysis and investment documentation  
 **Significance**: Proves motive for criminal conspiracy and quantifies victim losses  
 
@@ -8,8 +10,8 @@
 
 ## FINANCIAL EVIDENCE INVENTORY
 
-### R70.58 Million Investment Payout Schedule
-- **bantjies_investment_payout_analysis.md** - Detailed analysis of three-year payout schedule
+### R18.685 Million Investment Option Schedule (Corrected)
+- **bantjies_investment_payout_analysis.md** - Detailed analysis of May 2026 investment option
 - **BantjiesInvestmentPayoutDates2026-05.jpg** - Documentary photograph of payout schedule (Page 15 of 33)
 - **CORRECTED_investment_payout_structure.md** - Corrected structure analysis
 
@@ -20,7 +22,7 @@
 
 ## FINANCIAL CRIME BREAKDOWN
 
-### THE R70.58 MILLION INVESTMENT SCHEDULE
+### THE R18.685 MILLION INVESTMENT OPTION (CORRECTED INTERPRETATION)
 
 **Three-Year Staged Payouts**:
 
@@ -29,22 +31,22 @@
 | **May 2026** | R18,685,000 | R3,737 | ~R9,342,500 |
 | **May 2027** | R23,165,000 | R4,633 | ~R11,582,500 |
 | **May 2029** | R28,730,000 | R5,746 | ~R14,365,000 |
-| **TOTAL** | **R70,580,000** | - | **~R35,290,000** |
+| **TOTAL** | **R18,685,000 (option price)** | - | **~R9,342,500** |
 
 ### CRIMINAL CONSPIRACY MOTIVE
 
 **Why Bantjies Positioned Himself as Trustee (July 2024)**:
 
 1. **Personal Debt**: Owes R10M+ to Peter/Jacqui personally
-2. **Investment Control**: As trustee, controls R70.58M payout distribution  
+2. **Investment Control**: As trustee, controls R18.685M+ payout distribution  
 3. **Timeline**: Appointed 22 months before first R18.685M payout (May 2026)
 4. **Conflict Resolution**: Can manipulate distributions to benefit his debtors over other beneficiaries
 
 **The Perfect Crime Structure**:
 - Bantjies owes money to Peter/Jacqui
-- Bantjies controls trust that will receive R70.58M
+- Bantjies controls trust that will receive R18.685M+
 - Bantjies can ensure all money goes to his creditors (Peter/Jacqui)
-- Victim beneficiary (Jacqui) receives nothing despite being entitled to ~R35.29M
+- Victim beneficiary (Jacqui) receives nothing despite being entitled to ~R9.34M
 
 ---
 
@@ -54,7 +56,7 @@
 
 **Bantjies' Position**:
 - **DEBTOR**: Owes R10,000,000+ to Peter & Jacqui Faucitt
-- **TRUSTEE**: Controls trust receiving R70,580,000 for same creditors
+- **TRUSTEE**: Controls trust receiving R18,685,000 (option price) for same creditors
 - **FIDUCIARY DUTY**: Must act in best interests of ALL beneficiaries (including Jacqui)
 - **REALITY**: Will ensure creditors get all money to reduce his personal debt
 
@@ -64,12 +66,12 @@
 - **May 2026**: Loss of ~R9,342,500 (50% of R18,685,000)
 - **May 2027**: Loss of ~R11,582,500 (50% of R23,165,000)  
 - **May 2029**: Loss of ~R14,365,000 (50% of R28,730,000)
-- **TOTAL THEFT**: ~R35,290,000 over three years
+- **TOTAL THEFT**: ~R9,342,500 over three years
 
 ### 3. CRIMINAL PROCEEDS ANALYSIS
 
-**Total Criminal Enterprise Value**: R70,580,000
-- **Direct theft from beneficiary**: ~R35,290,000
+**Total Criminal Enterprise Value**: R18,685,000 (option price)
+- **Direct theft from beneficiary**: ~R9,342,500
 - **Debt reduction for Bantjies**: R10,000,000+  
 - **Excessive profits**: Additional millions through asset stripping
 
@@ -96,14 +98,14 @@
 
 ### Criminal Charges Supported by Financial Evidence
 
-1. **Grand Theft**: R35,290,000 from trust beneficiary
+1. **Grand Theft**: R9,342,500 from trust beneficiary
 2. **Breach of Fiduciary Duty**: Using trustee position for personal gain  
 3. **Conspiracy to Defraud**: Coordinated scheme to steal investment proceeds
 4. **Professional Fraud**: Accountant manipulating financial structures
 5. **Money Laundering**: Processing stolen proceeds through trust structure
 
 ### Civil Recovery Actions
-- **Restitution**: Full R35,290,000 plus interest and penalties
+- **Restitution**: Full R9,342,500 plus interest and penalties
 - **Punitive Damages**: Additional penalties for breach of fiduciary duty
 - **Professional Liability**: Personal liability for Bantjies' professional negligence
 - **Asset Recovery**: Tracing and recovery of all diverted funds
@@ -125,7 +127,7 @@
 ## INVESTIGATIVE PRIORITIES
 
 ### Immediate Actions Required
-1. **Freeze Assets**: Emergency orders to freeze R70.58M investment  
+1. **Freeze Assets**: Emergency orders to freeze R18.685M+ investment  
 2. **Remove Trustee**: Emergency removal of Bantjies from trustee position
 3. **Secure Documents**: Obtain complete 33-page investment agreement
 4. **Trace Funds**: Full audit of all financial flows involving Bantjies

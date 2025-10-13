@@ -84,7 +84,7 @@
 ### PHASE 5: Critical Deadline (2026)
 
 **May 2026** - R18.685M First Payout Due (**6 MONTHS AWAY**)  
-- First of three R70.58M investment payouts scheduled
+- First of three R18.685M+ investment payouts scheduled
 - Jacqui stands to lose ~R9.342M if scheme succeeds
 - Bantjies positioned to control distribution as trustee
 - **URGENT INTERVENTION REQUIRED**
@@ -173,7 +173,7 @@
 **TIMELINE REALITY**: Appointed trustee 22 months before R18.685M payout he would control
 
 **CLAIM**: "Independent assessment of family dispute"  
-**TIMELINE REALITY**: R70.58M debtor to both parties with financial incentive in outcome
+**TIMELINE REALITY**: R18.685M+ debtor to both parties with financial incentive in outcome
 
 **CLAIM**: "Professional objectivity in Commissioner role"  
 **TIMELINE REALITY**: Systematic concealment of conflicts and criminal conspiracy
@@ -213,7 +213,7 @@
 **Time Remaining**: Approximately 6 months to May 2026  
 **Action Required**: Emergency legal intervention  
 **Complexity**: Multiple court applications and criminal referrals  
-**Risk**: R35.29M theft if timeline not interrupted  
+**Risk**: R9.34M theft if timeline not interrupted  
 
 ### Minimum Timeline for Prevention
 
@@ -246,9 +246,9 @@
 
 ## CONCLUSION
 
-The timeline analysis provides **UNASSAILABLE PROOF** of premeditated conspiracy. The 22-month strategic positioning of Bantjies as trustee before the May 2026 payout, combined with the systematic concealment of R70.58M conflicts of interest, demonstrates sophisticated criminal planning.
+The timeline analysis provides **UNASSAILABLE PROOF** of premeditated conspiracy. The 22-month strategic positioning of Bantjies as trustee before the May 2026 payout, combined with the systematic concealment of R18.685M+ conflicts of interest, demonstrates sophisticated criminal planning.
 
-**The timeline is the smoking gun proving this was never a family dispute - it was always a R70.58 million heist.**
+**The timeline is the smoking gun proving this was never a family dispute - it was always a R18.685 million (option) heist.**
 
 ---
 
