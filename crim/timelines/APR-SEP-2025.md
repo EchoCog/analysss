@@ -27,8 +27,8 @@
 ## 🔗 Document Navigation
 
 **Related Framework Documents:**
-- **[Timeline Processing Guide](../timeline-processor.md)** - Tools for processing and validating this timeline
-- **[Criminal Case Timeline Outline](../criminal-case-timeline-outline-sa.md)** - Framework structure applied in this case
+- **[Timeline Processing Guide](../../timeline-processor.md)** - Tools for processing and validating this timeline
+- **[Criminal Case Timeline Outline](../frameworks/criminal-case-timeline-outline-sa.md)** - Framework structure applied in this case
 - **[Evidence Thread Analysis](eviden-thread.md)** - Safety procedures and Hawks filing process
 
 **Processing Status:**
@@ -526,15 +526,15 @@ You have documentary proof of every element. This is organized crime operating t
 - [ ] **Document Preservation:** Maintain evidence per preservation requirements
 
 ### Processing Tools Used
-- **Timeline Framework:** [Criminal Case Timeline Outline](../criminal-case-timeline-outline-sa.md)
-- **Processing Guide:** [Timeline Processor](../timeline-processor.md)
+- **Timeline Framework:** [Criminal Case Timeline Outline](../frameworks/criminal-case-timeline-outline-sa.md)
+- **Processing Guide:** [Timeline Processor](../../timeline-processor.md)
 - **Safety Procedures:** [Evidence Thread Analysis](eviden-thread.md)
 - **Legal Templates:** [Formal Notice Template](FORMAL%20NOTICE%20OF%20VOIDNESS%20DUE%20TO%20PERJURY%20AND%20FRAUD.md)
 
 ---
 
 **Related Documentation for Processing:**
-- **[Timeline Processing Guide](../timeline-processor.md)** - Tools and validation methods used
-- **[Criminal Case Timeline Framework](../criminal-case-timeline-outline-sa.md)** - Structural framework applied
+- **[Timeline Processing Guide](../../timeline-processor.md)** - Tools and validation methods used
+- **[Criminal Case Timeline Framework](../frameworks/criminal-case-timeline-outline-sa.md)** - Structural framework applied
 - **[Evidence Thread Procedures](eviden-thread.md)** - Safety and filing procedures
 - **[Legal Templates](FORMAL%20NOTICE%20OF%20VOIDNESS%20DUE%20TO%20PERJURY%20AND%20FRAUD.md)** - Formal legal documentation

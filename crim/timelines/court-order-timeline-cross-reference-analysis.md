@@ -7,13 +7,13 @@
 ## 🔗 Document Navigation
 
 **Source Documents:**
-- **[Court Order 2025-137857](court_order_2025_137857.md)** - High Court order dated August 19, 2025
+- **[Court Order 2025-137857](../../docs/court_order_2025_137857.md)** - High Court order dated August 19, 2025
 - **[APR-SEP-2025 Timeline](APR-SEP-2025.md)** - Comprehensive criminal conspiracy timeline
 - **[Evidence Thread Analysis](eviden-thread.md)** - Detailed case study and safety protocols
 
 **Framework Integration:**
-- **[Criminal Case Timeline Outline](../criminal-case-timeline-outline-sa.md)** - Core procedural framework
-- **[Timeline Processing Guide](../timeline-processor.md)** - Document processing workflows
+- **[Criminal Case Timeline Outline](../frameworks/criminal-case-timeline-outline-sa.md)** - Core procedural framework
+- **[Timeline Processing Guide](../../timeline-processor.md)** - Document processing workflows
 
 ---
 
@@ -332,11 +332,11 @@ Requires Criminal Investigation Protection:
 - [Court Order 2025-137857](court_order_2025_137857.md) - Source civil proceedings
 - [APR-SEP-2025 Timeline](APR-SEP-2025.md) - Primary criminal evidence timeline
 - [Evidence Thread Analysis](eviden-thread.md) - Safety protocols and procedures
-- [Criminal Case Timeline Outline](../criminal-case-timeline-outline-sa.md) - Framework structure
-- [Timeline Processing Guide](../timeline-processor.md) - Processing and validation tools
+- [Criminal Case Timeline Outline](../frameworks/criminal-case-timeline-outline-sa.md) - Framework structure
+- [Timeline Processing Guide](../../timeline-processor.md) - Processing and validation tools
 
 **Quick Navigation:**
 - For civil proceedings → [Court Order](court_order_2025_137857.md)
 - For criminal evidence → [Timeline](APR-SEP-2025.md)
 - For safety protocols → [Evidence Thread](eviden-thread.md)
-- For framework guidance → [Timeline Outline](../criminal-case-timeline-outline-sa.md)
+- For framework guidance → [Timeline Outline](../frameworks/criminal-case-timeline-outline-sa.md)

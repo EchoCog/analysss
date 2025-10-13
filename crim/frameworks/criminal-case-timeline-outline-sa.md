@@ -24,12 +24,12 @@
 **Related Documents:**
 - **[Main Documentation Hub](README.md)** - Overview and navigation guide
 - **[Timeline Processing Guide](timeline-processor.md)** - Tools for processing and validating timelines
-- **[Evidence Thread Analysis](docs/eviden-thread.md)** - Practical application example
+- **[Evidence Thread Analysis](../evidence/eviden-thread.md)** - Practical application example
 - **[Formal Notice Template](docs/FORMAL%20NOTICE%20OF%20VOIDNESS%20DUE%20TO%20PERJURY%20AND%20FRAUD.md)** - Legal documentation template
 
 **Quick Navigation:**
 - For timeline processing tools → [Timeline Processing Guide](timeline-processor.md)
-- For specific case examples → [Evidence Thread Analysis](docs/eviden-thread.md)
+- For specific case examples → [Evidence Thread Analysis](../evidence/eviden-thread.md)
 - For legal templates → [Formal Notice](docs/FORMAL%20NOTICE%20OF%20VOIDNESS%20DUE%20TO%20PERJURY%20AND%20FRAUD.md)
 - For overview and guidance → [README](README.md)
 
@@ -43,7 +43,7 @@ Building an accurate timeline in a criminal case under South African law is cruc
 2. **Identify relevant phases** for your specific case type
 3. **Adapt timeline elements** to match case-specific requirements
 4. **Use the Timeline Processing Guide** for validation and quality assurance tools
-5. **Cross-reference with practical examples** in the [Evidence Thread Analysis](docs/eviden-thread.md)
+5. **Cross-reference with practical examples** in the [Evidence Thread Analysis](../evidence/eviden-thread.md)
 6. **Use in conjunction with** legal templates such as the [Formal Notice](docs/FORMAL%20NOTICE%20OF%20VOIDNESS%20DUE%20TO%20PERJURY%20AND%20FRAUD.md)
 
 ### Legal Framework
@@ -316,7 +316,7 @@ Building an accurate timeline in a criminal case under South African law is cruc
 For practical application of these timeline principles in complex cases, see:
 
 - **[Timeline Processing Guide](timeline-processor.md)** - Tools and workflows for processing timeline documents using this framework
-- **[Evidence Thread Analysis](docs/eviden-thread.md)** - Detailed case study demonstrating timeline construction in practice
+- **[Evidence Thread Analysis](../evidence/eviden-thread.md)** - Detailed case study demonstrating timeline construction in practice
 - **[APR-SEP-2025 Timeline](docs/APR-SEP-2025.md)** - Comprehensive timeline example with processing integration
 - **[Formal Notice Template](docs/FORMAL%20NOTICE%20OF%20VOIDNESS%20DUE%20TO%20PERJURY%20AND%20FRAUD.md)** - Example of formal legal documentation with timeline elements
 
