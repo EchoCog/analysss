@@ -1,4 +1,5 @@
 # Technical Architecture Documentation
+> Evidence-first language policy: All descriptions prioritize verifiable facts, with inferences explicitly labeled (including assumptions and confidence levels). Subjects (Jax and Dan) are represented with capability and agency; avoid victim-framing.
 
 ## Overview
 
@@ -13,52 +14,52 @@ graph TB
         CLI[Command Line Tools]
         API[Python API]
     end
-    
+
     subgraph "Core Framework"
         HGF[HyperGNN Framework]
         TLP[Timeline Processor]
         EMS[Evidence Management]
         PLF[Professional Language]
     end
-    
+
     subgraph "Analysis Components"
         VT[Verification Tracker]
         KM[Knowledge Matrix]
         OCR[OCR Analyzer]
         TV[Timeline Validator]
     end
-    
+
     subgraph "Data Models"
         SD[System Dynamics]
         MA[Multi-Agent Model]
         DE[Discrete Events]
         TT[Timeline Tensors]
     end
-    
+
     subgraph "Storage & Output"
         DOC[Document Store]
         REP[Reports]
         EXP[Data Export]
     end
-    
+
     UI --> HGF
     CLI --> HGF
     API --> HGF
-    
+
     HGF --> TLP
     HGF --> EMS
     HGF --> PLF
-    
+
     TLP --> VT
     TLP --> KM
     TLP --> OCR
     TLP --> TV
-    
+
     HGF --> SD
     HGF --> MA
     HGF --> DE
     HGF --> TT
-    
+
     VT --> DOC
     KM --> REP
     OCR --> EXP
@@ -76,39 +77,39 @@ graph TB
         REST[REST Endpoints]
         GITHUB[GitHub Integration]
     end
-    
+
     subgraph "Core Components"
         SCHEMA[HyperGraphQL Schema]
         RESOLVER[Query Resolvers]
         PROJECTION[Repo Projection]
         ORG[Org Manager]
     end
-    
+
     subgraph "GitHub Structure"
         REPO1[Repo 1: entities/ + relations/]
         REPO2[Repo 2: entities/ + relations/]
         REPO3[Repo 3: entities/ + relations/]
     end
-    
+
     subgraph "Scaling Levels"
         REPO_LEVEL[REPO Level]
         ORG_LEVEL[ORG Level]
         ENT_LEVEL[ENTERPRISE Level]
     end
-    
+
     GQL --> RESOLVER
     REST --> RESOLVER
     GITHUB --> PROJECTION
-    
+
     RESOLVER --> SCHEMA
     PROJECTION --> REPO1
     PROJECTION --> REPO2
     PROJECTION --> REPO3
-    
+
     ORG --> REPO1
     ORG --> REPO2
     ORG --> REPO3
-    
+
     REPO1 --> REPO_LEVEL
     ORG --> ORG_LEVEL
     ORG --> ENT_LEVEL
@@ -127,7 +128,7 @@ graph LR
         AGENT[Agent Manager]
         EVENT[Event Manager]
     end
-    
+
     subgraph "Tensor Models"
         direction TB
         AT[Activity Tensors]
@@ -136,7 +137,7 @@ graph LR
         RT[Resource Tensors]
         TT[Temporal Tensors]
     end
-    
+
     subgraph "Analysis Modules"
         direction TB
         MMO[Motive/Means/Opportunity]
@@ -144,19 +145,19 @@ graph LR
         NA[Network Analysis]
         TA[Timeline Analysis]
     end
-    
+
     CORE --> AT
     CORE --> KT
     CORE --> IT
     CORE --> RT
     CORE --> TT
-    
+
     AT --> MMO
     KT --> DPT
     IT --> NA
     RT --> TA
     TT --> MMO
-    
+
     CONFIG --> CORE
     AGENT --> CORE
     EVENT --> CORE
@@ -172,7 +173,7 @@ sequenceDiagram
     participant Evidence as Evidence Management
     participant Analysis as Analysis Tools
     participant Output as Report Generation
-    
+
     User->>Framework: Initialize Analysis
     Framework->>Framework: Load Configuration
     Framework->>Processor: Process Timeline Data
@@ -181,7 +182,7 @@ sequenceDiagram
     Analysis->>Framework: Return Analysis Results
     Framework->>Output: Generate Reports
     Output->>User: Deliver Comprehensive Analysis
-    
+
     Note over Framework: Continuous tensor state updates
     Note over Analysis: Multi-dimensional validation
 ```
@@ -196,38 +197,38 @@ flowchart TD
         EV[Evidence Files]
         OCR_IN[OCR Text]
     end
-    
+
     subgraph "Processing Pipeline"
         PARSE[Document Parser]
         EXTRACT[Data Extraction]
         VALIDATE[Validation Layer]
         NORMALIZE[Data Normalization]
     end
-    
+
     subgraph "Analysis Engine"
         HYPERGNN[HyperGNN Framework]
         TENSOR[Tensor Analysis]
         NETWORK[Network Modeling]
         DYNAMICS[System Dynamics]
     end
-    
+
     subgraph "Output Generation"
         REPORTS[Analysis Reports]
         TIMELINES[Processed Timelines]
         EVIDENCE_MAP[Evidence Mapping]
         LEGAL_DOCS[Legal Documentation]
     end
-    
+
     DOC --> PARSE
     TL --> EXTRACT
     EV --> VALIDATE
     OCR_IN --> NORMALIZE
-    
+
     PARSE --> HYPERGNN
     EXTRACT --> TENSOR
     VALIDATE --> NETWORK
     NORMALIZE --> DYNAMICS
-    
+
     HYPERGNN --> REPORTS
     TENSOR --> TIMELINES
     NETWORK --> EVIDENCE_MAP
@@ -239,48 +240,48 @@ flowchart TD
 ```mermaid
 graph TD
     START[Start Timeline Processing]
-    
+
     subgraph "Data Ingestion"
         LOAD[Load Timeline Documents]
         PARSE[Parse Content]
         EXTRACT[Extract Events]
     end
-    
+
     subgraph "Validation Layer"
         DATE_VAL[Date Validation]
         REF_VAL[Reference Validation]
         CONSISTENCY[Consistency Check]
         FRAMEWORK_VAL[Framework Compliance]
     end
-    
+
     subgraph "Analysis Processing"
         CROSS_REF[Cross-Reference Analysis]
         GAP_ANALYSIS[Gap Analysis]
         PATTERN_DET[Pattern Detection]
         EVIDENCE_LINK[Evidence Linking]
     end
-    
+
     subgraph "Output Generation"
         SUMMARY[Executive Summary]
         DETAILED[Detailed Timeline]
         GAPS[Gap Report]
         RECOMMENDATIONS[Action Items]
     end
-    
+
     START --> LOAD
     LOAD --> PARSE
     PARSE --> EXTRACT
-    
+
     EXTRACT --> DATE_VAL
     DATE_VAL --> REF_VAL
     REF_VAL --> CONSISTENCY
     CONSISTENCY --> FRAMEWORK_VAL
-    
+
     FRAMEWORK_VAL --> CROSS_REF
     CROSS_REF --> GAP_ANALYSIS
     GAP_ANALYSIS --> PATTERN_DET
     PATTERN_DET --> EVIDENCE_LINK
-    
+
     EVIDENCE_LINK --> SUMMARY
     EVIDENCE_LINK --> DETAILED
     EVIDENCE_LINK --> GAPS
@@ -303,7 +304,7 @@ erDiagram
         array tags
         json metadata
     }
-    
+
     AGENT {
         string agent_id
         string name
@@ -311,7 +312,7 @@ erDiagram
         json attributes
         array relationships
     }
-    
+
     EVENT {
         string event_id
         string description
@@ -320,7 +321,7 @@ erDiagram
         string event_type
         array evidence_references
     }
-    
+
     TIMELINE {
         string timeline_id
         string case_id
@@ -329,7 +330,7 @@ erDiagram
         array events
         string status
     }
-    
+
     VERIFICATION {
         string verification_id
         string item_id
@@ -339,7 +340,7 @@ erDiagram
         string method
         json details
     }
-    
+
     EVIDENCE_ITEM ||--o{ EVENT : "references"
     AGENT ||--o{ EVENT : "participates_in"
     EVENT ||--o{ TIMELINE : "belongs_to"
@@ -356,31 +357,31 @@ graph TB
         OCR[OCR Analyzer]
         TV[Timeline Validator]
     end
-    
+
     subgraph "Framework Components"
         EMS[Evidence Management]
         SD[System Dynamics]
         PLF[Professional Language]
         CORE[HyperGNN Core]
     end
-    
+
     subgraph "Data Interfaces"
         JSON[JSON Export]
         CSV[CSV Export]
         PDF[PDF Reports]
         MD[Markdown Docs]
     end
-    
+
     VT --> EMS
     KM --> SD
     OCR --> PLF
     TV --> CORE
-    
+
     EMS --> JSON
     SD --> CSV
     PLF --> PDF
     CORE --> MD
-    
+
     CORE -.-> VT
     CORE -.-> KM
     CORE -.-> OCR
@@ -397,26 +398,26 @@ graph LR
         AUDIT[Audit Logging]
         ENCRYPT[Data Encryption]
     end
-    
+
     subgraph "Compliance Framework"
         SA_LAW[SA Legal Compliance]
         EVIDENCE[Evidence Standards]
         CHAIN[Chain of Custody]
         PRIVACY[Privacy Protection]
     end
-    
+
     subgraph "Data Protection"
         BACKUP[Backup Systems]
         INTEGRITY[Data Integrity]
         ACCESS[Access Control]
         RETENTION[Data Retention]
     end
-    
+
     AUTH --> SA_LAW
     AUTHZ --> EVIDENCE
     AUDIT --> CHAIN
     ENCRYPT --> PRIVACY
-    
+
     SA_LAW --> BACKUP
     EVIDENCE --> INTEGRITY
     CHAIN --> ACCESS
@@ -445,28 +446,28 @@ graph TB
         APP2[Analysis Instance 2]
         APP3[Analysis Instance N]
     end
-    
+
     subgraph "Data Layer"
         CACHE[Redis Cache]
         DB[Document Store]
         FILE[File System]
     end
-    
+
     subgraph "Processing Queue"
         QUEUE[Task Queue]
         WORKER1[Worker 1]
         WORKER2[Worker 2]
         WORKER3[Worker N]
     end
-    
+
     LB --> APP1
     LB --> APP2
     LB --> APP3
-    
+
     APP1 --> CACHE
     APP2 --> DB
     APP3 --> FILE
-    
+
     APP1 --> QUEUE
     QUEUE --> WORKER1
     QUEUE --> WORKER2
@@ -509,26 +510,26 @@ graph LR
         LAW_ENF[Law Enforcement]
         EXPERT[Expert Systems]
     end
-    
+
     subgraph "Framework APIs"
         REST[REST API]
         PYTHON[Python API]
         CLI[Command Line]
         WEB[Web Interface]
     end
-    
+
     subgraph "Data Exchange"
         XML[XML Format]
         JSON[JSON Format]
         PDF[PDF Export]
         CSV[CSV Export]
     end
-    
+
     LEGAL --> REST
     COURT --> PYTHON
     LAW_ENF --> CLI
     EXPERT --> WEB
-    
+
     REST --> XML
     PYTHON --> JSON
     CLI --> PDF
@@ -547,26 +548,26 @@ graph TD
         SYSTEM[System Tests]
         ACCEPTANCE[User Acceptance]
     end
-    
+
     subgraph "Test Categories"
         FUNCTIONAL[Functional Testing]
         PERFORMANCE[Performance Testing]
         SECURITY[Security Testing]
         COMPLIANCE[Compliance Testing]
     end
-    
+
     subgraph "Validation Areas"
         LEGAL[Legal Accuracy]
         DATA[Data Integrity]
         WORKFLOW[Workflow Validation]
         OUTPUT[Output Quality]
     end
-    
+
     UNIT --> FUNCTIONAL
     INTEGRATION --> PERFORMANCE
     SYSTEM --> SECURITY
     ACCEPTANCE --> COMPLIANCE
-    
+
     FUNCTIONAL --> LEGAL
     PERFORMANCE --> DATA
     SECURITY --> WORKFLOW
@@ -610,22 +611,22 @@ graph TD
 ```mermaid
 timeline
     title Technology Evolution Roadmap
-    
+
     section Current State
         HyperGNN Framework    : Core analytical engine
         Timeline Processing   : Automated workflow tools
         Evidence Management   : Professional document handling
-    
+
     section Phase 1 (Q1-Q2)
         ML Integration       : Pattern recognition
         Enhanced UI          : Interactive dashboards
         Mobile Support       : Responsive design
-    
+
     section Phase 2 (Q3-Q4)
         AI Assistance        : Automated analysis
         Court Integration    : Direct system links
         Advanced Security    : Enhanced protection
-    
+
     section Future Vision
         Full Automation      : End-to-end processing
         Predictive Analytics : Outcome forecasting

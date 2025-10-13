@@ -18,7 +18,8 @@ This repository provides a complete suite of tools and frameworks for legal prof
 - **Legal Templates**: South African law-compliant documentation and procedures
 
 > 📖 **[Technical Architecture Documentation](TECHNICAL_ARCHITECTURE.md)** - Comprehensive system architecture with Mermaid diagrams
-> 
+> Evidence-first language policy: Emphasize verifiable facts and clearly labeled inferences (with confidence and assumptions). Subjects are represented with capability and agency; avoid victim-framing.
+>
 > 🧠 **[OpenCog HGNNQL Case-LLM](docs/OPENCOG_HGNNQL_CASE_LLM.md)** - AI-powered case analysis system
 >
 > 🔗 **[HyperGraphQL API Documentation](HYPERGRAPHQL_API_DOCUMENTATION.md)** - GraphQL API for hypergraph management
@@ -112,7 +113,7 @@ The repository includes comprehensive GitHub Actions workflows for running simul
 #### Available Simulation Types
 - **Agent-Based Models (HyperGNN)**: Multi-agent behavioral dynamics and network analysis
 - **Discrete Event Models**: Event cascade simulation and timing optimization
-- **System Dynamics Models**: Flow optimization and equilibrium analysis  
+- **System Dynamics Models**: Flow optimization and equilibrium analysis
 - **Integrated Multi-Models**: Combined HyperGNN + Case-LLM transformer analysis
 
 #### Running Simulations
@@ -128,7 +129,7 @@ The repository includes comprehensive GitHub Actions workflows for running simul
 # Agent-based simulation
 python scripts/run_agent_based_simulation.py --case-id "case_2025_001" --output-dir sims
 
-# Discrete event simulation  
+# Discrete event simulation
 python scripts/run_discrete_event_simulation.py --case-id "case_2025_001" --output-dir sims
 
 # System dynamics simulation
@@ -160,26 +161,26 @@ graph TB
         DOC[Documentation & Templates]
         CLI[Command Line Tools]
     end
-    
+
     subgraph "HyperGNN Framework"
         CORE[Framework Engine]
         TENSOR[Tensor Analysis]
         NETWORK[Network Modeling]
     end
-    
+
     subgraph "Analysis Tools"
         TLP[Timeline Processor]
         VT[Verification Tracker]
         KM[Knowledge Matrix]
         OCR[OCR Analyzer]
     end
-    
+
     subgraph "Data Management"
         EMS[Evidence Management]
         PLF[Professional Language]
         SD[System Dynamics]
     end
-    
+
     DOC --> CORE
     CLI --> CORE
     CORE --> TENSOR
@@ -249,7 +250,7 @@ Central hub for all documentation with organized categories:
 | [Court Order Cross-Reference Analysis](docs/court-order-timeline-cross-reference-analysis.md) | Cross-reference analysis of court order vs timeline | Case analysis and gap identification |
 | [Current State Summary](docs/current-state-summary-2025.md) | Executive summary of current affairs | Quick overview and action requirements |
 | [Formal Notice Template](docs/FORMAL%20NOTICE%20OF%20VOIDNESS%20DUE%20TO%20PERJURY%20AND%20FRAUD.md) | Legal notice template | Void proceedings due to fraud |
-| [OCR Email CC Analysis](docs/ocr-email-cc-analysis-critical-findings.md) | 🚨 CRITICAL: Email CC deception analysis | Proves information warfare and intermediary control |
+| [OCR Email CC Analysis](docs/ocr-email-cc-analysis-critical-findings.md) | 🚨 Critical: Email CC deception analysis | Presents evidence indicating information control patterns and intermediary influence |
 
 ### 🔧 Technical Components
 
@@ -269,7 +270,7 @@ Central hub for all documentation with organized categories:
 ### 🚨 Current Case Analysis
 - **[Current State Summary 2025](docs/current-state-summary-2025.md)** - Executive dashboard showing critical gaps and immediate action requirements
 - **[Court Order Cross-Reference Analysis](docs/court-order-timeline-cross-reference-analysis.md)** - Detailed mapping of court order claims vs timeline evidence
-- **[OCR Email CC Analysis](docs/ocr-email-cc-analysis-critical-findings.md)** - 🚨 **EXPLOSIVE**: Proves email CC deception and information warfare patterns
+- **[OCR Email CC Analysis](docs/ocr-email-cc-analysis-critical-findings.md)** - Presents evidence indicating email CC deception patterns and information control; see analysis for supporting materials
 - **[CCE20250929 Document Analysis](docs/jacqui-faucitt-draft-response/)** - Comprehensive OCR analysis of case documents with evidence organization
 
 ### 🎯 Quick Access by Topic
@@ -297,21 +298,21 @@ flowchart TD
     LOAD --> PARSE[Parse & Extract Data]
     PARSE --> VALIDATE[Validate Timeline]
     VALIDATE --> ANALYZE[HyperGNN Analysis]
-    
+
     subgraph "Multi-Dimensional Analysis"
         ANALYZE --> TENSOR[Tensor Analysis]
         ANALYZE --> NETWORK[Network Modeling]
         ANALYZE --> DYNAMICS[System Dynamics]
     end
-    
+
     TENSOR --> CROSS[Cross-Reference]
     NETWORK --> CROSS
     DYNAMICS --> CROSS
-    
+
     CROSS --> GAPS[Gap Analysis]
     GAPS --> EVIDENCE[Evidence Verification]
     EVIDENCE --> REPORT[Generate Reports]
-    
+
     REPORT --> TIMELINE[Updated Timeline]
     REPORT --> SUMMARY[Executive Summary]
     REPORT --> ACTIONS[Action Items]
@@ -419,25 +420,25 @@ graph TB
         TECH[📖 Technical Architecture]
         SCHEMA[📋 HyperGNN Schema]
     end
-    
+
     subgraph "Framework Guides"
         TIMELINE[📋 Timeline Outline]
         PROCESSOR[⚙️ Timeline Processor]
         EVIDENCE[🔍 Evidence Thread]
     end
-    
+
     subgraph "Case Documentation"
         STATE[📊 Current State]
         COURT[⚖️ Court Order Analysis]
         OCR[🚨 OCR Analysis]
     end
-    
+
     subgraph "Templates & Tools"
         FORMAL[📝 Formal Notice]
         ORDER[📄 Court Order Template]
         TOOLS[🔧 Processing Tools]
     end
-    
+
     README --> TECH
     README --> SCHEMA
     TECH --> TIMELINE
@@ -460,19 +461,19 @@ analysis/
 ├── 📄 README.md                     # This navigation guide
 ├── 📋 criminal-case-timeline-outline-sa.md # SA law framework
 ├── ⚙️ timeline-processor.md          # Processing workflow guide
-├── 
+├──
 ├── frameworks/                      # Core analytical frameworks
 │   ├── 🧠 hypergnn_core.py          # HyperGNN framework engine
 │   ├── 📁 evidence_management.py    # Professional evidence handling
 │   ├── 🌊 system_dynamics.py        # System dynamics modeling
 │   └── 📝 professional_language.py  # Language processing
-├── 
+├──
 ├── tools/                          # Analysis and processing tools
 │   ├── ✅ timeline_validator.py      # Timeline validation utilities
 │   ├── 🧩 knowledge_matrix.py       # Knowledge relationship tracking
 │   ├── 👁️ ocr_analyzer.py           # OCR processing and analysis
 │   └── 🔍 verification_tracker.py   # Evidence verification system
-├── 
+├──
 ├── docs/                           # Case-specific documentation
 │   ├── 🔍 eviden-thread.md          # Evidence analysis procedures
 │   ├── ⚖️ court-order-*.md          # Court order templates & analysis
@@ -483,7 +484,7 @@ analysis/
 │       ├── 📷 CCE20250929*.jpg      # Original case documents
 │       ├── 📄 ocr-analysis-*.md     # Individual OCR reports
 │       └── 📋 README.md             # Schema index and overview
-└── 
+└──
 └── 🧠 hypergnn_framework.py         # Main framework integration API
 ```
 
@@ -605,7 +606,7 @@ framework.register_component('custom_analyzer', CustomAnalyzer())
 ### Integration Points
 
 - **REST API**: HTTP endpoints for external system integration
-- **Python API**: Direct framework access for custom applications  
+- **Python API**: Direct framework access for custom applications
 - **CLI Tools**: Command-line utilities for automation
 - **Export Formats**: JSON, CSV, PDF, and Markdown output
 
@@ -622,7 +623,7 @@ framework.register_component('custom_analyzer', CustomAnalyzer())
 For new users, we recommend this workflow:
 
 1. **📖 Technical Overview**: Start with [Technical Architecture](TECHNICAL_ARCHITECTURE.md) for comprehensive system understanding
-2. **⚖️ Legal Framework**: Review [Criminal Case Timeline Outline](criminal-case-timeline-outline-sa.md) for SA law procedures  
+2. **⚖️ Legal Framework**: Review [Criminal Case Timeline Outline](criminal-case-timeline-outline-sa.md) for SA law procedures
 3. **⚙️ Processing Tools**: Study [Timeline Processing Guide](timeline-processor.md) for workflow automation
 4. **🔍 Practical Application**: Read [Evidence Thread Analysis](docs/eviden-thread.md) for real-world examples
 5. **📊 Case Study**: Examine [Current State Summary](docs/current-state-summary-2025.md) for comprehensive case analysis
@@ -634,12 +635,12 @@ graph TD
     START[New User] --> README[📄 README Overview]
     README --> TECH[📖 Technical Architecture]
     TECH --> FRAMEWORK[📋 Legal Framework]
-    FRAMEWORK --> TOOLS[⚙️ Processing Tools] 
+    FRAMEWORK --> TOOLS[⚙️ Processing Tools]
     TOOLS --> PRACTICE[🔍 Practical Examples]
     PRACTICE --> ADVANCED[🚀 Advanced Features]
-    
+
     ADVANCED --> EXPERT[👨‍💼 Expert Usage]
-    
+
     style START fill:#e1f5fe
     style EXPERT fill:#c8e6c9
 ## 📚 Template Customization Guide
@@ -693,4 +694,3 @@ This repository now includes a comprehensive framework for ensuring compliance w
 - **[Entities and Timeline](evidence/sa_ai_legislation_compliance/entities_and_timeline.json)**: Key entities and a timeline of legislative and communicative events.
 - **[Compliance Deadline Tracker](tools/compliance_deadline_tracker.py)**: A tool to track and report on upcoming legal deadlines.
 - **[AI Fraud Detector](tools/ai_fraud_detector.py)**: A tool to detect AI-enabled fraud patterns.
-
