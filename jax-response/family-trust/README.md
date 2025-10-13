@@ -7,7 +7,7 @@ This directory contains forensic evidence and analysis for the systematic family
 **Total Criminal Timeline:** March 15 - August 10, 2025 (148 days)  
 **Primary Perpetrators:** Peter Faucitt, Rynette Farrar, Associated Family Members  
 **Primary Victims:** Daniel Faucitt, Legitimate Trust Beneficiaries  
-**Financial Impact:** R2,850,000+ in documented trust asset misappropriation  
+**Financial Impact:** R2,851,247.35+ in documented trust asset misappropriation  
 
 ## Evidence Organization Structure
 

@@ -154,7 +154,7 @@
 ### Criminal Charges Supported by Evidence:
 
 #### **Primary Financial Crime Charges:**
-- **Grand Theft** - R4,275,000+ in systematic financial asset misappropriation
+- **Grand Theft** - R4,276,832.85+ in systematic financial asset misappropriation
 - **Wire Fraud** - Electronic transfer manipulation for unauthorized benefit
 - **Money Laundering** - Complex transaction processing to conceal criminal proceeds
 - **Organized Racketeering** - Coordinated criminal enterprise conducting systematic financial fraud
@@ -183,7 +183,7 @@
 - **Financial System Threat** - Systematic attack on banking security and integrity
 - **Professional Position Abuse** - Misuse of trusted financial authority for criminal benefit
 
-### **Total Quantified Criminal Impact: R4,275,000+**
+### **Total Quantified Criminal Impact: R4,276,832.85+**
 
 ### **Evidence Strength Assessment: 92% Grade A Evidence - Prosecution Ready**
 

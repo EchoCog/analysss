@@ -74,7 +74,7 @@ Comprehensive analysis and revised affidavit versions:
 ### 📁 `/family-trust/`
 **FORENSIC EVIDENCE ANALYSIS - Family Trust Manipulation and Breach Scheme**
 
-Comprehensive forensic analysis of systematic family trust manipulation and breach scheme targeting Faucitt family trust structures from March-August 2025. Contains evidence for 5 major trust violation events with documented financial losses exceeding R2.85 million.
+Comprehensive forensic analysis of systematic family trust manipulation and breach scheme targeting Faucitt family trust structures from March-August 2025. Contains evidence for 5 major trust violation events with documented financial losses exceeding R2.851 million.
 
 **Sub-directories:**
 - **`15-mar-trust-establishment/`** - Trust structure establishment documentation (March 15, 2025)
@@ -90,7 +90,7 @@ Comprehensive forensic analysis of systematic family trust manipulation and brea
 ### 📁 `/financial-flows/`
 **FORENSIC EVIDENCE ANALYSIS - Financial Manipulation and Fund Diversion Scheme**
 
-Comprehensive forensic analysis of systematic financial manipulation and fund diversion scheme affecting legitimate business and trust financial flows from April-August 2025. Contains evidence for 5 major financial crime events with documented losses exceeding R4.275 million.
+Comprehensive forensic analysis of systematic financial manipulation and fund diversion scheme affecting legitimate business and trust financial flows from April-August 2025. Contains evidence for 5 major financial crime events with documented losses exceeding R4.276 million.
 
 **Sub-directories:**
 - **`01-apr-payment-redirection/`** - Systematic payment redirection scheme (April 1, 2025)

@@ -7,7 +7,7 @@ This directory contains forensic evidence and analysis for the systematic financ
 **Total Criminal Timeline:** April 1 - August 20, 2025 (141 days)  
 **Primary Perpetrators:** Peter Faucitt, Rynette Farrar, Associated Financial Entities  
 **Primary Victims:** Daniel Faucitt, RegimA Companies, Trust Beneficiaries  
-**Financial Impact:** R4,275,000+ in documented financial diversions and losses  
+**Financial Impact:** R4,276,832.85+ in documented financial diversions and losses  
 
 ## Evidence Organization Structure
 

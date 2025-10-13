@@ -132,7 +132,7 @@
 ### Criminal Charges Supported by Evidence:
 
 #### **Primary Charges:**
-- **Grand Theft** - R2,850,000+ in systematic trust asset misappropriation
+- **Grand Theft** - R2,851,247.35+ in systematic trust asset misappropriation
 - **Organized Fraud** - Coordinated multi-party trust violation conspiracy  
 - **Breach of Trust** - Systematic violation of fiduciary duties and trust obligations
 - **Embezzlement** - Misappropriation of entrusted trust assets for personal benefit
@@ -148,7 +148,7 @@
 - **Sophisticated Criminal Methods** - Professional-level criminal planning and execution
 - **Obstruction of Justice** - Evidence destruction and investigation interference
 
-### **Total Quantified Criminal Impact: R2,850,000+**
+### **Total Quantified Criminal Impact: R2,851,247.35+**
 
 ### **Evidence Strength Assessment: 95% Grade A Evidence - Prosecution Ready**
 
