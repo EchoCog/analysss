@@ -1,0 +1,101 @@
+{
+  "total_ad_paragraphs": 57,
+  "high_priority_updates": 36,
+  "theme_mappings": {
+    "responsible_person_role": {
+      "description": "Jacqueline's legally designated Responsible Person role in 37 jurisdictions",
+      "applies_to_ad_paragraphs": [
+        "AD PARAGRAPH 2 TO 2.4",
+        "AD PARAGRAPH 3 TO 3.10",
+        "AD PARAGRAPH 4",
+        "AD PARAGRAPH 5",
+        "AD PARAGRAPH 6 TO 6.5",
+        "AD PARAGRAPH 7.2 TO 7.5",
+        "AD PARAGRAPH 7.14 TO 7.15",
+        "AD PARAGRAPH 8.4",
+        "AD PARAGRAPH 8.5",
+        "AD PARAGRAPH 9.4",
+        "AD PARAGRAPH 10.4",
+        "AD PARAGRAPH 10.5 TO 10.10.23",
+        "AD PARAGRAPH 11 TO 11.5",
+        "AD PARAGRAPH 12.4",
+        "AD PARAGRAPH 13.4",
+        "AD PARAGRAPH 13.5",
+        "AD PARAGRAPH 14 TO 14.2",
+        "AD PARAGRAPH 14.3",
+        "AD PARAGRAPH 14.4",
+        "AD PARAGRAPH 14.5",
+        "AD PARAGRAPH 15",
+        "AD PARAGRAPH 16 TO 16.5",
+        "AD PARAGRAPH 17 TO 17.4"
+      ]
+    },
+    "rynette_farrar_expansion": {
+      "description": "Systematic expansion of non-director bookkeeper's access and authority",
+      "applies_to_ad_paragraphs": [
+        "AD PARAGRAPH 7.2 TO 7.5",
+        "AD PARAGRAPH 7.6",
+        "AD PARAGRAPH 7.9 TO 7.11"
+      ]
+    },
+    "director_loan_accounts": {
+      "description": "Established practice of director loan accounts with multi-million rand credit balances",
+      "applies_to_ad_paragraphs": [
+        "AD PARAGRAPH 7.18 TO 7.20",
+        "AD PARAGRAPH 8.6",
+        "AD PARAGRAPH 9.4"
+      ]
+    },
+    "peters_inconsistency": {
+      "description": "Peter's inconsistent conduct - accepting practices for years then suddenly objecting",
+      "applies_to_ad_paragraphs": [
+        "AD PARAGRAPH 7.18 TO 7.20",
+        "AD PARAGRAPH 9.4",
+        "AD PARAGRAPH 10.4",
+        "AD PARAGRAPH 12.2"
+      ]
+    },
+    "it_expenses_legitimate": {
+      "description": "IT expenses are legitimate business expenses for international operations",
+      "applies_to_ad_paragraphs": [
+        "AD PARAGRAPH 8 TO 8.3",
+        "AD PARAGRAPH 8.4",
+        "AD PARAGRAPH 8.5",
+        "AD PARAGRAPH 8.7"
+      ]
+    },
+    "delinquency_unfounded": {
+      "description": "Delinquency allegations are unfounded and lack evidentiary basis",
+      "applies_to_ad_paragraphs": [
+        "AD PARAGRAPH 10 TO 10.3",
+        "AD PARAGRAPH 10.4",
+        "AD PARAGRAPH 10.5 TO 10.10.23",
+        "AD PARAGRAPH 10.11"
+      ]
+    },
+    "collaborative_business_model": {
+      "description": "Historical collaborative, trust-based business model that operated successfully",
+      "applies_to_ad_paragraphs": [
+        "AD PARAGRAPH 12 TO 12.1",
+        "AD PARAGRAPH 12.2",
+        "AD PARAGRAPH 12.3"
+      ]
+    },
+    "settlement_and_timing": {
+      "description": "Suspicious timing of settlement agreement and interdict filing",
+      "applies_to_ad_paragraphs": [
+        "AD PARAGRAPH 12 TO 12.1",
+        "AD PARAGRAPH 13 TO 13.1",
+        "AD PARAGRAPH 13.2 TO 13.2.2"
+      ]
+    },
+    "material_non_disclosure": {
+      "description": "Material facts Peter failed to disclose in ex parte application",
+      "applies_to_ad_paragraphs": [
+        "AD PARAGRAPH 13 TO 13.1",
+        "AD PARAGRAPH 13.2 TO 13.2.2",
+        "AD PARAGRAPH 14 TO 14.2"
+      ]
+    }
+  }
+}
