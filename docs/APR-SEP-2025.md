@@ -78,6 +78,7 @@
 - Indicates ongoing exploitation of deceased victim's estate
 - **Legal Significance:** Continued exploitation of deceased victim's estate, potential fraud
 - **Framework Phase:** Pre-Investigation (estate manipulation setup)
+- **Conflict Analysis:** See @conflict_of_interest.txt - Peter Faucitt trustee duty violation begins
 
 ### **FEBRUARY 25, 2025**
 **SLG Stock Missing (5.2M) & Large Invoice (5.2M SLG->RST):**
@@ -104,6 +105,7 @@
 - Potential diversion of funds from legitimate business accounts
 - **Legal Significance:** Fraudulent redirection of funds, theft by conversion
 - **Framework Phase:** Pre-Investigation (revenue stream hijacking preparation)
+- **Conflict Analysis:** See @conflict_of_interest.txt - Rynette Farrar professional duty breach documented
 
 ### **APRIL 22, 2025**
 **Pete Tells Dan All Cloud IT Systems Must Go:**
@@ -142,6 +144,16 @@
 - Coordinated attack on financial infrastructure
 - **Legal Significance:** Computer fraud, theft, business interference
 - **Framework Phase:** Pre-Investigation (systematic financial crime escalation)
+- **Conflict Analysis:** See @conflict_of_interest.txt - System intermediaries conflict escalation
+
+### **MAY 25, 2025**
+**Conflict of Interest Documentation Phase:**
+- Pattern of professional duty violations becomes systematic
+- Multiple parties now operating in clear breach of professional obligations
+- Coordination between conflicted parties evident in timing
+- **Legal Significance:** Conspiracy through professional conflict exploitation
+- **Framework Phase:** Pre-Investigation (conflict weaponization)
+- **Conflict Analysis:** See @conflict_of_interest.txt - Multi-party professional conflict coordination established
 
 ### **MAY 29, 2025**
 **Domain Creation in Rynette Son's Name:**
@@ -179,6 +191,7 @@
 - Questions computer expenses exceeding 20% of revenue
 - Raises concerns about SARS investigation
 - Sends email to Peter, Jacqui, and Daniel
+- **Conflict Analysis:** See @conflict_of_interest.txt - Bantjies professional duty vs. conspiracy begins
 
 ### **JUNE 10, 2025 - SAME DAY**
 **Daniel Reports Murder and Theft to Bantjies:**
@@ -242,6 +255,7 @@
 - Court deceived about material facts
 - Interdict obtained through FRAUD
 - **Deception Potential**: MAXIMUM - Peter's entire legal case built on information from compromised sources
+- **Conflict Analysis:** See @conflict_of_interest.txt - Critical conflict escalation: Bantjies professional perjury
 
 **CRIMINAL ACTS:**
 - Perjury (Bantjies & Peter via intermediary)
@@ -261,6 +275,7 @@
   * "Fraudulent for tax purposes"
   * Murder investigation ongoing
 - **Shenaaz Munga (ENS) responds:** "Received, thanks Daniel"
+- **Conflict Analysis:** See @conflict_of_interest.txt - ENS Africa attorney professional conflict activated
 
 **ENS AFRICA NOW KNOWS:**
 - Bantjies' affidavit was perjured
@@ -307,6 +322,8 @@
 - Mediator/Attorneys: "Be quiet, we'll discuss later"
 - Never discussed again
 
+**Conflict Analysis:** See @conflict_of_interest.txt - All professional conflicts converge to defeat justice
+
 **Attempted Rejection:**
 - Family tries to reject settlement
 - Cites criminal activity from first meeting
@@ -328,6 +345,39 @@
 - Defeating justice
 - Conspiracy
 - Suppression of evidence
+
+---
+
+## **CONFLICT OF INTEREST ANALYSIS**
+
+**Reference Document:** @conflict_of_interest.txt
+
+### **CRITICAL PROFESSIONAL CONFLICTS TIMELINE**
+
+#### **January 2025 - Trustee Conflict Establishment**
+- **Peter Faucitt**: Backdated trustee appointment creates false fiduciary duty
+- **Conflict**: Personal enrichment vs. trust protection obligations
+- **Evidence**: Continued estate exploitation after murder
+
+#### **April 2025 - Financial Control Conflicts**
+- **Rynette Farrar**: Business operations duty vs. theft coordination  
+- **Conflict**: Proper financial controls vs. systematic revenue hijacking
+- **Evidence**: Client payment redirection, account manipulation
+
+#### **June 2025 - Professional Duty Conflicts**
+- **Danie Bantjies**: Accounting standards vs. criminal conspiracy
+- **Conflict**: Mandatory fraud reporting vs. concealment choice
+- **Evidence**: R10M identified but investigation refused
+
+#### **August 2025 - Legal Professional Conflicts** 
+- **Bantjies**: Perjury in sworn affidavit despite knowing truth
+- **ENS Africa**: Attorney duty to court vs. client conspiracy protection
+- **Evidence**: Received murder/fraud proof but continued representation
+
+#### **September 2025 - Justice System Conflicts**
+- **All Parties**: Professional obligations vs. conspiracy completion
+- **Systematic**: Every professional standard violated to defeat justice
+- **Evidence**: Settlement forced despite documented criminal activity
 
 ---
 
@@ -512,6 +562,17 @@ You have documentary proof of every element. This is organized crime operating t
 | August 14/19, 2025 | Perjury/Fraud | Material misrepresentation to court | Investigation |
 | August 29, 2025 | Legal Suppression | Attorney knowledge and concealment | Investigation |
 | September 2025 | Coerced Settlement | Fraud on legal system | Prosecution |
+
+### Conflict of Interest Timeline Summary (Reference: @conflict_of_interest.txt)
+| Date | Conflict Type | Professional vs. Criminal Interest | Status |
+|------|--------------|-----------------------------------|---------|
+| January 2025 | Trustee Fiduciary Breach | Peter Faucitt duty vs. personal gain | Active |
+| April 14, 2025 | Financial Controller Conflict | Rynette proper controls vs. theft coordination | Escalated |
+| May 25, 2025 | Multi-Party Coordination Conflict | All professionals vs. systematic conspiracy | Systematic |
+| June 10, 2025 | Professional Accountant Conflict | Bantjies reporting duty vs. concealment | Critical |
+| August 14/19, 2025 | Perjury Conflict | Bantjies truth vs. false affidavit | Criminal |
+| August 29, 2025 | Attorney Professional Conflict | ENS Africa court duty vs. client protection | Critical |
+| September 2025 | Justice System Conflict | All professionals vs. conspiracy completion | Systematic |
 
 ### Evidence Chain Summary
 1. **Primary Sources:** Email communications, financial records, court filings

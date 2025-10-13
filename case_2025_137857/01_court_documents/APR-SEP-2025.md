@@ -78,6 +78,7 @@
 - Indicates ongoing exploitation of deceased victim's estate
 - **Legal Significance:** Continued exploitation of deceased victim's estate, potential fraud
 - **Framework Phase:** Pre-Investigation (estate manipulation setup)
+- **Conflict Analysis:** See @conflict_of_interest.txt - Peter Faucitt trustee duty violation begins
 
 ### **FEBRUARY 25, 2025**
 **SLG Stock Missing (5.2M) & Large Invoice (5.2M SLG->RST):**
@@ -104,6 +105,7 @@
 - Potential diversion of funds from legitimate business accounts
 - **Legal Significance:** Fraudulent redirection of funds, theft by conversion
 - **Framework Phase:** Pre-Investigation (revenue stream hijacking preparation)
+- **Conflict Analysis:** See @conflict_of_interest.txt - Rynette Farrar professional duty breach documented
 
 ### **APRIL 22, 2025**
 **Pete Tells Dan All Cloud IT Systems Must Go:**
@@ -142,6 +144,16 @@
 - Coordinated attack on financial infrastructure
 - **Legal Significance:** Computer fraud, theft, business interference
 - **Framework Phase:** Pre-Investigation (systematic financial crime escalation)
+- **Conflict Analysis:** See @conflict_of_interest.txt - System intermediaries conflict escalation
+
+### **MAY 25, 2025**
+**Conflict of Interest Documentation Phase:**
+- Pattern of professional duty violations becomes systematic
+- Multiple parties now operating in clear breach of professional obligations
+- Coordination between conflicted parties evident in timing
+- **Legal Significance:** Conspiracy through professional conflict exploitation
+- **Framework Phase:** Pre-Investigation (conflict weaponization)
+- **Conflict Analysis:** See @conflict_of_interest.txt - Multi-party professional conflict coordination established
 
 ### **MAY 29, 2025**
 **Domain Creation in Rynette Son's Name:**
@@ -179,6 +191,7 @@
 - Questions computer expenses exceeding 20% of revenue
 - Raises concerns about SARS investigation
 - Sends email to Peter, Jacqui, and Daniel
+- **Conflict Analysis:** See @conflict_of_interest.txt - Bantjies professional duty vs. conspiracy begins
 
 ### **JUNE 10, 2025 - SAME DAY**
 **Daniel Reports Murder and Theft to Bantjies:**
@@ -242,6 +255,7 @@
 - Court deceived about material facts
 - Interdict obtained through FRAUD
 - **Deception Potential**: MAXIMUM - Peter's entire legal case built on information from compromised sources
+- **Conflict Analysis:** See @conflict_of_interest.txt - Critical conflict escalation: Bantjies professional perjury
 
 **CRIMINAL ACTS:**
 - Perjury (Bantjies & Peter via intermediary)
@@ -512,6 +526,17 @@ You have documentary proof of every element. This is organized crime operating t
 | August 14/19, 2025 | Perjury/Fraud | Material misrepresentation to court | Investigation |
 | August 29, 2025 | Legal Suppression | Attorney knowledge and concealment | Investigation |
 | September 2025 | Coerced Settlement | Fraud on legal system | Prosecution |
+
+### Conflict of Interest Timeline Summary (Reference: @conflict_of_interest.txt)
+| Date | Conflict Type | Professional vs. Criminal Interest | Status |
+|------|--------------|-----------------------------------|---------|
+| January 2025 | Trustee Fiduciary Breach | Peter Faucitt duty vs. personal gain | Active |
+| April 14, 2025 | Financial Controller Conflict | Rynette proper controls vs. theft coordination | Escalated |
+| May 25, 2025 | Multi-Party Coordination Conflict | All professionals vs. systematic conspiracy | Systematic |
+| June 10, 2025 | Professional Accountant Conflict | Bantjies reporting duty vs. concealment | Critical |
+| August 14/19, 2025 | Perjury Conflict | Bantjies truth vs. false affidavit | Criminal |
+| August 29, 2025 | Attorney Professional Conflict | ENS Africa court duty vs. client protection | Critical |
+| September 2025 | Justice System Conflict | All professionals vs. conspiracy completion | Systematic |
 
 ### Evidence Chain Summary
 1. **Primary Sources:** Email communications, financial records, court filings

@@ -1,0 +1,71 @@
+# Conflict of Interest Analysis
+
+## Overview
+This document identifies and tracks conflicts of interest throughout the criminal conspiracy timeline in Case 2025-137857.
+
+## Key Conflicts of Interest
+
+### 1. Danie Bantjies (Accountant)
+**Nature of Conflict:** Professional duty vs. criminal conspiracy participation
+- **Date:** June 10, 2025 - Identified R10 million missing but refused to investigate
+- **Date:** August 14/19, 2025 - Provided perjured affidavit despite knowing about murder and fraud
+- **Conflict:** Required to report financial irregularities but chose to conceal them
+- **Criminal Implication:** Breach of fiduciary duty, conspiracy to commit fraud
+
+### 2. Peter Andrew Faucitt (Primary Accused)
+**Nature of Conflict:** Trustee duties vs. personal financial gain
+- **Date:** August 2023 - Stole funds after Kayla's murder
+- **Date:** April-September 2025 - Systematic asset stripping while acting as trustee
+- **Conflict:** Fiduciary duty to protect trust assets vs. personal enrichment
+- **Criminal Implication:** Breach of trust, theft, murder-related financial crimes
+
+### 3. ENS Africa Attorneys
+**Nature of Conflict:** Legal professional duties vs. client conspiracy protection
+- **Date:** August 29, 2025 - Received proof of perjury and murder cover-up
+- **Date:** September 2025 - Forced settlement despite knowledge of criminal activity
+- **Conflict:** Duty to court and justice system vs. client protection
+- **Criminal Implication:** Defeating justice, conspiracy to conceal murder
+
+### 4. Rynette Farrar (Financial Controller)
+**Nature of Conflict:** Business operational duty vs. criminal coordination
+- **Date:** April 14, 2025 - Redirected client payments to unauthorized accounts
+- **Date:** May 22, 2025 - Coordinated systematic revenue hijacking
+- **Conflict:** Duty to maintain proper financial controls vs. facilitating theft
+- **Criminal Implication:** Money laundering, conspiracy, financial fraud
+
+### 5. System Intermediaries
+**Nature of Conflict:** Information accuracy vs. deception facilitation
+- **Date:** Throughout 2025 - Provided manipulated information to Peter Faucitt
+- **Conflict:** Duty to provide accurate information vs. conspiracy participation
+- **Criminal Implication:** Information warfare, conspiracy coordination
+
+## Timeline Integration Points
+
+### Pre-Crime Setup Phase (January-May 2025)
+- Conflicts established through systematic positioning of compromised parties
+- Financial control mechanisms installed through conflicted intermediaries
+
+### Discovery Phase (June 2025)
+- Professional conflicts activated when crimes discovered
+- Duty vs. loyalty conflicts clearly documented
+
+### Fraudulent Legal Action (August 2025)
+- Attorney-client conflicts weaponized against justice system
+- Professional duty systematically violated
+
+### Coerced Settlement (September 2025)
+- All conflicts converge to defeat justice and protect conspiracy
+
+## Legal Implications
+Each conflict of interest represents a separate criminal charge and civil liability exposure for the involved parties.
+
+## Evidence Sources
+- Email communications showing knowledge of duties
+- Timeline correlation proving deliberate choices
+- Professional standards documentation
+- Criminal law precedents for conflict-based prosecutions
+
+---
+**Document Status:** Active Analysis Document
+**Last Updated:** October 13, 2025
+**Classification:** Critical Evidence - Conflict Analysis

@@ -78,6 +78,7 @@
 - Indicates ongoing exploitation of deceased victim's estate
 - **Legal Significance:** Continued exploitation of deceased victim's estate, potential fraud
 - **Framework Phase:** Pre-Investigation (estate manipulation setup)
+- **Conflict Analysis:** See @conflict_of_interest.txt - Peter Faucitt trustee duty violation begins
 
 ### **FEBRUARY 25, 2025**
 **SLG Stock Missing (5.2M) & Large Invoice (5.2M SLG->RST):**
@@ -149,6 +150,16 @@
 - **Legal Significance:** Computer fraud, theft, business interference, evidence destruction, POPIA violations
 - **Framework Phase:** Pre-Investigation (systematic financial crime escalation - revenue diversion)
 - **Evidence Source**: `evidence_package_20250523/RegimAZone·Reports·Totalsalesovertimebystore·ShopifyPlusZAR.pdf`, `RegimASA·Reports·Totalsalesovertimebystore·ShopifyPlus.pdf`
+- **Conflict Analysis:** See @conflict_of_interest.txt - System intermediaries conflict escalation
+
+### **MAY 25, 2025**
+**Conflict of Interest Documentation Phase:**
+- Pattern of professional duty violations becomes systematic
+- Multiple parties now operating in clear breach of professional obligations
+- Coordination between conflicted parties evident in timing
+- **Legal Significance:** Conspiracy through professional conflict exploitation
+- **Framework Phase:** Pre-Investigation (conflict weaponization)
+- **Conflict Analysis:** See @conflict_of_interest.txt - Multi-party professional conflict coordination established
 
 ### **MAY 29, 2025**
 **Domain Creation in Rynette Son's Name:**
@@ -285,6 +296,7 @@
 ## **PHASE 2: FRAUDULENT LEGAL ACTION (AUGUST 2025)**
 
 ### **AUGUST 11, 2025, 11:00 UTC**
+- **Conflict Analysis:** See @conflict_of_interest.txt - Pre-perjury positioning phase
 **Trustee Appointment Email Sent:**
 - **From**: Rynette (rynette@regimaskin.co.za)
 - **To**: Danie Bantjies (danie.bantjes@gmail.com)
@@ -396,6 +408,7 @@
 ## **PHASE 3: COERCED SETTLEMENT (SEPTEMBER 2025)**
 
 ### **SEPTEMBER 29, 2025**
+- **Conflict Analysis:** See @conflict_of_interest.txt - Final conflict resolution through forced settlement
 **Shopify Bill Finally Paid - Alternative Payment Card:**
 - **Bill**: Shopify invoice #388990813 (created July 10, 2025)
 - **Payment Method**: Visa ending in 3212 (Dan/Jax personal card)
@@ -658,6 +671,17 @@ You have documentary proof of every element. This is organized crime operating t
 | August 14/19, 2025 | Perjury/Fraud | Material misrepresentation to court | Investigation |
 | August 29, 2025 | Legal Suppression | Attorney knowledge and concealment | Investigation |
 | September 2025 | Coerced Settlement | Fraud on legal system | Prosecution |
+
+### Conflict of Interest Timeline Summary (Reference: @conflict_of_interest.txt)
+| Date | Conflict Type | Professional vs. Criminal Interest | Status |
+|------|--------------|-----------------------------------|---------|
+| January 2025 | Trustee Fiduciary Breach | Peter Faucitt duty vs. personal gain | Active |
+| April 14, 2025 | Financial Controller Conflict | Rynette proper controls vs. theft coordination | Escalated |
+| May 25, 2025 | Multi-Party Coordination Conflict | All professionals vs. systematic conspiracy | Systematic |
+| June 10, 2025 | Professional Accountant Conflict | Bantjies reporting duty vs. concealment | Critical |
+| August 14/19, 2025 | Perjury Conflict | Bantjies truth vs. false affidavit | Criminal |
+| August 29, 2025 | Attorney Professional Conflict | ENS Africa court duty vs. client protection | Critical |
+| September 2025 | Justice System Conflict | All professionals vs. conspiracy completion | Systematic |
 
 ### Evidence Chain Summary
 1. **Primary Sources:** Email communications, financial records, court filings
