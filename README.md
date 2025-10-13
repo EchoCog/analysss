@@ -1,4 +1,5 @@
 # Analysis Repository
+> Note: This is a non-functional, dummy change created to verify repository access, linting, and PR workflow.
 
 ## Criminal Case Timeline & Evidence Analysis System
 
