@@ -6,6 +6,22 @@ Complete collection of documents, evidence, and analysis for Jacqueline Faucitt'
 
 ## Directory Structure
 
+### 📁 `/revenue-theft/`
+**FORENSIC EVIDENCE ANALYSIS - Revenue Hijacking Criminal Scheme**
+
+Comprehensive forensic analysis of the coordinated revenue hijacking scheme targeting RegimA business operations from April-July 2025. Contains evidence for 5 major criminal events with documented financial losses exceeding R3.1 million.
+
+**Sub-directories:**
+- **`14-apr-bank-letter/`** - Bank account change fraud (April 14, 2025)
+- **`22-may-shopify-audit/`** - Shopify audit trail destruction (May 22, 2025) 
+- **`29-may-domain-registration/`** - Domain registration by son for identity fraud (May 29, 2025)
+- **`20-june-gee-gayane-email/`** - Administrative instruction coordination evidence (June 20, 2025)
+- **`08-july-warehouse-popi/`** - Business sabotage and POPI violations (July 8, 2025)
+
+**Key Files:**
+- **`README.md`** - Complete forensic analysis overview
+- **`FORENSIC_EVIDENCE_INDEX.md`** - Comprehensive evidence catalog and prosecution framework
+
 ### 📁 `/source-documents/`
 Original affidavit drafts and source materials provided by Jax:
 
