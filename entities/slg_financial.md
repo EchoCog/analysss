@@ -1,0 +1,24 @@
+# SLG Financial
+
+## Entity Profile
+- **Type**: Organizations
+- **Source**: timeline_validation_against_evidence.md
+- **Last Updated**: 2025-10-12T03:42:05.135110
+- **Status**: Automatically Extracted
+
+## Occurrences
+- Found in: timeline_validation_against_evidence.md
+- Entity Type: organizations
+- Extraction Method: Pattern Matching
+
+## Analysis Notes
+*This entity was automatically extracted. Manual review and enhancement recommended.*
+
+## Related Files
+- timeline_validation_against_evidence.md
+
+## Actions Required
+- [ ] Verify entity accuracy
+- [ ] Add detailed analysis
+- [ ] Link to related entities
+- [ ] Update timeline if applicable

@@ -1,0 +1,1789 @@
+{
+  "case_id": "2025_137857",
+  "metadata": {
+    "last_updated": "2025-09-30T12:00:49.400683",
+    "integration_version": "2.0",
+    "documents_processed": 119,
+    "total_documents": 178
+  },
+  "entities": {
+    "persons": [
+      {
+        "name": "Peter Faucitt",
+        "role": "Applicant/Accused",
+        "documents": [
+          "peter-faucitt-interdict",
+          "court_order_2025_137857"
+        ],
+        "events": [
+          "interdict_application",
+          "criminal_charges"
+        ]
+      },
+      {
+        "name": "Jacqui Faucitt",
+        "role": "Respondent",
+        "documents": [
+          "jacqui-faucitt-draft-response",
+          "court_order_2025_137857"
+        ],
+        "events": [
+          "response_draft",
+          "settlement_agreement"
+        ]
+      },
+      {
+        "name": "J and D Faucitt",
+        "role": "Legal Representatives",
+        "documents": [
+          "J and D Faucitt 250925.pdf"
+        ],
+        "events": [
+          "attorney_withdrawal"
+        ]
+      }
+    ],
+    "organizations": [
+      {
+        "name": "RegimA SA",
+        "type": "Business Entity",
+        "documents": [
+          "RegimA SA Reports",
+          "financial_records"
+        ],
+        "role": "Subject of dispute"
+      },
+      {
+        "name": "RegimA Worldwide Distribution",
+        "type": "Business Entity",
+        "documents": [
+          "Screenshot-Sage-Account"
+        ],
+        "role": "Related entity"
+      },
+      {
+        "name": "De Novo Business Services (Pty) Ltd",
+        "type": "Service Provider",
+        "documents": [
+          "INV14491"
+        ],
+        "role": "Invoice issuer"
+      },
+      {
+        "name": "Shopify Plus",
+        "type": "Platform",
+        "documents": [
+          "Shopify Plus W.pdf",
+          "sales_reports"
+        ],
+        "role": "E-commerce platform"
+      }
+    ],
+    "legal_documents": [
+      {
+        "name": "Court Order 2025_137857",
+        "type": "Court Order",
+        "date": "2025-09-30",
+        "status": "Active"
+      },
+      {
+        "name": "Settlement Agreement (Medical Testing)",
+        "type": "Settlement Agreement",
+        "date": "2025",
+        "parties": [
+          "Peter Faucitt",
+          "Jacqui Faucitt"
+        ],
+        "status": "Signed"
+      },
+      {
+        "name": "Notice of Withdrawal as Attorneys",
+        "type": "Legal Notice",
+        "date": "2025-09-24",
+        "attorneys": "J and D Faucitt"
+      },
+      {
+        "name": "Formal Notice of Voidness Due to Perjury and Fraud",
+        "type": "Legal Notice",
+        "status": "Draft"
+      }
+    ]
+  },
+  "timeline": [
+    {
+      "date": "2025-06-20",
+      "type": "financial_evidence",
+      "description": "Sage Account screenshot for RegimA Worldwide Distribution",
+      "documents": [
+        "Screenshot-2025-06-20-Sage-Account-RegimA-Worldwide-Distribution.jpg"
+      ]
+    },
+    {
+      "date": "2025-07-28",
+      "type": "financial_transaction",
+      "description": "Invoice INV14491 issued by De Novo Business Services",
+      "amount": "Unknown",
+      "documents": [
+        "INV14491(791)(De Novo Business Services (Pty) Ltd)(2025-07-28).pdf"
+      ]
+    },
+    {
+      "date": "2025-08-25",
+      "type": "financial_evidence",
+      "description": "Updated Sage Account screenshot for RegimA Worldwide Distribution",
+      "documents": [
+        "Screenshot-2025-08-25-Sage-Account-RegimA-Worldwide-Distribution.jpg"
+      ]
+    },
+    {
+      "date": "2025-09-01",
+      "type": "evidence_collection",
+      "description": "Evidence document CCE20250901 created",
+      "documents": [
+        "CCE20250901.pdf"
+      ]
+    },
+    {
+      "date": "2025-09-03",
+      "type": "evidence_collection",
+      "description": "Evidence document CCE20250903 created",
+      "documents": [
+        "CCE20250903.pdf"
+      ]
+    },
+    {
+      "date": "2025-09-04",
+      "type": "evidence_collection",
+      "description": "Evidence document CCE20250904 created",
+      "documents": [
+        "CCE20250904.pdf"
+      ]
+    },
+    {
+      "date": "2025-09-11",
+      "type": "evidence_collection",
+      "description": "Evidence document CCE20250911 created",
+      "documents": [
+        "CCE20250911_0002.jpg"
+      ]
+    },
+    {
+      "date": "2025-09-24",
+      "type": "legal_event",
+      "description": "Notice of withdrawal as attorneys of record filed",
+      "parties": [
+        "J and D Faucitt"
+      ],
+      "documents": [
+        "0558631 Notice of withdrawal as attorneys of record 250924.pdf"
+      ]
+    },
+    {
+      "date": "2025-09-24",
+      "type": "legal_filing",
+      "description": "Peter Faucitt interdict application filed",
+      "documents": [
+        "CCE20250924 series",
+        "peter-faucitt-interdict-complete.md"
+      ]
+    },
+    {
+      "date": "2025-09-25",
+      "type": "legal_document",
+      "description": "J and D Faucitt legal document",
+      "documents": [
+        "J and D Faucitt 250925.pdf"
+      ]
+    },
+    {
+      "date": "2025-09-29",
+      "type": "legal_response",
+      "description": "Jacqui Faucitt draft response prepared",
+      "documents": [
+        "CCE20250929 series",
+        "jacqui-faucitt-draft-response"
+      ]
+    },
+    {
+      "date": "2025-09-30",
+      "type": "analysis",
+      "description": "Comprehensive case analysis and document integration completed",
+      "documents": [
+        "document_integration_report.md"
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "type": "legal_dispute",
+      "parties": [
+        "Peter Faucitt",
+        "Jacqui Faucitt"
+      ],
+      "subject": "RegimA business entities",
+      "status": "Active"
+    },
+    {
+      "type": "legal_representation",
+      "client": [
+        "Peter Faucitt",
+        "Jacqui Faucitt"
+      ],
+      "attorneys": "J and D Faucitt",
+      "status": "Withdrawn",
+      "date": "2025-09-24"
+    },
+    {
+      "type": "business_ownership",
+      "entities": [
+        "RegimA SA",
+        "RegimA Worldwide Distribution"
+      ],
+      "disputed_by": [
+        "Peter Faucitt",
+        "Jacqui Faucitt"
+      ]
+    },
+    {
+      "type": "settlement_agreement",
+      "parties": [
+        "Peter Faucitt",
+        "Jacqui Faucitt"
+      ],
+      "subject": "Medical testing",
+      "status": "Signed"
+    },
+    {
+      "type": "interdict_application",
+      "applicant": "Peter Faucitt",
+      "respondent": "Jacqui Faucitt",
+      "date": "2025-09-24",
+      "status": "Filed"
+    }
+  ],
+  "summary": {
+    "case_id": "2025_137857",
+    "last_updated": "2025-09-30T12:00:49.400648",
+    "status": "Active",
+    "key_parties": {
+      "applicant": "Peter Faucitt",
+      "respondent": "Jacqui Faucitt",
+      "former_attorneys": "J and D Faucitt"
+    },
+    "key_events": {
+      "interdict_filed": "2025-09-24",
+      "attorneys_withdrawn": "2025-09-24",
+      "draft_response": "2025-09-29",
+      "settlement_signed": "2025 (date TBD)"
+    },
+    "disputed_entities": [
+      "RegimA SA",
+      "RegimA Worldwide Distribution"
+    ],
+    "document_counts": {
+      "court_documents": 74,
+      "evidence_items": 119,
+      "financial_records": 5,
+      "emails": 6,
+      "screenshots": 55
+    },
+    "critical_findings": [
+      "Settlement agreement for medical testing has been signed",
+      "Attorneys J and D Faucitt have withdrawn from representation",
+      "Peter Faucitt filed interdict application on 2025-09-24",
+      "Jacqui Faucitt prepared draft response on 2025-09-29",
+      "Multiple financial documents related to RegimA entities",
+      "Evidence of ongoing business operations through Shopify Plus"
+    ],
+    "next_actions": [
+      "Review interdict application details",
+      "Analyze financial implications of RegimA entities",
+      "Track court proceedings following attorney withdrawal",
+      "Monitor compliance with settlement agreement"
+    ]
+  },
+  "processing_results": {
+    "processed": [
+      {
+        "file": "peter-faucitt-interdict/CCE20250924_0017.jpg",
+        "category": "evidence",
+        "destination": "02_evidence/screenshots"
+      },
+      {
+        "file": "peter-faucitt-interdict/CCE20250924_0039.jpg",
+        "category": "evidence",
+        "destination": "02_evidence/screenshots"
+      },
+      {
+        "file": "peter-faucitt-interdict/CCE20250924_0003.jpg",
+        "category": "evidence",
+        "destination": "02_evidence/screenshots"
+      },
+      {
+        "file": "peter-faucitt-interdict/CCE20250924_0038.jpg",
+        "category": "evidence",
+        "destination": "02_evidence/screenshots"
+      },
+      {
+        "file": "peter-faucitt-interdict/CCE20250924_0034.jpg",
+        "category": "evidence",
+        "destination": "02_evidence/screenshots"
+      },
+      {
+        "file": "peter-faucitt-interdict/CCE20250924_0042.jpg",
+        "category": "evidence",
+        "destination": "02_evidence/screenshots"
+      },
+      {
+        "file": "peter-faucitt-interdict/CCE20250924_0019.jpg",
+        "category": "evidence",
+        "destination": "02_evidence/screenshots"
+      },
+      {
+        "file": "peter-faucitt-interdict/CCE20250924_0004.jpg",
+        "category": "evidence",
+        "destination": "02_evidence/screenshots"
+      },
+      {
+        "file": "peter-faucitt-interdict/CCE20250924_0005.jpg",
+        "category": "evidence",
+        "destination": "02_evidence/screenshots"
+      },
+      {
+        "file": "peter-faucitt-interdict/CCE20250924_0020.jpg",
+        "category": "evidence",
+        "destination": "02_evidence/screenshots"
+      },
+      {
+        "file": "peter-faucitt-interdict/CCE20250924_0047.jpg",
+        "category": "evidence",
+        "destination": "02_evidence/screenshots"
+      },
+      {
+        "file": "peter-faucitt-interdict/CCE20250924_0015.jpg",
+        "category": "evidence",
+        "destination": "02_evidence/screenshots"
+      },
+      {
+        "file": "peter-faucitt-interdict/CCE20250924_0044.jpg",
+        "category": "evidence",
+        "destination": "02_evidence/screenshots"
+      },
+      {
+        "file": "peter-faucitt-interdict/CCE20250924.jpg",
+        "category": "evidence",
+        "destination": "02_evidence/screenshots"
+      },
+      {
+        "file": "peter-faucitt-interdict/CCE20250924_0002.jpg",
+        "category": "evidence",
+        "destination": "02_evidence/screenshots"
+      },
+      {
+        "file": "peter-faucitt-interdict/CCE20250924_0001.jpg",
+        "category": "evidence",
+        "destination": "02_evidence/screenshots"
+      },
+      {
+        "file": "peter-faucitt-interdict/CCE20250924_0023.jpg",
+        "category": "evidence",
+        "destination": "02_evidence/screenshots"
+      },
+      {
+        "file": "peter-faucitt-interdict/CCE20250924_0029.jpg",
+        "category": "evidence",
+        "destination": "02_evidence/screenshots"
+      },
+      {
+        "file": "peter-faucitt-interdict/CCE20250924_0041.jpg",
+        "category": "evidence",
+        "destination": "02_evidence/screenshots"
+      },
+      {
+        "file": "peter-faucitt-interdict/CCE20250924_0014.jpg",
+        "category": "evidence",
+        "destination": "02_evidence/screenshots"
+      },
+      {
+        "file": "peter-faucitt-interdict/CCE20250924_0030.jpg",
+        "category": "evidence",
+        "destination": "02_evidence/screenshots"
+      },
+      {
+        "file": "peter-faucitt-interdict/CCE20250924_0049.jpg",
+        "category": "evidence",
+        "destination": "02_evidence/screenshots"
+      },
+      {
+        "file": "peter-faucitt-interdict/CCE20250924_0035.jpg",
+        "category": "evidence",
+        "destination": "02_evidence/screenshots"
+      },
+      {
+        "file": "peter-faucitt-interdict/CCE20250924_0026.jpg",
+        "category": "evidence",
+        "destination": "02_evidence/screenshots"
+      },
+      {
+        "file": "peter-faucitt-interdict/CCE20250924_0021.jpg",
+        "category": "evidence",
+        "destination": "02_evidence/screenshots"
+      },
+      {
+        "file": "peter-faucitt-interdict/CCE20250924_0048.jpg",
+        "category": "evidence",
+        "destination": "02_evidence/screenshots"
+      },
+      {
+        "file": "peter-faucitt-interdict/CCE20250924_0008.jpg",
+        "category": "evidence",
+        "destination": "02_evidence/screenshots"
+      },
+      {
+        "file": "peter-faucitt-interdict/CCE20250924_0033.jpg",
+        "category": "evidence",
+        "destination": "02_evidence/screenshots"
+      },
+      {
+        "file": "peter-faucitt-interdict/CCE20250924_0046.jpg",
+        "category": "evidence",
+        "destination": "02_evidence/screenshots"
+      },
+      {
+        "file": "peter-faucitt-interdict/CCE20250924_0037.jpg",
+        "category": "evidence",
+        "destination": "02_evidence/screenshots"
+      },
+      {
+        "file": "peter-faucitt-interdict/CCE20250924_0011.jpg",
+        "category": "evidence",
+        "destination": "02_evidence/screenshots"
+      },
+      {
+        "file": "peter-faucitt-interdict/peter-faucitt-interdict-complete.md",
+        "category": "court_documents",
+        "destination": "01_court_documents"
+      },
+      {
+        "file": "peter-faucitt-interdict/CCE20250924_0007.jpg",
+        "category": "evidence",
+        "destination": "02_evidence/screenshots"
+      },
+      {
+        "file": "peter-faucitt-interdict/CCE20250924_0010.jpg",
+        "category": "evidence",
+        "destination": "02_evidence/screenshots"
+      },
+      {
+        "file": "peter-faucitt-interdict/CCE20250924_0024.jpg",
+        "category": "evidence",
+        "destination": "02_evidence/screenshots"
+      },
+      {
+        "file": "peter-faucitt-interdict/CCE20250924_0027.jpg",
+        "category": "evidence",
+        "destination": "02_evidence/screenshots"
+      },
+      {
+        "file": "peter-faucitt-interdict/CCE20250924_0013.jpg",
+        "category": "evidence",
+        "destination": "02_evidence/screenshots"
+      },
+      {
+        "file": "peter-faucitt-interdict/CCE20250924_0032.jpg",
+        "category": "evidence",
+        "destination": "02_evidence/screenshots"
+      },
+      {
+        "file": "peter-faucitt-interdict/CCE20250924_0028.jpg",
+        "category": "evidence",
+        "destination": "02_evidence/screenshots"
+      },
+      {
+        "file": "peter-faucitt-interdict/CCE20250924_0036.jpg",
+        "category": "evidence",
+        "destination": "02_evidence/screenshots"
+      },
+      {
+        "file": "peter-faucitt-interdict/CCE20250924_0006.jpg",
+        "category": "evidence",
+        "destination": "02_evidence/screenshots"
+      },
+      {
+        "file": "peter-faucitt-interdict/CCE20250924_0018.jpg",
+        "category": "evidence",
+        "destination": "02_evidence/screenshots"
+      },
+      {
+        "file": "peter-faucitt-interdict/CCE20250924_0050.jpg",
+        "category": "evidence",
+        "destination": "02_evidence/screenshots"
+      },
+      {
+        "file": "peter-faucitt-interdict/CCE20250924_0022.jpg",
+        "category": "evidence",
+        "destination": "02_evidence/screenshots"
+      },
+      {
+        "file": "peter-faucitt-interdict/CCE20250924_0043.jpg",
+        "category": "evidence",
+        "destination": "02_evidence/screenshots"
+      },
+      {
+        "file": "peter-faucitt-interdict/CCE20250924_0025.jpg",
+        "category": "evidence",
+        "destination": "02_evidence/screenshots"
+      },
+      {
+        "file": "peter-faucitt-interdict/CCE20250924_0051.jpg",
+        "category": "evidence",
+        "destination": "02_evidence/screenshots"
+      },
+      {
+        "file": "peter-faucitt-interdict/CCE20250924_0009.jpg",
+        "category": "evidence",
+        "destination": "02_evidence/screenshots"
+      },
+      {
+        "file": "peter-faucitt-interdict/CCE20250924_0045.jpg",
+        "category": "evidence",
+        "destination": "02_evidence/screenshots"
+      },
+      {
+        "file": "peter-faucitt-interdict/peter-faucitt-interdict-combined.md",
+        "category": "court_documents",
+        "destination": "01_court_documents"
+      },
+      {
+        "file": "peter-faucitt-interdict/CCE20250924_0012.jpg",
+        "category": "evidence",
+        "destination": "02_evidence/screenshots"
+      },
+      {
+        "file": "peter-faucitt-interdict/CCE20250924_0040.jpg",
+        "category": "evidence",
+        "destination": "02_evidence/screenshots"
+      },
+      {
+        "file": "peter-faucitt-interdict/CCE20250924_0031.jpg",
+        "category": "evidence",
+        "destination": "02_evidence/screenshots"
+      },
+      {
+        "file": "peter-faucitt-interdict/CCE20250924_0016.jpg",
+        "category": "evidence",
+        "destination": "02_evidence/screenshots"
+      },
+      {
+        "file": "jacqui-faucitt-draft-response/ocr-analysis-CCE20250929_0006.md",
+        "category": "court_documents",
+        "destination": "01_court_documents"
+      },
+      {
+        "file": "jacqui-faucitt-draft-response/ocr-analysis-CCE20250929.md",
+        "category": "court_documents",
+        "destination": "01_court_documents"
+      },
+      {
+        "file": "jacqui-faucitt-draft-response/CCE20250929_0004.jpg",
+        "category": "evidence",
+        "destination": "02_evidence/screenshots"
+      },
+      {
+        "file": "jacqui-faucitt-draft-response/CCE20250929_0001.jpg",
+        "category": "evidence",
+        "destination": "02_evidence/screenshots"
+      },
+      {
+        "file": "jacqui-faucitt-draft-response/CCE20250929.jpg",
+        "category": "evidence",
+        "destination": "02_evidence/screenshots"
+      },
+      {
+        "file": "jacqui-faucitt-draft-response/CCE20250929_0005.jpg",
+        "category": "evidence",
+        "destination": "02_evidence/screenshots"
+      },
+      {
+        "file": "jacqui-faucitt-draft-response/CCE20250929_0003.jpg",
+        "category": "evidence",
+        "destination": "02_evidence/screenshots"
+      },
+      {
+        "file": "jacqui-faucitt-draft-response/ocr-analysis-CCE20250929_0003.md",
+        "category": "court_documents",
+        "destination": "01_court_documents"
+      },
+      {
+        "file": "jacqui-faucitt-draft-response/ocr-analysis-CCE20250929_0001.md",
+        "category": "court_documents",
+        "destination": "01_court_documents"
+      },
+      {
+        "file": "jacqui-faucitt-draft-response/ocr-analysis-CCE20250929_0004.md",
+        "category": "court_documents",
+        "destination": "01_court_documents"
+      },
+      {
+        "file": "jacqui-faucitt-draft-response/CCE20250929_0002.jpg",
+        "category": "evidence",
+        "destination": "02_evidence/screenshots"
+      },
+      {
+        "file": "jacqui-faucitt-draft-response/ocr-analysis-CCE20250929_0005.md",
+        "category": "court_documents",
+        "destination": "01_court_documents"
+      },
+      {
+        "file": "jacqui-faucitt-draft-response/ocr-analysis-CCE20250929_0002.md",
+        "category": "court_documents",
+        "destination": "01_court_documents"
+      },
+      {
+        "file": "jacqui-faucitt-draft-response/CCE20250929_0006.jpg",
+        "category": "evidence",
+        "destination": "02_evidence/screenshots"
+      },
+      {
+        "file": "peter-faucitt-interdict/markdown/page_0036.md",
+        "category": "court_documents",
+        "destination": "01_court_documents"
+      },
+      {
+        "file": "peter-faucitt-interdict/markdown/page_0033.md",
+        "category": "court_documents",
+        "destination": "01_court_documents"
+      },
+      {
+        "file": "peter-faucitt-interdict/markdown/page_0040.md",
+        "category": "court_documents",
+        "destination": "01_court_documents"
+      },
+      {
+        "file": "peter-faucitt-interdict/markdown/page_0047.md",
+        "category": "court_documents",
+        "destination": "01_court_documents"
+      },
+      {
+        "file": "peter-faucitt-interdict/markdown/page_0011.md",
+        "category": "court_documents",
+        "destination": "01_court_documents"
+      },
+      {
+        "file": "peter-faucitt-interdict/markdown/page_0020.md",
+        "category": "court_documents",
+        "destination": "01_court_documents"
+      },
+      {
+        "file": "peter-faucitt-interdict/markdown/page_0005.md",
+        "category": "court_documents",
+        "destination": "01_court_documents"
+      },
+      {
+        "file": "peter-faucitt-interdict/markdown/page_0010.md",
+        "category": "court_documents",
+        "destination": "01_court_documents"
+      },
+      {
+        "file": "peter-faucitt-interdict/markdown/page_0039.md",
+        "category": "court_documents",
+        "destination": "01_court_documents"
+      },
+      {
+        "file": "peter-faucitt-interdict/markdown/page_0045.md",
+        "category": "court_documents",
+        "destination": "01_court_documents"
+      },
+      {
+        "file": "peter-faucitt-interdict/markdown/page_0048.md",
+        "category": "court_documents",
+        "destination": "01_court_documents"
+      },
+      {
+        "file": "peter-faucitt-interdict/markdown/page_0012.md",
+        "category": "court_documents",
+        "destination": "01_court_documents"
+      },
+      {
+        "file": "peter-faucitt-interdict/markdown/page_0022.md",
+        "category": "court_documents",
+        "destination": "01_court_documents"
+      },
+      {
+        "file": "peter-faucitt-interdict/markdown/page_0038.md",
+        "category": "court_documents",
+        "destination": "01_court_documents"
+      },
+      {
+        "file": "peter-faucitt-interdict/markdown/page_0007.md",
+        "category": "court_documents",
+        "destination": "01_court_documents"
+      },
+      {
+        "file": "peter-faucitt-interdict/markdown/page_0004.md",
+        "category": "court_documents",
+        "destination": "01_court_documents"
+      },
+      {
+        "file": "peter-faucitt-interdict/markdown/page_0027.md",
+        "category": "court_documents",
+        "destination": "01_court_documents"
+      },
+      {
+        "file": "peter-faucitt-interdict/markdown/page_0013.md",
+        "category": "court_documents",
+        "destination": "01_court_documents"
+      },
+      {
+        "file": "peter-faucitt-interdict/markdown/page_0016.md",
+        "category": "court_documents",
+        "destination": "01_court_documents"
+      },
+      {
+        "file": "peter-faucitt-interdict/markdown/page_0042.md",
+        "category": "court_documents",
+        "destination": "01_court_documents"
+      },
+      {
+        "file": "peter-faucitt-interdict/markdown/page_0015.md",
+        "category": "court_documents",
+        "destination": "01_court_documents"
+      },
+      {
+        "file": "peter-faucitt-interdict/markdown/page_0021.md",
+        "category": "court_documents",
+        "destination": "01_court_documents"
+      },
+      {
+        "file": "peter-faucitt-interdict/markdown/page_0041.md",
+        "category": "court_documents",
+        "destination": "01_court_documents"
+      },
+      {
+        "file": "peter-faucitt-interdict/markdown/page_0037.md",
+        "category": "court_documents",
+        "destination": "01_court_documents"
+      },
+      {
+        "file": "peter-faucitt-interdict/markdown/page_0024.md",
+        "category": "court_documents",
+        "destination": "01_court_documents"
+      },
+      {
+        "file": "peter-faucitt-interdict/markdown/page_0029.md",
+        "category": "court_documents",
+        "destination": "01_court_documents"
+      },
+      {
+        "file": "peter-faucitt-interdict/markdown/page_0023.md",
+        "category": "court_documents",
+        "destination": "01_court_documents"
+      },
+      {
+        "file": "peter-faucitt-interdict/markdown/page_0018.md",
+        "category": "court_documents",
+        "destination": "01_court_documents"
+      },
+      {
+        "file": "peter-faucitt-interdict/markdown/page_0008.md",
+        "category": "court_documents",
+        "destination": "01_court_documents"
+      },
+      {
+        "file": "peter-faucitt-interdict/markdown/page_0006.md",
+        "category": "court_documents",
+        "destination": "01_court_documents"
+      },
+      {
+        "file": "peter-faucitt-interdict/markdown/page_0031.md",
+        "category": "court_documents",
+        "destination": "01_court_documents"
+      },
+      {
+        "file": "peter-faucitt-interdict/markdown/page_0049.md",
+        "category": "court_documents",
+        "destination": "01_court_documents"
+      },
+      {
+        "file": "peter-faucitt-interdict/markdown/page_0009.md",
+        "category": "court_documents",
+        "destination": "01_court_documents"
+      },
+      {
+        "file": "peter-faucitt-interdict/markdown/page_0026.md",
+        "category": "court_documents",
+        "destination": "01_court_documents"
+      },
+      {
+        "file": "peter-faucitt-interdict/markdown/page_0028.md",
+        "category": "court_documents",
+        "destination": "01_court_documents"
+      },
+      {
+        "file": "peter-faucitt-interdict/markdown/page_0001.md",
+        "category": "court_documents",
+        "destination": "01_court_documents"
+      },
+      {
+        "file": "peter-faucitt-interdict/markdown/page_0050.md",
+        "category": "court_documents",
+        "destination": "01_court_documents"
+      },
+      {
+        "file": "peter-faucitt-interdict/markdown/page_0035.md",
+        "category": "court_documents",
+        "destination": "01_court_documents"
+      },
+      {
+        "file": "peter-faucitt-interdict/markdown/page_0014.md",
+        "category": "court_documents",
+        "destination": "01_court_documents"
+      },
+      {
+        "file": "peter-faucitt-interdict/markdown/page_0043.md",
+        "category": "court_documents",
+        "destination": "01_court_documents"
+      },
+      {
+        "file": "peter-faucitt-interdict/markdown/page_0051.md",
+        "category": "court_documents",
+        "destination": "01_court_documents"
+      },
+      {
+        "file": "peter-faucitt-interdict/markdown/page_0032.md",
+        "category": "court_documents",
+        "destination": "01_court_documents"
+      },
+      {
+        "file": "peter-faucitt-interdict/markdown/page_0046.md",
+        "category": "court_documents",
+        "destination": "01_court_documents"
+      },
+      {
+        "file": "peter-faucitt-interdict/markdown/page_0002.md",
+        "category": "court_documents",
+        "destination": "01_court_documents"
+      },
+      {
+        "file": "peter-faucitt-interdict/markdown/page_0030.md",
+        "category": "court_documents",
+        "destination": "01_court_documents"
+      },
+      {
+        "file": "peter-faucitt-interdict/markdown/page_0019.md",
+        "category": "court_documents",
+        "destination": "01_court_documents"
+      },
+      {
+        "file": "peter-faucitt-interdict/markdown/page_0044.md",
+        "category": "court_documents",
+        "destination": "01_court_documents"
+      },
+      {
+        "file": "peter-faucitt-interdict/markdown/page_0003.md",
+        "category": "court_documents",
+        "destination": "01_court_documents"
+      },
+      {
+        "file": "peter-faucitt-interdict/markdown/page_0034.md",
+        "category": "court_documents",
+        "destination": "01_court_documents"
+      },
+      {
+        "file": "peter-faucitt-interdict/markdown/page_0025.md",
+        "category": "court_documents",
+        "destination": "01_court_documents"
+      },
+      {
+        "file": "peter-faucitt-interdict/markdown/page_0017.md",
+        "category": "court_documents",
+        "destination": "01_court_documents"
+      }
+    ],
+    "skipped": [
+      "Screenshot-2025-06-20-Sage-Account-RegimA-Worldwide-Distribution.jpg",
+      "MED-COERCIVE.md",
+      "0558631 Settlement agreement (medical testing) (sgd).pdf",
+      "ocr-email-cc-analysis-critical-findings.md",
+      "APR-SEP-2025.md.professional",
+      "62432501494.pdf",
+      "Re_ The RegimA Group results and Computer Expense analysis.eml",
+      "FORMAL NOTICE OF VOIDNESS DUE TO PERJURY AND FRAUD.md.professional",
+      "party-knowledge-matrix-updated-ocr.md",
+      "current-state-summary-2025.md",
+      "ocr-email-cc-analysis-critical-findings.md.professional",
+      "RegimA SA \u00b7 Reports \u00b7 Total sales over time by store \u00b7 Shopify Plus.pdf",
+      "ocr-analysis-email-cc-implications.md",
+      "ocr-integration-summary.md.professional",
+      "Fw_ update - Some Initial Information & Operating Entity Lists.eml",
+      "RegimA WW+Zone \u00b7 Reports \u00b7 Total sales over time by store \u00b7 Shopify Plus ZAR.pdf",
+      "eviden-thread.md.professional",
+      "ocr-analysis-email-cc-implications.md.professional",
+      "FORMAL NOTICE OF VOIDNESS DUE TO PERJURY AND FRAUD.md",
+      "court-order-timeline-cross-reference-analysis.md.professional",
+      "MED-COERCIVE.md.professional",
+      "CCE20250903.pdf",
+      "62323196362.pdf",
+      "CCE20250904.pdf",
+      "Fw_ regimaskin.co.za domain lookup results.eml",
+      "Screenshot-2025-08-25-Sage-Account-RegimA-Worldwide-Distribution.jpg",
+      "CCE20250911_0002.jpg",
+      "Re_ belongs to regimA.eml",
+      "comprehensive-ocr-assumptions-analysis.md",
+      "Shopify Plus W.pdf",
+      "Fw_ The RegimA Group results and Computer Expense analysis.msg",
+      "INV14491(791)(De Novo Business Services (Pty) Ltd)(2025-07-28).pdf",
+      "COMPUTER EXP MAR AND APR2025 (2).xlsx",
+      "court-order-timeline-cross-reference-analysis.md",
+      "0558631 Notice of withdrawal as attorneys of record 250924.pdf",
+      "ocr-assumptions-update-report.md",
+      "Fw_ update - Some Initial Information & Operating Entity Lists.msg",
+      "Fw_ The RegimA Group results and Computer Expense analysis.eml",
+      "Peter Faucitt _ Jacqui Faucitt and others.eml",
+      "party-knowledge-matrix-analysis.md",
+      "Peter Faucitt _ Jacqui Faucitt and others.msg",
+      "Fw_ regimaskin.co.za domain lookup results.msg",
+      "APR-SEP-2025 (1).md",
+      "ocr-assumptions-update-report.md.professional",
+      "party-knowledge-matrix-updated-ocr.md.professional",
+      "0558631 Settlement agreement (sgd).pdf",
+      "comprehensive-ocr-assumptions-analysis.md.professional",
+      "party-knowledge-matrix-analysis.md.professional",
+      "eviden-thread.md",
+      "J and D Faucitt 250925.pdf",
+      "court_order_2025_137857.md.professional",
+      "APR-SEP-2025.md",
+      "criminal_matter_safety_guide.md.professional",
+      "court_order_2025_137857.md",
+      "CCE20250901.pdf",
+      "current-state-summary-2025.md.professional",
+      "ocr-integration-summary.md",
+      "FORMAL NOTICE - CESSATION OF CRIMINAL INSTRUCTIONS.docx",
+      "criminal_matter_safety_guide.md"
+    ],
+    "errors": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "dates": [
+        "20250924",
+        "20250929"
+      ],
+      "case_numbers": [
+        "CCE20250924",
+        "CCE20250929"
+      ],
+      "document_types": [
+        "interdict"
+      ]
+    },
+    "timeline_events": [
+      {
+        "date": "2025-09-24",
+        "type": "document_created",
+        "document": "CCE20250924_0017.jpg",
+        "description": "Document 'CCE20250924_0017.jpg' dated 2025-09-24"
+      },
+      {
+        "date": "2020-25-09",
+        "type": "document_created",
+        "document": "CCE20250924_0017.jpg",
+        "description": "Document 'CCE20250924_0017.jpg' dated 2020-25-09"
+      },
+      {
+        "date": "2025-09-24",
+        "type": "document_created",
+        "document": "CCE20250924_0039.jpg",
+        "description": "Document 'CCE20250924_0039.jpg' dated 2025-09-24"
+      },
+      {
+        "date": "2020-25-09",
+        "type": "document_created",
+        "document": "CCE20250924_0039.jpg",
+        "description": "Document 'CCE20250924_0039.jpg' dated 2020-25-09"
+      },
+      {
+        "date": "2025-09-24",
+        "type": "document_created",
+        "document": "CCE20250924_0003.jpg",
+        "description": "Document 'CCE20250924_0003.jpg' dated 2025-09-24"
+      },
+      {
+        "date": "2020-25-09",
+        "type": "document_created",
+        "document": "CCE20250924_0003.jpg",
+        "description": "Document 'CCE20250924_0003.jpg' dated 2020-25-09"
+      },
+      {
+        "date": "2025-09-24",
+        "type": "document_created",
+        "document": "CCE20250924_0038.jpg",
+        "description": "Document 'CCE20250924_0038.jpg' dated 2025-09-24"
+      },
+      {
+        "date": "2020-25-09",
+        "type": "document_created",
+        "document": "CCE20250924_0038.jpg",
+        "description": "Document 'CCE20250924_0038.jpg' dated 2020-25-09"
+      },
+      {
+        "date": "2025-09-24",
+        "type": "document_created",
+        "document": "CCE20250924_0034.jpg",
+        "description": "Document 'CCE20250924_0034.jpg' dated 2025-09-24"
+      },
+      {
+        "date": "2020-25-09",
+        "type": "document_created",
+        "document": "CCE20250924_0034.jpg",
+        "description": "Document 'CCE20250924_0034.jpg' dated 2020-25-09"
+      },
+      {
+        "date": "2025-09-24",
+        "type": "document_created",
+        "document": "CCE20250924_0042.jpg",
+        "description": "Document 'CCE20250924_0042.jpg' dated 2025-09-24"
+      },
+      {
+        "date": "2020-25-09",
+        "type": "document_created",
+        "document": "CCE20250924_0042.jpg",
+        "description": "Document 'CCE20250924_0042.jpg' dated 2020-25-09"
+      },
+      {
+        "date": "2025-09-24",
+        "type": "document_created",
+        "document": "CCE20250924_0019.jpg",
+        "description": "Document 'CCE20250924_0019.jpg' dated 2025-09-24"
+      },
+      {
+        "date": "2020-25-09",
+        "type": "document_created",
+        "document": "CCE20250924_0019.jpg",
+        "description": "Document 'CCE20250924_0019.jpg' dated 2020-25-09"
+      },
+      {
+        "date": "2025-09-24",
+        "type": "document_created",
+        "document": "CCE20250924_0004.jpg",
+        "description": "Document 'CCE20250924_0004.jpg' dated 2025-09-24"
+      },
+      {
+        "date": "2020-25-09",
+        "type": "document_created",
+        "document": "CCE20250924_0004.jpg",
+        "description": "Document 'CCE20250924_0004.jpg' dated 2020-25-09"
+      },
+      {
+        "date": "2025-09-24",
+        "type": "document_created",
+        "document": "CCE20250924_0005.jpg",
+        "description": "Document 'CCE20250924_0005.jpg' dated 2025-09-24"
+      },
+      {
+        "date": "2020-25-09",
+        "type": "document_created",
+        "document": "CCE20250924_0005.jpg",
+        "description": "Document 'CCE20250924_0005.jpg' dated 2020-25-09"
+      },
+      {
+        "date": "2025-09-24",
+        "type": "document_created",
+        "document": "CCE20250924_0020.jpg",
+        "description": "Document 'CCE20250924_0020.jpg' dated 2025-09-24"
+      },
+      {
+        "date": "2020-25-09",
+        "type": "document_created",
+        "document": "CCE20250924_0020.jpg",
+        "description": "Document 'CCE20250924_0020.jpg' dated 2020-25-09"
+      },
+      {
+        "date": "2025-09-24",
+        "type": "document_created",
+        "document": "CCE20250924_0047.jpg",
+        "description": "Document 'CCE20250924_0047.jpg' dated 2025-09-24"
+      },
+      {
+        "date": "2020-25-09",
+        "type": "document_created",
+        "document": "CCE20250924_0047.jpg",
+        "description": "Document 'CCE20250924_0047.jpg' dated 2020-25-09"
+      },
+      {
+        "date": "2025-09-24",
+        "type": "document_created",
+        "document": "CCE20250924_0015.jpg",
+        "description": "Document 'CCE20250924_0015.jpg' dated 2025-09-24"
+      },
+      {
+        "date": "2020-25-09",
+        "type": "document_created",
+        "document": "CCE20250924_0015.jpg",
+        "description": "Document 'CCE20250924_0015.jpg' dated 2020-25-09"
+      },
+      {
+        "date": "2025-09-24",
+        "type": "document_created",
+        "document": "CCE20250924_0044.jpg",
+        "description": "Document 'CCE20250924_0044.jpg' dated 2025-09-24"
+      },
+      {
+        "date": "2020-25-09",
+        "type": "document_created",
+        "document": "CCE20250924_0044.jpg",
+        "description": "Document 'CCE20250924_0044.jpg' dated 2020-25-09"
+      },
+      {
+        "date": "2025-09-24",
+        "type": "document_created",
+        "document": "CCE20250924.jpg",
+        "description": "Document 'CCE20250924.jpg' dated 2025-09-24"
+      },
+      {
+        "date": "2020-25-09",
+        "type": "document_created",
+        "document": "CCE20250924.jpg",
+        "description": "Document 'CCE20250924.jpg' dated 2020-25-09"
+      },
+      {
+        "date": "2025-09-24",
+        "type": "document_created",
+        "document": "CCE20250924_0002.jpg",
+        "description": "Document 'CCE20250924_0002.jpg' dated 2025-09-24"
+      },
+      {
+        "date": "2020-25-09",
+        "type": "document_created",
+        "document": "CCE20250924_0002.jpg",
+        "description": "Document 'CCE20250924_0002.jpg' dated 2020-25-09"
+      },
+      {
+        "date": "2025-09-24",
+        "type": "document_created",
+        "document": "CCE20250924_0001.jpg",
+        "description": "Document 'CCE20250924_0001.jpg' dated 2025-09-24"
+      },
+      {
+        "date": "2020-25-09",
+        "type": "document_created",
+        "document": "CCE20250924_0001.jpg",
+        "description": "Document 'CCE20250924_0001.jpg' dated 2020-25-09"
+      },
+      {
+        "date": "2025-09-24",
+        "type": "document_created",
+        "document": "CCE20250924_0023.jpg",
+        "description": "Document 'CCE20250924_0023.jpg' dated 2025-09-24"
+      },
+      {
+        "date": "2020-25-09",
+        "type": "document_created",
+        "document": "CCE20250924_0023.jpg",
+        "description": "Document 'CCE20250924_0023.jpg' dated 2020-25-09"
+      },
+      {
+        "date": "2025-09-24",
+        "type": "document_created",
+        "document": "CCE20250924_0029.jpg",
+        "description": "Document 'CCE20250924_0029.jpg' dated 2025-09-24"
+      },
+      {
+        "date": "2020-25-09",
+        "type": "document_created",
+        "document": "CCE20250924_0029.jpg",
+        "description": "Document 'CCE20250924_0029.jpg' dated 2020-25-09"
+      },
+      {
+        "date": "2025-09-24",
+        "type": "document_created",
+        "document": "CCE20250924_0041.jpg",
+        "description": "Document 'CCE20250924_0041.jpg' dated 2025-09-24"
+      },
+      {
+        "date": "2020-25-09",
+        "type": "document_created",
+        "document": "CCE20250924_0041.jpg",
+        "description": "Document 'CCE20250924_0041.jpg' dated 2020-25-09"
+      },
+      {
+        "date": "2025-09-24",
+        "type": "document_created",
+        "document": "CCE20250924_0014.jpg",
+        "description": "Document 'CCE20250924_0014.jpg' dated 2025-09-24"
+      },
+      {
+        "date": "2020-25-09",
+        "type": "document_created",
+        "document": "CCE20250924_0014.jpg",
+        "description": "Document 'CCE20250924_0014.jpg' dated 2020-25-09"
+      },
+      {
+        "date": "2025-09-24",
+        "type": "document_created",
+        "document": "CCE20250924_0030.jpg",
+        "description": "Document 'CCE20250924_0030.jpg' dated 2025-09-24"
+      },
+      {
+        "date": "2020-25-09",
+        "type": "document_created",
+        "document": "CCE20250924_0030.jpg",
+        "description": "Document 'CCE20250924_0030.jpg' dated 2020-25-09"
+      },
+      {
+        "date": "2025-09-24",
+        "type": "document_created",
+        "document": "CCE20250924_0049.jpg",
+        "description": "Document 'CCE20250924_0049.jpg' dated 2025-09-24"
+      },
+      {
+        "date": "2020-25-09",
+        "type": "document_created",
+        "document": "CCE20250924_0049.jpg",
+        "description": "Document 'CCE20250924_0049.jpg' dated 2020-25-09"
+      },
+      {
+        "date": "2025-09-24",
+        "type": "document_created",
+        "document": "CCE20250924_0035.jpg",
+        "description": "Document 'CCE20250924_0035.jpg' dated 2025-09-24"
+      },
+      {
+        "date": "2020-25-09",
+        "type": "document_created",
+        "document": "CCE20250924_0035.jpg",
+        "description": "Document 'CCE20250924_0035.jpg' dated 2020-25-09"
+      },
+      {
+        "date": "2025-09-24",
+        "type": "document_created",
+        "document": "CCE20250924_0026.jpg",
+        "description": "Document 'CCE20250924_0026.jpg' dated 2025-09-24"
+      },
+      {
+        "date": "2020-25-09",
+        "type": "document_created",
+        "document": "CCE20250924_0026.jpg",
+        "description": "Document 'CCE20250924_0026.jpg' dated 2020-25-09"
+      },
+      {
+        "date": "2025-09-24",
+        "type": "document_created",
+        "document": "CCE20250924_0021.jpg",
+        "description": "Document 'CCE20250924_0021.jpg' dated 2025-09-24"
+      },
+      {
+        "date": "2020-25-09",
+        "type": "document_created",
+        "document": "CCE20250924_0021.jpg",
+        "description": "Document 'CCE20250924_0021.jpg' dated 2020-25-09"
+      },
+      {
+        "date": "2025-09-24",
+        "type": "document_created",
+        "document": "CCE20250924_0048.jpg",
+        "description": "Document 'CCE20250924_0048.jpg' dated 2025-09-24"
+      },
+      {
+        "date": "2020-25-09",
+        "type": "document_created",
+        "document": "CCE20250924_0048.jpg",
+        "description": "Document 'CCE20250924_0048.jpg' dated 2020-25-09"
+      },
+      {
+        "date": "2025-09-24",
+        "type": "document_created",
+        "document": "CCE20250924_0008.jpg",
+        "description": "Document 'CCE20250924_0008.jpg' dated 2025-09-24"
+      },
+      {
+        "date": "2020-25-09",
+        "type": "document_created",
+        "document": "CCE20250924_0008.jpg",
+        "description": "Document 'CCE20250924_0008.jpg' dated 2020-25-09"
+      },
+      {
+        "date": "2025-09-24",
+        "type": "document_created",
+        "document": "CCE20250924_0033.jpg",
+        "description": "Document 'CCE20250924_0033.jpg' dated 2025-09-24"
+      },
+      {
+        "date": "2020-25-09",
+        "type": "document_created",
+        "document": "CCE20250924_0033.jpg",
+        "description": "Document 'CCE20250924_0033.jpg' dated 2020-25-09"
+      },
+      {
+        "date": "2025-09-24",
+        "type": "document_created",
+        "document": "CCE20250924_0046.jpg",
+        "description": "Document 'CCE20250924_0046.jpg' dated 2025-09-24"
+      },
+      {
+        "date": "2020-25-09",
+        "type": "document_created",
+        "document": "CCE20250924_0046.jpg",
+        "description": "Document 'CCE20250924_0046.jpg' dated 2020-25-09"
+      },
+      {
+        "date": "2025-09-24",
+        "type": "document_created",
+        "document": "CCE20250924_0037.jpg",
+        "description": "Document 'CCE20250924_0037.jpg' dated 2025-09-24"
+      },
+      {
+        "date": "2020-25-09",
+        "type": "document_created",
+        "document": "CCE20250924_0037.jpg",
+        "description": "Document 'CCE20250924_0037.jpg' dated 2020-25-09"
+      },
+      {
+        "date": "2025-09-24",
+        "type": "document_created",
+        "document": "CCE20250924_0011.jpg",
+        "description": "Document 'CCE20250924_0011.jpg' dated 2025-09-24"
+      },
+      {
+        "date": "2020-25-09",
+        "type": "document_created",
+        "document": "CCE20250924_0011.jpg",
+        "description": "Document 'CCE20250924_0011.jpg' dated 2020-25-09"
+      },
+      {
+        "date": "2025-09-24",
+        "type": "document_created",
+        "document": "CCE20250924_0007.jpg",
+        "description": "Document 'CCE20250924_0007.jpg' dated 2025-09-24"
+      },
+      {
+        "date": "2020-25-09",
+        "type": "document_created",
+        "document": "CCE20250924_0007.jpg",
+        "description": "Document 'CCE20250924_0007.jpg' dated 2020-25-09"
+      },
+      {
+        "date": "2025-09-24",
+        "type": "document_created",
+        "document": "CCE20250924_0010.jpg",
+        "description": "Document 'CCE20250924_0010.jpg' dated 2025-09-24"
+      },
+      {
+        "date": "2020-25-09",
+        "type": "document_created",
+        "document": "CCE20250924_0010.jpg",
+        "description": "Document 'CCE20250924_0010.jpg' dated 2020-25-09"
+      },
+      {
+        "date": "2025-09-24",
+        "type": "document_created",
+        "document": "CCE20250924_0024.jpg",
+        "description": "Document 'CCE20250924_0024.jpg' dated 2025-09-24"
+      },
+      {
+        "date": "2020-25-09",
+        "type": "document_created",
+        "document": "CCE20250924_0024.jpg",
+        "description": "Document 'CCE20250924_0024.jpg' dated 2020-25-09"
+      },
+      {
+        "date": "2025-09-24",
+        "type": "document_created",
+        "document": "CCE20250924_0027.jpg",
+        "description": "Document 'CCE20250924_0027.jpg' dated 2025-09-24"
+      },
+      {
+        "date": "2020-25-09",
+        "type": "document_created",
+        "document": "CCE20250924_0027.jpg",
+        "description": "Document 'CCE20250924_0027.jpg' dated 2020-25-09"
+      },
+      {
+        "date": "2025-09-24",
+        "type": "document_created",
+        "document": "CCE20250924_0013.jpg",
+        "description": "Document 'CCE20250924_0013.jpg' dated 2025-09-24"
+      },
+      {
+        "date": "2020-25-09",
+        "type": "document_created",
+        "document": "CCE20250924_0013.jpg",
+        "description": "Document 'CCE20250924_0013.jpg' dated 2020-25-09"
+      },
+      {
+        "date": "2025-09-24",
+        "type": "document_created",
+        "document": "CCE20250924_0032.jpg",
+        "description": "Document 'CCE20250924_0032.jpg' dated 2025-09-24"
+      },
+      {
+        "date": "2020-25-09",
+        "type": "document_created",
+        "document": "CCE20250924_0032.jpg",
+        "description": "Document 'CCE20250924_0032.jpg' dated 2020-25-09"
+      },
+      {
+        "date": "2025-09-24",
+        "type": "document_created",
+        "document": "CCE20250924_0028.jpg",
+        "description": "Document 'CCE20250924_0028.jpg' dated 2025-09-24"
+      },
+      {
+        "date": "2020-25-09",
+        "type": "document_created",
+        "document": "CCE20250924_0028.jpg",
+        "description": "Document 'CCE20250924_0028.jpg' dated 2020-25-09"
+      },
+      {
+        "date": "2025-09-24",
+        "type": "document_created",
+        "document": "CCE20250924_0036.jpg",
+        "description": "Document 'CCE20250924_0036.jpg' dated 2025-09-24"
+      },
+      {
+        "date": "2020-25-09",
+        "type": "document_created",
+        "document": "CCE20250924_0036.jpg",
+        "description": "Document 'CCE20250924_0036.jpg' dated 2020-25-09"
+      },
+      {
+        "date": "2025-09-24",
+        "type": "document_created",
+        "document": "CCE20250924_0006.jpg",
+        "description": "Document 'CCE20250924_0006.jpg' dated 2025-09-24"
+      },
+      {
+        "date": "2020-25-09",
+        "type": "document_created",
+        "document": "CCE20250924_0006.jpg",
+        "description": "Document 'CCE20250924_0006.jpg' dated 2020-25-09"
+      },
+      {
+        "date": "2025-09-24",
+        "type": "document_created",
+        "document": "CCE20250924_0018.jpg",
+        "description": "Document 'CCE20250924_0018.jpg' dated 2025-09-24"
+      },
+      {
+        "date": "2020-25-09",
+        "type": "document_created",
+        "document": "CCE20250924_0018.jpg",
+        "description": "Document 'CCE20250924_0018.jpg' dated 2020-25-09"
+      },
+      {
+        "date": "2025-09-24",
+        "type": "document_created",
+        "document": "CCE20250924_0050.jpg",
+        "description": "Document 'CCE20250924_0050.jpg' dated 2025-09-24"
+      },
+      {
+        "date": "2020-25-09",
+        "type": "document_created",
+        "document": "CCE20250924_0050.jpg",
+        "description": "Document 'CCE20250924_0050.jpg' dated 2020-25-09"
+      },
+      {
+        "date": "2025-09-24",
+        "type": "document_created",
+        "document": "CCE20250924_0022.jpg",
+        "description": "Document 'CCE20250924_0022.jpg' dated 2025-09-24"
+      },
+      {
+        "date": "2020-25-09",
+        "type": "document_created",
+        "document": "CCE20250924_0022.jpg",
+        "description": "Document 'CCE20250924_0022.jpg' dated 2020-25-09"
+      },
+      {
+        "date": "2025-09-24",
+        "type": "document_created",
+        "document": "CCE20250924_0043.jpg",
+        "description": "Document 'CCE20250924_0043.jpg' dated 2025-09-24"
+      },
+      {
+        "date": "2020-25-09",
+        "type": "document_created",
+        "document": "CCE20250924_0043.jpg",
+        "description": "Document 'CCE20250924_0043.jpg' dated 2020-25-09"
+      },
+      {
+        "date": "2025-09-24",
+        "type": "document_created",
+        "document": "CCE20250924_0025.jpg",
+        "description": "Document 'CCE20250924_0025.jpg' dated 2025-09-24"
+      },
+      {
+        "date": "2020-25-09",
+        "type": "document_created",
+        "document": "CCE20250924_0025.jpg",
+        "description": "Document 'CCE20250924_0025.jpg' dated 2020-25-09"
+      },
+      {
+        "date": "2025-09-24",
+        "type": "document_created",
+        "document": "CCE20250924_0051.jpg",
+        "description": "Document 'CCE20250924_0051.jpg' dated 2025-09-24"
+      },
+      {
+        "date": "2020-25-09",
+        "type": "document_created",
+        "document": "CCE20250924_0051.jpg",
+        "description": "Document 'CCE20250924_0051.jpg' dated 2020-25-09"
+      },
+      {
+        "date": "2025-09-24",
+        "type": "document_created",
+        "document": "CCE20250924_0009.jpg",
+        "description": "Document 'CCE20250924_0009.jpg' dated 2025-09-24"
+      },
+      {
+        "date": "2020-25-09",
+        "type": "document_created",
+        "document": "CCE20250924_0009.jpg",
+        "description": "Document 'CCE20250924_0009.jpg' dated 2020-25-09"
+      },
+      {
+        "date": "2025-09-24",
+        "type": "document_created",
+        "document": "CCE20250924_0045.jpg",
+        "description": "Document 'CCE20250924_0045.jpg' dated 2025-09-24"
+      },
+      {
+        "date": "2020-25-09",
+        "type": "document_created",
+        "document": "CCE20250924_0045.jpg",
+        "description": "Document 'CCE20250924_0045.jpg' dated 2020-25-09"
+      },
+      {
+        "date": "2025-09-24",
+        "type": "document_created",
+        "document": "CCE20250924_0012.jpg",
+        "description": "Document 'CCE20250924_0012.jpg' dated 2025-09-24"
+      },
+      {
+        "date": "2020-25-09",
+        "type": "document_created",
+        "document": "CCE20250924_0012.jpg",
+        "description": "Document 'CCE20250924_0012.jpg' dated 2020-25-09"
+      },
+      {
+        "date": "2025-09-24",
+        "type": "document_created",
+        "document": "CCE20250924_0040.jpg",
+        "description": "Document 'CCE20250924_0040.jpg' dated 2025-09-24"
+      },
+      {
+        "date": "2020-25-09",
+        "type": "document_created",
+        "document": "CCE20250924_0040.jpg",
+        "description": "Document 'CCE20250924_0040.jpg' dated 2020-25-09"
+      },
+      {
+        "date": "2025-09-24",
+        "type": "document_created",
+        "document": "CCE20250924_0031.jpg",
+        "description": "Document 'CCE20250924_0031.jpg' dated 2025-09-24"
+      },
+      {
+        "date": "2020-25-09",
+        "type": "document_created",
+        "document": "CCE20250924_0031.jpg",
+        "description": "Document 'CCE20250924_0031.jpg' dated 2020-25-09"
+      },
+      {
+        "date": "2025-09-24",
+        "type": "document_created",
+        "document": "CCE20250924_0016.jpg",
+        "description": "Document 'CCE20250924_0016.jpg' dated 2025-09-24"
+      },
+      {
+        "date": "2020-25-09",
+        "type": "document_created",
+        "document": "CCE20250924_0016.jpg",
+        "description": "Document 'CCE20250924_0016.jpg' dated 2020-25-09"
+      },
+      {
+        "date": "2025-09-29",
+        "type": "document_created",
+        "document": "ocr-analysis-CCE20250929_0006.md",
+        "description": "Document 'ocr-analysis-CCE20250929_0006.md' dated 2025-09-29"
+      },
+      {
+        "date": "2020-25-09",
+        "type": "document_created",
+        "document": "ocr-analysis-CCE20250929_0006.md",
+        "description": "Document 'ocr-analysis-CCE20250929_0006.md' dated 2020-25-09"
+      },
+      {
+        "date": "2025-09-29",
+        "type": "document_created",
+        "document": "ocr-analysis-CCE20250929.md",
+        "description": "Document 'ocr-analysis-CCE20250929.md' dated 2025-09-29"
+      },
+      {
+        "date": "2020-25-09",
+        "type": "document_created",
+        "document": "ocr-analysis-CCE20250929.md",
+        "description": "Document 'ocr-analysis-CCE20250929.md' dated 2020-25-09"
+      },
+      {
+        "date": "2025-09-29",
+        "type": "document_created",
+        "document": "CCE20250929_0004.jpg",
+        "description": "Document 'CCE20250929_0004.jpg' dated 2025-09-29"
+      },
+      {
+        "date": "2020-25-09",
+        "type": "document_created",
+        "document": "CCE20250929_0004.jpg",
+        "description": "Document 'CCE20250929_0004.jpg' dated 2020-25-09"
+      },
+      {
+        "date": "2025-09-29",
+        "type": "document_created",
+        "document": "CCE20250929_0001.jpg",
+        "description": "Document 'CCE20250929_0001.jpg' dated 2025-09-29"
+      },
+      {
+        "date": "2020-25-09",
+        "type": "document_created",
+        "document": "CCE20250929_0001.jpg",
+        "description": "Document 'CCE20250929_0001.jpg' dated 2020-25-09"
+      },
+      {
+        "date": "2025-09-29",
+        "type": "document_created",
+        "document": "CCE20250929.jpg",
+        "description": "Document 'CCE20250929.jpg' dated 2025-09-29"
+      },
+      {
+        "date": "2020-25-09",
+        "type": "document_created",
+        "document": "CCE20250929.jpg",
+        "description": "Document 'CCE20250929.jpg' dated 2020-25-09"
+      },
+      {
+        "date": "2025-09-29",
+        "type": "document_created",
+        "document": "CCE20250929_0005.jpg",
+        "description": "Document 'CCE20250929_0005.jpg' dated 2025-09-29"
+      },
+      {
+        "date": "2020-25-09",
+        "type": "document_created",
+        "document": "CCE20250929_0005.jpg",
+        "description": "Document 'CCE20250929_0005.jpg' dated 2020-25-09"
+      },
+      {
+        "date": "2025-09-29",
+        "type": "document_created",
+        "document": "CCE20250929_0003.jpg",
+        "description": "Document 'CCE20250929_0003.jpg' dated 2025-09-29"
+      },
+      {
+        "date": "2020-25-09",
+        "type": "document_created",
+        "document": "CCE20250929_0003.jpg",
+        "description": "Document 'CCE20250929_0003.jpg' dated 2020-25-09"
+      },
+      {
+        "date": "2025-09-29",
+        "type": "document_created",
+        "document": "ocr-analysis-CCE20250929_0003.md",
+        "description": "Document 'ocr-analysis-CCE20250929_0003.md' dated 2025-09-29"
+      },
+      {
+        "date": "2020-25-09",
+        "type": "document_created",
+        "document": "ocr-analysis-CCE20250929_0003.md",
+        "description": "Document 'ocr-analysis-CCE20250929_0003.md' dated 2020-25-09"
+      },
+      {
+        "date": "2025-09-29",
+        "type": "document_created",
+        "document": "ocr-analysis-CCE20250929_0001.md",
+        "description": "Document 'ocr-analysis-CCE20250929_0001.md' dated 2025-09-29"
+      },
+      {
+        "date": "2020-25-09",
+        "type": "document_created",
+        "document": "ocr-analysis-CCE20250929_0001.md",
+        "description": "Document 'ocr-analysis-CCE20250929_0001.md' dated 2020-25-09"
+      },
+      {
+        "date": "2025-09-29",
+        "type": "document_created",
+        "document": "ocr-analysis-CCE20250929_0004.md",
+        "description": "Document 'ocr-analysis-CCE20250929_0004.md' dated 2025-09-29"
+      },
+      {
+        "date": "2020-25-09",
+        "type": "document_created",
+        "document": "ocr-analysis-CCE20250929_0004.md",
+        "description": "Document 'ocr-analysis-CCE20250929_0004.md' dated 2020-25-09"
+      },
+      {
+        "date": "2025-09-29",
+        "type": "document_created",
+        "document": "CCE20250929_0002.jpg",
+        "description": "Document 'CCE20250929_0002.jpg' dated 2025-09-29"
+      },
+      {
+        "date": "2020-25-09",
+        "type": "document_created",
+        "document": "CCE20250929_0002.jpg",
+        "description": "Document 'CCE20250929_0002.jpg' dated 2020-25-09"
+      },
+      {
+        "date": "2025-09-29",
+        "type": "document_created",
+        "document": "ocr-analysis-CCE20250929_0005.md",
+        "description": "Document 'ocr-analysis-CCE20250929_0005.md' dated 2025-09-29"
+      },
+      {
+        "date": "2020-25-09",
+        "type": "document_created",
+        "document": "ocr-analysis-CCE20250929_0005.md",
+        "description": "Document 'ocr-analysis-CCE20250929_0005.md' dated 2020-25-09"
+      },
+      {
+        "date": "2025-09-29",
+        "type": "document_created",
+        "document": "ocr-analysis-CCE20250929_0002.md",
+        "description": "Document 'ocr-analysis-CCE20250929_0002.md' dated 2025-09-29"
+      },
+      {
+        "date": "2020-25-09",
+        "type": "document_created",
+        "document": "ocr-analysis-CCE20250929_0002.md",
+        "description": "Document 'ocr-analysis-CCE20250929_0002.md' dated 2020-25-09"
+      },
+      {
+        "date": "2025-09-29",
+        "type": "document_created",
+        "document": "CCE20250929_0006.jpg",
+        "description": "Document 'CCE20250929_0006.jpg' dated 2025-09-29"
+      },
+      {
+        "date": "2020-25-09",
+        "type": "document_created",
+        "document": "CCE20250929_0006.jpg",
+        "description": "Document 'CCE20250929_0006.jpg' dated 2020-25-09"
+      }
+    ],
+    "summary": {
+      "total_documents": 178,
+      "processed": 119,
+      "skipped": 59,
+      "errors": 0,
+      "entities_extracted": {
+        "persons": 0,
+        "organizations": 0,
+        "dates": 2,
+        "case_numbers": 2,
+        "document_types": 1
+      },
+      "timeline_events": 132
+    }
+  }
+}

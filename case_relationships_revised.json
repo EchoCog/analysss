@@ -1,0 +1,160 @@
+{
+  "metadata": {
+    "case_id": "2025_137857",
+    "last_updated": "2025-09-30",
+    "revision": "evidence-based-analysis"
+  },
+  "entities": {
+    "persons": [
+      {
+        "id": "peter_faucitt",
+        "name": "Peter Faucitt",
+        "roles": ["applicant", "co-creditor", "victim"],
+        "status": "locked_out_of_accounts",
+        "financial_access": false,
+        "owed_by_bantjies": 10000000
+      },
+      {
+        "id": "jacqui_faucitt",
+        "name": "Jacqui Faucitt",
+        "roles": ["respondent", "co-creditor"],
+        "status": "no_financial_involvement",
+        "financial_role": false,
+        "owed_by_bantjies": 10000000
+      },
+      {
+        "id": "rynette_farrar",
+        "name": "Rynette Farrar",
+        "roles": ["bookkeeper", "unauthorized_controller"],
+        "employment": "RegimA Skin Treatments",
+        "director": false,
+        "shareholder": false,
+        "actual_control": "sole_access_all_accounts",
+        "legal_authority": "none_for_sole_control"
+      },
+      {
+        "id": "daniel_faucitt",
+        "name": "Daniel Faucitt",
+        "roles": ["company_owner", "director"],
+        "actions": ["took_legitimate_directors_loan"],
+        "loan_amount": 500000,
+        "loan_reason": "cards_cancelled_paying_creditors"
+      },
+      {
+        "id": "danie_bantjies",
+        "name": "Danie Bantjies",
+        "roles": ["debtor"],
+        "owes_to": ["peter_faucitt", "jacqui_faucitt"],
+        "debt_amount": 10000000,
+        "payment_due": "2026-04"
+      },
+      {
+        "id": "rynette_son",
+        "name": "Rynette's Son",
+        "roles": ["domain_owner"],
+        "owns": "regimaskin.co.za",
+        "registered": "2025-05-29"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "regima_sa",
+        "name": "RegimA SA",
+        "type": "company",
+        "control": "rynette_farrar_unauthorized"
+      },
+      {
+        "id": "regima_skin_treatments",
+        "name": "RegimA Skin Treatments",
+        "type": "company",
+        "employees": ["rynette_farrar"]
+      }
+    ]
+  },
+  "relationships": [
+    {
+      "type": "employment",
+      "from": "rynette_farrar",
+      "to": "regima_skin_treatments",
+      "role": "bookkeeper",
+      "authority": "limited"
+    },
+    {
+      "type": "unauthorized_control",
+      "from": "rynette_farrar",
+      "to": ["all_bank_accounts", "all_company_accounts"],
+      "status": "illegal",
+      "since": "2025-06-07"
+    },
+    {
+      "type": "debt",
+      "from": "danie_bantjies",
+      "to": ["peter_faucitt", "jacqui_faucitt"],
+      "amount": 10000000,
+      "due": "2026-04",
+      "status": "creates_common_interest"
+    },
+    {
+      "type": "conflict",
+      "between": ["peter_faucitt", "jacqui_faucitt"],
+      "nature": "interdict_application",
+      "analysis": "financially_irrational_given_shared_debt"
+    },
+    {
+      "type": "family",
+      "from": "rynette_farrar",
+      "to": "rynette_son",
+      "relevance": "domain_scheme"
+    },
+    {
+      "type": "directors_loan",
+      "from": "daniel_faucitt",
+      "to": "company",
+      "amount": 500000,
+      "date": "2025-07-16",
+      "legitimate": true,
+      "reason": "maintain_operations_after_card_cancellation"
+    },
+    {
+      "type": "beneficiary_of_conflict",
+      "who": ["rynette_farrar", "possibly_danie_bantjies"],
+      "how": "maintains_control_while_parties_distracted"
+    }
+  ],
+  "critical_events": [
+    {
+      "date": "2025-05-29",
+      "event": "Son registers regimaskin.co.za",
+      "actor": "rynette_son",
+      "significance": "preparation_for_customer_theft"
+    },
+    {
+      "date": "2025-06-07",
+      "event": "Cards cancelled, parties locked out",
+      "actor": "unknown_but_benefits_rynette",
+      "significance": "financial_control_seizure"
+    },
+    {
+      "date": "2025-09-11",
+      "event": "R12,330,131.18 transferred",
+      "actor": "only_rynette_had_access",
+      "significance": "major_unauthorized_transfer"
+    }
+  ],
+  "analysis": {
+    "who_can_access_money": {
+      "rynette_farrar": true,
+      "peter_faucitt": false,
+      "jacqui_faucitt": false,
+      "daniel_faucitt": false
+    },
+    "who_benefits_from_conflict": {
+      "peter_faucitt": false,
+      "jacqui_faucitt": false,
+      "rynette_farrar": true,
+      "danie_bantjies": "possibly"
+    },
+    "financial_irrationality": "Co-creditors owed R10M fighting instead of cooperating",
+    "likely_manipulation": "Conflict manufactured or exploited by beneficiaries"
+  }
+}

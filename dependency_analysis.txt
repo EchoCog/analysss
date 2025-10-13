@@ -1,0 +1,210 @@
+./setup.py:from setuptools import setup, find_packages
+./case_data_loader.py:import os
+./case_data_loader.py:import re
+./case_data_loader.py:import json
+./case_data_loader.py:from pathlib import Path
+./case_data_loader.py:from typing import Dict, List, Set, Optional, Any, Tuple
+./case_data_loader.py:from dataclasses import dataclass, field
+./case_data_loader.py:from datetime import datetime, timedelta
+./case_data_loader.py:from enum import Enum
+./case_data_loader.py:from hypergnn_framework import HyperGNNFramework, AnalysisConfiguration, AnalysisScope, ComplexityLevel
+./case_data_loader.py:from frameworks.evidence_management import EvidenceItem, EvidenceType, ClassificationLevel, VerificationStatus
+./case_hypergraph_constructor.py:import json
+./case_hypergraph_constructor.py:import numpy as np
+./case_hypergraph_constructor.py:from typing import Dict, List, Set, Optional, Any, Tuple, Union
+./case_hypergraph_constructor.py:from dataclasses import dataclass, field
+./case_hypergraph_constructor.py:from datetime import datetime, timedelta
+./case_hypergraph_constructor.py:from enum import Enum
+./case_hypergraph_constructor.py:from collections import defaultdict
+./case_hypergraph_constructor.py:import networkx as nx
+./case_hypergraph_constructor.py:from pathlib import Path
+./case_hypergraph_constructor.py:from case_data_loader import CaseDataLoader, CaseEntity, CaseEvent, CaseRelationship, InformationStatus
+./comprehensive_case_analysis.py:import json
+./comprehensive_case_analysis.py:import os
+./comprehensive_case_analysis.py:from pathlib import Path
+./comprehensive_case_analysis.py:from typing import Dict, List, Set, Optional, Any
+./comprehensive_case_analysis.py:from datetime import datetime, timedelta
+./comprehensive_case_analysis.py:from hypergnn_framework import HyperGNNFramework, AnalysisConfiguration, AnalysisScope, ComplexityLevel
+./comprehensive_case_analysis.py:from case_data_loader import CaseDataLoader, InformationStatus
+./comprehensive_case_analysis.py:from hypergnn_case_integration import HyperGNNCaseIntegrator
+./comprehensive_case_analysis.py:from enhanced_timeline_processor import EnhancedTimelineProcessor
+./demo_folder_structures.py:import os
+./demo_folder_structures.py:import json
+./demo_folder_structures.py:from datetime import datetime
+./demo_folder_structures.py:from frameworks.evidence_management import (
+./demo_folder_structures.py:from tools.folder_structure_generator import FolderStructureGenerator
+./discrete_event_model.py:from timeline data, integrating with agent-based model data and evidence tracking.
+./discrete_event_model.py:import json
+./discrete_event_model.py:import numpy as np
+./discrete_event_model.py:from datetime import datetime, timedelta
+./discrete_event_model.py:from typing import Dict, List, Set, Optional, Any, Tuple
+./discrete_event_model.py:from dataclasses import dataclass, field
+./discrete_event_model.py:from enum import Enum
+./discrete_event_model.py:import networkx as nx
+./discrete_event_model.py:from pathlib import Path
+./discrete_event_model.py:from enhanced_timeline_processor import TimelineEntry, TimelineEntryType, VerificationLevel, EnhancedTimelineProcessor
+./discrete_event_model.py:from hypergnn_framework import HyperGNNFramework, AnalysisConfiguration, AnalysisScope, ComplexityLevel
+./discrete_event_model.py:from case_data_loader import InformationStatus
+./discrete_event_model_simplified.py:from timeline data without external dependencies.
+./discrete_event_model_simplified.py:import json
+./discrete_event_model_simplified.py:from datetime import datetime, timedelta
+./discrete_event_model_simplified.py:from typing import Dict, List, Set, Optional, Any, Tuple
+./discrete_event_model_simplified.py:from dataclasses import dataclass, field
+./discrete_event_model_simplified.py:from enum import Enum
+./discrete_event_model_simplified.py:from pathlib import Path
+./discrete_event_model_simplified.py:from enhanced_timeline_processor import TimelineEntry, TimelineEntryType, VerificationLevel, EnhancedTimelineProcessor
+./discrete_event_model_simplified.py:from case_data_loader import InformationStatus
+./enhanced_timeline_processor.py:import json
+./enhanced_timeline_processor.py:import os
+./enhanced_timeline_processor.py:from pathlib import Path
+./enhanced_timeline_processor.py:from typing import Dict, List, Set, Optional, Any, Tuple
+./enhanced_timeline_processor.py:from datetime import datetime, timedelta
+./enhanced_timeline_processor.py:from dataclasses import dataclass, field
+./enhanced_timeline_processor.py:from enum import Enum
+./enhanced_timeline_processor.py:from hypergnn_framework import HyperGNNFramework, AnalysisConfiguration, AnalysisScope, ComplexityLevel
+./enhanced_timeline_processor.py:from case_data_loader import InformationStatus
+./evidence_based_analysis.py:import json
+./evidence_based_analysis.py:import re
+./evidence_based_analysis.py:from pathlib import Path
+./evidence_based_analysis.py:from datetime import datetime
+./evidence_based_analysis.py:from typing import Dict, List, Tuple, Any
+./evidence_based_analysis.py:from collections import defaultdict
+./evidence_summary_report.py:import json
+./evidence_summary_report.py:from pathlib import Path
+./evidence_summary_report.py:from datetime import datetime
+./evidence_summary_report.py:from typing import Dict, List, Any
+./frameworks/evidence_management.py:import json
+./frameworks/evidence_management.py:import os
+./frameworks/evidence_management.py:from datetime import datetime
+./frameworks/evidence_management.py:from typing import Dict, List, Set, Optional, Any
+./frameworks/evidence_management.py:from dataclasses import dataclass, field
+./frameworks/evidence_management.py:from enum import Enum
+./frameworks/evidence_management.py:import hashlib
+./frameworks/evidence_management.py:import uuid
+./frameworks/hypergnn_core.py:import numpy as np
+./frameworks/hypergnn_core.py:import networkx as nx
+./frameworks/hypergnn_core.py:from typing import Dict, List, Set, Tuple, Any, Optional, Union
+./frameworks/hypergnn_core.py:from dataclasses import dataclass, field
+./frameworks/hypergnn_core.py:from datetime import datetime, timedelta
+./frameworks/hypergnn_core.py:from enum import Enum
+./frameworks/hypergnn_core.py:import json
+./frameworks/hypergnn_core.py:from abc import ABC, abstractmethod
+./frameworks/llm_transformer_schema.py:import numpy as np
+./frameworks/llm_transformer_schema.py:from typing import Dict, List, Set, Tuple, Any, Optional, Union
+./frameworks/llm_transformer_schema.py:from dataclasses import dataclass, field
+./frameworks/llm_transformer_schema.py:from datetime import datetime, timedelta
+./frameworks/llm_transformer_schema.py:from enum import Enum
+./frameworks/llm_transformer_schema.py:import json
+./frameworks/llm_transformer_schema.py:from abc import ABC, abstractmethod
+./frameworks/llm_transformer_schema.py:from hypergnn_core import Agent, TimelineTensor, DiscreteEvent, TensorType, AgentType, EventType
+./frameworks/professional_language.py:import re
+./frameworks/professional_language.py:from typing import Dict, List, Set, Tuple, Optional
+./frameworks/professional_language.py:from dataclasses import dataclass
+./frameworks/professional_language.py:from enum import Enum
+./frameworks/professional_language.py:import json
+./frameworks/system_dynamics.py:from typing import Dict, List, Set, Optional, Any, Tuple
+./frameworks/system_dynamics.py:from dataclasses import dataclass, field
+./frameworks/system_dynamics.py:from datetime import datetime, timedelta
+./frameworks/system_dynamics.py:from enum import Enum
+./frameworks/system_dynamics.py:import json
+./hypergnn_case_integration.py:import json
+./hypergnn_case_integration.py:import os
+./hypergnn_case_integration.py:from pathlib import Path
+./hypergnn_case_integration.py:from typing import Dict, List, Set, Optional, Any
+./hypergnn_case_integration.py:from datetime import datetime
+./hypergnn_case_integration.py:from hypergnn_framework import HyperGNNFramework, AnalysisConfiguration, AnalysisScope, ComplexityLevel
+./hypergnn_case_integration.py:from frameworks.evidence_management import EvidenceItem, EvidenceType, ClassificationLevel, VerificationStatus
+./hypergnn_case_integration.py:from case_data_loader import CaseDataLoader, InformationStatus
+./hypergnn_framework.py:import sys
+./hypergnn_framework.py:import os
+./hypergnn_framework.py:from typing import Dict, List, Any, Optional
+./hypergnn_framework.py:from dataclasses import dataclass, field
+./hypergnn_framework.py:from datetime import datetime
+./hypergnn_framework.py:from enum import Enum
+./hypergnn_framework.py:import json
+./hypergnn_framework.py:from frameworks.evidence_management import EvidenceManagementSystem, EvidenceItem, EvidenceType, ClassificationLevel, VerificationStatus
+./hypergnn_framework.py:from frameworks.system_dynamics import SystemDynamicsModel, Stock, Flow, StockType, FlowType, MotiveMeansOpportunity
+./hypergnn_framework.py:from frameworks.professional_language import ProfessionalLanguageProcessor
+./hypergnn_framework.py:from tools.verification_tracker import VerificationTracker
+./hypergnn_framework.py:from tools.knowledge_matrix import KnowledgeMatrix
+./hypergnn_transformer_integration.py:import json
+./hypergnn_transformer_integration.py:import numpy as np
+./hypergnn_transformer_integration.py:from datetime import datetime, timedelta
+./hypergnn_transformer_integration.py:from typing import Dict, List, Any
+./hypergnn_transformer_integration.py:from frameworks.hypergnn_core import (
+./hypergnn_transformer_integration.py:from frameworks.llm_transformer_schema import (
+./hypergraph_example_usage.py:import json
+./hypergraph_example_usage.py:from pathlib import Path
+./hypergraph_example_usage.py:from case_hypergraph_constructor import CaseHypergraph, HyperedgeType
+./hypergraph_example_usage.py:from hypergraph_visualizer import HypergraphVisualizer
+./hypergraph_visualizer.py:import matplotlib.pyplot as plt
+./hypergraph_visualizer.py:import matplotlib.patches as patches
+./hypergraph_visualizer.py:from matplotlib.animation import FuncAnimation
+./hypergraph_visualizer.py:import numpy as np
+./hypergraph_visualizer.py:import networkx as nx
+./hypergraph_visualizer.py:from typing import Dict, List, Optional, Tuple, Any, Set
+./hypergraph_visualizer.py:from datetime import datetime
+./hypergraph_visualizer.py:import json
+./hypergraph_visualizer.py:from pathlib import Path
+./hypergraph_visualizer.py:import seaborn as sns
+./hypergraph_visualizer.py:from collections import defaultdict
+./hypergraph_visualizer.py:from case_hypergraph_constructor import CaseHypergraph, HyperedgeType, InformationStatus
+./integrate_case_updates.py:import json
+./integrate_case_updates.py:import os
+./integrate_case_updates.py:from pathlib import Path
+./integrate_case_updates.py:from datetime import datetime
+./integrate_case_updates.py:from collections import defaultdict
+./integrate_case_updates.py:from typing import Dict, List, Any
+./process_documents_professional.py:import os
+./process_documents_professional.py:import sys
+./process_documents_professional.py:from pathlib import Path
+./process_documents_professional.py:from hypergnn_framework import HyperGNNFramework, AnalysisConfiguration, AnalysisScope, ComplexityLevel
+./process_new_documents.py:import os
+./process_new_documents.py:import json
+./process_new_documents.py:import shutil
+./process_new_documents.py:import re
+./process_new_documents.py:from datetime import datetime
+./process_new_documents.py:from pathlib import Path
+./process_new_documents.py:from typing import Dict, List, Tuple, Any, Optional
+./process_new_documents.py:import hashlib
+./process_new_documents.py:from collections import defaultdict
+./test_transformer_schema.py:import numpy as np
+./test_transformer_schema.py:from datetime import datetime, timedelta
+./test_transformer_schema.py:import sys
+./test_transformer_schema.py:import os
+./test_transformer_schema.py:from hypergnn_core import HyperGNNFramework, Agent, DiscreteEvent, AgentType, EventType
+./test_transformer_schema.py:from llm_transformer_schema import LLMTransformerSchema, TokenType, EventToken
+./tools/folder_structure_generator.py:import os
+./tools/folder_structure_generator.py:import sys
+./tools/folder_structure_generator.py:import json
+./tools/folder_structure_generator.py:import argparse
+./tools/folder_structure_generator.py:from pathlib import Path
+./tools/folder_structure_generator.py:from datetime import datetime
+./tools/folder_structure_generator.py:from typing import Dict, List, Any
+./tools/folder_structure_generator.py:from frameworks.evidence_management import EvidenceManagementSystem
+./tools/knowledge_matrix.py:import json
+./tools/knowledge_matrix.py:import re
+./tools/knowledge_matrix.py:from datetime import datetime
+./tools/knowledge_matrix.py:from pathlib import Path
+./tools/knowledge_matrix.py:from typing import Dict, List, Set, Optional, Tuple
+./tools/knowledge_matrix.py:from dataclasses import dataclass, asdict
+./tools/knowledge_matrix.py:from enum import Enum
+./tools/ocr_analyzer.py:import sys
+./tools/ocr_analyzer.py:import os
+./tools/ocr_analyzer.py:import re
+./tools/ocr_analyzer.py:from pathlib import Path
+./tools/ocr_analyzer.py:from datetime import datetime
+./tools/ocr_analyzer.py:from typing import List, Dict, Tuple, Optional
+./tools/ocr_analyzer.py:import json
+./tools/timeline_validator.py:import re
+./tools/timeline_validator.py:import sys
+./tools/timeline_validator.py:import os
+./tools/timeline_validator.py:from pathlib import Path
+./tools/timeline_validator.py:from datetime import datetime
+./tools/timeline_validator.py:from typing import List, Dict, Tuple, Optional
+./tools/verification_tracker.py:import json
+./tools/verification_tracker.py:from datetime import datetime
+./tools/verification_tracker.py:from pathlib import Path
+./tools/verification_tracker.py:from typing import Dict, List, Optional, Set
+./tools/verification_tracker.py:from dataclasses import dataclass, asdict
+./tools/verification_tracker.py:from enum import Enum

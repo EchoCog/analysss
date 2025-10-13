@@ -1,0 +1,24 @@
+# RegimA entity registration documents
+
+## Entity Profile
+- **Type**: Organizations
+- **Source**: evidence/faucitt_family_trust_conspiracy_evidence.md
+- **Last Updated**: 2025-10-12T03:42:06.302163
+- **Status**: Automatically Extracted
+
+## Occurrences
+- Found in: evidence/faucitt_family_trust_conspiracy_evidence.md
+- Entity Type: organizations
+- Extraction Method: Pattern Matching
+
+## Analysis Notes
+*This entity was automatically extracted. Manual review and enhancement recommended.*
+
+## Related Files
+- evidence/faucitt_family_trust_conspiracy_evidence.md
+
+## Actions Required
+- [ ] Verify entity accuracy
+- [ ] Add detailed analysis
+- [ ] Link to related entities
+- [ ] Update timeline if applicable

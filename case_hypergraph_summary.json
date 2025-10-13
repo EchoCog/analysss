@@ -1,0 +1,78 @@
+{
+  "case_id": "case_2025_137857",
+  "statistics": {
+    "total_nodes": 1262,
+    "total_hyperedges": 84,
+    "communities_found": 4,
+    "temporal_patterns": 13,
+    "overlapping_edges": 219
+  },
+  "top_entities": [
+    {
+      "name": "Actually Admitted",
+      "type": "person",
+      "centrality_score": 0.060855076435117304,
+      "connections": 1
+    },
+    {
+      "name": "Actually Did",
+      "type": "person",
+      "centrality_score": 0.060855076435117304,
+      "connections": 1
+    },
+    {
+      "name": "Add Section",
+      "type": "person",
+      "centrality_score": 0.060855076435117304,
+      "connections": 1
+    },
+    {
+      "name": "Additional Critical",
+      "type": "person",
+      "centrality_score": 0.060855076435117304,
+      "connections": 1
+    },
+    {
+      "name": "Additional Critical Information",
+      "type": "person",
+      "centrality_score": 0.060855076435117304,
+      "connections": 1
+    },
+    {
+      "name": "Admissions Without Recordings",
+      "type": "person",
+      "centrality_score": 0.060855076435117304,
+      "connections": 1
+    },
+    {
+      "name": "Africa Faces",
+      "type": "person",
+      "centrality_score": 0.060855076435117304,
+      "connections": 1
+    },
+    {
+      "name": "Africa Partners",
+      "type": "person",
+      "centrality_score": 0.060855076435117304,
+      "connections": 1
+    },
+    {
+      "name": "Africa Partners Face",
+      "type": "person",
+      "centrality_score": 0.060855076435117304,
+      "connections": 1
+    },
+    {
+      "name": "Africa Should",
+      "type": "person",
+      "centrality_score": 0.060855076435117304,
+      "connections": 1
+    }
+  ],
+  "key_findings": [
+    {
+      "type": "temporal_hotspot",
+      "description": "Peak activity on 2025-06-06 00:00:00 with 14 events"
+    }
+  ]
+}

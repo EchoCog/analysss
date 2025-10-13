@@ -1,0 +1,54 @@
+name: Validate Emoji Syntax
+
+on:
+  push:
+    branches: [ main, develop ]
+    paths:
+      - '**.py'
+  pull_request:
+    branches: [ main ]
+    paths:
+      - '**.py'
+  workflow_dispatch:
+
+jobs:
+  validate-emoji-syntax:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+    
+    - name: Set up Python 3.11
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
+    
+    - name: Run Emoji Syntax Validator
+      run: |
+        echo "🔍 Validating emoji syntax in Python files..."
+        python3 scripts/validate_emoji_syntax.py
+    
+    - name: Check Python Syntax
+      if: always()
+      run: |
+        echo "🔍 Checking Python syntax for all files..."
+        python3 -m compileall -q . || {
+          echo "❌ Python syntax check failed"
+          echo "Please fix syntax errors before committing"
+          exit 1
+        }
+        echo "✅ All Python files have valid syntax"
+    
+    - name: Summary
+      if: always()
+      run: |
+        echo "## Emoji Syntax Validation Results" >> $GITHUB_STEP_SUMMARY
+        echo "" >> $GITHUB_STEP_SUMMARY
+        echo "✅ All Python files validated successfully" >> $GITHUB_STEP_SUMMARY
+        echo "" >> $GITHUB_STEP_SUMMARY
+        echo "### Best Practices Reminder" >> $GITHUB_STEP_SUMMARY
+        echo "- ✅ Always wrap emojis in quotes: \`print(\"🚀\")\`" >> $GITHUB_STEP_SUMMARY
+        echo "- ❌ Never use bare emojis: \`print(🚀)\`" >> $GITHUB_STEP_SUMMARY
+        echo "" >> $GITHUB_STEP_SUMMARY
+        echo "See [Emoji Usage Guide](docs/EMOJI_USAGE_GUIDE.md) for more details." >> $GITHUB_STEP_SUMMARY

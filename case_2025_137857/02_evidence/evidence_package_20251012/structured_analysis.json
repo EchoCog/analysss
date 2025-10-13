@@ -1,0 +1,317 @@
+{
+  "entities": [
+    {
+      "entity_id": "DR_H_LTD",
+      "name": "DR H LTD (Dr H LTD)",
+      "entity_type": "UK_COMPANY",
+      "roles": [
+        "UK_DISTRIBUTOR",
+        "EXPORT_CUSTOMER",
+        "MAILING_SERVICES_CLIENT"
+      ],
+      "attributes": {
+        "account_code": "DRHUK",
+        "addresses": [
+          "C/O Solo Mailing Services, 3 Marcus Close, Reading, West Berkshire, RG30 4EB, UNITED KINGDOM",
+          "UNIT 9, SOUTHVIEW PARK, MARSACK STREET, READING, RG4 5AF, UNITED KINGDOM"
+        ],
+        "business_relationship": "Export customer of RegimA Skin Treatments CC",
+        "transaction_period": "2015-04-20 to 2025-04-24",
+        "ledger_period": "2017-03-01 to 2026-02-28"
+      }
+    },
+    {
+      "entity_id": "SOLO_MAILING_SERVICES",
+      "name": "Solo Mailing Services",
+      "entity_type": "UK_SERVICE_PROVIDER",
+      "roles": [
+        "MAILING_SERVICES",
+        "REGISTERED_ADDRESS_PROVIDER"
+      ],
+      "attributes": {
+        "address": "3 Marcus Close, Reading, West Berkshire, RG30 4EB, UNITED KINGDOM",
+        "service_type": "Mailing and registered address services",
+        "client": "DR H LTD"
+      }
+    },
+    {
+      "entity_id": "RYNETTE_BOOKKEEPER",
+      "name": "Rynette (rynette@regimaskin.co.za)",
+      "entity_type": "PERSON",
+      "roles": [
+        "BOOKKEEPER",
+        "ACCOUNTANT",
+        "FINANCIAL_CONTROLLER"
+      ],
+      "attributes": {
+        "email": "rynette@regimaskin.co.za",
+        "employer": "RegimA Skin Treatments CC",
+        "relationship": "Co-director's personal bookkeeper handling all accounts",
+        "access_level": "Full financial records access"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "relationship_id": "RST_TO_DRHUK_EXPORT",
+      "source_entity": "REGIMA_SKIN_TREATMENTS",
+      "target_entity": "DR_H_LTD",
+      "relationship_type": "EXPORT_SALES",
+      "strength": 0.95,
+      "attributes": {
+        "transaction_volume": "High - 10 years of continuous transactions",
+        "invoice_range": "IN300401 (2015-04-20) to IN304824 (2025-04-24)",
+        "total_invoices": "4,423 invoices over 10 years",
+        "payment_pattern": "Regular payments via bank receipts",
+        "export_classification": "Tax exempt export sales",
+        "discount_rate": "50% standard discount"
+      }
+    },
+    {
+      "relationship_id": "DRHUK_TO_SOLO_MAILING",
+      "source_entity": "DR_H_LTD",
+      "target_entity": "SOLO_MAILING_SERVICES",
+      "relationship_type": "SERVICE_PROVIDER",
+      "strength": 0.9,
+      "attributes": {
+        "service_type": "Mailing services and registered address",
+        "location": "Reading, UK"
+      }
+    },
+    {
+      "relationship_id": "RYNETTE_TO_RST",
+      "source_entity": "RYNETTE_BOOKKEEPER",
+      "target_entity": "REGIMA_SKIN_TREATMENTS",
+      "relationship_type": "EMPLOYMENT",
+      "strength": 0.95,
+      "attributes": {
+        "role": "Bookkeeper/Accountant",
+        "control_level": "Full financial records access",
+        "reporting_to": "Co-director (50% owner of RST)"
+      }
+    }
+  ],
+  "timeline_events": [
+    {
+      "event_id": "DRHUK_LEDGER_20170301",
+      "date": "2017-03-01",
+      "description": "DR H LTD Customer Ledger Period: 2017-03-01 to 2018-02-28",
+      "participants": [
+        "DR_H_LTD",
+        "REGIMA_SKIN_TREATMENTS",
+        "RYNETTE_BOOKKEEPER"
+      ],
+      "event_type": "FINANCIAL_PERIOD",
+      "evidence_references": [
+        "evidence_package_20251012/Regima-1March2017to29February2018.PDF"
+      ]
+    },
+    {
+      "event_id": "DRHUK_LEDGER_20180301",
+      "date": "2018-03-01",
+      "description": "DR H LTD Customer Ledger Period: 2018-03-01 to 2019-02-28",
+      "participants": [
+        "DR_H_LTD",
+        "REGIMA_SKIN_TREATMENTS",
+        "RYNETTE_BOOKKEEPER"
+      ],
+      "event_type": "FINANCIAL_PERIOD",
+      "evidence_references": [
+        "evidence_package_20251012/Regima-1March2018to29February2019.PDF"
+      ]
+    },
+    {
+      "event_id": "DRHUK_LEDGER_20190301",
+      "date": "2019-03-01",
+      "description": "DR H LTD Customer Ledger Period: 2019-03-01 to 2020-02-29",
+      "participants": [
+        "DR_H_LTD",
+        "REGIMA_SKIN_TREATMENTS",
+        "RYNETTE_BOOKKEEPER"
+      ],
+      "event_type": "FINANCIAL_PERIOD",
+      "evidence_references": [
+        "evidence_package_20251012/Regima-1March2019to29February2020.PDF"
+      ]
+    },
+    {
+      "event_id": "DRHUK_LEDGER_20200301",
+      "date": "2020-03-01",
+      "description": "DR H LTD Customer Ledger Period: 2020-03-01 to 2021-02-28",
+      "participants": [
+        "DR_H_LTD",
+        "REGIMA_SKIN_TREATMENTS",
+        "RYNETTE_BOOKKEEPER"
+      ],
+      "event_type": "FINANCIAL_PERIOD",
+      "evidence_references": [
+        "evidence_package_20251012/Regima-1March2020to28February2021.PDF"
+      ]
+    },
+    {
+      "event_id": "DRHUK_LEDGER_20210301",
+      "date": "2021-03-01",
+      "description": "DR H LTD Customer Ledger Period: 2021-03-01 to 2022-02-28",
+      "participants": [
+        "DR_H_LTD",
+        "REGIMA_SKIN_TREATMENTS",
+        "RYNETTE_BOOKKEEPER"
+      ],
+      "event_type": "FINANCIAL_PERIOD",
+      "evidence_references": [
+        "evidence_package_20251012/Regima-1March2021to28February2022.PDF"
+      ]
+    },
+    {
+      "event_id": "DRHUK_LEDGER_20220301",
+      "date": "2022-03-01",
+      "description": "DR H LTD Customer Ledger Period: 2022-03-01 to 2023-02-28",
+      "participants": [
+        "DR_H_LTD",
+        "REGIMA_SKIN_TREATMENTS",
+        "RYNETTE_BOOKKEEPER"
+      ],
+      "event_type": "FINANCIAL_PERIOD",
+      "evidence_references": [
+        "evidence_package_20251012/Regima-1March2022to28February2023.PDF"
+      ]
+    },
+    {
+      "event_id": "DRHUK_LEDGER_20230301",
+      "date": "2023-03-01",
+      "description": "DR H LTD Customer Ledger Period: 2023-03-01 to 2024-02-29",
+      "participants": [
+        "DR_H_LTD",
+        "REGIMA_SKIN_TREATMENTS",
+        "RYNETTE_BOOKKEEPER"
+      ],
+      "event_type": "FINANCIAL_PERIOD",
+      "evidence_references": [
+        "evidence_package_20251012/Regima-1March2023to29February2024.PDF"
+      ]
+    },
+    {
+      "event_id": "DRHUK_LEDGER_20240301",
+      "date": "2024-03-01",
+      "description": "DR H LTD Customer Ledger Period: 2024-03-01 to 2025-02-28",
+      "participants": [
+        "DR_H_LTD",
+        "REGIMA_SKIN_TREATMENTS",
+        "RYNETTE_BOOKKEEPER"
+      ],
+      "event_type": "FINANCIAL_PERIOD",
+      "evidence_references": [
+        "evidence_package_20251012/Regima-1March2024to28February2025.PDF"
+      ]
+    },
+    {
+      "event_id": "DRHUK_LEDGER_20250301",
+      "date": "2025-03-01",
+      "description": "DR H LTD Customer Ledger Period: 2025-03-01 to 2026-02-28",
+      "participants": [
+        "DR_H_LTD",
+        "REGIMA_SKIN_TREATMENTS",
+        "RYNETTE_BOOKKEEPER"
+      ],
+      "event_type": "FINANCIAL_PERIOD",
+      "evidence_references": [
+        "evidence_package_20251012/Regima-1March2025to28February2026.PDF"
+      ]
+    },
+    {
+      "event_id": "DRHUK_INVOICE_PERIOD_2015_2025",
+      "date": "2015-04-20",
+      "description": "DR H LTD Export Invoice Period: IN300401 (2015-04-20) to IN304824 (2025-04-24) - 10 years of continuous export transactions",
+      "participants": [
+        "DR_H_LTD",
+        "REGIMA_SKIN_TREATMENTS"
+      ],
+      "event_type": "EXPORT_TRANSACTION_SERIES",
+      "evidence_references": [
+        "evidence_package_20251012/InvIn30040120April2015toInv30482424April2025.PDF"
+      ]
+    },
+    {
+      "event_id": "RYNETTE_EMAIL_20251010",
+      "date": "2025-10-10",
+      "description": "Rynette forwards UK transaction records and invoices to Jax and Dan",
+      "participants": [
+        "RYNETTE_BOOKKEEPER",
+        "JAX_FAUCITT",
+        "DAN_FAUCITT"
+      ],
+      "event_type": "EVIDENCE_DISCLOSURE",
+      "evidence_references": [
+        "evidence_package_20251012/email-body.html"
+      ]
+    }
+  ],
+  "fraud_indicators": [
+    {
+      "indicator_type": "OFFSHORE_STRUCTURE",
+      "severity": "HIGH",
+      "description": "UK entity (DR H LTD) with mailing service address suggests potential shell company structure",
+      "evidence": "DR H LTD uses Solo Mailing Services as registered address",
+      "implications": [
+        "Potential tax avoidance through export sales",
+        "Possible profit shifting to UK jurisdiction",
+        "Control maintained through mailing service arrangement",
+        "Limited physical presence in UK"
+      ]
+    },
+    {
+      "indicator_type": "SYSTEMATIC_EXPORT_SCHEME",
+      "severity": "HIGH",
+      "description": "10-year continuous export transaction pattern (2015-2025) with 4,423+ invoices",
+      "evidence": "Invoice range IN300401 to IN304824 spanning decade",
+      "implications": [
+        "Systematic revenue extraction from RST to UK entity",
+        "Consistent 50% discount rate suggests transfer pricing manipulation",
+        "Tax-exempt export status exploited for profit shifting",
+        "Volume indicates this is primary revenue channel, not occasional export"
+      ]
+    },
+    {
+      "indicator_type": "CENTRALIZED_FINANCIAL_CONTROL",
+      "severity": "CRITICAL",
+      "description": "Co-director's personal bookkeeper (Rynette) controls all financial records across entities",
+      "evidence": "Rynette handles accounts for RST, manages UK transaction records, reports to co-director",
+      "implications": [
+        "Single point of control over financial narrative",
+        "Ability to manipulate records across all entities",
+        "Gatekeeping of financial information",
+        "Facilitates coordinated fraud across entity structure"
+      ]
+    },
+    {
+      "indicator_type": "PERPETUAL_DEBT_STRUCTURE",
+      "severity": "HIGH",
+      "description": "DR H LTD ledger shows multi-million rand balances maintained over years",
+      "evidence": "Opening balance R4,210,086.60 (2017), Closing balance R4,175,745.40 (2018)",
+      "implications": [
+        "UK entity maintains large outstanding debt to RST",
+        "Debt used to extract value while avoiding profit recognition",
+        "Similar to Villa Via rent extraction mechanism",
+        "Perpetual debt prevents profit repatriation"
+      ]
+    }
+  ],
+  "insights": [
+    {
+      "title": "UK Export Channel as Profit Extraction Mechanism",
+      "analysis": "DR H LTD functions as an offshore profit extraction vehicle similar to Villa Via's \nrent extraction. While Villa Via extracts through inflated rent (86% profit margin), DR H LTD \nextracts through export sales at 50% discount. Both create perpetual debt structures that prevent \nprofit recognition in operating entities while transferring wealth to entities controlled by \nco-director."
+    },
+    {
+      "title": "Rynette as Financial Gatekeeper",
+      "analysis": "Rynette's role as co-director's personal bookkeeper gives her control over the \nentire financial narrative. She manages RST accounts, UK transaction records, and likely other \nentity accounts. This centralized control enables coordinated manipulation across the entity \nstructure and explains how complex fraud schemes remain hidden from other shareholders."
+    },
+    {
+      "title": "Mailing Service Address as Control Mechanism",
+      "analysis": "DR H LTD's use of Solo Mailing Services as registered address indicates minimal \nUK physical presence. This arrangement allows co-director to maintain control over UK entity while \ncreating appearance of independent offshore operation. All correspondence flows through controlled \nchannel, preventing direct communication with UK entity."
+    },
+    {
+      "title": "Export Sales Volume Indicates Primary Revenue Channel",
+      "analysis": "4,423+ invoices over 10 years (average 442 invoices/year or 37/month) indicates \nDR H LTD is not an occasional export customer but a primary revenue channel. This volume suggests \nsystematic revenue diversion rather than legitimate export business. Combined with 50% discount \nrate, this represents massive value transfer from RST."
+    }
+  ]
+}

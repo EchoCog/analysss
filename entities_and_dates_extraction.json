@@ -1,0 +1,97 @@
+{
+  "extraction_timestamp": "2025-10-10T05:24:20.247871",
+  "files_processed": 4,
+  "total_unique_dates": 5,
+  "total_unique_entities": 10,
+  "date_range": {
+    "earliest": "2019-03-01",
+    "latest": "2020-04-30"
+  },
+  "all_dates": [
+    "2019-03-01",
+    "2019-05-01",
+    "2020-02-20",
+    "2020-02-29",
+    "2020-04-30"
+  ],
+  "all_entities": [
+    "FNB",
+    "RST",
+    "RWW",
+    "RWWD",
+    "RegimA",
+    "RegimA Skin Treatments",
+    "Regima",
+    "SARS",
+    "Strategic Logistics",
+    "Villa Via"
+  ],
+  "detailed_extractions": [
+    {
+      "file": "REG-TRIALBALANCE.xlsx",
+      "entity": "RegimA Skin Treatments (RST)",
+      "dates": [
+        "2019-03-01",
+        "2020-02-29"
+      ],
+      "entities": [
+        "Strategic Logistics",
+        "Villa Via",
+        "RWW",
+        "RegimA",
+        "FNB",
+        "SARS",
+        "RWWD"
+      ],
+      "key_accounts": [],
+      "significant_amounts": []
+    },
+    {
+      "file": "WW-TrialBalanceFEB20.xlsx",
+      "entity": "RegimA Worldwide Distribution (RWW/RWWD)",
+      "dates": [
+        "2020-02-20"
+      ],
+      "entities": [
+        "RegimA Skin Treatments",
+        "FNB",
+        "Regima"
+      ],
+      "key_accounts": [],
+      "significant_amounts": []
+    },
+    {
+      "file": "SL-TRIALBALANCE2020.xlsx",
+      "entity": "Strategic Logistics (SLG)",
+      "dates": [
+        "2019-03-01",
+        "2020-02-29"
+      ],
+      "entities": [
+        "Villa Via",
+        "RegimA",
+        "FNB",
+        "RST",
+        "SARS",
+        "Regima"
+      ],
+      "key_accounts": [],
+      "significant_amounts": []
+    },
+    {
+      "file": "VV-TRIALBALANCEAPR20202.xlsx",
+      "entity": "Villa Via",
+      "dates": [
+        "2019-05-01",
+        "2020-04-30"
+      ],
+      "entities": [
+        "Strategic Logistics",
+        "RegimA",
+        "FNB"
+      ],
+      "key_accounts": [],
+      "significant_amounts": []
+    }
+  ]
+}

@@ -1,0 +1,4385 @@
+{
+  "processed": {
+    "Screenshot-2025-06-20-Sage-Account-RegimA-Worldwide-Distribution.jpg": {
+      "hash": "02b7cd4520f15526ae3401056f2d14f50130733fb191285d61330927b3336617",
+      "processed_date": "2025-09-30T11:58:27.235071",
+      "category": "evidence",
+      "destination": "02_evidence/screenshots",
+      "entities": {
+        "persons": [],
+        "organizations": [
+          "RegimA"
+        ],
+        "dates": [
+          "2025-06-20",
+          "25-06-20"
+        ],
+        "case_numbers": [],
+        "document_types": []
+      },
+      "events": [
+        {
+          "date": "2025-06-20",
+          "type": "document_created",
+          "document": "Screenshot-2025-06-20-Sage-Account-RegimA-Worldwide-Distribution.jpg",
+          "description": "Document 'Screenshot-2025-06-20-Sage-Account-RegimA-Worldwide-Distribution.jpg' dated 2025-06-20"
+        }
+      ]
+    },
+    "comprehensive-ocr-assumptions-analysis.md.backup": {
+      "hash": "217d60a76b62cc5a00c7aac61fa39dbbf53a7a13c6a1a861f540a17926f3ea80",
+      "processed_date": "2025-09-30T11:58:27.235640",
+      "category": "evidence",
+      "destination": "02_evidence/misc",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [],
+        "case_numbers": [],
+        "document_types": []
+      },
+      "events": []
+    },
+    "ocr-assumptions-update-report.md.backup": {
+      "hash": "0a385afce5d0995469c9386ed2d2ad5524549593cf0d14a853a791f69f43b7d1",
+      "processed_date": "2025-09-30T11:58:27.235793",
+      "category": "evidence",
+      "destination": "02_evidence/misc",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [],
+        "case_numbers": [],
+        "document_types": []
+      },
+      "events": []
+    },
+    "MED-COERCIVE.md": {
+      "hash": "318fb7ac0fa1b1e9baf0572f0323859fd8c9b89b98fa160ef5db2fc26c4df52c",
+      "processed_date": "2025-09-30T11:58:27.235966",
+      "category": "court_documents",
+      "destination": "01_court_documents",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [],
+        "case_numbers": [],
+        "document_types": []
+      },
+      "events": []
+    },
+    "0558631 Settlement agreement (medical testing) (sgd).pdf": {
+      "hash": "7dfb13beeb1cfbe53414e833c873ede99f48039e098ec03c381819457819ee21",
+      "processed_date": "2025-09-30T11:58:27.236411",
+      "category": "court_documents",
+      "destination": "01_court_documents",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [
+          "0558631"
+        ],
+        "case_numbers": [
+          "0558631"
+        ],
+        "document_types": [
+          "Settlement",
+          "agreement"
+        ]
+      },
+      "events": [
+        {
+          "date": "2005-58-63",
+          "type": "document_created",
+          "document": "0558631 Settlement agreement (medical testing) (sgd).pdf",
+          "description": "Document '0558631 Settlement agreement (medical testing) (sgd).pdf' dated 2005-58-63"
+        },
+        {
+          "type": "legal_event",
+          "category": "settlement",
+          "document": "0558631 Settlement agreement (medical testing) (sgd).pdf",
+          "description": "Settlement agreement signed"
+        }
+      ]
+    },
+    "ocr-email-cc-analysis-critical-findings.md": {
+      "hash": "efde763d3e2c51844e53e8fab9803e6ed6ad70b540649f066778b3de02151f47",
+      "processed_date": "2025-09-30T11:58:27.236550",
+      "category": "court_documents",
+      "destination": "01_court_documents",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [],
+        "case_numbers": [],
+        "document_types": []
+      },
+      "events": []
+    },
+    "APR-SEP-2025.md.professional": {
+      "hash": "1c0100f7d4e771a0553851d6c0f9ba0d010bd691fbe8384305e6d173606145c5",
+      "processed_date": "2025-09-30T11:58:27.236726",
+      "category": "evidence",
+      "destination": "02_evidence/misc",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [
+          "SEP-2025"
+        ],
+        "case_numbers": [],
+        "document_types": []
+      },
+      "events": []
+    },
+    "62432501494.pdf": {
+      "hash": "4618e4fc6a48d0ad36cc189877a4997e8f790564c7eb7abd96082071d9f1c1e2",
+      "processed_date": "2025-09-30T11:58:27.236862",
+      "category": "court_documents",
+      "destination": "01_court_documents",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [
+          "62432501"
+        ],
+        "case_numbers": [],
+        "document_types": []
+      },
+      "events": [
+        {
+          "date": "6243-25-01",
+          "type": "document_created",
+          "document": "62432501494.pdf",
+          "description": "Document '62432501494.pdf' dated 6243-25-01"
+        },
+        {
+          "date": "1962-43-25",
+          "type": "document_created",
+          "document": "62432501494.pdf",
+          "description": "Document '62432501494.pdf' dated 1962-43-25"
+        }
+      ]
+    },
+    "Re_ The RegimA Group results and Computer Expense analysis.eml": {
+      "hash": "1b526fd35cdb75a1de4e8e9a45140e33e9a629bd65abbeb92752abf848811273",
+      "processed_date": "2025-09-30T11:58:27.237130",
+      "category": "financial_records",
+      "destination": "02_evidence/financial",
+      "entities": {
+        "persons": [],
+        "organizations": [
+          "RegimA Group"
+        ],
+        "dates": [],
+        "case_numbers": [],
+        "document_types": []
+      },
+      "events": []
+    },
+    "FORMAL NOTICE OF VOIDNESS DUE TO PERJURY AND FRAUD.md.professional": {
+      "hash": "d08baa5ebc8a1dbcf5bc636884f01c53cfe48c1c8be6f0b070df4b0e2b98bfa3",
+      "processed_date": "2025-09-30T11:58:27.237283",
+      "category": "court_documents",
+      "destination": "01_court_documents",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [],
+        "case_numbers": [],
+        "document_types": [
+          "NOTICE",
+          "FORMAL NOTICE"
+        ]
+      },
+      "events": []
+    },
+    "party-knowledge-matrix-updated-ocr.md": {
+      "hash": "8ec74c604cad65324a535dc147e9500e07ff73caa020e2405c44d3ed496780c5",
+      "processed_date": "2025-09-30T11:58:27.237471",
+      "category": "court_documents",
+      "destination": "01_court_documents",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [],
+        "case_numbers": [],
+        "document_types": []
+      },
+      "events": []
+    },
+    "party-knowledge-matrix-analysis.md.backup": {
+      "hash": "d0763a73e8cb1d530f9ff0ad250f89f8eea402aa4a73ce4bbee57850b8cc1b04",
+      "processed_date": "2025-09-30T11:58:27.237674",
+      "category": "evidence",
+      "destination": "02_evidence/misc",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [],
+        "case_numbers": [],
+        "document_types": []
+      },
+      "events": []
+    },
+    "ocr-analysis-email-cc-implications.md.backup": {
+      "hash": "7570dd1ded1460c2db4ce2a45adb1b99f24edbf2a72a1e29d759fedbfe7b4ac2",
+      "processed_date": "2025-09-30T11:58:27.237837",
+      "category": "evidence",
+      "destination": "02_evidence/misc",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [],
+        "case_numbers": [],
+        "document_types": []
+      },
+      "events": []
+    },
+    "current-state-summary-2025.md": {
+      "hash": "db42082272a0fe36faf3d1e3b20a84519c7fb6ba386c1f4e0d579890d7d1a088",
+      "processed_date": "2025-09-30T11:58:27.237988",
+      "category": "court_documents",
+      "destination": "01_court_documents",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [
+          "mary-2025"
+        ],
+        "case_numbers": [],
+        "document_types": []
+      },
+      "events": []
+    },
+    "ocr-email-cc-analysis-critical-findings.md.professional": {
+      "hash": "22b90307a541260c19f017775ae6264ef5b0d23f5e980290cfd63f646b5acbd4",
+      "processed_date": "2025-09-30T11:58:27.238144",
+      "category": "evidence",
+      "destination": "02_evidence/misc",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [],
+        "case_numbers": [],
+        "document_types": []
+      },
+      "events": []
+    },
+    "RegimA SA \u00b7 Reports \u00b7 Total sales over time by store \u00b7 Shopify Plus.pdf": {
+      "hash": "839c0a75da5d070c1cb9f96a24973f16b6c0eb9eba6479d7fad09a00789134a9",
+      "processed_date": "2025-09-30T11:58:27.241092",
+      "category": "court_documents",
+      "destination": "01_court_documents",
+      "entities": {
+        "persons": [],
+        "organizations": [
+          "RegimA SA",
+          "Shopify Plus"
+        ],
+        "dates": [],
+        "case_numbers": [],
+        "document_types": []
+      },
+      "events": []
+    },
+    "ocr-analysis-email-cc-implications.md": {
+      "hash": "286207f3b2561d5755bbc101317a42d5944c64d3e4a1a01a94d9484ad9527fff",
+      "processed_date": "2025-09-30T11:58:27.241297",
+      "category": "court_documents",
+      "destination": "01_court_documents",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [],
+        "case_numbers": [],
+        "document_types": []
+      },
+      "events": []
+    },
+    "court_order_2025_137857.md.backup": {
+      "hash": "6061cb2afc04743b657380d9904376e87e85c9db8ba37d5c2f550837df59be4c",
+      "processed_date": "2025-09-30T11:58:27.241546",
+      "category": "court_documents",
+      "destination": "01_court_documents",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [
+          "137857"
+        ],
+        "case_numbers": [
+          "2025_137857"
+        ],
+        "document_types": []
+      },
+      "events": [
+        {
+          "date": "2013-78-57",
+          "type": "document_created",
+          "document": "court_order_2025_137857.md.backup",
+          "description": "Document 'court_order_2025_137857.md.backup' dated 2013-78-57"
+        }
+      ]
+    },
+    "ocr-integration-summary.md.professional": {
+      "hash": "229ca3985870add68be66dbd01e43e11546a0389ae7537b161637d0210e3a77e",
+      "processed_date": "2025-09-30T11:58:27.241705",
+      "category": "evidence",
+      "destination": "02_evidence/misc",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [],
+        "case_numbers": [],
+        "document_types": []
+      },
+      "events": []
+    },
+    "Fw_ update - Some Initial Information & Operating Entity Lists.eml": {
+      "hash": "5cd12632a20a02cf483abed8aada0b155b47ebc5dc5b797f6f6ae3606718a855",
+      "processed_date": "2025-09-30T11:58:27.245267",
+      "category": "evidence",
+      "destination": "02_evidence/misc",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [],
+        "case_numbers": [],
+        "document_types": []
+      },
+      "events": []
+    },
+    "RegimA WW+Zone \u00b7 Reports \u00b7 Total sales over time by store \u00b7 Shopify Plus ZAR.pdf": {
+      "hash": "2887c40d823c356286d755e1014a3d09295aa3335c79aecd301f048d3ea5c14c",
+      "processed_date": "2025-09-30T11:58:27.247244",
+      "category": "court_documents",
+      "destination": "01_court_documents",
+      "entities": {
+        "persons": [],
+        "organizations": [
+          "RegimA WW",
+          "Shopify Plus"
+        ],
+        "dates": [],
+        "case_numbers": [],
+        "document_types": []
+      },
+      "events": []
+    },
+    "eviden-thread.md.professional": {
+      "hash": "5e3364de6019ec00c12476e03141baaf89afa6515f916c22eaaaec131509756f",
+      "processed_date": "2025-09-30T11:58:27.247641",
+      "category": "evidence",
+      "destination": "02_evidence",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [],
+        "case_numbers": [],
+        "document_types": []
+      },
+      "events": []
+    },
+    "ocr-analysis-email-cc-implications.md.professional": {
+      "hash": "5c0f5df8dfbb19d3b376fe22626ff5c54410e40af9946e6f209703f52624d88e",
+      "processed_date": "2025-09-30T11:58:27.247834",
+      "category": "evidence",
+      "destination": "02_evidence/misc",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [],
+        "case_numbers": [],
+        "document_types": []
+      },
+      "events": []
+    },
+    "FORMAL NOTICE OF VOIDNESS DUE TO PERJURY AND FRAUD.md": {
+      "hash": "6cfe27c45b6b386d346747e747ba2bfd9e259cf0dc4720e4f9d946c644bbfdf7",
+      "processed_date": "2025-09-30T11:58:27.247983",
+      "category": "court_documents",
+      "destination": "01_court_documents",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [],
+        "case_numbers": [],
+        "document_types": [
+          "NOTICE",
+          "FORMAL NOTICE"
+        ]
+      },
+      "events": []
+    },
+    "court-order-timeline-cross-reference-analysis.md.professional": {
+      "hash": "44d0a2c6a1b2834b7a5e1a42962c0e195b38c55ddc1746e8a0db0631a6ede12d",
+      "processed_date": "2025-09-30T11:58:27.248139",
+      "category": "court_documents",
+      "destination": "01_court_documents",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [],
+        "case_numbers": [],
+        "document_types": []
+      },
+      "events": []
+    },
+    "MED-COERCIVE.md.professional": {
+      "hash": "1371a538130ee82a6f5da235c20ec15791ea755772778fa1e8029ee43b51372d",
+      "processed_date": "2025-09-30T11:58:27.248329",
+      "category": "medical_records",
+      "destination": "05_medical_records",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [],
+        "case_numbers": [],
+        "document_types": []
+      },
+      "events": []
+    },
+    "ocr-integration-summary.md.backup": {
+      "hash": "3a63b39b7ee3638707dd58fbb7722193b8ff9ff0ea4f2bcef0181ed7a0545fa8",
+      "processed_date": "2025-09-30T11:58:27.248532",
+      "category": "evidence",
+      "destination": "02_evidence/misc",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [],
+        "case_numbers": [],
+        "document_types": []
+      },
+      "events": []
+    },
+    "CCE20250903.pdf": {
+      "hash": "fb300bc0a5108c232b4248cde74809c93eac23013cd49aa1d9918153415d7bbe",
+      "processed_date": "2025-09-30T11:58:27.251922",
+      "category": "court_documents",
+      "destination": "01_court_documents",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [
+          "20250903"
+        ],
+        "case_numbers": [
+          "CCE20250903"
+        ],
+        "document_types": []
+      },
+      "events": [
+        {
+          "date": "2025-09-03",
+          "type": "document_created",
+          "document": "CCE20250903.pdf",
+          "description": "Document 'CCE20250903.pdf' dated 2025-09-03"
+        },
+        {
+          "date": "2020-25-09",
+          "type": "document_created",
+          "document": "CCE20250903.pdf",
+          "description": "Document 'CCE20250903.pdf' dated 2020-25-09"
+        }
+      ]
+    },
+    "62323196362.pdf": {
+      "hash": "886c88c1c33689ba6dc41aa502c064565dcbb67d7269adc06ddf1f7b7c9c3630",
+      "processed_date": "2025-09-30T11:58:27.252237",
+      "category": "court_documents",
+      "destination": "01_court_documents",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [
+          "62323196"
+        ],
+        "case_numbers": [],
+        "document_types": []
+      },
+      "events": [
+        {
+          "date": "6232-31-96",
+          "type": "document_created",
+          "document": "62323196362.pdf",
+          "description": "Document '62323196362.pdf' dated 6232-31-96"
+        },
+        {
+          "date": "1962-32-31",
+          "type": "document_created",
+          "document": "62323196362.pdf",
+          "description": "Document '62323196362.pdf' dated 1962-32-31"
+        }
+      ]
+    },
+    "CCE20250904.pdf": {
+      "hash": "edc7990035a668b00378b3e91209ceef59736a285557a701d9ee68cba51f8031",
+      "processed_date": "2025-09-30T11:58:27.254134",
+      "category": "court_documents",
+      "destination": "01_court_documents",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [
+          "20250904"
+        ],
+        "case_numbers": [
+          "CCE20250904"
+        ],
+        "document_types": []
+      },
+      "events": [
+        {
+          "date": "2025-09-04",
+          "type": "document_created",
+          "document": "CCE20250904.pdf",
+          "description": "Document 'CCE20250904.pdf' dated 2025-09-04"
+        },
+        {
+          "date": "2020-25-09",
+          "type": "document_created",
+          "document": "CCE20250904.pdf",
+          "description": "Document 'CCE20250904.pdf' dated 2020-25-09"
+        }
+      ]
+    },
+    "Fw_ regimaskin.co.za domain lookup results.eml": {
+      "hash": "e1afe6c5ca3e5dae233c24d87b5600c9a5407520e93e083ff020cad14f011efd",
+      "processed_date": "2025-09-30T11:58:27.275662",
+      "category": "evidence",
+      "destination": "02_evidence/misc",
+      "entities": {
+        "persons": [],
+        "organizations": [
+          "regima"
+        ],
+        "dates": [],
+        "case_numbers": [],
+        "document_types": []
+      },
+      "events": []
+    },
+    "MED-COERCIVE.md.backup": {
+      "hash": "318fb7ac0fa1b1e9baf0572f0323859fd8c9b89b98fa160ef5db2fc26c4df52c",
+      "processed_date": "2025-09-30T11:58:27.275898",
+      "category": "medical_records",
+      "destination": "05_medical_records",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [],
+        "case_numbers": [],
+        "document_types": []
+      },
+      "events": []
+    },
+    "Screenshot-2025-08-25-Sage-Account-RegimA-Worldwide-Distribution.jpg": {
+      "hash": "7556b16c4166ddd1f4637070664ed239b8d93b3cfd1eeb6abeac30301ef7d42b",
+      "processed_date": "2025-09-30T11:58:27.276717",
+      "category": "evidence",
+      "destination": "02_evidence/screenshots",
+      "entities": {
+        "persons": [],
+        "organizations": [
+          "RegimA"
+        ],
+        "dates": [
+          "2025-08-25",
+          "25-08-25"
+        ],
+        "case_numbers": [],
+        "document_types": []
+      },
+      "events": [
+        {
+          "date": "2025-08-25",
+          "type": "document_created",
+          "document": "Screenshot-2025-08-25-Sage-Account-RegimA-Worldwide-Distribution.jpg",
+          "description": "Document 'Screenshot-2025-08-25-Sage-Account-RegimA-Worldwide-Distribution.jpg' dated 2025-08-25"
+        }
+      ]
+    },
+    "CCE20250911_0002.jpg": {
+      "hash": "2884bfbaf024e93ba7ad3c55e85b32e72fbae2fb16decf5e2c7652cff794923b",
+      "processed_date": "2025-09-30T11:58:27.277917",
+      "category": "evidence",
+      "destination": "02_evidence/screenshots",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [
+          "20250911"
+        ],
+        "case_numbers": [
+          "CCE20250911"
+        ],
+        "document_types": []
+      },
+      "events": [
+        {
+          "date": "2025-09-11",
+          "type": "document_created",
+          "document": "CCE20250911_0002.jpg",
+          "description": "Document 'CCE20250911_0002.jpg' dated 2025-09-11"
+        },
+        {
+          "date": "2020-25-09",
+          "type": "document_created",
+          "document": "CCE20250911_0002.jpg",
+          "description": "Document 'CCE20250911_0002.jpg' dated 2020-25-09"
+        }
+      ]
+    },
+    "Re_ belongs to regimA.eml": {
+      "hash": "5e8826c85c5e059b33f9cc3b73ae08cd458b9ab0a92478f59c5160ed2a9ce624",
+      "processed_date": "2025-09-30T11:58:27.278144",
+      "category": "evidence",
+      "destination": "02_evidence/misc",
+      "entities": {
+        "persons": [],
+        "organizations": [
+          "regimA"
+        ],
+        "dates": [],
+        "case_numbers": [],
+        "document_types": []
+      },
+      "events": []
+    },
+    "comprehensive-ocr-assumptions-analysis.md": {
+      "hash": "217d60a76b62cc5a00c7aac61fa39dbbf53a7a13c6a1a861f540a17926f3ea80",
+      "processed_date": "2025-09-30T11:58:27.278373",
+      "category": "court_documents",
+      "destination": "01_court_documents",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [],
+        "case_numbers": [],
+        "document_types": []
+      },
+      "events": []
+    },
+    "Shopify Plus W.pdf": {
+      "hash": "def5d8f486fee1ac958443db2d817b3d1b17d8f9178e44598a743ee8314c230c",
+      "processed_date": "2025-09-30T11:58:27.279619",
+      "category": "court_documents",
+      "destination": "01_court_documents",
+      "entities": {
+        "persons": [],
+        "organizations": [
+          "Shopify Plus"
+        ],
+        "dates": [],
+        "case_numbers": [],
+        "document_types": []
+      },
+      "events": []
+    },
+    "eviden-thread.md.backup": {
+      "hash": "b9a5c0259a636a94b1b013e6f4cb29fe4930f8d894c35b4839627540e68f11cb",
+      "processed_date": "2025-09-30T11:58:27.279941",
+      "category": "evidence",
+      "destination": "02_evidence",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [],
+        "case_numbers": [],
+        "document_types": []
+      },
+      "events": []
+    },
+    "Fw_ The RegimA Group results and Computer Expense analysis.msg": {
+      "hash": "46b3223ee183e0d483d8ad48540d2dffb79ba18ed2cceccd745f88dab7ff47e9",
+      "processed_date": "2025-09-30T11:58:27.280517",
+      "category": "financial_records",
+      "destination": "02_evidence/financial",
+      "entities": {
+        "persons": [],
+        "organizations": [
+          "RegimA Group"
+        ],
+        "dates": [],
+        "case_numbers": [],
+        "document_types": []
+      },
+      "events": []
+    },
+    "INV14491(791)(De Novo Business Services (Pty) Ltd)(2025-07-28).pdf": {
+      "hash": "95f2cb4128c3f0931fd2aab6629d382b91aad75dfecfec310c9962b33da691da",
+      "processed_date": "2025-09-30T11:58:27.280705",
+      "category": "court_documents",
+      "destination": "01_court_documents",
+      "entities": {
+        "persons": [],
+        "organizations": [
+          "De Novo Business Services"
+        ],
+        "dates": [
+          "2025-07-28",
+          "25-07-28"
+        ],
+        "case_numbers": [
+          "INV14491"
+        ],
+        "document_types": []
+      },
+      "events": [
+        {
+          "date": "2025-07-28",
+          "type": "document_created",
+          "document": "INV14491(791)(De Novo Business Services (Pty) Ltd)(2025-07-28).pdf",
+          "description": "Document 'INV14491(791)(De Novo Business Services (Pty) Ltd)(2025-07-28).pdf' dated 2025-07-28"
+        }
+      ]
+    },
+    "COMPUTER EXP MAR AND APR2025 (2).xlsx": {
+      "hash": "57c0a9fd0fb32fe52467dd540e6b648de5621142027de022601d718aceb0bc41",
+      "processed_date": "2025-09-30T11:58:27.281225",
+      "category": "financial_records",
+      "destination": "02_evidence/financial",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [
+          "APR2025"
+        ],
+        "case_numbers": [],
+        "document_types": []
+      },
+      "events": []
+    },
+    "court-order-timeline-cross-reference-analysis.md": {
+      "hash": "e3c56728e502d2b4250c6ce496fd83185fda783843070246d0f887d924a41347",
+      "processed_date": "2025-09-30T11:58:27.281385",
+      "category": "court_documents",
+      "destination": "01_court_documents",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [],
+        "case_numbers": [],
+        "document_types": []
+      },
+      "events": []
+    },
+    "court-order-timeline-cross-reference-analysis.md.backup": {
+      "hash": "e3c56728e502d2b4250c6ce496fd83185fda783843070246d0f887d924a41347",
+      "processed_date": "2025-09-30T11:58:27.281545",
+      "category": "court_documents",
+      "destination": "01_court_documents",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [],
+        "case_numbers": [],
+        "document_types": []
+      },
+      "events": []
+    },
+    "0558631 Notice of withdrawal as attorneys of record 250924.pdf": {
+      "hash": "a6189dc3bf0faa691d17744af94a819eb3f073e1a6726616687a33070df479a7",
+      "processed_date": "2025-09-30T11:58:27.281777",
+      "category": "court_documents",
+      "destination": "01_court_documents",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [
+          "0558631",
+          "250924"
+        ],
+        "case_numbers": [
+          "0558631"
+        ],
+        "document_types": [
+          "Notice",
+          "withdrawal"
+        ]
+      },
+      "events": [
+        {
+          "date": "2005-58-63",
+          "type": "document_created",
+          "document": "0558631 Notice of withdrawal as attorneys of record 250924.pdf",
+          "description": "Document '0558631 Notice of withdrawal as attorneys of record 250924.pdf' dated 2005-58-63"
+        },
+        {
+          "date": "2025-09-24",
+          "type": "document_created",
+          "document": "0558631 Notice of withdrawal as attorneys of record 250924.pdf",
+          "description": "Document '0558631 Notice of withdrawal as attorneys of record 250924.pdf' dated 2025-09-24"
+        },
+        {
+          "type": "legal_event",
+          "category": "attorney_withdrawal",
+          "document": "0558631 Notice of withdrawal as attorneys of record 250924.pdf",
+          "description": "Notice of withdrawal as attorneys of record"
+        }
+      ]
+    },
+    "APR-SEP-2025.md.backup": {
+      "hash": "b11163ddbdc4c79f43cfeb24c29a4f1e590519c6234f2b6e175bf7a1e532ad4f",
+      "processed_date": "2025-09-30T11:58:27.281980",
+      "category": "evidence",
+      "destination": "02_evidence/misc",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [
+          "SEP-2025"
+        ],
+        "case_numbers": [],
+        "document_types": []
+      },
+      "events": []
+    },
+    "ocr-assumptions-update-report.md": {
+      "hash": "0a385afce5d0995469c9386ed2d2ad5524549593cf0d14a853a791f69f43b7d1",
+      "processed_date": "2025-09-30T11:58:27.282105",
+      "category": "court_documents",
+      "destination": "01_court_documents",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [],
+        "case_numbers": [],
+        "document_types": []
+      },
+      "events": []
+    },
+    "criminal_matter_safety_guide.md.backup": {
+      "hash": "49f91c2cc41e3fbe8c7ec4514e8c2ccb6cead8661be9e581e50d083759ce2f22",
+      "processed_date": "2025-09-30T11:58:27.282261",
+      "category": "evidence",
+      "destination": "02_evidence/misc",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [],
+        "case_numbers": [],
+        "document_types": []
+      },
+      "events": []
+    },
+    "Fw_ update - Some Initial Information & Operating Entity Lists.msg": {
+      "hash": "a98c85057c9a0ef089cfe5603b3a5db5b6203793ddb06a79edd533ed8d2f7839",
+      "processed_date": "2025-09-30T11:58:27.285397",
+      "category": "evidence",
+      "destination": "02_evidence/misc",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [],
+        "case_numbers": [],
+        "document_types": []
+      },
+      "events": []
+    },
+    "Fw_ The RegimA Group results and Computer Expense analysis.eml": {
+      "hash": "81c3a2e35dc0a02761a8f347f40d4f850223e186286f414a2e5b5cae1d82ea7a",
+      "processed_date": "2025-09-30T11:58:27.285707",
+      "category": "financial_records",
+      "destination": "02_evidence/financial",
+      "entities": {
+        "persons": [],
+        "organizations": [
+          "RegimA Group"
+        ],
+        "dates": [],
+        "case_numbers": [],
+        "document_types": []
+      },
+      "events": []
+    },
+    "Peter Faucitt _ Jacqui Faucitt and others.eml": {
+      "hash": "2b307d866d14f495076664081e2851e097f85e8b4ee03e003d37c2da7e356fd0",
+      "processed_date": "2025-09-30T11:58:27.286257",
+      "category": "evidence",
+      "destination": "02_evidence/misc",
+      "entities": {
+        "persons": [
+          "Peter Faucitt",
+          "Jacqui Faucitt"
+        ],
+        "organizations": [],
+        "dates": [],
+        "case_numbers": [],
+        "document_types": []
+      },
+      "events": []
+    },
+    "party-knowledge-matrix-analysis.md": {
+      "hash": "d0763a73e8cb1d530f9ff0ad250f89f8eea402aa4a73ce4bbee57850b8cc1b04",
+      "processed_date": "2025-09-30T11:58:27.286636",
+      "category": "court_documents",
+      "destination": "01_court_documents",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [],
+        "case_numbers": [],
+        "document_types": []
+      },
+      "events": []
+    },
+    "Peter Faucitt _ Jacqui Faucitt and others.msg": {
+      "hash": "e6e16380c1607252cc90f340acadaf1cb9eca2509b4372a0e009f672093abb8a",
+      "processed_date": "2025-09-30T11:58:27.287365",
+      "category": "evidence",
+      "destination": "02_evidence/misc",
+      "entities": {
+        "persons": [
+          "Peter Faucitt",
+          "Jacqui Faucitt"
+        ],
+        "organizations": [],
+        "dates": [],
+        "case_numbers": [],
+        "document_types": []
+      },
+      "events": []
+    },
+    "Fw_ regimaskin.co.za domain lookup results.msg": {
+      "hash": "aef4f181ec77316dd1fe610d18259ac66a9d11d08ae753cd99a598ece16ed87c",
+      "processed_date": "2025-09-30T11:58:27.302039",
+      "category": "evidence",
+      "destination": "02_evidence/misc",
+      "entities": {
+        "persons": [],
+        "organizations": [
+          "regima"
+        ],
+        "dates": [],
+        "case_numbers": [],
+        "document_types": []
+      },
+      "events": []
+    },
+    "APR-SEP-2025 (1).md": {
+      "hash": "b11163ddbdc4c79f43cfeb24c29a4f1e590519c6234f2b6e175bf7a1e532ad4f",
+      "processed_date": "2025-09-30T11:58:27.302278",
+      "category": "court_documents",
+      "destination": "01_court_documents",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [
+          "SEP-2025"
+        ],
+        "case_numbers": [],
+        "document_types": []
+      },
+      "events": []
+    },
+    "ocr-assumptions-update-report.md.professional": {
+      "hash": "b480dd28bb60a96b2204548b223be8f99b8c86e104ad2a4bd3ac1847c27b96f9",
+      "processed_date": "2025-09-30T11:58:27.302470",
+      "category": "evidence",
+      "destination": "02_evidence/misc",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [],
+        "case_numbers": [],
+        "document_types": []
+      },
+      "events": []
+    },
+    "party-knowledge-matrix-updated-ocr.md.professional": {
+      "hash": "a7f98e7184cb125f7ae62bac4ad22f1e2019529a79991b5317e0da326999a998",
+      "processed_date": "2025-09-30T11:58:27.302672",
+      "category": "evidence",
+      "destination": "02_evidence/misc",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [],
+        "case_numbers": [],
+        "document_types": []
+      },
+      "events": []
+    },
+    "0558631 Settlement agreement (sgd).pdf": {
+      "hash": "2e6cd7d761482fcc5aec398e0dd703edc144ed0bf402da92226d2828e89c38e5",
+      "processed_date": "2025-09-30T11:58:27.303540",
+      "category": "court_documents",
+      "destination": "01_court_documents",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [
+          "0558631"
+        ],
+        "case_numbers": [
+          "0558631"
+        ],
+        "document_types": [
+          "Settlement",
+          "agreement"
+        ]
+      },
+      "events": [
+        {
+          "date": "2005-58-63",
+          "type": "document_created",
+          "document": "0558631 Settlement agreement (sgd).pdf",
+          "description": "Document '0558631 Settlement agreement (sgd).pdf' dated 2005-58-63"
+        },
+        {
+          "type": "legal_event",
+          "category": "settlement",
+          "document": "0558631 Settlement agreement (sgd).pdf",
+          "description": "Settlement agreement signed"
+        }
+      ]
+    },
+    "comprehensive-ocr-assumptions-analysis.md.professional": {
+      "hash": "d33f02c3f061ce012cc231122ef8a6ab352cbb84d3c7f289470d5ecb13568f36",
+      "processed_date": "2025-09-30T11:58:27.303709",
+      "category": "evidence",
+      "destination": "02_evidence/misc",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [],
+        "case_numbers": [],
+        "document_types": []
+      },
+      "events": []
+    },
+    "current-state-summary-2025.md.backup": {
+      "hash": "db42082272a0fe36faf3d1e3b20a84519c7fb6ba386c1f4e0d579890d7d1a088",
+      "processed_date": "2025-09-30T11:58:27.303866",
+      "category": "case_notes",
+      "destination": "08_case_notes",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [
+          "mary-2025"
+        ],
+        "case_numbers": [],
+        "document_types": []
+      },
+      "events": []
+    },
+    "party-knowledge-matrix-updated-ocr.md.backup": {
+      "hash": "8ec74c604cad65324a535dc147e9500e07ff73caa020e2405c44d3ed496780c5",
+      "processed_date": "2025-09-30T11:58:27.304036",
+      "category": "evidence",
+      "destination": "02_evidence/misc",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [],
+        "case_numbers": [],
+        "document_types": []
+      },
+      "events": []
+    },
+    "ocr-email-cc-analysis-critical-findings.md.backup": {
+      "hash": "efde763d3e2c51844e53e8fab9803e6ed6ad70b540649f066778b3de02151f47",
+      "processed_date": "2025-09-30T11:58:27.304184",
+      "category": "evidence",
+      "destination": "02_evidence/misc",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [],
+        "case_numbers": [],
+        "document_types": []
+      },
+      "events": []
+    },
+    "party-knowledge-matrix-analysis.md.professional": {
+      "hash": "a5dc987e4ab37c715ff120e1a5ea355aff7820636ada46200a846116a651d72a",
+      "processed_date": "2025-09-30T11:58:27.304349",
+      "category": "evidence",
+      "destination": "02_evidence/misc",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [],
+        "case_numbers": [],
+        "document_types": []
+      },
+      "events": []
+    },
+    "eviden-thread.md": {
+      "hash": "b9a5c0259a636a94b1b013e6f4cb29fe4930f8d894c35b4839627540e68f11cb",
+      "processed_date": "2025-09-30T11:58:27.304635",
+      "category": "court_documents",
+      "destination": "01_court_documents",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [],
+        "case_numbers": [],
+        "document_types": []
+      },
+      "events": []
+    },
+    "J and D Faucitt 250925.pdf": {
+      "hash": "d2a5afa1e39d699f733a80f294b1066b7becf14c066e9531f5b0d3c1abcd15e2",
+      "processed_date": "2025-09-30T11:58:27.305063",
+      "category": "court_documents",
+      "destination": "01_court_documents",
+      "entities": {
+        "persons": [
+          "J and D Faucitt"
+        ],
+        "organizations": [],
+        "dates": [
+          "250925"
+        ],
+        "case_numbers": [],
+        "document_types": []
+      },
+      "events": [
+        {
+          "date": "2025-09-25",
+          "type": "document_created",
+          "document": "J and D Faucitt 250925.pdf",
+          "description": "Document 'J and D Faucitt 250925.pdf' dated 2025-09-25"
+        }
+      ]
+    },
+    "court_order_2025_137857.md.professional": {
+      "hash": "4ee8edd41844d7f750c0aa43fae041849869fedc65eb803e3ae6f766a7c116e2",
+      "processed_date": "2025-09-30T11:58:27.305258",
+      "category": "court_documents",
+      "destination": "01_court_documents",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [
+          "137857"
+        ],
+        "case_numbers": [
+          "2025_137857"
+        ],
+        "document_types": []
+      },
+      "events": [
+        {
+          "date": "2013-78-57",
+          "type": "document_created",
+          "document": "court_order_2025_137857.md.professional",
+          "description": "Document 'court_order_2025_137857.md.professional' dated 2013-78-57"
+        }
+      ]
+    },
+    "APR-SEP-2025.md": {
+      "hash": "b11163ddbdc4c79f43cfeb24c29a4f1e590519c6234f2b6e175bf7a1e532ad4f",
+      "processed_date": "2025-09-30T11:58:27.305446",
+      "category": "court_documents",
+      "destination": "01_court_documents",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [
+          "SEP-2025"
+        ],
+        "case_numbers": [],
+        "document_types": []
+      },
+      "events": []
+    },
+    "criminal_matter_safety_guide.md.professional": {
+      "hash": "955c1b1f3ed665b59bfb58b4ebba49bb3cdd666a809fd63000245e566df4b216",
+      "processed_date": "2025-09-30T11:58:27.305623",
+      "category": "evidence",
+      "destination": "02_evidence/misc",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [],
+        "case_numbers": [],
+        "document_types": []
+      },
+      "events": []
+    },
+    "FORMAL NOTICE OF VOIDNESS DUE TO PERJURY AND FRAUD.md.backup": {
+      "hash": "8905ac0c4158e82f2d5ea1e2d066eb531cfa39cef6f58c7ff99fec1ab2bdb682",
+      "processed_date": "2025-09-30T11:58:27.305760",
+      "category": "court_documents",
+      "destination": "01_court_documents",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [],
+        "case_numbers": [],
+        "document_types": [
+          "NOTICE",
+          "FORMAL NOTICE"
+        ]
+      },
+      "events": []
+    },
+    "court_order_2025_137857.md": {
+      "hash": "6061cb2afc04743b657380d9904376e87e85c9db8ba37d5c2f550837df59be4c",
+      "processed_date": "2025-09-30T11:58:27.305935",
+      "category": "court_documents",
+      "destination": "01_court_documents",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [
+          "137857"
+        ],
+        "case_numbers": [
+          "2025_137857"
+        ],
+        "document_types": []
+      },
+      "events": [
+        {
+          "date": "2013-78-57",
+          "type": "document_created",
+          "document": "court_order_2025_137857.md",
+          "description": "Document 'court_order_2025_137857.md' dated 2013-78-57"
+        }
+      ]
+    },
+    "CCE20250901.pdf": {
+      "hash": "bd7cc202e7397a6621b140690e8b9a92e10a0af76afe21399b0b2dae010193a5",
+      "processed_date": "2025-09-30T11:58:27.308899",
+      "category": "court_documents",
+      "destination": "01_court_documents",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [
+          "20250901"
+        ],
+        "case_numbers": [
+          "CCE20250901"
+        ],
+        "document_types": []
+      },
+      "events": [
+        {
+          "date": "2025-09-01",
+          "type": "document_created",
+          "document": "CCE20250901.pdf",
+          "description": "Document 'CCE20250901.pdf' dated 2025-09-01"
+        },
+        {
+          "date": "2020-25-09",
+          "type": "document_created",
+          "document": "CCE20250901.pdf",
+          "description": "Document 'CCE20250901.pdf' dated 2020-25-09"
+        }
+      ]
+    },
+    "current-state-summary-2025.md.professional": {
+      "hash": "9c7f000429070fa970e28d94aa497482c9207954c459d65080062e29f220d6b3",
+      "processed_date": "2025-09-30T11:58:27.309104",
+      "category": "case_notes",
+      "destination": "08_case_notes",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [
+          "mary-2025"
+        ],
+        "case_numbers": [],
+        "document_types": []
+      },
+      "events": []
+    },
+    "ocr-integration-summary.md": {
+      "hash": "3a63b39b7ee3638707dd58fbb7722193b8ff9ff0ea4f2bcef0181ed7a0545fa8",
+      "processed_date": "2025-09-30T11:58:27.309246",
+      "category": "court_documents",
+      "destination": "01_court_documents",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [],
+        "case_numbers": [],
+        "document_types": []
+      },
+      "events": []
+    },
+    "FORMAL NOTICE - CESSATION OF CRIMINAL INSTRUCTIONS.docx": {
+      "hash": "9ddf45f5d918efb72f29ddf1a19dba0e0589b9c963dd3abae260a8b690607216",
+      "processed_date": "2025-09-30T11:58:27.309419",
+      "category": "court_documents",
+      "destination": "01_court_documents",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [],
+        "case_numbers": [],
+        "document_types": [
+          "NOTICE",
+          "FORMAL NOTICE"
+        ]
+      },
+      "events": []
+    },
+    "criminal_matter_safety_guide.md": {
+      "hash": "49f91c2cc41e3fbe8c7ec4514e8c2ccb6cead8661be9e581e50d083759ce2f22",
+      "processed_date": "2025-09-30T11:58:27.309594",
+      "category": "court_documents",
+      "destination": "01_court_documents",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [],
+        "case_numbers": [],
+        "document_types": []
+      },
+      "events": []
+    },
+    "peter-faucitt-interdict/CCE20250924_0017.jpg": {
+      "hash": "dd2b43fdb2115aff230d11473f20ac0e206e24f1c7fbbd37cb867e2a297eb962",
+      "processed_date": "2025-09-30T11:59:06.361292",
+      "category": "evidence",
+      "destination": "02_evidence/screenshots",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [
+          "20250924"
+        ],
+        "case_numbers": [
+          "CCE20250924"
+        ],
+        "document_types": []
+      },
+      "events": [
+        {
+          "date": "2025-09-24",
+          "type": "document_created",
+          "document": "CCE20250924_0017.jpg",
+          "description": "Document 'CCE20250924_0017.jpg' dated 2025-09-24"
+        },
+        {
+          "date": "2020-25-09",
+          "type": "document_created",
+          "document": "CCE20250924_0017.jpg",
+          "description": "Document 'CCE20250924_0017.jpg' dated 2020-25-09"
+        }
+      ]
+    },
+    "peter-faucitt-interdict/CCE20250924_0039.jpg": {
+      "hash": "e206a7148c57e678bbed87cb604c4cc702d2ff31b580896af681de0259b552be",
+      "processed_date": "2025-09-30T11:59:06.362050",
+      "category": "evidence",
+      "destination": "02_evidence/screenshots",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [
+          "20250924"
+        ],
+        "case_numbers": [
+          "CCE20250924"
+        ],
+        "document_types": []
+      },
+      "events": [
+        {
+          "date": "2025-09-24",
+          "type": "document_created",
+          "document": "CCE20250924_0039.jpg",
+          "description": "Document 'CCE20250924_0039.jpg' dated 2025-09-24"
+        },
+        {
+          "date": "2020-25-09",
+          "type": "document_created",
+          "document": "CCE20250924_0039.jpg",
+          "description": "Document 'CCE20250924_0039.jpg' dated 2020-25-09"
+        }
+      ]
+    },
+    "peter-faucitt-interdict/CCE20250924_0003.jpg": {
+      "hash": "0be55af78775d12616f5a9f008cb43ff4fbbbc11411df9063eb6536adbea28e6",
+      "processed_date": "2025-09-30T11:59:06.362975",
+      "category": "evidence",
+      "destination": "02_evidence/screenshots",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [
+          "20250924"
+        ],
+        "case_numbers": [
+          "CCE20250924"
+        ],
+        "document_types": []
+      },
+      "events": [
+        {
+          "date": "2025-09-24",
+          "type": "document_created",
+          "document": "CCE20250924_0003.jpg",
+          "description": "Document 'CCE20250924_0003.jpg' dated 2025-09-24"
+        },
+        {
+          "date": "2020-25-09",
+          "type": "document_created",
+          "document": "CCE20250924_0003.jpg",
+          "description": "Document 'CCE20250924_0003.jpg' dated 2020-25-09"
+        }
+      ]
+    },
+    "peter-faucitt-interdict/CCE20250924_0038.jpg": {
+      "hash": "9cced8db1df11a968847795ecb56ea3b65f152454862b9b1d1e5b7bac2097049",
+      "processed_date": "2025-09-30T11:59:06.363667",
+      "category": "evidence",
+      "destination": "02_evidence/screenshots",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [
+          "20250924"
+        ],
+        "case_numbers": [
+          "CCE20250924"
+        ],
+        "document_types": []
+      },
+      "events": [
+        {
+          "date": "2025-09-24",
+          "type": "document_created",
+          "document": "CCE20250924_0038.jpg",
+          "description": "Document 'CCE20250924_0038.jpg' dated 2025-09-24"
+        },
+        {
+          "date": "2020-25-09",
+          "type": "document_created",
+          "document": "CCE20250924_0038.jpg",
+          "description": "Document 'CCE20250924_0038.jpg' dated 2020-25-09"
+        }
+      ]
+    },
+    "peter-faucitt-interdict/CCE20250924_0034.jpg": {
+      "hash": "85f2cd348a9cd253db300d934184546dda578e3f151e4f433676077718a2b47c",
+      "processed_date": "2025-09-30T11:59:06.364260",
+      "category": "evidence",
+      "destination": "02_evidence/screenshots",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [
+          "20250924"
+        ],
+        "case_numbers": [
+          "CCE20250924"
+        ],
+        "document_types": []
+      },
+      "events": [
+        {
+          "date": "2025-09-24",
+          "type": "document_created",
+          "document": "CCE20250924_0034.jpg",
+          "description": "Document 'CCE20250924_0034.jpg' dated 2025-09-24"
+        },
+        {
+          "date": "2020-25-09",
+          "type": "document_created",
+          "document": "CCE20250924_0034.jpg",
+          "description": "Document 'CCE20250924_0034.jpg' dated 2020-25-09"
+        }
+      ]
+    },
+    "peter-faucitt-interdict/CCE20250924_0042.jpg": {
+      "hash": "7dd7bf66ebeee66bb925d40d747831ae6b54958a1076c9c67087d7d48b65cf37",
+      "processed_date": "2025-09-30T11:59:06.364970",
+      "category": "evidence",
+      "destination": "02_evidence/screenshots",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [
+          "20250924"
+        ],
+        "case_numbers": [
+          "CCE20250924"
+        ],
+        "document_types": []
+      },
+      "events": [
+        {
+          "date": "2025-09-24",
+          "type": "document_created",
+          "document": "CCE20250924_0042.jpg",
+          "description": "Document 'CCE20250924_0042.jpg' dated 2025-09-24"
+        },
+        {
+          "date": "2020-25-09",
+          "type": "document_created",
+          "document": "CCE20250924_0042.jpg",
+          "description": "Document 'CCE20250924_0042.jpg' dated 2020-25-09"
+        }
+      ]
+    },
+    "peter-faucitt-interdict/CCE20250924_0019.jpg": {
+      "hash": "55f912b8628686a275e3ccd1eed5ff6e7f4a3fb2bd4aec81034a081b295a7466",
+      "processed_date": "2025-09-30T11:59:06.365628",
+      "category": "evidence",
+      "destination": "02_evidence/screenshots",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [
+          "20250924"
+        ],
+        "case_numbers": [
+          "CCE20250924"
+        ],
+        "document_types": []
+      },
+      "events": [
+        {
+          "date": "2025-09-24",
+          "type": "document_created",
+          "document": "CCE20250924_0019.jpg",
+          "description": "Document 'CCE20250924_0019.jpg' dated 2025-09-24"
+        },
+        {
+          "date": "2020-25-09",
+          "type": "document_created",
+          "document": "CCE20250924_0019.jpg",
+          "description": "Document 'CCE20250924_0019.jpg' dated 2020-25-09"
+        }
+      ]
+    },
+    "peter-faucitt-interdict/CCE20250924_0004.jpg": {
+      "hash": "93743cf949cc95f91185f26d4c6f25c9638d639e2b3d2e698fd91b582bbccbcd",
+      "processed_date": "2025-09-30T11:59:06.366410",
+      "category": "evidence",
+      "destination": "02_evidence/screenshots",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [
+          "20250924"
+        ],
+        "case_numbers": [
+          "CCE20250924"
+        ],
+        "document_types": []
+      },
+      "events": [
+        {
+          "date": "2025-09-24",
+          "type": "document_created",
+          "document": "CCE20250924_0004.jpg",
+          "description": "Document 'CCE20250924_0004.jpg' dated 2025-09-24"
+        },
+        {
+          "date": "2020-25-09",
+          "type": "document_created",
+          "document": "CCE20250924_0004.jpg",
+          "description": "Document 'CCE20250924_0004.jpg' dated 2020-25-09"
+        }
+      ]
+    },
+    "peter-faucitt-interdict/CCE20250924_0005.jpg": {
+      "hash": "a0a2205b28983fc61d91a314e346a097cb7ff1f05d847a8715f1a47e772b0b45",
+      "processed_date": "2025-09-30T11:59:06.367162",
+      "category": "evidence",
+      "destination": "02_evidence/screenshots",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [
+          "20250924"
+        ],
+        "case_numbers": [
+          "CCE20250924"
+        ],
+        "document_types": []
+      },
+      "events": [
+        {
+          "date": "2025-09-24",
+          "type": "document_created",
+          "document": "CCE20250924_0005.jpg",
+          "description": "Document 'CCE20250924_0005.jpg' dated 2025-09-24"
+        },
+        {
+          "date": "2020-25-09",
+          "type": "document_created",
+          "document": "CCE20250924_0005.jpg",
+          "description": "Document 'CCE20250924_0005.jpg' dated 2020-25-09"
+        }
+      ]
+    },
+    "peter-faucitt-interdict/CCE20250924_0020.jpg": {
+      "hash": "4cf5fa2e6b59bccb7a2e859638fec494f486fd39ff14da554a3b0dee5e1e42ef",
+      "processed_date": "2025-09-30T11:59:06.367854",
+      "category": "evidence",
+      "destination": "02_evidence/screenshots",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [
+          "20250924"
+        ],
+        "case_numbers": [
+          "CCE20250924"
+        ],
+        "document_types": []
+      },
+      "events": [
+        {
+          "date": "2025-09-24",
+          "type": "document_created",
+          "document": "CCE20250924_0020.jpg",
+          "description": "Document 'CCE20250924_0020.jpg' dated 2025-09-24"
+        },
+        {
+          "date": "2020-25-09",
+          "type": "document_created",
+          "document": "CCE20250924_0020.jpg",
+          "description": "Document 'CCE20250924_0020.jpg' dated 2020-25-09"
+        }
+      ]
+    },
+    "peter-faucitt-interdict/CCE20250924_0047.jpg": {
+      "hash": "a91375a587ea3e3fecafe238768e46e46a3aaaa967e16ee5c2fdbb3263b3647e",
+      "processed_date": "2025-09-30T11:59:06.369425",
+      "category": "evidence",
+      "destination": "02_evidence/screenshots",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [
+          "20250924"
+        ],
+        "case_numbers": [
+          "CCE20250924"
+        ],
+        "document_types": []
+      },
+      "events": [
+        {
+          "date": "2025-09-24",
+          "type": "document_created",
+          "document": "CCE20250924_0047.jpg",
+          "description": "Document 'CCE20250924_0047.jpg' dated 2025-09-24"
+        },
+        {
+          "date": "2020-25-09",
+          "type": "document_created",
+          "document": "CCE20250924_0047.jpg",
+          "description": "Document 'CCE20250924_0047.jpg' dated 2020-25-09"
+        }
+      ]
+    },
+    "peter-faucitt-interdict/CCE20250924_0015.jpg": {
+      "hash": "22ec56f5212fbff4d53886af181288903306c3a410e54995a62323f7042df85b",
+      "processed_date": "2025-09-30T11:59:06.369914",
+      "category": "evidence",
+      "destination": "02_evidence/screenshots",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [
+          "20250924"
+        ],
+        "case_numbers": [
+          "CCE20250924"
+        ],
+        "document_types": []
+      },
+      "events": [
+        {
+          "date": "2025-09-24",
+          "type": "document_created",
+          "document": "CCE20250924_0015.jpg",
+          "description": "Document 'CCE20250924_0015.jpg' dated 2025-09-24"
+        },
+        {
+          "date": "2020-25-09",
+          "type": "document_created",
+          "document": "CCE20250924_0015.jpg",
+          "description": "Document 'CCE20250924_0015.jpg' dated 2020-25-09"
+        }
+      ]
+    },
+    "peter-faucitt-interdict/CCE20250924_0044.jpg": {
+      "hash": "8d3989c341cef7214431c3c41c1d9bf80d7d87f86d4fe7ac672b934a36f4cd76",
+      "processed_date": "2025-09-30T11:59:06.370636",
+      "category": "evidence",
+      "destination": "02_evidence/screenshots",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [
+          "20250924"
+        ],
+        "case_numbers": [
+          "CCE20250924"
+        ],
+        "document_types": []
+      },
+      "events": [
+        {
+          "date": "2025-09-24",
+          "type": "document_created",
+          "document": "CCE20250924_0044.jpg",
+          "description": "Document 'CCE20250924_0044.jpg' dated 2025-09-24"
+        },
+        {
+          "date": "2020-25-09",
+          "type": "document_created",
+          "document": "CCE20250924_0044.jpg",
+          "description": "Document 'CCE20250924_0044.jpg' dated 2020-25-09"
+        }
+      ]
+    },
+    "peter-faucitt-interdict/CCE20250924.jpg": {
+      "hash": "7e64cfff49f64c922a51e27100da551c819c2c29a4b3cb2b81ad71e71cfa2bad",
+      "processed_date": "2025-09-30T11:59:06.371573",
+      "category": "evidence",
+      "destination": "02_evidence/screenshots",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [
+          "20250924"
+        ],
+        "case_numbers": [
+          "CCE20250924"
+        ],
+        "document_types": []
+      },
+      "events": [
+        {
+          "date": "2025-09-24",
+          "type": "document_created",
+          "document": "CCE20250924.jpg",
+          "description": "Document 'CCE20250924.jpg' dated 2025-09-24"
+        },
+        {
+          "date": "2020-25-09",
+          "type": "document_created",
+          "document": "CCE20250924.jpg",
+          "description": "Document 'CCE20250924.jpg' dated 2020-25-09"
+        }
+      ]
+    },
+    "peter-faucitt-interdict/CCE20250924_0002.jpg": {
+      "hash": "26f62b9a9eb47d3e86ddcb816eaad978644e4e768c2a31950d8a5ca1d21c0dd3",
+      "processed_date": "2025-09-30T11:59:06.372488",
+      "category": "evidence",
+      "destination": "02_evidence/screenshots",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [
+          "20250924"
+        ],
+        "case_numbers": [
+          "CCE20250924"
+        ],
+        "document_types": []
+      },
+      "events": [
+        {
+          "date": "2025-09-24",
+          "type": "document_created",
+          "document": "CCE20250924_0002.jpg",
+          "description": "Document 'CCE20250924_0002.jpg' dated 2025-09-24"
+        },
+        {
+          "date": "2020-25-09",
+          "type": "document_created",
+          "document": "CCE20250924_0002.jpg",
+          "description": "Document 'CCE20250924_0002.jpg' dated 2020-25-09"
+        }
+      ]
+    },
+    "peter-faucitt-interdict/CCE20250924_0001.jpg": {
+      "hash": "3d970662ff9b750bd76eab17106679dc9dce44ba9b9e995b1104be768b6124eb",
+      "processed_date": "2025-09-30T11:59:06.373611",
+      "category": "evidence",
+      "destination": "02_evidence/screenshots",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [
+          "20250924"
+        ],
+        "case_numbers": [
+          "CCE20250924"
+        ],
+        "document_types": []
+      },
+      "events": [
+        {
+          "date": "2025-09-24",
+          "type": "document_created",
+          "document": "CCE20250924_0001.jpg",
+          "description": "Document 'CCE20250924_0001.jpg' dated 2025-09-24"
+        },
+        {
+          "date": "2020-25-09",
+          "type": "document_created",
+          "document": "CCE20250924_0001.jpg",
+          "description": "Document 'CCE20250924_0001.jpg' dated 2020-25-09"
+        }
+      ]
+    },
+    "peter-faucitt-interdict/CCE20250924_0023.jpg": {
+      "hash": "4d41669204adfd3ed203d42e28407f22636d3cd1df98e21ca5f8e819e01b7fe8",
+      "processed_date": "2025-09-30T11:59:06.374350",
+      "category": "evidence",
+      "destination": "02_evidence/screenshots",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [
+          "20250924"
+        ],
+        "case_numbers": [
+          "CCE20250924"
+        ],
+        "document_types": []
+      },
+      "events": [
+        {
+          "date": "2025-09-24",
+          "type": "document_created",
+          "document": "CCE20250924_0023.jpg",
+          "description": "Document 'CCE20250924_0023.jpg' dated 2025-09-24"
+        },
+        {
+          "date": "2020-25-09",
+          "type": "document_created",
+          "document": "CCE20250924_0023.jpg",
+          "description": "Document 'CCE20250924_0023.jpg' dated 2020-25-09"
+        }
+      ]
+    },
+    "peter-faucitt-interdict/CCE20250924_0029.jpg": {
+      "hash": "a3a52bf119b5b314784c1acaac06499702afc501e89c9a7e41418ff388df045a",
+      "processed_date": "2025-09-30T11:59:06.375033",
+      "category": "evidence",
+      "destination": "02_evidence/screenshots",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [
+          "20250924"
+        ],
+        "case_numbers": [
+          "CCE20250924"
+        ],
+        "document_types": []
+      },
+      "events": [
+        {
+          "date": "2025-09-24",
+          "type": "document_created",
+          "document": "CCE20250924_0029.jpg",
+          "description": "Document 'CCE20250924_0029.jpg' dated 2025-09-24"
+        },
+        {
+          "date": "2020-25-09",
+          "type": "document_created",
+          "document": "CCE20250924_0029.jpg",
+          "description": "Document 'CCE20250924_0029.jpg' dated 2020-25-09"
+        }
+      ]
+    },
+    "peter-faucitt-interdict/CCE20250924_0041.jpg": {
+      "hash": "c291b70c71d296a28578d4a97a42fb9c431363ab0d770eaef5e3c457382665ea",
+      "processed_date": "2025-09-30T11:59:06.375778",
+      "category": "evidence",
+      "destination": "02_evidence/screenshots",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [
+          "20250924"
+        ],
+        "case_numbers": [
+          "CCE20250924"
+        ],
+        "document_types": []
+      },
+      "events": [
+        {
+          "date": "2025-09-24",
+          "type": "document_created",
+          "document": "CCE20250924_0041.jpg",
+          "description": "Document 'CCE20250924_0041.jpg' dated 2025-09-24"
+        },
+        {
+          "date": "2020-25-09",
+          "type": "document_created",
+          "document": "CCE20250924_0041.jpg",
+          "description": "Document 'CCE20250924_0041.jpg' dated 2020-25-09"
+        }
+      ]
+    },
+    "peter-faucitt-interdict/CCE20250924_0014.jpg": {
+      "hash": "2dad00f911c24182492d4f228fd92848a2f87359f2627634aa6cd0140d12b6fc",
+      "processed_date": "2025-09-30T11:59:06.376480",
+      "category": "evidence",
+      "destination": "02_evidence/screenshots",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [
+          "20250924"
+        ],
+        "case_numbers": [
+          "CCE20250924"
+        ],
+        "document_types": []
+      },
+      "events": [
+        {
+          "date": "2025-09-24",
+          "type": "document_created",
+          "document": "CCE20250924_0014.jpg",
+          "description": "Document 'CCE20250924_0014.jpg' dated 2025-09-24"
+        },
+        {
+          "date": "2020-25-09",
+          "type": "document_created",
+          "document": "CCE20250924_0014.jpg",
+          "description": "Document 'CCE20250924_0014.jpg' dated 2020-25-09"
+        }
+      ]
+    },
+    "peter-faucitt-interdict/CCE20250924_0030.jpg": {
+      "hash": "fbfa1b31b48cf6d4e183fa2ade587873efccbdc02e2e9901b505023a6b2e4dc4",
+      "processed_date": "2025-09-30T11:59:06.377178",
+      "category": "evidence",
+      "destination": "02_evidence/screenshots",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [
+          "20250924"
+        ],
+        "case_numbers": [
+          "CCE20250924"
+        ],
+        "document_types": []
+      },
+      "events": [
+        {
+          "date": "2025-09-24",
+          "type": "document_created",
+          "document": "CCE20250924_0030.jpg",
+          "description": "Document 'CCE20250924_0030.jpg' dated 2025-09-24"
+        },
+        {
+          "date": "2020-25-09",
+          "type": "document_created",
+          "document": "CCE20250924_0030.jpg",
+          "description": "Document 'CCE20250924_0030.jpg' dated 2020-25-09"
+        }
+      ]
+    },
+    "peter-faucitt-interdict/CCE20250924_0049.jpg": {
+      "hash": "95889e9859c4da5dff3b172ee62241bdc47c9c1faeea2d04a22a25cb8c98cc77",
+      "processed_date": "2025-09-30T11:59:06.378339",
+      "category": "evidence",
+      "destination": "02_evidence/screenshots",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [
+          "20250924"
+        ],
+        "case_numbers": [
+          "CCE20250924"
+        ],
+        "document_types": []
+      },
+      "events": [
+        {
+          "date": "2025-09-24",
+          "type": "document_created",
+          "document": "CCE20250924_0049.jpg",
+          "description": "Document 'CCE20250924_0049.jpg' dated 2025-09-24"
+        },
+        {
+          "date": "2020-25-09",
+          "type": "document_created",
+          "document": "CCE20250924_0049.jpg",
+          "description": "Document 'CCE20250924_0049.jpg' dated 2020-25-09"
+        }
+      ]
+    },
+    "peter-faucitt-interdict/CCE20250924_0035.jpg": {
+      "hash": "5aede9dec76cd0a7c3cfddcf3c3df1944417d93ae1b91fdd7d71724d39467ca6",
+      "processed_date": "2025-09-30T11:59:06.379076",
+      "category": "evidence",
+      "destination": "02_evidence/screenshots",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [
+          "20250924"
+        ],
+        "case_numbers": [
+          "CCE20250924"
+        ],
+        "document_types": []
+      },
+      "events": [
+        {
+          "date": "2025-09-24",
+          "type": "document_created",
+          "document": "CCE20250924_0035.jpg",
+          "description": "Document 'CCE20250924_0035.jpg' dated 2025-09-24"
+        },
+        {
+          "date": "2020-25-09",
+          "type": "document_created",
+          "document": "CCE20250924_0035.jpg",
+          "description": "Document 'CCE20250924_0035.jpg' dated 2020-25-09"
+        }
+      ]
+    },
+    "peter-faucitt-interdict/CCE20250924_0026.jpg": {
+      "hash": "544af557798f4e4265122df90f266e3686c1bf9fb5338bbb48b0bc9a7bbabd5d",
+      "processed_date": "2025-09-30T11:59:06.379728",
+      "category": "evidence",
+      "destination": "02_evidence/screenshots",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [
+          "20250924"
+        ],
+        "case_numbers": [
+          "CCE20250924"
+        ],
+        "document_types": []
+      },
+      "events": [
+        {
+          "date": "2025-09-24",
+          "type": "document_created",
+          "document": "CCE20250924_0026.jpg",
+          "description": "Document 'CCE20250924_0026.jpg' dated 2025-09-24"
+        },
+        {
+          "date": "2020-25-09",
+          "type": "document_created",
+          "document": "CCE20250924_0026.jpg",
+          "description": "Document 'CCE20250924_0026.jpg' dated 2020-25-09"
+        }
+      ]
+    },
+    "peter-faucitt-interdict/CCE20250924_0021.jpg": {
+      "hash": "746af775b3520b9464e2ae66bba2210a6a82c44a2bab42725efc9c51d8e77acf",
+      "processed_date": "2025-09-30T11:59:06.380390",
+      "category": "evidence",
+      "destination": "02_evidence/screenshots",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [
+          "20250924"
+        ],
+        "case_numbers": [
+          "CCE20250924"
+        ],
+        "document_types": []
+      },
+      "events": [
+        {
+          "date": "2025-09-24",
+          "type": "document_created",
+          "document": "CCE20250924_0021.jpg",
+          "description": "Document 'CCE20250924_0021.jpg' dated 2025-09-24"
+        },
+        {
+          "date": "2020-25-09",
+          "type": "document_created",
+          "document": "CCE20250924_0021.jpg",
+          "description": "Document 'CCE20250924_0021.jpg' dated 2020-25-09"
+        }
+      ]
+    },
+    "peter-faucitt-interdict/CCE20250924_0048.jpg": {
+      "hash": "98e84af616af5ea895ed4f01cab6fc363803339f47f54c4f701eb3eabea52245",
+      "processed_date": "2025-09-30T11:59:06.381807",
+      "category": "evidence",
+      "destination": "02_evidence/screenshots",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [
+          "20250924"
+        ],
+        "case_numbers": [
+          "CCE20250924"
+        ],
+        "document_types": []
+      },
+      "events": [
+        {
+          "date": "2025-09-24",
+          "type": "document_created",
+          "document": "CCE20250924_0048.jpg",
+          "description": "Document 'CCE20250924_0048.jpg' dated 2025-09-24"
+        },
+        {
+          "date": "2020-25-09",
+          "type": "document_created",
+          "document": "CCE20250924_0048.jpg",
+          "description": "Document 'CCE20250924_0048.jpg' dated 2020-25-09"
+        }
+      ]
+    },
+    "peter-faucitt-interdict/CCE20250924_0008.jpg": {
+      "hash": "0a589aa578940a9a3e4f052d3f669b4c6865e33e38773a732635f7f35e67b1ad",
+      "processed_date": "2025-09-30T11:59:06.382521",
+      "category": "evidence",
+      "destination": "02_evidence/screenshots",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [
+          "20250924"
+        ],
+        "case_numbers": [
+          "CCE20250924"
+        ],
+        "document_types": []
+      },
+      "events": [
+        {
+          "date": "2025-09-24",
+          "type": "document_created",
+          "document": "CCE20250924_0008.jpg",
+          "description": "Document 'CCE20250924_0008.jpg' dated 2025-09-24"
+        },
+        {
+          "date": "2020-25-09",
+          "type": "document_created",
+          "document": "CCE20250924_0008.jpg",
+          "description": "Document 'CCE20250924_0008.jpg' dated 2020-25-09"
+        }
+      ]
+    },
+    "peter-faucitt-interdict/CCE20250924_0033.jpg": {
+      "hash": "12c0d6ba3e9a42f0ac4e60c1c1043b71117aea65a97a24304065956d8586983d",
+      "processed_date": "2025-09-30T11:59:06.383262",
+      "category": "evidence",
+      "destination": "02_evidence/screenshots",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [
+          "20250924"
+        ],
+        "case_numbers": [
+          "CCE20250924"
+        ],
+        "document_types": []
+      },
+      "events": [
+        {
+          "date": "2025-09-24",
+          "type": "document_created",
+          "document": "CCE20250924_0033.jpg",
+          "description": "Document 'CCE20250924_0033.jpg' dated 2025-09-24"
+        },
+        {
+          "date": "2020-25-09",
+          "type": "document_created",
+          "document": "CCE20250924_0033.jpg",
+          "description": "Document 'CCE20250924_0033.jpg' dated 2020-25-09"
+        }
+      ]
+    },
+    "peter-faucitt-interdict/CCE20250924_0046.jpg": {
+      "hash": "72516389c27394d91761804f006fa1246c901530fae21ce1b4d8c09db1b6ed0c",
+      "processed_date": "2025-09-30T11:59:06.384976",
+      "category": "evidence",
+      "destination": "02_evidence/screenshots",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [
+          "20250924"
+        ],
+        "case_numbers": [
+          "CCE20250924"
+        ],
+        "document_types": []
+      },
+      "events": [
+        {
+          "date": "2025-09-24",
+          "type": "document_created",
+          "document": "CCE20250924_0046.jpg",
+          "description": "Document 'CCE20250924_0046.jpg' dated 2025-09-24"
+        },
+        {
+          "date": "2020-25-09",
+          "type": "document_created",
+          "document": "CCE20250924_0046.jpg",
+          "description": "Document 'CCE20250924_0046.jpg' dated 2020-25-09"
+        }
+      ]
+    },
+    "peter-faucitt-interdict/CCE20250924_0037.jpg": {
+      "hash": "5f5d5f667dbf5f9e98692ca0e4a7e9a8698708e4b1c142963deca392c8770281",
+      "processed_date": "2025-09-30T11:59:06.385682",
+      "category": "evidence",
+      "destination": "02_evidence/screenshots",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [
+          "20250924"
+        ],
+        "case_numbers": [
+          "CCE20250924"
+        ],
+        "document_types": []
+      },
+      "events": [
+        {
+          "date": "2025-09-24",
+          "type": "document_created",
+          "document": "CCE20250924_0037.jpg",
+          "description": "Document 'CCE20250924_0037.jpg' dated 2025-09-24"
+        },
+        {
+          "date": "2020-25-09",
+          "type": "document_created",
+          "document": "CCE20250924_0037.jpg",
+          "description": "Document 'CCE20250924_0037.jpg' dated 2020-25-09"
+        }
+      ]
+    },
+    "peter-faucitt-interdict/CCE20250924_0011.jpg": {
+      "hash": "32d68d41b4804908c463838e0e0ccc7a752573fdf07eba4bb6429a15c132964d",
+      "processed_date": "2025-09-30T11:59:06.386371",
+      "category": "evidence",
+      "destination": "02_evidence/screenshots",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [
+          "20250924"
+        ],
+        "case_numbers": [
+          "CCE20250924"
+        ],
+        "document_types": []
+      },
+      "events": [
+        {
+          "date": "2025-09-24",
+          "type": "document_created",
+          "document": "CCE20250924_0011.jpg",
+          "description": "Document 'CCE20250924_0011.jpg' dated 2025-09-24"
+        },
+        {
+          "date": "2020-25-09",
+          "type": "document_created",
+          "document": "CCE20250924_0011.jpg",
+          "description": "Document 'CCE20250924_0011.jpg' dated 2020-25-09"
+        }
+      ]
+    },
+    "peter-faucitt-interdict/peter-faucitt-interdict-complete.md": {
+      "hash": "7b15db7077d57c19a7cdf6e10ae90a9a620224e4e54d6db67b0c588b93f5517e",
+      "processed_date": "2025-09-30T11:59:06.386719",
+      "category": "court_documents",
+      "destination": "01_court_documents",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [],
+        "case_numbers": [],
+        "document_types": [
+          "interdict"
+        ]
+      },
+      "events": []
+    },
+    "peter-faucitt-interdict/CCE20250924_0007.jpg": {
+      "hash": "f3c5e89857922429d2bb61d7b4ab1ba38b28b685ffdeadf6c962b8977a1653a5",
+      "processed_date": "2025-09-30T11:59:06.387417",
+      "category": "evidence",
+      "destination": "02_evidence/screenshots",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [
+          "20250924"
+        ],
+        "case_numbers": [
+          "CCE20250924"
+        ],
+        "document_types": []
+      },
+      "events": [
+        {
+          "date": "2025-09-24",
+          "type": "document_created",
+          "document": "CCE20250924_0007.jpg",
+          "description": "Document 'CCE20250924_0007.jpg' dated 2025-09-24"
+        },
+        {
+          "date": "2020-25-09",
+          "type": "document_created",
+          "document": "CCE20250924_0007.jpg",
+          "description": "Document 'CCE20250924_0007.jpg' dated 2020-25-09"
+        }
+      ]
+    },
+    "peter-faucitt-interdict/CCE20250924_0010.jpg": {
+      "hash": "96f702d259550def86db4b5275e2fa867b59f28047cf2f20953cc6ab75651032",
+      "processed_date": "2025-09-30T11:59:06.388203",
+      "category": "evidence",
+      "destination": "02_evidence/screenshots",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [
+          "20250924"
+        ],
+        "case_numbers": [
+          "CCE20250924"
+        ],
+        "document_types": []
+      },
+      "events": [
+        {
+          "date": "2025-09-24",
+          "type": "document_created",
+          "document": "CCE20250924_0010.jpg",
+          "description": "Document 'CCE20250924_0010.jpg' dated 2025-09-24"
+        },
+        {
+          "date": "2020-25-09",
+          "type": "document_created",
+          "document": "CCE20250924_0010.jpg",
+          "description": "Document 'CCE20250924_0010.jpg' dated 2020-25-09"
+        }
+      ]
+    },
+    "peter-faucitt-interdict/CCE20250924_0024.jpg": {
+      "hash": "850c131861a5b27f3be97171398db2dbe3a22dfb281f6467664ede327b7f49c5",
+      "processed_date": "2025-09-30T11:59:06.388896",
+      "category": "evidence",
+      "destination": "02_evidence/screenshots",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [
+          "20250924"
+        ],
+        "case_numbers": [
+          "CCE20250924"
+        ],
+        "document_types": []
+      },
+      "events": [
+        {
+          "date": "2025-09-24",
+          "type": "document_created",
+          "document": "CCE20250924_0024.jpg",
+          "description": "Document 'CCE20250924_0024.jpg' dated 2025-09-24"
+        },
+        {
+          "date": "2020-25-09",
+          "type": "document_created",
+          "document": "CCE20250924_0024.jpg",
+          "description": "Document 'CCE20250924_0024.jpg' dated 2020-25-09"
+        }
+      ]
+    },
+    "peter-faucitt-interdict/CCE20250924_0027.jpg": {
+      "hash": "06376b617715da422e77d149131e3810a43dc45a28c3cc2ed9227e48b803c29a",
+      "processed_date": "2025-09-30T11:59:06.389563",
+      "category": "evidence",
+      "destination": "02_evidence/screenshots",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [
+          "20250924"
+        ],
+        "case_numbers": [
+          "CCE20250924"
+        ],
+        "document_types": []
+      },
+      "events": [
+        {
+          "date": "2025-09-24",
+          "type": "document_created",
+          "document": "CCE20250924_0027.jpg",
+          "description": "Document 'CCE20250924_0027.jpg' dated 2025-09-24"
+        },
+        {
+          "date": "2020-25-09",
+          "type": "document_created",
+          "document": "CCE20250924_0027.jpg",
+          "description": "Document 'CCE20250924_0027.jpg' dated 2020-25-09"
+        }
+      ]
+    },
+    "peter-faucitt-interdict/CCE20250924_0013.jpg": {
+      "hash": "ef633b27f4cdbd0f64914d56fc816f1c0ac794eafe49e7cc585c26df5c9906f6",
+      "processed_date": "2025-09-30T11:59:06.390211",
+      "category": "evidence",
+      "destination": "02_evidence/screenshots",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [
+          "20250924"
+        ],
+        "case_numbers": [
+          "CCE20250924"
+        ],
+        "document_types": []
+      },
+      "events": [
+        {
+          "date": "2025-09-24",
+          "type": "document_created",
+          "document": "CCE20250924_0013.jpg",
+          "description": "Document 'CCE20250924_0013.jpg' dated 2025-09-24"
+        },
+        {
+          "date": "2020-25-09",
+          "type": "document_created",
+          "document": "CCE20250924_0013.jpg",
+          "description": "Document 'CCE20250924_0013.jpg' dated 2020-25-09"
+        }
+      ]
+    },
+    "peter-faucitt-interdict/CCE20250924_0032.jpg": {
+      "hash": "d6317fca56a795e777bcf05de1bfd3917361973081aba6922e386f7c59285bfc",
+      "processed_date": "2025-09-30T11:59:06.390900",
+      "category": "evidence",
+      "destination": "02_evidence/screenshots",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [
+          "20250924"
+        ],
+        "case_numbers": [
+          "CCE20250924"
+        ],
+        "document_types": []
+      },
+      "events": [
+        {
+          "date": "2025-09-24",
+          "type": "document_created",
+          "document": "CCE20250924_0032.jpg",
+          "description": "Document 'CCE20250924_0032.jpg' dated 2025-09-24"
+        },
+        {
+          "date": "2020-25-09",
+          "type": "document_created",
+          "document": "CCE20250924_0032.jpg",
+          "description": "Document 'CCE20250924_0032.jpg' dated 2020-25-09"
+        }
+      ]
+    },
+    "peter-faucitt-interdict/CCE20250924_0028.jpg": {
+      "hash": "bed160eed0cea712ab235472f21a15dc11f4e6411fd9d54090f3c3fc3c7e0189",
+      "processed_date": "2025-09-30T11:59:06.391598",
+      "category": "evidence",
+      "destination": "02_evidence/screenshots",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [
+          "20250924"
+        ],
+        "case_numbers": [
+          "CCE20250924"
+        ],
+        "document_types": []
+      },
+      "events": [
+        {
+          "date": "2025-09-24",
+          "type": "document_created",
+          "document": "CCE20250924_0028.jpg",
+          "description": "Document 'CCE20250924_0028.jpg' dated 2025-09-24"
+        },
+        {
+          "date": "2020-25-09",
+          "type": "document_created",
+          "document": "CCE20250924_0028.jpg",
+          "description": "Document 'CCE20250924_0028.jpg' dated 2020-25-09"
+        }
+      ]
+    },
+    "peter-faucitt-interdict/CCE20250924_0036.jpg": {
+      "hash": "a7cfd5971f60643168d0bdb81747915b7f3444a50adccad3fc8c9be59b10783e",
+      "processed_date": "2025-09-30T11:59:06.392262",
+      "category": "evidence",
+      "destination": "02_evidence/screenshots",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [
+          "20250924"
+        ],
+        "case_numbers": [
+          "CCE20250924"
+        ],
+        "document_types": []
+      },
+      "events": [
+        {
+          "date": "2025-09-24",
+          "type": "document_created",
+          "document": "CCE20250924_0036.jpg",
+          "description": "Document 'CCE20250924_0036.jpg' dated 2025-09-24"
+        },
+        {
+          "date": "2020-25-09",
+          "type": "document_created",
+          "document": "CCE20250924_0036.jpg",
+          "description": "Document 'CCE20250924_0036.jpg' dated 2020-25-09"
+        }
+      ]
+    },
+    "peter-faucitt-interdict/CCE20250924_0006.jpg": {
+      "hash": "23dc65613a2dc189cc5ed34fa20078d0f87b3d6d6db7e1caa40ba0edfc836a68",
+      "processed_date": "2025-09-30T11:59:06.392580",
+      "category": "evidence",
+      "destination": "02_evidence/screenshots",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [
+          "20250924"
+        ],
+        "case_numbers": [
+          "CCE20250924"
+        ],
+        "document_types": []
+      },
+      "events": [
+        {
+          "date": "2025-09-24",
+          "type": "document_created",
+          "document": "CCE20250924_0006.jpg",
+          "description": "Document 'CCE20250924_0006.jpg' dated 2025-09-24"
+        },
+        {
+          "date": "2020-25-09",
+          "type": "document_created",
+          "document": "CCE20250924_0006.jpg",
+          "description": "Document 'CCE20250924_0006.jpg' dated 2020-25-09"
+        }
+      ]
+    },
+    "peter-faucitt-interdict/CCE20250924_0018.jpg": {
+      "hash": "8ec01c7ac0acb6b25e04e33524d8bf2e3c0a130c6f6abb7a17eb0b5cb8ab6c36",
+      "processed_date": "2025-09-30T11:59:06.393178",
+      "category": "evidence",
+      "destination": "02_evidence/screenshots",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [
+          "20250924"
+        ],
+        "case_numbers": [
+          "CCE20250924"
+        ],
+        "document_types": []
+      },
+      "events": [
+        {
+          "date": "2025-09-24",
+          "type": "document_created",
+          "document": "CCE20250924_0018.jpg",
+          "description": "Document 'CCE20250924_0018.jpg' dated 2025-09-24"
+        },
+        {
+          "date": "2020-25-09",
+          "type": "document_created",
+          "document": "CCE20250924_0018.jpg",
+          "description": "Document 'CCE20250924_0018.jpg' dated 2020-25-09"
+        }
+      ]
+    },
+    "peter-faucitt-interdict/CCE20250924_0050.jpg": {
+      "hash": "ee9235e5f9cfc4358dc98658c6efd45cbeeaf38be3010bd0d2d29a358da93b91",
+      "processed_date": "2025-09-30T11:59:06.394138",
+      "category": "evidence",
+      "destination": "02_evidence/screenshots",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [
+          "20250924"
+        ],
+        "case_numbers": [
+          "CCE20250924"
+        ],
+        "document_types": []
+      },
+      "events": [
+        {
+          "date": "2025-09-24",
+          "type": "document_created",
+          "document": "CCE20250924_0050.jpg",
+          "description": "Document 'CCE20250924_0050.jpg' dated 2025-09-24"
+        },
+        {
+          "date": "2020-25-09",
+          "type": "document_created",
+          "document": "CCE20250924_0050.jpg",
+          "description": "Document 'CCE20250924_0050.jpg' dated 2020-25-09"
+        }
+      ]
+    },
+    "peter-faucitt-interdict/CCE20250924_0022.jpg": {
+      "hash": "b24dcb178c6251d9a7c49853df5b65a528e5b9a44d69b0f56b8c43bb0ead5861",
+      "processed_date": "2025-09-30T11:59:06.394697",
+      "category": "evidence",
+      "destination": "02_evidence/screenshots",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [
+          "20250924"
+        ],
+        "case_numbers": [
+          "CCE20250924"
+        ],
+        "document_types": []
+      },
+      "events": [
+        {
+          "date": "2025-09-24",
+          "type": "document_created",
+          "document": "CCE20250924_0022.jpg",
+          "description": "Document 'CCE20250924_0022.jpg' dated 2025-09-24"
+        },
+        {
+          "date": "2020-25-09",
+          "type": "document_created",
+          "document": "CCE20250924_0022.jpg",
+          "description": "Document 'CCE20250924_0022.jpg' dated 2020-25-09"
+        }
+      ]
+    },
+    "peter-faucitt-interdict/CCE20250924_0043.jpg": {
+      "hash": "36bfe2d6ac9924c53907ab019d9784347e65daec137cb090ebd74463f87d99da",
+      "processed_date": "2025-09-30T11:59:06.395298",
+      "category": "evidence",
+      "destination": "02_evidence/screenshots",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [
+          "20250924"
+        ],
+        "case_numbers": [
+          "CCE20250924"
+        ],
+        "document_types": []
+      },
+      "events": [
+        {
+          "date": "2025-09-24",
+          "type": "document_created",
+          "document": "CCE20250924_0043.jpg",
+          "description": "Document 'CCE20250924_0043.jpg' dated 2025-09-24"
+        },
+        {
+          "date": "2020-25-09",
+          "type": "document_created",
+          "document": "CCE20250924_0043.jpg",
+          "description": "Document 'CCE20250924_0043.jpg' dated 2020-25-09"
+        }
+      ]
+    },
+    "peter-faucitt-interdict/CCE20250924_0025.jpg": {
+      "hash": "8204cbd58fc0b806b4d08080a7f8afd944b37949fd80510534b92294ee6944f8",
+      "processed_date": "2025-09-30T11:59:06.395885",
+      "category": "evidence",
+      "destination": "02_evidence/screenshots",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [
+          "20250924"
+        ],
+        "case_numbers": [
+          "CCE20250924"
+        ],
+        "document_types": []
+      },
+      "events": [
+        {
+          "date": "2025-09-24",
+          "type": "document_created",
+          "document": "CCE20250924_0025.jpg",
+          "description": "Document 'CCE20250924_0025.jpg' dated 2025-09-24"
+        },
+        {
+          "date": "2020-25-09",
+          "type": "document_created",
+          "document": "CCE20250924_0025.jpg",
+          "description": "Document 'CCE20250924_0025.jpg' dated 2020-25-09"
+        }
+      ]
+    },
+    "peter-faucitt-interdict/CCE20250924_0051.jpg": {
+      "hash": "4ff3858486c705edb0e48847a749d88827581d7b0dddbc850139859ef184ee77",
+      "processed_date": "2025-09-30T11:59:06.397650",
+      "category": "evidence",
+      "destination": "02_evidence/screenshots",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [
+          "20250924"
+        ],
+        "case_numbers": [
+          "CCE20250924"
+        ],
+        "document_types": []
+      },
+      "events": [
+        {
+          "date": "2025-09-24",
+          "type": "document_created",
+          "document": "CCE20250924_0051.jpg",
+          "description": "Document 'CCE20250924_0051.jpg' dated 2025-09-24"
+        },
+        {
+          "date": "2020-25-09",
+          "type": "document_created",
+          "document": "CCE20250924_0051.jpg",
+          "description": "Document 'CCE20250924_0051.jpg' dated 2020-25-09"
+        }
+      ]
+    },
+    "peter-faucitt-interdict/CCE20250924_0009.jpg": {
+      "hash": "b728f5180224e0da00b259920e6138a910a11567b44cc7aa21ab4b537bd22fa0",
+      "processed_date": "2025-09-30T11:59:06.398361",
+      "category": "evidence",
+      "destination": "02_evidence/screenshots",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [
+          "20250924"
+        ],
+        "case_numbers": [
+          "CCE20250924"
+        ],
+        "document_types": []
+      },
+      "events": [
+        {
+          "date": "2025-09-24",
+          "type": "document_created",
+          "document": "CCE20250924_0009.jpg",
+          "description": "Document 'CCE20250924_0009.jpg' dated 2025-09-24"
+        },
+        {
+          "date": "2020-25-09",
+          "type": "document_created",
+          "document": "CCE20250924_0009.jpg",
+          "description": "Document 'CCE20250924_0009.jpg' dated 2020-25-09"
+        }
+      ]
+    },
+    "peter-faucitt-interdict/CCE20250924_0045.jpg": {
+      "hash": "4ad4e4276aa1609f4b88496df547ec73a1b704006d399ed739faa61f685ad731",
+      "processed_date": "2025-09-30T11:59:06.399890",
+      "category": "evidence",
+      "destination": "02_evidence/screenshots",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [
+          "20250924"
+        ],
+        "case_numbers": [
+          "CCE20250924"
+        ],
+        "document_types": []
+      },
+      "events": [
+        {
+          "date": "2025-09-24",
+          "type": "document_created",
+          "document": "CCE20250924_0045.jpg",
+          "description": "Document 'CCE20250924_0045.jpg' dated 2025-09-24"
+        },
+        {
+          "date": "2020-25-09",
+          "type": "document_created",
+          "document": "CCE20250924_0045.jpg",
+          "description": "Document 'CCE20250924_0045.jpg' dated 2020-25-09"
+        }
+      ]
+    },
+    "peter-faucitt-interdict/peter-faucitt-interdict-combined.md": {
+      "hash": "f54976b7be8d1ea17aa2e0cf8597559d464968ab040ee84f8d8473eb01cc7588",
+      "processed_date": "2025-09-30T11:59:06.400218",
+      "category": "court_documents",
+      "destination": "01_court_documents",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [],
+        "case_numbers": [],
+        "document_types": [
+          "interdict"
+        ]
+      },
+      "events": []
+    },
+    "peter-faucitt-interdict/CCE20250924_0012.jpg": {
+      "hash": "fbfad50c10cabc50db488cca9cb2a91f80373b09f39ae2b9ce122e83a4f44416",
+      "processed_date": "2025-09-30T11:59:06.400789",
+      "category": "evidence",
+      "destination": "02_evidence/screenshots",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [
+          "20250924"
+        ],
+        "case_numbers": [
+          "CCE20250924"
+        ],
+        "document_types": []
+      },
+      "events": [
+        {
+          "date": "2025-09-24",
+          "type": "document_created",
+          "document": "CCE20250924_0012.jpg",
+          "description": "Document 'CCE20250924_0012.jpg' dated 2025-09-24"
+        },
+        {
+          "date": "2020-25-09",
+          "type": "document_created",
+          "document": "CCE20250924_0012.jpg",
+          "description": "Document 'CCE20250924_0012.jpg' dated 2020-25-09"
+        }
+      ]
+    },
+    "peter-faucitt-interdict/CCE20250924_0040.jpg": {
+      "hash": "489fb4b13819b45105c4a978a8ac450cd784885ae5a2defff0c6a56d38436796",
+      "processed_date": "2025-09-30T11:59:06.401365",
+      "category": "evidence",
+      "destination": "02_evidence/screenshots",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [
+          "20250924"
+        ],
+        "case_numbers": [
+          "CCE20250924"
+        ],
+        "document_types": []
+      },
+      "events": [
+        {
+          "date": "2025-09-24",
+          "type": "document_created",
+          "document": "CCE20250924_0040.jpg",
+          "description": "Document 'CCE20250924_0040.jpg' dated 2025-09-24"
+        },
+        {
+          "date": "2020-25-09",
+          "type": "document_created",
+          "document": "CCE20250924_0040.jpg",
+          "description": "Document 'CCE20250924_0040.jpg' dated 2020-25-09"
+        }
+      ]
+    },
+    "peter-faucitt-interdict/CCE20250924_0031.jpg": {
+      "hash": "cab133dbaa101a98d92a61390d95489789870cc22c0be388a4b950fb5197e142",
+      "processed_date": "2025-09-30T11:59:06.402073",
+      "category": "evidence",
+      "destination": "02_evidence/screenshots",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [
+          "20250924"
+        ],
+        "case_numbers": [
+          "CCE20250924"
+        ],
+        "document_types": []
+      },
+      "events": [
+        {
+          "date": "2025-09-24",
+          "type": "document_created",
+          "document": "CCE20250924_0031.jpg",
+          "description": "Document 'CCE20250924_0031.jpg' dated 2025-09-24"
+        },
+        {
+          "date": "2020-25-09",
+          "type": "document_created",
+          "document": "CCE20250924_0031.jpg",
+          "description": "Document 'CCE20250924_0031.jpg' dated 2020-25-09"
+        }
+      ]
+    },
+    "peter-faucitt-interdict/CCE20250924_0016.jpg": {
+      "hash": "c17b7157e176342cd6b403fe8132700ea9a2ff788667127b7c00d43bb87eb706",
+      "processed_date": "2025-09-30T11:59:06.402668",
+      "category": "evidence",
+      "destination": "02_evidence/screenshots",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [
+          "20250924"
+        ],
+        "case_numbers": [
+          "CCE20250924"
+        ],
+        "document_types": []
+      },
+      "events": [
+        {
+          "date": "2025-09-24",
+          "type": "document_created",
+          "document": "CCE20250924_0016.jpg",
+          "description": "Document 'CCE20250924_0016.jpg' dated 2025-09-24"
+        },
+        {
+          "date": "2020-25-09",
+          "type": "document_created",
+          "document": "CCE20250924_0016.jpg",
+          "description": "Document 'CCE20250924_0016.jpg' dated 2020-25-09"
+        }
+      ]
+    },
+    "jacqui-faucitt-draft-response/ocr-analysis-CCE20250929_0006.md": {
+      "hash": "2f4bdfbd6f228cd0702b59ed076638693f763ed12de3151bd902da2ab5657e7e",
+      "processed_date": "2025-09-30T11:59:06.402852",
+      "category": "court_documents",
+      "destination": "01_court_documents",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [
+          "20250929"
+        ],
+        "case_numbers": [
+          "CCE20250929"
+        ],
+        "document_types": []
+      },
+      "events": [
+        {
+          "date": "2025-09-29",
+          "type": "document_created",
+          "document": "ocr-analysis-CCE20250929_0006.md",
+          "description": "Document 'ocr-analysis-CCE20250929_0006.md' dated 2025-09-29"
+        },
+        {
+          "date": "2020-25-09",
+          "type": "document_created",
+          "document": "ocr-analysis-CCE20250929_0006.md",
+          "description": "Document 'ocr-analysis-CCE20250929_0006.md' dated 2020-25-09"
+        }
+      ]
+    },
+    "jacqui-faucitt-draft-response/ocr-analysis-CCE20250929.md": {
+      "hash": "9149f63099ce8a875347c81f9ccea1240e5c5bd722bda16aaaabe7899e12ddc6",
+      "processed_date": "2025-09-30T11:59:06.403001",
+      "category": "court_documents",
+      "destination": "01_court_documents",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [
+          "20250929"
+        ],
+        "case_numbers": [
+          "CCE20250929"
+        ],
+        "document_types": []
+      },
+      "events": [
+        {
+          "date": "2025-09-29",
+          "type": "document_created",
+          "document": "ocr-analysis-CCE20250929.md",
+          "description": "Document 'ocr-analysis-CCE20250929.md' dated 2025-09-29"
+        },
+        {
+          "date": "2020-25-09",
+          "type": "document_created",
+          "document": "ocr-analysis-CCE20250929.md",
+          "description": "Document 'ocr-analysis-CCE20250929.md' dated 2020-25-09"
+        }
+      ]
+    },
+    "jacqui-faucitt-draft-response/CCE20250929_0004.jpg": {
+      "hash": "a9a38f8cf8d5e4f678405e8842c6ae0890533955bbe505406ccfaf5d82acc31d",
+      "processed_date": "2025-09-30T11:59:06.404053",
+      "category": "evidence",
+      "destination": "02_evidence/screenshots",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [
+          "20250929"
+        ],
+        "case_numbers": [
+          "CCE20250929"
+        ],
+        "document_types": []
+      },
+      "events": [
+        {
+          "date": "2025-09-29",
+          "type": "document_created",
+          "document": "CCE20250929_0004.jpg",
+          "description": "Document 'CCE20250929_0004.jpg' dated 2025-09-29"
+        },
+        {
+          "date": "2020-25-09",
+          "type": "document_created",
+          "document": "CCE20250929_0004.jpg",
+          "description": "Document 'CCE20250929_0004.jpg' dated 2020-25-09"
+        }
+      ]
+    },
+    "jacqui-faucitt-draft-response/CCE20250929_0001.jpg": {
+      "hash": "9a8957c9540f99b3f1a1e7e5fe4889f580dc0ee4362e13e83ae93b9133430000",
+      "processed_date": "2025-09-30T11:59:06.405267",
+      "category": "evidence",
+      "destination": "02_evidence/screenshots",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [
+          "20250929"
+        ],
+        "case_numbers": [
+          "CCE20250929"
+        ],
+        "document_types": []
+      },
+      "events": [
+        {
+          "date": "2025-09-29",
+          "type": "document_created",
+          "document": "CCE20250929_0001.jpg",
+          "description": "Document 'CCE20250929_0001.jpg' dated 2025-09-29"
+        },
+        {
+          "date": "2020-25-09",
+          "type": "document_created",
+          "document": "CCE20250929_0001.jpg",
+          "description": "Document 'CCE20250929_0001.jpg' dated 2020-25-09"
+        }
+      ]
+    },
+    "jacqui-faucitt-draft-response/CCE20250929.jpg": {
+      "hash": "a4991789ad35bc4813eca59a544b98433631bbc942c2f09ab4d1e9a048c59ee5",
+      "processed_date": "2025-09-30T11:59:06.406135",
+      "category": "evidence",
+      "destination": "02_evidence/screenshots",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [
+          "20250929"
+        ],
+        "case_numbers": [
+          "CCE20250929"
+        ],
+        "document_types": []
+      },
+      "events": [
+        {
+          "date": "2025-09-29",
+          "type": "document_created",
+          "document": "CCE20250929.jpg",
+          "description": "Document 'CCE20250929.jpg' dated 2025-09-29"
+        },
+        {
+          "date": "2020-25-09",
+          "type": "document_created",
+          "document": "CCE20250929.jpg",
+          "description": "Document 'CCE20250929.jpg' dated 2020-25-09"
+        }
+      ]
+    },
+    "jacqui-faucitt-draft-response/CCE20250929_0005.jpg": {
+      "hash": "e707c9f1235221b30662a5799135717a2de5f617403e02599393e81a26c0dcf9",
+      "processed_date": "2025-09-30T11:59:06.407417",
+      "category": "evidence",
+      "destination": "02_evidence/screenshots",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [
+          "20250929"
+        ],
+        "case_numbers": [
+          "CCE20250929"
+        ],
+        "document_types": []
+      },
+      "events": [
+        {
+          "date": "2025-09-29",
+          "type": "document_created",
+          "document": "CCE20250929_0005.jpg",
+          "description": "Document 'CCE20250929_0005.jpg' dated 2025-09-29"
+        },
+        {
+          "date": "2020-25-09",
+          "type": "document_created",
+          "document": "CCE20250929_0005.jpg",
+          "description": "Document 'CCE20250929_0005.jpg' dated 2020-25-09"
+        }
+      ]
+    },
+    "jacqui-faucitt-draft-response/CCE20250929_0003.jpg": {
+      "hash": "9558bd006e7d465386126747444c30d456d4ea878c18c273d23a46da01deac66",
+      "processed_date": "2025-09-30T11:59:06.408564",
+      "category": "evidence",
+      "destination": "02_evidence/screenshots",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [
+          "20250929"
+        ],
+        "case_numbers": [
+          "CCE20250929"
+        ],
+        "document_types": []
+      },
+      "events": [
+        {
+          "date": "2025-09-29",
+          "type": "document_created",
+          "document": "CCE20250929_0003.jpg",
+          "description": "Document 'CCE20250929_0003.jpg' dated 2025-09-29"
+        },
+        {
+          "date": "2020-25-09",
+          "type": "document_created",
+          "document": "CCE20250929_0003.jpg",
+          "description": "Document 'CCE20250929_0003.jpg' dated 2020-25-09"
+        }
+      ]
+    },
+    "jacqui-faucitt-draft-response/ocr-analysis-CCE20250929_0003.md": {
+      "hash": "c6526e3009cb53d47eb2c26e58d49201a81e7cf740abe879cc9057810a0ec51d",
+      "processed_date": "2025-09-30T11:59:06.408745",
+      "category": "court_documents",
+      "destination": "01_court_documents",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [
+          "20250929"
+        ],
+        "case_numbers": [
+          "CCE20250929"
+        ],
+        "document_types": []
+      },
+      "events": [
+        {
+          "date": "2025-09-29",
+          "type": "document_created",
+          "document": "ocr-analysis-CCE20250929_0003.md",
+          "description": "Document 'ocr-analysis-CCE20250929_0003.md' dated 2025-09-29"
+        },
+        {
+          "date": "2020-25-09",
+          "type": "document_created",
+          "document": "ocr-analysis-CCE20250929_0003.md",
+          "description": "Document 'ocr-analysis-CCE20250929_0003.md' dated 2020-25-09"
+        }
+      ]
+    },
+    "jacqui-faucitt-draft-response/ocr-analysis-CCE20250929_0001.md": {
+      "hash": "828d10740a7054c04f7b506fa4aa6fad9b270fc1e3b2f27a44aba3f13acd9223",
+      "processed_date": "2025-09-30T11:59:06.408889",
+      "category": "court_documents",
+      "destination": "01_court_documents",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [
+          "20250929"
+        ],
+        "case_numbers": [
+          "CCE20250929"
+        ],
+        "document_types": []
+      },
+      "events": [
+        {
+          "date": "2025-09-29",
+          "type": "document_created",
+          "document": "ocr-analysis-CCE20250929_0001.md",
+          "description": "Document 'ocr-analysis-CCE20250929_0001.md' dated 2025-09-29"
+        },
+        {
+          "date": "2020-25-09",
+          "type": "document_created",
+          "document": "ocr-analysis-CCE20250929_0001.md",
+          "description": "Document 'ocr-analysis-CCE20250929_0001.md' dated 2020-25-09"
+        }
+      ]
+    },
+    "jacqui-faucitt-draft-response/ocr-analysis-CCE20250929_0004.md": {
+      "hash": "3e0999a20927f524f3e9194d3404adb6bcd3098bf7957d94a3937ae908a16652",
+      "processed_date": "2025-09-30T11:59:06.409058",
+      "category": "court_documents",
+      "destination": "01_court_documents",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [
+          "20250929"
+        ],
+        "case_numbers": [
+          "CCE20250929"
+        ],
+        "document_types": []
+      },
+      "events": [
+        {
+          "date": "2025-09-29",
+          "type": "document_created",
+          "document": "ocr-analysis-CCE20250929_0004.md",
+          "description": "Document 'ocr-analysis-CCE20250929_0004.md' dated 2025-09-29"
+        },
+        {
+          "date": "2020-25-09",
+          "type": "document_created",
+          "document": "ocr-analysis-CCE20250929_0004.md",
+          "description": "Document 'ocr-analysis-CCE20250929_0004.md' dated 2020-25-09"
+        }
+      ]
+    },
+    "jacqui-faucitt-draft-response/CCE20250929_0002.jpg": {
+      "hash": "d85008f38dfab999e56196006f1d7a5ed5d28679cbc430184ca534a85c9b2776",
+      "processed_date": "2025-09-30T11:59:06.410125",
+      "category": "evidence",
+      "destination": "02_evidence/screenshots",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [
+          "20250929"
+        ],
+        "case_numbers": [
+          "CCE20250929"
+        ],
+        "document_types": []
+      },
+      "events": [
+        {
+          "date": "2025-09-29",
+          "type": "document_created",
+          "document": "CCE20250929_0002.jpg",
+          "description": "Document 'CCE20250929_0002.jpg' dated 2025-09-29"
+        },
+        {
+          "date": "2020-25-09",
+          "type": "document_created",
+          "document": "CCE20250929_0002.jpg",
+          "description": "Document 'CCE20250929_0002.jpg' dated 2020-25-09"
+        }
+      ]
+    },
+    "jacqui-faucitt-draft-response/ocr-analysis-CCE20250929_0005.md": {
+      "hash": "0bbe8d34c3c1698d84d89f07b631c288c077992829713a1a901c7d5ec687ad1d",
+      "processed_date": "2025-09-30T11:59:06.410353",
+      "category": "court_documents",
+      "destination": "01_court_documents",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [
+          "20250929"
+        ],
+        "case_numbers": [
+          "CCE20250929"
+        ],
+        "document_types": []
+      },
+      "events": [
+        {
+          "date": "2025-09-29",
+          "type": "document_created",
+          "document": "ocr-analysis-CCE20250929_0005.md",
+          "description": "Document 'ocr-analysis-CCE20250929_0005.md' dated 2025-09-29"
+        },
+        {
+          "date": "2020-25-09",
+          "type": "document_created",
+          "document": "ocr-analysis-CCE20250929_0005.md",
+          "description": "Document 'ocr-analysis-CCE20250929_0005.md' dated 2020-25-09"
+        }
+      ]
+    },
+    "jacqui-faucitt-draft-response/ocr-analysis-CCE20250929_0002.md": {
+      "hash": "0205a2795cc9e2bec39cbf6c7eb9710e49b5cd792dad5ed13e505d87d9cee94c",
+      "processed_date": "2025-09-30T11:59:06.410503",
+      "category": "court_documents",
+      "destination": "01_court_documents",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [
+          "20250929"
+        ],
+        "case_numbers": [
+          "CCE20250929"
+        ],
+        "document_types": []
+      },
+      "events": [
+        {
+          "date": "2025-09-29",
+          "type": "document_created",
+          "document": "ocr-analysis-CCE20250929_0002.md",
+          "description": "Document 'ocr-analysis-CCE20250929_0002.md' dated 2025-09-29"
+        },
+        {
+          "date": "2020-25-09",
+          "type": "document_created",
+          "document": "ocr-analysis-CCE20250929_0002.md",
+          "description": "Document 'ocr-analysis-CCE20250929_0002.md' dated 2020-25-09"
+        }
+      ]
+    },
+    "jacqui-faucitt-draft-response/CCE20250929_0006.jpg": {
+      "hash": "5f554abe3abd87b009897c5cd70c8c65991c5f6360bfc2004834bfaa6376cd2c",
+      "processed_date": "2025-09-30T11:59:06.411159",
+      "category": "evidence",
+      "destination": "02_evidence/screenshots",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [
+          "20250929"
+        ],
+        "case_numbers": [
+          "CCE20250929"
+        ],
+        "document_types": []
+      },
+      "events": [
+        {
+          "date": "2025-09-29",
+          "type": "document_created",
+          "document": "CCE20250929_0006.jpg",
+          "description": "Document 'CCE20250929_0006.jpg' dated 2025-09-29"
+        },
+        {
+          "date": "2020-25-09",
+          "type": "document_created",
+          "document": "CCE20250929_0006.jpg",
+          "description": "Document 'CCE20250929_0006.jpg' dated 2020-25-09"
+        }
+      ]
+    },
+    "peter-faucitt-interdict/markdown/page_0036.md": {
+      "hash": "4ec1fd369075a0ecbac85deb32c68801d1050ddb5084c90395400a316aebeb18",
+      "processed_date": "2025-09-30T11:59:06.411352",
+      "category": "court_documents",
+      "destination": "01_court_documents",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [],
+        "case_numbers": [],
+        "document_types": []
+      },
+      "events": []
+    },
+    "peter-faucitt-interdict/markdown/page_0033.md": {
+      "hash": "c82ff6396637f259f2175c2de082ec9e85dcf646120db6f81a90497839f7dd26",
+      "processed_date": "2025-09-30T11:59:06.411499",
+      "category": "court_documents",
+      "destination": "01_court_documents",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [],
+        "case_numbers": [],
+        "document_types": []
+      },
+      "events": []
+    },
+    "peter-faucitt-interdict/markdown/page_0040.md": {
+      "hash": "d7adbfad148d0079ad98195f51b32c167c440f2bdd2a134371bf0d5fdc742e81",
+      "processed_date": "2025-09-30T11:59:06.411638",
+      "category": "court_documents",
+      "destination": "01_court_documents",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [],
+        "case_numbers": [],
+        "document_types": []
+      },
+      "events": []
+    },
+    "peter-faucitt-interdict/markdown/page_0047.md": {
+      "hash": "e347d5b3ea9dce531af5916dde6083561464295440bfdf899bf080d16e85a32b",
+      "processed_date": "2025-09-30T11:59:06.411777",
+      "category": "court_documents",
+      "destination": "01_court_documents",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [],
+        "case_numbers": [],
+        "document_types": []
+      },
+      "events": []
+    },
+    "peter-faucitt-interdict/markdown/page_0011.md": {
+      "hash": "821db2251240dfb343f2d0191d11729d7eeb840236e3f08636f18b7bed5d4dbe",
+      "processed_date": "2025-09-30T11:59:06.411914",
+      "category": "court_documents",
+      "destination": "01_court_documents",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [],
+        "case_numbers": [],
+        "document_types": []
+      },
+      "events": []
+    },
+    "peter-faucitt-interdict/markdown/page_0020.md": {
+      "hash": "a273a960ffc74cbfadfbc461b83fb0f375626c8be021bec158462564d3df47ba",
+      "processed_date": "2025-09-30T11:59:06.412048",
+      "category": "court_documents",
+      "destination": "01_court_documents",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [],
+        "case_numbers": [],
+        "document_types": []
+      },
+      "events": []
+    },
+    "peter-faucitt-interdict/markdown/page_0005.md": {
+      "hash": "d253a9e8271b713273a442e641d537fc2c9536429458d442735d7995089518f1",
+      "processed_date": "2025-09-30T11:59:06.412176",
+      "category": "court_documents",
+      "destination": "01_court_documents",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [],
+        "case_numbers": [],
+        "document_types": []
+      },
+      "events": []
+    },
+    "peter-faucitt-interdict/markdown/page_0010.md": {
+      "hash": "46d7df1d1a3bace8bee1c4de285ce711ea83cf73fee6f4a63fabeb941b487d10",
+      "processed_date": "2025-09-30T11:59:06.412323",
+      "category": "court_documents",
+      "destination": "01_court_documents",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [],
+        "case_numbers": [],
+        "document_types": []
+      },
+      "events": []
+    },
+    "peter-faucitt-interdict/markdown/page_0039.md": {
+      "hash": "be6e43fa4c7c367e39215d5863f1458bf8b5d8ad9482fe7a92535375028410a6",
+      "processed_date": "2025-09-30T11:59:06.412465",
+      "category": "court_documents",
+      "destination": "01_court_documents",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [],
+        "case_numbers": [],
+        "document_types": []
+      },
+      "events": []
+    },
+    "peter-faucitt-interdict/markdown/page_0045.md": {
+      "hash": "279ee90820f156e3537688d1b50d2e0627594f494a4ecf7ff9042e0380e4f670",
+      "processed_date": "2025-09-30T11:59:06.412601",
+      "category": "court_documents",
+      "destination": "01_court_documents",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [],
+        "case_numbers": [],
+        "document_types": []
+      },
+      "events": []
+    },
+    "peter-faucitt-interdict/markdown/page_0048.md": {
+      "hash": "e564da7b8217567540b59e3748b7f52ee1b7d51e9d542a806288d6d39e3e3a11",
+      "processed_date": "2025-09-30T11:59:06.412727",
+      "category": "court_documents",
+      "destination": "01_court_documents",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [],
+        "case_numbers": [],
+        "document_types": []
+      },
+      "events": []
+    },
+    "peter-faucitt-interdict/markdown/page_0012.md": {
+      "hash": "b3402e682f1b483caa4364f7749e88da9c96f99f651b9994540025f326e1439a",
+      "processed_date": "2025-09-30T11:59:06.412854",
+      "category": "court_documents",
+      "destination": "01_court_documents",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [],
+        "case_numbers": [],
+        "document_types": []
+      },
+      "events": []
+    },
+    "peter-faucitt-interdict/markdown/page_0022.md": {
+      "hash": "725af8f0f1f87c0079fe772edfa5fd2cc9682bc0fac3fa2a88cb620898d3e10d",
+      "processed_date": "2025-09-30T11:59:06.412986",
+      "category": "court_documents",
+      "destination": "01_court_documents",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [],
+        "case_numbers": [],
+        "document_types": []
+      },
+      "events": []
+    },
+    "peter-faucitt-interdict/markdown/page_0038.md": {
+      "hash": "04a55fe06e8ea8d3985e6ddaa64c0fdde0e7838e0835d704c45db924a734493e",
+      "processed_date": "2025-09-30T11:59:06.413118",
+      "category": "court_documents",
+      "destination": "01_court_documents",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [],
+        "case_numbers": [],
+        "document_types": []
+      },
+      "events": []
+    },
+    "peter-faucitt-interdict/markdown/page_0007.md": {
+      "hash": "7e31f699758c51d25354fd743d915ff7d17795d012c4c7a6edab07290242e01a",
+      "processed_date": "2025-09-30T11:59:06.413261",
+      "category": "court_documents",
+      "destination": "01_court_documents",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [],
+        "case_numbers": [],
+        "document_types": []
+      },
+      "events": []
+    },
+    "peter-faucitt-interdict/markdown/page_0004.md": {
+      "hash": "c2466f508055587c77b4a36067935344e1184c5ca41516de4eec50ecfb977ed2",
+      "processed_date": "2025-09-30T11:59:06.413398",
+      "category": "court_documents",
+      "destination": "01_court_documents",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [],
+        "case_numbers": [],
+        "document_types": []
+      },
+      "events": []
+    },
+    "peter-faucitt-interdict/markdown/page_0027.md": {
+      "hash": "ff69ec90cbf45befd61abcb98f20f9f357d5faea698ab962bd4b5107470edb6c",
+      "processed_date": "2025-09-30T11:59:06.413547",
+      "category": "court_documents",
+      "destination": "01_court_documents",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [],
+        "case_numbers": [],
+        "document_types": []
+      },
+      "events": []
+    },
+    "peter-faucitt-interdict/markdown/page_0013.md": {
+      "hash": "03f192c8a6264de5e1bc629dd58e89b9773b994fcaee3fcc6d769d7ecd06ef46",
+      "processed_date": "2025-09-30T11:59:06.413706",
+      "category": "court_documents",
+      "destination": "01_court_documents",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [],
+        "case_numbers": [],
+        "document_types": []
+      },
+      "events": []
+    },
+    "peter-faucitt-interdict/markdown/page_0016.md": {
+      "hash": "0c4f0e885ba9beac5cd990a0644a1b52f31c93081cdeabf0feb72b9322ecffc7",
+      "processed_date": "2025-09-30T11:59:06.413845",
+      "category": "court_documents",
+      "destination": "01_court_documents",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [],
+        "case_numbers": [],
+        "document_types": []
+      },
+      "events": []
+    },
+    "peter-faucitt-interdict/markdown/page_0042.md": {
+      "hash": "9323be82680f6bcdec1e360cd97777701ba9513efe8f1a7630db6fb0c49a3a5b",
+      "processed_date": "2025-09-30T11:59:06.413979",
+      "category": "court_documents",
+      "destination": "01_court_documents",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [],
+        "case_numbers": [],
+        "document_types": []
+      },
+      "events": []
+    },
+    "peter-faucitt-interdict/markdown/page_0015.md": {
+      "hash": "ffd5896e102d1196681f553f8fd0854bef520cd9556868f42f1440ab7c994378",
+      "processed_date": "2025-09-30T11:59:06.414127",
+      "category": "court_documents",
+      "destination": "01_court_documents",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [],
+        "case_numbers": [],
+        "document_types": []
+      },
+      "events": []
+    },
+    "peter-faucitt-interdict/markdown/page_0021.md": {
+      "hash": "db18e07b17cddc4aabd69754a1d8ebe980832a722ea6b782f7d30ccee580b074",
+      "processed_date": "2025-09-30T11:59:06.414289",
+      "category": "court_documents",
+      "destination": "01_court_documents",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [],
+        "case_numbers": [],
+        "document_types": []
+      },
+      "events": []
+    },
+    "peter-faucitt-interdict/markdown/page_0041.md": {
+      "hash": "268bb61c15d76b84d6a34c70033ec396db0457371ddfcefd515b18fcb12c26f9",
+      "processed_date": "2025-09-30T11:59:06.414443",
+      "category": "court_documents",
+      "destination": "01_court_documents",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [],
+        "case_numbers": [],
+        "document_types": []
+      },
+      "events": []
+    },
+    "peter-faucitt-interdict/markdown/page_0037.md": {
+      "hash": "9c15d45810f6a6a4bc7d37622235776b6b7f4a62b16331ce456452eb8f916d82",
+      "processed_date": "2025-09-30T11:59:06.414591",
+      "category": "court_documents",
+      "destination": "01_court_documents",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [],
+        "case_numbers": [],
+        "document_types": []
+      },
+      "events": []
+    },
+    "peter-faucitt-interdict/markdown/page_0024.md": {
+      "hash": "7b267d9148b2ea44934eeea528035c6c08edc2863e25687fd87dc0a4a07b4ddf",
+      "processed_date": "2025-09-30T11:59:06.414727",
+      "category": "court_documents",
+      "destination": "01_court_documents",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [],
+        "case_numbers": [],
+        "document_types": []
+      },
+      "events": []
+    },
+    "peter-faucitt-interdict/markdown/page_0029.md": {
+      "hash": "699455f60a2dc65b37316165377a77db1935e6bf9d58fc13de219fa40769d723",
+      "processed_date": "2025-09-30T11:59:06.414886",
+      "category": "court_documents",
+      "destination": "01_court_documents",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [],
+        "case_numbers": [],
+        "document_types": []
+      },
+      "events": []
+    },
+    "peter-faucitt-interdict/markdown/page_0023.md": {
+      "hash": "a1693dc2038a36d31ab2184919ea46851b28afa19fc528ed7aa90361d4bee9dd",
+      "processed_date": "2025-09-30T11:59:06.415022",
+      "category": "court_documents",
+      "destination": "01_court_documents",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [],
+        "case_numbers": [],
+        "document_types": []
+      },
+      "events": []
+    },
+    "peter-faucitt-interdict/markdown/page_0018.md": {
+      "hash": "a93417403d0dba6616f3c32c6c3d7358b8c278b468d72e205132013c395b4803",
+      "processed_date": "2025-09-30T11:59:06.415155",
+      "category": "court_documents",
+      "destination": "01_court_documents",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [],
+        "case_numbers": [],
+        "document_types": []
+      },
+      "events": []
+    },
+    "peter-faucitt-interdict/markdown/page_0008.md": {
+      "hash": "cca85d0102b0c7502770806c645e050782bf995dc2fff334f767bfa1f2f50570",
+      "processed_date": "2025-09-30T11:59:06.415294",
+      "category": "court_documents",
+      "destination": "01_court_documents",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [],
+        "case_numbers": [],
+        "document_types": []
+      },
+      "events": []
+    },
+    "peter-faucitt-interdict/markdown/page_0006.md": {
+      "hash": "240105de5cba439beedd23e3895200c5f11357040521ab77a33bd22d4fd83bd5",
+      "processed_date": "2025-09-30T11:59:06.415433",
+      "category": "court_documents",
+      "destination": "01_court_documents",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [],
+        "case_numbers": [],
+        "document_types": []
+      },
+      "events": []
+    },
+    "peter-faucitt-interdict/markdown/page_0031.md": {
+      "hash": "a1cb7e92aad790c22b01dddab0fb7403c7155513ce548bd0399d2f0965212a8a",
+      "processed_date": "2025-09-30T11:59:06.415586",
+      "category": "court_documents",
+      "destination": "01_court_documents",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [],
+        "case_numbers": [],
+        "document_types": []
+      },
+      "events": []
+    },
+    "peter-faucitt-interdict/markdown/page_0049.md": {
+      "hash": "d9774ba5b401be093bb01a61c95ed6e81034b28d832e247b489eb82b8e0be235",
+      "processed_date": "2025-09-30T11:59:06.415716",
+      "category": "court_documents",
+      "destination": "01_court_documents",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [],
+        "case_numbers": [],
+        "document_types": []
+      },
+      "events": []
+    },
+    "peter-faucitt-interdict/markdown/page_0009.md": {
+      "hash": "f9c561cd2355b2ebea18e9a84eb3be7015323826a8d024daffc68fa1655402b2",
+      "processed_date": "2025-09-30T11:59:06.415846",
+      "category": "court_documents",
+      "destination": "01_court_documents",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [],
+        "case_numbers": [],
+        "document_types": []
+      },
+      "events": []
+    },
+    "peter-faucitt-interdict/markdown/page_0026.md": {
+      "hash": "5e26ec9f36d6598516a0fd304f4d2c772e72ccbe0459eb776dcf0198dae6ae46",
+      "processed_date": "2025-09-30T11:59:06.415971",
+      "category": "court_documents",
+      "destination": "01_court_documents",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [],
+        "case_numbers": [],
+        "document_types": []
+      },
+      "events": []
+    },
+    "peter-faucitt-interdict/markdown/page_0028.md": {
+      "hash": "11a534243e6c22c097fbeca851c1f865da9bdf200073e6f4d03e41f791f4da03",
+      "processed_date": "2025-09-30T11:59:06.416101",
+      "category": "court_documents",
+      "destination": "01_court_documents",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [],
+        "case_numbers": [],
+        "document_types": []
+      },
+      "events": []
+    },
+    "peter-faucitt-interdict/markdown/page_0001.md": {
+      "hash": "2bbf7325dfbd1899022a02be2a19685614dc5602553a6356fa599b3c776506f3",
+      "processed_date": "2025-09-30T11:59:06.416239",
+      "category": "court_documents",
+      "destination": "01_court_documents",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [],
+        "case_numbers": [],
+        "document_types": []
+      },
+      "events": []
+    },
+    "peter-faucitt-interdict/markdown/page_0050.md": {
+      "hash": "8a1bc9f7c2f3fad4b2e2f82b17838a9524e5d5462cef7b4c9a41f79685d1f872",
+      "processed_date": "2025-09-30T11:59:06.416368",
+      "category": "court_documents",
+      "destination": "01_court_documents",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [],
+        "case_numbers": [],
+        "document_types": []
+      },
+      "events": []
+    },
+    "peter-faucitt-interdict/markdown/page_0035.md": {
+      "hash": "d622ce85d46a7b639ff19fc232039ef35303a4e7228c8a53baab5dda94303595",
+      "processed_date": "2025-09-30T11:59:06.416505",
+      "category": "court_documents",
+      "destination": "01_court_documents",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [],
+        "case_numbers": [],
+        "document_types": []
+      },
+      "events": []
+    },
+    "peter-faucitt-interdict/markdown/page_0014.md": {
+      "hash": "fc658af109883295107a7bb2c1a54afb0484284cafc278856edccca20d884e7e",
+      "processed_date": "2025-09-30T11:59:06.416649",
+      "category": "court_documents",
+      "destination": "01_court_documents",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [],
+        "case_numbers": [],
+        "document_types": []
+      },
+      "events": []
+    },
+    "peter-faucitt-interdict/markdown/page_0043.md": {
+      "hash": "51c65172738b26737ab9d08403f24297ff22621f7318c2f1af716bef48209345",
+      "processed_date": "2025-09-30T11:59:06.416800",
+      "category": "court_documents",
+      "destination": "01_court_documents",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [],
+        "case_numbers": [],
+        "document_types": []
+      },
+      "events": []
+    },
+    "peter-faucitt-interdict/markdown/page_0051.md": {
+      "hash": "940a9efd067b3585cc9eb1600ded9f543cdc1590cbd5427fccaacd2a77de113d",
+      "processed_date": "2025-09-30T11:59:06.416951",
+      "category": "court_documents",
+      "destination": "01_court_documents",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [],
+        "case_numbers": [],
+        "document_types": []
+      },
+      "events": []
+    },
+    "peter-faucitt-interdict/markdown/page_0032.md": {
+      "hash": "98a020169b8270fdf2c404eaeacea7473e6d8b1abceffa70fd4bde88e13baf04",
+      "processed_date": "2025-09-30T11:59:06.417099",
+      "category": "court_documents",
+      "destination": "01_court_documents",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [],
+        "case_numbers": [],
+        "document_types": []
+      },
+      "events": []
+    },
+    "peter-faucitt-interdict/markdown/page_0046.md": {
+      "hash": "5487f8f2054ebee90a6b21ce92a13093ed03d3f935aa817f66d9d5694408ac7f",
+      "processed_date": "2025-09-30T11:59:06.417248",
+      "category": "court_documents",
+      "destination": "01_court_documents",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [],
+        "case_numbers": [],
+        "document_types": []
+      },
+      "events": []
+    },
+    "peter-faucitt-interdict/markdown/page_0002.md": {
+      "hash": "48efa5c3c1612813dbee2a3cb3903de8f6731171b3c5454614370aeb7c968814",
+      "processed_date": "2025-09-30T11:59:06.417377",
+      "category": "court_documents",
+      "destination": "01_court_documents",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [],
+        "case_numbers": [],
+        "document_types": []
+      },
+      "events": []
+    },
+    "peter-faucitt-interdict/markdown/page_0030.md": {
+      "hash": "addec71c1fc93fa5ce1253f969281f1cf1000c0bb29e4013299f5e1a06cfd73c",
+      "processed_date": "2025-09-30T11:59:06.417519",
+      "category": "court_documents",
+      "destination": "01_court_documents",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [],
+        "case_numbers": [],
+        "document_types": []
+      },
+      "events": []
+    },
+    "peter-faucitt-interdict/markdown/page_0019.md": {
+      "hash": "fd12e6597d3b489cad410bc4a34be6aa8f677e8b7e221d097cce1267a12b355a",
+      "processed_date": "2025-09-30T11:59:06.417673",
+      "category": "court_documents",
+      "destination": "01_court_documents",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [],
+        "case_numbers": [],
+        "document_types": []
+      },
+      "events": []
+    },
+    "peter-faucitt-interdict/markdown/page_0044.md": {
+      "hash": "dcd1f2a8c5d9adb325990b272739fc714b001c539948fe0fe0a69c040add0a28",
+      "processed_date": "2025-09-30T11:59:06.417819",
+      "category": "court_documents",
+      "destination": "01_court_documents",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [],
+        "case_numbers": [],
+        "document_types": []
+      },
+      "events": []
+    },
+    "peter-faucitt-interdict/markdown/page_0003.md": {
+      "hash": "23ea4b062478523d5145c536f78ccafe1afe01306b6cdbff8d9e5c079e513493",
+      "processed_date": "2025-09-30T11:59:06.417947",
+      "category": "court_documents",
+      "destination": "01_court_documents",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [],
+        "case_numbers": [],
+        "document_types": []
+      },
+      "events": []
+    },
+    "peter-faucitt-interdict/markdown/page_0034.md": {
+      "hash": "5fe4ee8cbf6dbdf73c143815b3c54c8f041db073c4a14f9251176b72f6503aa6",
+      "processed_date": "2025-09-30T11:59:06.418100",
+      "category": "court_documents",
+      "destination": "01_court_documents",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [],
+        "case_numbers": [],
+        "document_types": []
+      },
+      "events": []
+    },
+    "peter-faucitt-interdict/markdown/page_0025.md": {
+      "hash": "686cb1c6c2e356afdaf70d70397fd0a2bb92d7e89b1a4cceba3ae4569e1a59a1",
+      "processed_date": "2025-09-30T11:59:06.418264",
+      "category": "court_documents",
+      "destination": "01_court_documents",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [],
+        "case_numbers": [],
+        "document_types": []
+      },
+      "events": []
+    },
+    "peter-faucitt-interdict/markdown/page_0017.md": {
+      "hash": "8644364b1b2ba8bc1aa74fdc062a7a0ddd9739f6e2d205e677f4377da70af32a",
+      "processed_date": "2025-09-30T11:59:06.418389",
+      "category": "court_documents",
+      "destination": "01_court_documents",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [],
+        "case_numbers": [],
+        "document_types": []
+      },
+      "events": []
+    },
+    "3. MAT4719 - 01.10.25 - WP Letter to KE.pdf": {
+      "hash": "7501801d400a1b560c4123bfc419353650011791cec18f43f576e9ccaa6402ac",
+      "processed_date": "2025-10-06T15:21:27.300966",
+      "category": "court_documents",
+      "destination": "01_court_documents",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [],
+        "case_numbers": [],
+        "document_types": []
+      },
+      "events": []
+    },
+    "DRAFT OF MAIN POINTS - RESPONSE.docx": {
+      "hash": "65755cc9baf9a011c9295de713e4b05b008216b2ac01fecaf022cd1aa388d9a8",
+      "processed_date": "2025-10-06T15:21:27.303955",
+      "category": "court_documents",
+      "destination": "01_court_documents",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [],
+        "case_numbers": [],
+        "document_types": []
+      },
+      "events": []
+    },
+    "D_FAUCITT_PERSONAL_BANK_RECORDS_20250804.pdf": {
+      "hash": "1f45e764f6340a6f378fdb55ee99ad4747249035d59c8058c9aa1dae956c52a5",
+      "processed_date": "2025-10-06T15:21:27.306812",
+      "category": "court_documents",
+      "destination": "01_court_documents",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [
+          "20250804"
+        ],
+        "case_numbers": [],
+        "document_types": []
+      },
+      "events": [
+        {
+          "date": "2025-08-04",
+          "type": "document_created",
+          "document": "D_FAUCITT_PERSONAL_BANK_RECORDS_20250804.pdf",
+          "description": "Document 'D_FAUCITT_PERSONAL_BANK_RECORDS_20250804.pdf' dated 2025-08-04"
+        },
+        {
+          "date": "2020-25-08",
+          "type": "document_created",
+          "document": "D_FAUCITT_PERSONAL_BANK_RECORDS_20250804.pdf",
+          "description": "Document 'D_FAUCITT_PERSONAL_BANK_RECORDS_20250804.pdf' dated 2020-25-08"
+        }
+      ]
+    },
+    "D_FAUCITT_PERSONAL_BANK_RECORDS_20250904.pdf": {
+      "hash": "81f613234067aa10820e6d569d62ab200521b4e41e9a66344af02c3d2ea51d01",
+      "processed_date": "2025-10-06T15:21:27.307436",
+      "category": "court_documents",
+      "destination": "01_court_documents",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [
+          "20250904"
+        ],
+        "case_numbers": [],
+        "document_types": []
+      },
+      "events": [
+        {
+          "date": "2025-09-04",
+          "type": "document_created",
+          "document": "D_FAUCITT_PERSONAL_BANK_RECORDS_20250904.pdf",
+          "description": "Document 'D_FAUCITT_PERSONAL_BANK_RECORDS_20250904.pdf' dated 2025-09-04"
+        },
+        {
+          "date": "2020-25-09",
+          "type": "document_created",
+          "document": "D_FAUCITT_PERSONAL_BANK_RECORDS_20250904.pdf",
+          "description": "Document 'D_FAUCITT_PERSONAL_BANK_RECORDS_20250904.pdf' dated 2020-25-09"
+        }
+      ]
+    },
+    "D_FAUCITT_PERSONAL_BANK_RECORDS_20250604.pdf": {
+      "hash": "48721e1735d9cd69ce4f06e86737c7f0f15b231e795cc2a5531281b69fec7717",
+      "processed_date": "2025-10-06T15:21:27.310558",
+      "category": "court_documents",
+      "destination": "01_court_documents",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [
+          "20250604"
+        ],
+        "case_numbers": [],
+        "document_types": []
+      },
+      "events": [
+        {
+          "date": "2025-06-04",
+          "type": "document_created",
+          "document": "D_FAUCITT_PERSONAL_BANK_RECORDS_20250604.pdf",
+          "description": "Document 'D_FAUCITT_PERSONAL_BANK_RECORDS_20250604.pdf' dated 2025-06-04"
+        },
+        {
+          "date": "2020-25-06",
+          "type": "document_created",
+          "document": "D_FAUCITT_PERSONAL_BANK_RECORDS_20250604.pdf",
+          "description": "Document 'D_FAUCITT_PERSONAL_BANK_RECORDS_20250604.pdf' dated 2020-25-06"
+        }
+      ]
+    },
+    "KF0019 - Second Application - 03.10.2025.pdf": {
+      "hash": "87eb351451211253a3bd1e71da0fb6f7402e31a311b6eda1052e68e154fcb21b",
+      "processed_date": "2025-10-06T15:21:27.320762",
+      "category": "court_documents",
+      "destination": "01_court_documents",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [],
+        "case_numbers": [],
+        "document_types": []
+      },
+      "events": []
+    },
+    "interdict_verification_usage.md": {
+      "hash": "7c8bd42377c8236ded4a47c340c42a78610f3b731dc5e4bddcebb8314487b910",
+      "processed_date": "2025-10-06T15:21:27.323694",
+      "category": "court_documents",
+      "destination": "01_court_documents",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [],
+        "case_numbers": [],
+        "document_types": [
+          "interdict"
+        ]
+      },
+      "events": []
+    },
+    "D_FAUCITT_PERSONAL_BANK_RECORDS_20251004.pdf": {
+      "hash": "c29d3092b45472ece72f4e8369fa391887502dbd45ef44cf1cdd48121a35ce82",
+      "processed_date": "2025-10-06T15:21:27.324948",
+      "category": "court_documents",
+      "destination": "01_court_documents",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [
+          "20251004"
+        ],
+        "case_numbers": [],
+        "document_types": []
+      },
+      "events": [
+        {
+          "date": "2025-10-04",
+          "type": "document_created",
+          "document": "D_FAUCITT_PERSONAL_BANK_RECORDS_20251004.pdf",
+          "description": "Document 'D_FAUCITT_PERSONAL_BANK_RECORDS_20251004.pdf' dated 2025-10-04"
+        },
+        {
+          "date": "2020-25-10",
+          "type": "document_created",
+          "document": "D_FAUCITT_PERSONAL_BANK_RECORDS_20251004.pdf",
+          "description": "Document 'D_FAUCITT_PERSONAL_BANK_RECORDS_20251004.pdf' dated 2020-25-10"
+        }
+      ]
+    },
+    "D_FAUCITT_PERSONAL_BANK_RECORDS_20250704.pdf": {
+      "hash": "1ef606cb4ac2e66d575c9727d51df1c639853b8c591400d2086d50fe2b76cc64",
+      "processed_date": "2025-10-06T15:21:27.325555",
+      "category": "court_documents",
+      "destination": "01_court_documents",
+      "entities": {
+        "persons": [],
+        "organizations": [],
+        "dates": [
+          "20250704"
+        ],
+        "case_numbers": [],
+        "document_types": []
+      },
+      "events": [
+        {
+          "date": "2025-07-04",
+          "type": "document_created",
+          "document": "D_FAUCITT_PERSONAL_BANK_RECORDS_20250704.pdf",
+          "description": "Document 'D_FAUCITT_PERSONAL_BANK_RECORDS_20250704.pdf' dated 2025-07-04"
+        },
+        {
+          "date": "2020-25-07",
+          "type": "document_created",
+          "document": "D_FAUCITT_PERSONAL_BANK_RECORDS_20250704.pdf",
+          "description": "Document 'D_FAUCITT_PERSONAL_BANK_RECORDS_20250704.pdf' dated 2020-25-07"
+        }
+      ]
+    },
+    "email_compliance_directive_2025-07-08.md": {
+      "hash": "696e461c9285a9d4a941d696cd9018794d94655e97ee11c463a671d24653f288",
+      "processed_date": "2025-10-11T09:18:59.279938",
+      "category": "evidence",
+      "destination": "02_evidence/communications",
+      "entities": {
+        "persons": [
+          "Daniel Faucitt",
+          "Kent"
+        ],
+        "organizations": [
+          "RegimA Distribution companies",
+          "RegimA Skin Treatments",
+          "Shopify",
+          "inforegulator.org.za"
+        ],
+        "dates": [
+          "2025-07-08"
+        ],
+        "document_types": [
+          "Compliance Directive"
+        ]
+      },
+      "events": [
+        {
+          "date": "2025-07-08",
+          "type": "legal_compliance_directive",
+          "document": "email_compliance_directive_2025-07-08.md",
+          "description": "Urgent compliance directive issued by Daniel Faucitt regarding customer data processing."
+        }
+      ]
+    },
+    "timeline_entry_2025-07-08.json": {
+      "hash": "e85144908b1ccd1801acd57b547f5bd4b6cf5468d4397bfd15537c6bfc877079",
+      "processed_date": "2025-10-11T09:18:59.279998",
+      "category": "timeline",
+      "destination": "03_timeline/entries",
+      "entities": {},
+      "events": []
+    },
+    "entity_model_regima_compliance.json": {
+      "hash": "5fc85f75f443957be324be04e91540fb7895ad9f4329e5b76642ef0906f67c5b",
+      "processed_date": "2025-10-11T09:18:59.280061",
+      "category": "models",
+      "destination": "04_models/entity_models",
+      "entities": {},
+      "events": []
+    }
+  },
+  "metadata": {}
+}

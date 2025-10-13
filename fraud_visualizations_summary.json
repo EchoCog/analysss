@@ -1,0 +1,23 @@
+{
+  "visualizations_created": [
+    "fraud_scheme_flow_diagram.png",
+    "ownership_intersection_fraud_map.png",
+    "financial_flow_network.png",
+    "concealment_mechanism_diagram.png",
+    "historical_impact_projection.png",
+    "fraud_scheme_dashboard.html"
+  ],
+  "key_insights_visualized": [
+    "ZAR 12M+ monthly systematic transfer mechanism",
+    "Pete's swing vote position enabling fraud",
+    "Asset stripping and profit extraction flows",
+    "Concealment through false group framing",
+    "Potential ZAR 720M+ historical fraud scope"
+  ],
+  "fraud_components_mapped": [
+    "SLG asset stripping (ZAR 5.2M stock disappearance)",
+    "RST profit generation (artificial profits)",
+    "RWD expense dumping (no employees, all costs)",
+    "VVA final extraction (ZAR 4M+ Pete enrichment)"
+  ]
+}

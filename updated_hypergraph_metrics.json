@@ -1,0 +1,84 @@
+{
+  "updated_analysis_date": "2025-10-12",
+  "total_events": 30,
+  "critical_events": 28,
+  "critical_event_ratio": 0.93,
+  "total_transaction_value": 86337032,
+  "temporal_span_days": 420,
+  "phases": 6,
+  "most_critical_node": {
+    "entity": "Danie Bantjies",
+    "score": 121.5,
+    "events": 8,
+    "roles": 8,
+    "key_roles": [
+      "Double agent",
+      "Secret trustee",
+      "Conspiracy coordinator"
+    ]
+  },
+  "most_critical_individual_perpetrator": {
+    "entity": "Danie Bantjies",
+    "relationship_duration": "11 years (2013-2024)",
+    "betrayal_type": "Trusted advisor \u2192 Secret enemy",
+    "professional_violation": "CA(SA) fiduciary breach"
+  },
+  "attack_pattern": {
+    "phase_5_events": 3,
+    "phase_6_events": 5,
+    "escalation": "Financial \u2192 Legal \u2192 Medical/Physical",
+    "motive": "R18.6M May 2026 payout"
+  },
+  "top_10_critical_nodes": {
+    "Danie Bantjies": {
+      "score": 121.5,
+      "events": 8,
+      "roles": 8
+    },
+    "RegimA Group": {
+      "score": 106.5,
+      "events": 11,
+      "roles": 8
+    },
+    "ReZonance": {
+      "score": 79.5,
+      "events": 9,
+      "roles": 4
+    },
+    "Daniel Faucitt": {
+      "score": 67.5,
+      "events": 7,
+      "roles": 5
+    },
+    "Rynette Farrar": {
+      "score": 52.5,
+      "events": 5,
+      "roles": 5
+    },
+    "RegimA Skin Treatments": {
+      "score": 28.0,
+      "events": 4,
+      "roles": 4
+    },
+    "Peter Faucitt": {
+      "score": 28.0,
+      "events": 4,
+      "roles": 4
+    },
+    "Jacqui Faucitt": {
+      "score": 21.0,
+      "events": 3,
+      "roles": 3
+    },
+    "RegimA Worldwide": {
+      "score": 20.0,
+      "events": 4,
+      "roles": 0
+    },
+    "Strategic Logistics": {
+      "score": 15.0,
+      "events": 3,
+      "roles": 0
+    }
+  }
+}

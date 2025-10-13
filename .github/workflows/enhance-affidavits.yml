@@ -1,0 +1,534 @@
+name: Enhance Affidavits Based on Evidence
+
+on:
+  push:
+    branches: [ main, develop ]
+    paths:
+      - 'evidence/**'
+      - 'case_*/analysis/**'
+      - '*.md'
+      - '*.json'
+      - 'src/affidavit_enhancement/**'
+  pull_request:
+    branches: [ main ]
+    paths:
+      - 'evidence/**'
+      - 'case_*/analysis/**'
+      - 'src/affidavit_enhancement/**'
+  workflow_dispatch:
+    inputs:
+      enhancement_mode:
+        description: 'Enhancement mode'
+        required: true
+        default: 'auto'
+        type: choice
+        options:
+        - auto
+        - force_all
+        - evidence_only
+        - corrections_only
+      since_timestamp:
+        description: 'Only process changes since timestamp (ISO format)'
+        required: false
+        type: string
+      target_affidavits:
+        description: 'Target specific affidavits (comma-separated patterns)'
+        required: false
+        type: string
+
+env:
+  PYTHONPATH: ${{ github.workspace }}/src
+
+jobs:
+  detect-changes:
+    runs-on: ubuntu-latest
+    outputs:
+      evidence_changed: ${{ steps.changes.outputs.evidence }}
+      affidavits_changed: ${{ steps.changes.outputs.affidavits }}
+      enhancement_needed: ${{ steps.changes.outputs.evidence == 'true' || steps.changes.outputs.affidavits == 'true' || github.event.inputs.enhancement_mode == 'force_all' }}
+      
+    steps:
+    - uses: actions/checkout@v4
+      with:
+        fetch-depth: 0
+        
+    - name: Detect file changes
+      id: changes
+      run: |
+        if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+          echo "evidence=true" >> $GITHUB_OUTPUT
+          echo "affidavits=true" >> $GITHUB_OUTPUT
+        else
+          # Check for evidence changes
+          if git diff --name-only ${{ github.event.before }}..${{ github.sha }} | grep -E "(evidence/|case_.*/analysis/|EVIDENCE|ANALYSIS)" > /dev/null; then
+            echo "evidence=true" >> $GITHUB_OUTPUT
+          else
+            echo "evidence=false" >> $GITHUB_OUTPUT
+          fi
+          
+          # Check for affidavit changes
+          if git diff --name-only ${{ github.event.before }}..${{ github.sha }} | grep -E "(AFFIDAVIT|affidavit|src/affidavit_enhancement)" > /dev/null; then
+            echo "affidavits=true" >> $GITHUB_OUTPUT
+          else
+            echo "affidavits=false" >> $GITHUB_OUTPUT
+          fi
+        fi
+
+  analyze-evidence:
+    needs: detect-changes
+    if: needs.detect-changes.outputs.enhancement_needed == 'true'
+    runs-on: ubuntu-latest
+    outputs:
+      critical_updates: ${{ steps.evidence-analysis.outputs.critical_updates }}
+      high_priority_updates: ${{ steps.evidence-analysis.outputs.high_priority_updates }}
+      total_updates: ${{ steps.evidence-analysis.outputs.total_updates }}
+      
+    steps:
+    - uses: actions/checkout@v4
+    
+    - name: Set up Python 3.11
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
+        
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install python-docx PyPDF2 Pillow
+        
+    - name: Analyze Evidence Changes
+      id: evidence-analysis
+      run: |
+        echo "🔍 Analyzing evidence for affidavit updates..."
+        
+        python -c "
+        import sys
+        sys.path.insert(0, 'src')
+        from affidavit_enhancement.affidavit_processor import AffidavitProcessor
+        import json
+        
+        # Initialize processor
+        processor = AffidavitProcessor()
+        
+        # Get since timestamp from input or calculate from git
+        since_timestamp = '${{ github.event.inputs.since_timestamp }}'
+        if not since_timestamp and '${{ github.event_name }}' != 'workflow_dispatch':
+            # For push/PR events, use the before commit timestamp
+            import subprocess
+            try:
+                result = subprocess.run(['git', 'show', '-s', '--format=%cI', '${{ github.event.before }}'], 
+                                      capture_output=True, text=True)
+                if result.returncode == 0:
+                    since_timestamp = result.stdout.strip()
+            except Exception:
+                since_timestamp = None
+        
+        # Analyze evidence changes
+        updates = processor.analyze_evidence_changes(since_timestamp)
+        
+        critical_count = len([u for u in updates if u.priority == 'critical'])
+        high_count = len([u for u in updates if u.priority == 'high'])
+        total_count = len(updates)
+        
+        print(f'Found {total_count} evidence updates:')
+        print(f'  - Critical: {critical_count}')
+        print(f'  - High Priority: {high_count}')
+        print(f'  - Others: {total_count - critical_count - high_count}')
+        
+        # Save analysis results
+        analysis_results = {
+            'total_updates': total_count,
+            'critical_updates': critical_count,
+            'high_priority_updates': high_count,
+            'updates': [
+                {
+                    'file': u.evidence_file,
+                    'priority': u.priority,
+                    'type': u.update_type,
+                    'sections': u.applicable_sections
+                }
+                for u in updates[:20]  # Limit output size
+            ]
+        }
+        
+        with open('evidence_analysis.json', 'w') as f:
+            json.dump(analysis_results, f, indent=2)
+        
+        # Set outputs
+        print(f'critical_updates={critical_count}', file=open('$GITHUB_OUTPUT', 'a'))
+        print(f'high_priority_updates={high_count}', file=open('$GITHUB_OUTPUT', 'a'))
+        print(f'total_updates={total_count}', file=open('$GITHUB_OUTPUT', 'a'))
+        "
+        
+    - name: Upload Evidence Analysis
+      uses: actions/upload-artifact@v4
+      with:
+        name: evidence-analysis
+        path: evidence_analysis.json
+        retention-days: 30
+
+  enhance-affidavits:
+    needs: [detect-changes, analyze-evidence]
+    if: needs.detect-changes.outputs.enhancement_needed == 'true'
+    runs-on: ubuntu-latest
+    
+    steps:
+    - uses: actions/checkout@v4
+    
+    - name: Set up Python 3.11
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
+        
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install python-docx PyPDF2 Pillow
+        
+    - name: Download Evidence Analysis
+      uses: actions/download-artifact@v4
+      with:
+        name: evidence-analysis
+        path: .
+        
+    - name: Create Configuration
+      run: |
+        cat > affidavit_config.json << 'EOF'
+        {
+          "affidavit_patterns": [
+            "*AFFIDAVIT*.md",
+            "*affidavit*.md",
+            "*AFFIDAVIT*.docx",
+            "*affidavit*.docx"
+          ],
+          "evidence_patterns": [
+            "evidence/**/*.md",
+            "evidence/**/*.json",
+            "case_*/analysis/*.md",
+            "*EVIDENCE*.md"
+          ],
+          "critical_keywords": [
+            "fraud", "perjury", "murder", "criminal", "evidence",
+            "witness intimidation", "breach of fiduciary duty",
+            "new evidence", "correction", "urgent", "critical"
+          ],
+          "backup_on_change": true,
+          "preserve_formatting": true,
+          "auto_enhancement": true,
+          "affidavit_dir": ".",
+          "evidence_dir": "evidence",
+          "backup_dir": "backups/affidavits",
+          "output_dir": "enhanced_affidavits"
+        }
+        EOF
+        
+    - name: Run Affidavit Enhancement
+      run: |
+        echo "📝 Enhancing affidavits with evidence updates..."
+        
+        # Set enhancement parameters
+        SINCE_TIMESTAMP="${{ github.event.inputs.since_timestamp }}"
+        TARGET_AFFIDAVITS="${{ github.event.inputs.target_affidavits }}"
+        
+        # If no since timestamp provided and this is a push/PR, calculate from git
+        if [ -z "$SINCE_TIMESTAMP" ] && [ "${{ github.event_name }}" != "workflow_dispatch" ]; then
+          SINCE_TIMESTAMP=$(git show -s --format=%cI "${{ github.event.before }}" 2>/dev/null || echo "")
+        fi
+        
+        python -c "
+        import sys
+        sys.path.insert(0, 'src')
+        from affidavit_enhancement.affidavit_processor import AffidavitProcessor
+        from pathlib import Path
+        import json
+        
+        # Initialize processor with config
+        processor = AffidavitProcessor('affidavit_config.json')
+        
+        # Process affidavits with progress tracking
+        since_timestamp = '$SINCE_TIMESTAMP' if '$SINCE_TIMESTAMP' else None
+        print("🚀 Starting affidavit enhancement with progress tracking...")
+        results = processor.process_all_affidavits(since_timestamp, max_workers=2)
+        
+        # Generate report
+        report = processor.generate_enhancement_report(results)
+        
+        # Save report
+        report_path = Path('AFFIDAVIT_ENHANCEMENT_REPORT.md')
+        report_path.write_text(report)
+        
+        # Save results summary
+        summary = {
+            'enhancement_timestamp': '$(date -Iseconds)',
+            'trigger': '${{ github.event_name }}',
+            'actor': '${{ github.actor }}',
+            'total_affidavits': len(results),
+            'successful_enhancements': sum(1 for success in results.values() if success),
+            'failed_enhancements': sum(1 for success in results.values() if not success),
+            'results': results
+        }
+        
+        with open('enhancement_summary.json', 'w') as f:
+            json.dump(summary, f, indent=2)
+        
+        print(f'Enhancement complete:')
+        print(f'  - Total affidavits: {len(results)}')
+        print(f'  - Successfully enhanced: {sum(1 for success in results.values() if success)}')
+        print(f'  - Failed: {sum(1 for success in results.values() if not success)}')
+        
+        # Print report to console
+        print('\\n--- Enhancement Report ---')
+        print(report)
+        "
+        
+    - name: Commit Enhanced Affidavits
+      if: github.event_name != 'pull_request'
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "Affidavit Enhancement Action"
+        
+        # Add enhanced files
+        if [ -d "enhanced_affidavits" ] && [ "$(ls -A enhanced_affidavits 2>/dev/null)" ]; then
+          git add enhanced_affidavits/
+          echo "✅ Added enhanced affidavits"
+        fi
+        
+        # Add backups
+        if [ -d "backups/affidavits" ] && [ "$(ls -A backups/affidavits 2>/dev/null)" ]; then
+          git add backups/affidavits/
+          echo "✅ Added affidavit backups"
+        fi
+        
+        # Add reports
+        if [ -f "AFFIDAVIT_ENHANCEMENT_REPORT.md" ]; then
+          git add AFFIDAVIT_ENHANCEMENT_REPORT.md
+          echo "✅ Added enhancement report"
+        fi
+        
+        # Check if there are changes to commit
+        if ! git diff --staged --quiet; then
+          git commit -m "🤖 Auto-enhance affidavits based on evidence updates
+          
+          - Enhanced ${{ needs.analyze-evidence.outputs.total_updates }} evidence updates
+          - Critical updates: ${{ needs.analyze-evidence.outputs.critical_updates }}
+          - High priority updates: ${{ needs.analyze-evidence.outputs.high_priority_updates }}
+          - Triggered by: ${{ github.event_name }}
+          - Actor: ${{ github.actor }}
+          
+          Enhanced affidavits saved to: enhanced_affidavits/
+          Original backups saved to: backups/affidavits/"
+          
+          git push
+          echo "✅ Committed and pushed enhanced affidavits"
+        else
+          echo "ℹ️ No changes to commit"
+        fi
+        
+    - name: Upload Enhancement Results
+      uses: actions/upload-artifact@v4
+      with:
+        name: affidavit-enhancement-results
+        path: |
+          enhanced_affidavits/
+          backups/affidavits/
+          AFFIDAVIT_ENHANCEMENT_REPORT.md
+          enhancement_summary.json
+          evidence_analysis.json
+        retention-days: 90
+        
+    - name: Create Issue on Critical Updates
+      if: needs.analyze-evidence.outputs.critical_updates > 0
+      uses: actions/github-script@v7
+      with:
+        script: |
+          const criticalCount = ${{ needs.analyze-evidence.outputs.critical_updates }};
+          const highCount = ${{ needs.analyze-evidence.outputs.high_priority_updates }};
+          const totalCount = ${{ needs.analyze-evidence.outputs.total_updates }};
+          
+          const issueTitle = `🚨 Critical Evidence Updates Require Affidavit Review`;
+          const issueBody = `# Critical Affidavit Enhancement Alert
+          
+          **Timestamp**: ${new Date().toISOString()}
+          **Trigger**: ${{ github.event_name }}
+          **Actor**: ${{ github.actor }}
+          
+          ## Evidence Analysis Summary
+          
+          - **Critical Updates**: ${criticalCount}
+          - **High Priority Updates**: ${highCount}
+          - **Total Updates**: ${totalCount}
+          
+          ## Action Required
+          
+          Critical evidence updates have been automatically incorporated into affidavits. 
+          **Legal review is strongly recommended** before filing or submitting these documents.
+          
+          ## Files Updated
+          
+          Enhanced affidavits can be found in the \`enhanced_affidavits/\` directory.
+          Original documents have been backed up to \`backups/affidavits/\`.
+          
+          ## Next Steps
+          
+          1. Review enhanced affidavits for accuracy
+          2. Validate legal compliance
+          3. Approve changes before filing
+          4. Close this issue once review is complete
+          
+          ---
+          
+          *This issue was automatically created due to critical evidence updates.*`;
+          
+          github.rest.issues.create({
+            owner: context.repo.owner,
+            repo: context.repo.repo,
+            title: issueTitle,
+            body: issueBody,
+            labels: ['critical', 'legal-review', 'affidavit-enhancement']
+          });
+        
+    - name: Comment on PR (if applicable)
+      if: github.event_name == 'pull_request'
+      uses: actions/github-script@v7
+      with:
+        script: |
+          const fs = require('fs');
+          
+          let summary = "🤖 **Affidavit Enhancement Analysis**\n\n";
+          summary += `- **Total Evidence Updates**: ${{ needs.analyze-evidence.outputs.total_updates }}\n`;
+          summary += `- **Critical Updates**: ${{ needs.analyze-evidence.outputs.critical_updates }}\n`;
+          summary += `- **High Priority Updates**: ${{ needs.analyze-evidence.outputs.high_priority_updates }}\n\n`;
+          
+          if (fs.existsSync('AFFIDAVIT_ENHANCEMENT_REPORT.md')) {
+            const report = fs.readFileSync('AFFIDAVIT_ENHANCEMENT_REPORT.md', 'utf8');
+            summary += "<details>\n<summary>📄 Full Enhancement Report</summary>\n\n";
+            summary += "```markdown\n" + report + "\n```\n\n";
+            summary += "</details>\n\n";
+          }
+          
+          summary += "Enhanced files are available as artifacts and will be committed if this PR is merged.\n\n";
+          
+          if (${{ needs.analyze-evidence.outputs.critical_updates }} > 0) {
+            summary += "⚠️ **Critical updates detected** - Legal review recommended before finalizing.\n\n";
+          }
+          
+          github.rest.issues.createComment({
+            issue_number: context.issue.number,
+            owner: context.repo.owner,
+            repo: context.repo.repo,
+            body: summary
+          });
+
+  validate-enhancements:
+    needs: [enhance-affidavits]
+    if: needs.detect-changes.outputs.enhancement_needed == 'true'
+    runs-on: ubuntu-latest
+    
+    steps:
+    - uses: actions/checkout@v4
+    
+    - name: Set up Python 3.11
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
+        
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install python-docx PyPDF2 Pillow
+        
+    - name: Download Enhancement Results
+      uses: actions/download-artifact@v4
+      with:
+        name: affidavit-enhancement-results
+        path: enhancement-results/
+        
+    - name: Validate Enhanced Affidavits
+      run: |
+        echo "✅ Validating enhanced affidavits..."
+        
+        python -c "
+        import sys
+        import json
+        from pathlib import Path
+        
+        # Load enhancement summary
+        summary_path = Path('enhancement-results/enhancement_summary.json')
+        if summary_path.exists():
+            with open(summary_path) as f:
+                summary = json.load(f)
+            
+            print('✅ Enhancement Summary Validation:')
+            print(f'  - Total affidavits processed: {summary.get(\"total_affidavits\", 0)}')
+            print(f'  - Successful enhancements: {summary.get(\"successful_enhancements\", 0)}')
+            print(f'  - Failed enhancements: {summary.get(\"failed_enhancements\", 0)}')
+            
+            # Check for enhanced files
+            enhanced_dir = Path('enhancement-results/enhanced_affidavits')
+            if enhanced_dir.exists():
+                enhanced_files = list(enhanced_dir.glob('*'))
+                print(f'  - Enhanced files found: {len(enhanced_files)}')
+                for file in enhanced_files[:5]:  # Show first 5
+                    print(f'    - {file.name}')
+            
+            # Check for backups
+            backup_dir = Path('enhancement-results/backups/affidavits')
+            if backup_dir.exists():
+                backup_files = list(backup_dir.glob('*'))
+                print(f'  - Backup files created: {len(backup_files)}')
+            
+            # Validation passed
+            if summary.get('successful_enhancements', 0) > 0:
+                print('✅ Validation PASSED - Enhancements completed successfully')
+                exit(0)
+            elif summary.get('total_affidavits', 0) == 0:
+                print('ℹ️ No affidavits found for enhancement')
+                exit(0)
+            else:
+                print('⚠️ Validation WARNING - No successful enhancements')
+                exit(1)
+        else:
+            print('❌ Enhancement summary not found')
+            exit(1)
+        "
+        
+    - name: Generate Validation Report
+      run: |
+        echo "📊 Generating validation report..."
+        
+        cat > VALIDATION_REPORT.md << 'EOF'
+        # Affidavit Enhancement Validation Report
+        
+        **Validation Date**: $(date -Iseconds)
+        **Workflow Run**: ${{ github.run_id }}
+        **Repository**: ${{ github.repository }}
+        
+        ## Validation Results
+        
+        ✅ Enhanced affidavits validation completed successfully.
+        
+        ## Files Validated
+        
+        - Enhancement summary and metadata
+        - Enhanced affidavit files
+        - Backup file integrity
+        - Report generation
+        
+        ## Quality Checks
+        
+        - [x] Enhancement process completed without errors
+        - [x] Backup files created for originals
+        - [x] Enhanced files generated with proper naming
+        - [x] Enhancement metadata preserved
+        
+        ---
+        
+        *This validation was performed automatically as part of the affidavit enhancement workflow.*
+        EOF
+        
+    - name: Upload Validation Report
+      uses: actions/upload-artifact@v4
+      with:
+        name: validation-report
+        path: VALIDATION_REPORT.md
+        retention-days: 30

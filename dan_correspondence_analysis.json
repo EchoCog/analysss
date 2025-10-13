@@ -1,0 +1,386 @@
+{
+  "correspondence_metadata": {
+    "from": "Daniel Faucitt <d@rzo.io>",
+    "to": "Danie Bantjes",
+    "date": "2025-06-06",
+    "subject": "Re: update - Some Initial Information & Operating Entity Lists",
+    "analysis_timestamp": "2025-10-11T06:15:29.729094",
+    "importance_level": "CRITICAL"
+  },
+  "legal_entities": [
+    {
+      "name": "CORPCLO 2065",
+      "registration_number": "2003/086391/23",
+      "ownership_structure": "- J P",
+      "entity_type": "company",
+      "legal_status": "registered",
+      "shareholders": [
+        "Jax",
+        "Pete"
+      ],
+      "ownership_type": "two_way_partnership"
+    },
+    {
+      "name": "CORPCLO 2304",
+      "registration_number": "2005/014378/23",
+      "ownership_structure": "- J P",
+      "entity_type": "company",
+      "legal_status": "registered",
+      "shareholders": [
+        "Jax",
+        "Pete"
+      ],
+      "ownership_type": "two_way_partnership"
+    },
+    {
+      "name": "VILLA VIA ARCADIA NO 2",
+      "registration_number": "1996/004451/23",
+      "ownership_structure": "- J P",
+      "entity_type": "company",
+      "legal_status": "registered",
+      "shareholders": [
+        "Jax",
+        "Pete"
+      ],
+      "ownership_type": "two_way_partnership"
+    },
+    {
+      "name": "REGIMA SKIN TREATMENTS",
+      "registration_number": "1992/005371/23",
+      "ownership_structure": "- J P",
+      "entity_type": "company",
+      "legal_status": "registered",
+      "shareholders": [
+        "Jax",
+        "Pete"
+      ],
+      "ownership_type": "two_way_partnership"
+    },
+    {
+      "name": "REGIMA INTERNATIONAL SKIN TREATMENTS",
+      "registration_number": "2008/127748/23",
+      "ownership_structure": "- J P",
+      "entity_type": "company",
+      "legal_status": "registered",
+      "shareholders": [
+        "Jax",
+        "Pete"
+      ],
+      "ownership_type": "two_way_partnership"
+    },
+    {
+      "name": "AYMAC INTERNATIONAL",
+      "registration_number": "1999/061687/23",
+      "ownership_structure": "D J P",
+      "entity_type": "company",
+      "legal_status": "registered",
+      "shareholders": [
+        "Dan",
+        "Jax",
+        "Pete"
+      ],
+      "ownership_type": "three_way_partnership"
+    },
+    {
+      "name": "STRATEGIC LOGISTICS",
+      "registration_number": "2008/136496/23",
+      "ownership_structure": "D J P",
+      "entity_type": "company",
+      "legal_status": "registered",
+      "shareholders": [
+        "Dan",
+        "Jax",
+        "Pete"
+      ],
+      "ownership_type": "three_way_partnership"
+    },
+    {
+      "name": "REGIMA MEDIC",
+      "registration_number": "2017/087877/07",
+      "ownership_structure": "D J P",
+      "entity_type": "company",
+      "legal_status": "registered",
+      "shareholders": [
+        "Dan",
+        "Jax",
+        "Pete"
+      ],
+      "ownership_type": "three_way_partnership"
+    },
+    {
+      "name": "REGIMA SPAZONE",
+      "registration_number": "2017/081833/07",
+      "ownership_structure": "D J P",
+      "entity_type": "company",
+      "legal_status": "registered",
+      "shareholders": [
+        "Dan",
+        "Jax",
+        "Pete"
+      ],
+      "ownership_type": "three_way_partnership"
+    },
+    {
+      "name": "REGIMA WORLDWIDE DISTRIBUTION",
+      "registration_number": "2011/005722/07",
+      "ownership_structure": "D J P",
+      "entity_type": "company",
+      "legal_status": "registered",
+      "shareholders": [
+        "Dan",
+        "Jax",
+        "Pete"
+      ],
+      "ownership_type": "three_way_partnership"
+    },
+    {
+      "name": "REGIMA SA",
+      "registration_number": "2017/087935/07",
+      "ownership_structure": "D - P",
+      "entity_type": "company",
+      "legal_status": "registered",
+      "shareholders": [
+        "Dan",
+        "Pete"
+      ],
+      "ownership_type": "two_way_partnership"
+    },
+    {
+      "name": "REGIMA ZONE",
+      "registration_number": "2017/110437/07",
+      "ownership_structure": "D - -",
+      "entity_type": "company",
+      "legal_status": "registered",
+      "shareholders": [
+        "Dan"
+      ],
+      "ownership_type": "sole_ownership"
+    },
+    {
+      "name": "REGIMA ZONE ACADEMY",
+      "registration_number": "2017/113134/07",
+      "ownership_structure": "D - -",
+      "entity_type": "company",
+      "legal_status": "registered",
+      "shareholders": [
+        "Dan"
+      ],
+      "ownership_type": "sole_ownership"
+    },
+    {
+      "name": "REGIMA ZONE IMPACT",
+      "registration_number": "2017/109415/07",
+      "ownership_structure": "D - -",
+      "entity_type": "company",
+      "legal_status": "registered",
+      "shareholders": [
+        "Dan"
+      ],
+      "ownership_type": "sole_ownership"
+    },
+    {
+      "name": "REZONANCE",
+      "registration_number": "2017/081396/07",
+      "ownership_structure": "D - -",
+      "entity_type": "company",
+      "legal_status": "registered",
+      "shareholders": [
+        "Dan"
+      ],
+      "ownership_type": "sole_ownership"
+    },
+    {
+      "name": "UNICORN DYNAMICS",
+      "registration_number": "2016/307425/07",
+      "ownership_structure": "D - -",
+      "entity_type": "company",
+      "legal_status": "registered",
+      "shareholders": [
+        "Dan"
+      ],
+      "ownership_type": "sole_ownership"
+    },
+    {
+      "name": "JOZI WAY TRADING",
+      "registration_number": "2016/240702/07",
+      "ownership_structure": "D - -",
+      "entity_type": "company",
+      "legal_status": "registered",
+      "shareholders": [
+        "Dan"
+      ],
+      "ownership_type": "sole_ownership"
+    },
+    {
+      "name": "PANDAMANIA",
+      "registration_number": "2021/306676/07",
+      "ownership_structure": "D - -",
+      "entity_type": "company",
+      "legal_status": "registered",
+      "shareholders": [
+        "Dan"
+      ],
+      "ownership_type": "sole_ownership"
+    },
+    {
+      "name": "VILLA PALMER HOMEOWNERS ASSOCIATION",
+      "registration_number": "2003/030388/08",
+      "ownership_structure": "D - -",
+      "entity_type": "company",
+      "legal_status": "registered",
+      "shareholders": [
+        "Dan"
+      ],
+      "ownership_type": "sole_ownership"
+    }
+  ],
+  "quickbooks_entities": [
+    {
+      "name": "RegimA Worldwide Distribution (Pty) Ltd",
+      "quickbooks_version": "Online Advanced",
+      "jurisdiction": "ZA",
+      "system_type": "accounting_software"
+    },
+    {
+      "name": "RegimA Medic (Pty) Ltd",
+      "quickbooks_version": "Online Plus",
+      "jurisdiction": "ZA",
+      "system_type": "accounting_software"
+    },
+    {
+      "name": "RegimA Zone Academy (Pty) Ltd",
+      "quickbooks_version": "Online Plus",
+      "jurisdiction": "ZA",
+      "system_type": "accounting_software"
+    },
+    {
+      "name": "RegimA Zone Impact (Pty) Ltd",
+      "quickbooks_version": "Online Plus",
+      "jurisdiction": "ZA",
+      "system_type": "accounting_software"
+    },
+    {
+      "name": "ReZonance (Pty) Ltd",
+      "quickbooks_version": "Online Plus",
+      "jurisdiction": "ZA",
+      "system_type": "accounting_software"
+    },
+    {
+      "name": "Unicorn Dynamics (Pty) Ltd",
+      "quickbooks_version": "Online Plus",
+      "jurisdiction": "ZA",
+      "system_type": "accounting_software"
+    },
+    {
+      "name": "K-Oz Creative (Pty) Ltd",
+      "quickbooks_version": "Online Plus",
+      "jurisdiction": "ZA",
+      "system_type": "accounting_software"
+    },
+    {
+      "name": "Pandamania (Pty) Ltd",
+      "quickbooks_version": "Online Plus",
+      "jurisdiction": "ZA",
+      "system_type": "accounting_software"
+    }
+  ],
+  "critical_statements": [
+    {
+      "type": "fraud_warning",
+      "statement": "may be viewed as fraudulent by the receiver since it misreports forex transactions by the same amount.",
+      "importance": "URGENT",
+      "category": "compliance_risk"
+    },
+    {
+      "type": "fraud_warning",
+      "statement": "may be viewed as fraudulent by the receiver since it misreports forex transactions by the same amount.",
+      "importance": "URGENT",
+      "category": "compliance_risk"
+    },
+    {
+      "type": "financial_misallocation",
+      "statement": "minimum of just over a million has been misallocated resulting in vanishing debt.",
+      "importance": "URGENT",
+      "category": "financial_irregularity"
+    },
+    {
+      "type": "financial_misallocation",
+      "statement": "minimum of just over a million has been misallocated resulting in vanishing debt.",
+      "importance": "URGENT",
+      "category": "financial_irregularity"
+    }
+  ],
+  "timeline_events": [
+    {
+      "date": "2025-06-06",
+      "event_type": "critical_correspondence",
+      "description": "Dan Faucitt sends critical analysis to Danie Bantjes highlighting legal entity structure issues and fraud risks",
+      "entities_involved": [
+        "Daniel Faucitt",
+        "Danie Bantjes",
+        "RegimA entities"
+      ],
+      "importance": "CRITICAL",
+      "category": "legal_compliance_warning"
+    },
+    {
+      "date": "2025-06-06",
+      "event_type": "financial_irregularity_discovery",
+      "description": "Discovery of minimum R1 million misallocation in RegimA Skin Treatments resulting in vanishing debt",
+      "entities_involved": [
+        "RegimA Skin Treatments",
+        "Daniel Faucitt"
+      ],
+      "importance": "URGENT",
+      "category": "financial_fraud_indicator"
+    },
+    {
+      "date": "2025-06-06",
+      "event_type": "accounting_gap_identification",
+      "description": "Identification that no accounts have been processed since August 2023, everything showing as supplier FNB",
+      "entities_involved": [
+        "FNB",
+        "RegimA Worldwide",
+        "Daniel Faucitt"
+      ],
+      "importance": "HIGH",
+      "category": "accounting_irregularity"
+    }
+  ],
+  "entity_relationships": [
+    {
+      "type": "legal_separation",
+      "description": "4 Legally distinct groups between which simple intercompany transactions require additional transactions in order to justify asset transfer etc.",
+      "implication": "Inter-company transactions require additional justification",
+      "importance": "CRITICAL"
+    },
+    {
+      "type": "legal_separation",
+      "description": "4 Legally distinct groups between which simple intercompany transactions require additional transactions in order to justify asset transfer etc.",
+      "implication": "Inter-company transactions require additional justification",
+      "importance": "CRITICAL"
+    },
+    {
+      "type": "operational_relationship",
+      "description": "supply chain activities.",
+      "category": "supply_chain"
+    },
+    {
+      "type": "operational_relationship",
+      "description": "supply chain activities.",
+      "category": "supply_chain"
+    }
+  ],
+  "key_findings": {
+    "total_legal_entities": 19,
+    "ownership_structures_identified": 3,
+    "critical_warnings": 0,
+    "urgent_issues": 4,
+    "fraud_indicators": 2
+  },
+  "not_a_group_analysis": {
+    "statement_found": false,
+    "legal_implications": "4 legally distinct groups requiring additional transaction justification",
+    "ownership_complexity": "Multiple ownership structures (D J P, J P, D - P, D - -) indicating complex legal arrangements"
+  }
+}

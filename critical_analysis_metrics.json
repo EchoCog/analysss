@@ -1,0 +1,183 @@
+{
+  "critical_nodes": {
+    "top_5": [
+      {
+        "rank": 1,
+        "name": "RegimA Group",
+        "type": "Group",
+        "criticality_score": 69.0,
+        "event_centrality": 11,
+        "role_diversity": 8,
+        "roles": [
+          "Client",
+          "Control consolidator",
+          "Debtor",
+          "Evidence destroyer",
+          "False claimant",
+          "Payer",
+          "Perpetrator",
+          "Target"
+        ],
+        "has_critical_role": true,
+        "analysis": "Central hub of the fraud scheme. Involved in 11 events across all phases, playing 8 different roles from legitimate client to perpetrator and evidence destroyer. This entity represents the collective fraudulent activities."
+      },
+      {
+        "rank": 2,
+        "name": "ReZonance",
+        "type": "Company",
+        "criticality_score": 45.0,
+        "event_centrality": 9,
+        "role_diversity": 4,
+        "roles": [
+          "Creditor",
+          "Payee",
+          "Service provider",
+          "Victim"
+        ],
+        "has_critical_role": true,
+        "analysis": "Primary victim of the fraud scheme. Involved in 9 events, accumulating R2M in debt and R1.2M in fraudulent claims. Transitioned from service provider to creditor to victim."
+      },
+      {
+        "rank": 3,
+        "name": "RegimA Skin Treatments",
+        "type": "Company",
+        "criticality_score": 20,
+        "event_centrality": 4,
+        "role_diversity": 4,
+        "roles": [
+          "Client",
+          "Cost recipient",
+          "Financial year start",
+          "Interest receiver"
+        ],
+        "has_critical_role": false,
+        "analysis": "Profit concentration entity. Receives interest payments from SLG while advancing loans to RWW. Controlled by co-director who also owns 50% of Villa Via, enabling self-dealing."
+      },
+      {
+        "rank": 4,
+        "name": "Rynette Farrar",
+        "type": "Person",
+        "criticality_score": 15,
+        "event_centrality": 3,
+        "role_diversity": 3,
+        "roles": [
+          "Beneficiary",
+          "CC recipient",
+          "Confronted party"
+        ],
+        "has_critical_role": false,
+        "analysis": "Key individual confronted by Jax on May 15, 2025. This confrontation triggered the cover-up sequence. Beneficiary of the fraud scheme with family involvement (son Adderory)."
+      },
+      {
+        "rank": 5,
+        "name": "Daniel Faucitt",
+        "type": "Person",
+        "criticality_score": 15,
+        "event_centrality": 3,
+        "role_diversity": 3,
+        "roles": [
+          "Beneficiary",
+          "CC recipient",
+          "CIO (RWW)"
+        ],
+        "has_critical_role": false,
+        "analysis": "CIO of RWW and beneficiary. Involved in damage control attempts and UK extraction pattern (R11.9M). Co-director with financial control."
+      }
+    ]
+  },
+  "critical_edges": {
+    "top_5": [
+      {
+        "rank": 1,
+        "from": "Villa Via",
+        "to": null,
+        "type": "Capital Extraction",
+        "amount": 22800000.0,
+        "criticality_score": 12.44,
+        "criticality_level": "CRITICAL",
+        "analysis": "Massive R22.8M extraction from Villa Via through members loan, representing systematic wealth transfer from the entity."
+      },
+      {
+        "rank": 2,
+        "from": "RegimA SA",
+        "to": "RegimA UK",
+        "type": "International Transfer",
+        "amount": 11900000.0,
+        "criticality_score": 9.17,
+        "criticality_level": "CRITICAL",
+        "analysis": "R11.9M transferred from RegimA SA to RegimA UK, revealing international dimension of financial extraction."
+      },
+      {
+        "rank": 3,
+        "from": "RegimA Group",
+        "to": "ReZonance",
+        "type": "Fraud",
+        "amount": 1235361.34,
+        "criticality_score": 7.37,
+        "criticality_level": "CRITICAL",
+        "analysis": "Direct fraudulent transaction representing the discovered payment fraud scheme totaling R1.23M against ReZonance."
+      },
+      {
+        "rank": 4,
+        "from": "RegimA Group",
+        "to": "ReZonance",
+        "type": "Fraudulent Claim",
+        "amount": 1235361.34,
+        "criticality_score": 7.37,
+        "criticality_level": "CRITICAL",
+        "analysis": "False payment claims made by RegimA Group that were never actually paid to ReZonance, escalating from R470K to R765K."
+      },
+      {
+        "rank": 5,
+        "from": "RegimA Group",
+        "to": "ReZonance",
+        "type": "Debt",
+        "amount": 2006949.27,
+        "criticality_score": 5.5,
+        "criticality_level": "CRITICAL",
+        "analysis": "Accumulated debt of R2M owed to ReZonance, representing systematic non-payment of legitimate services over extended period."
+      }
+    ]
+  },
+  "critical_events": {
+    "total": 14,
+    "by_phase": {
+      "phase_1": 3,
+      "phase_2": 0,
+      "phase_3": 4,
+      "phase_4": 7
+    },
+    "cover_up_sequence": [
+      {
+        "date": "2025-05-15",
+        "title": "Jax confronts Rynette",
+        "impact": "CRITICAL",
+        "phase": 4
+      },
+      {
+        "date": "2025-05-22",
+        "title": "Shopify evidence destroyed",
+        "impact": "CRITICAL",
+        "phase": 4
+      },
+      {
+        "date": "2025-05-29",
+        "title": "Domain hijacked",
+        "impact": "CRITICAL",
+        "phase": 4
+      },
+      {
+        "date": "2025-06-07",
+        "title": "Cards cancelled",
+        "impact": "CRITICAL",
+        "phase": 4
+      }
+    ]
+  },
+  "summary": {
+    "total_nodes_analyzed": 12,
+    "total_edges_analyzed": 11,
+    "critical_nodes_count": 4,
+    "critical_edges_count": 6
+  }
+}

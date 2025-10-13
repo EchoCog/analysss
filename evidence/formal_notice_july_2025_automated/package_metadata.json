@@ -1,0 +1,2515 @@
+{
+  "package_name": "formal_notice_july_2025_automated",
+  "source_files": [
+    "evidence/formal_notice_july_2025/FORMALNOTICE-CESSATIONOFCRIMINALINSTRUCTIONS.docx",
+    "evidence/formal_notice_july_2025/email-body.html"
+  ],
+  "entities": [
+    {
+      "type": "person",
+      "name": "FORMAL NOTICE",
+      "context": "FORMAL NOTICE: CESSATION OF CRIMINAL INSTRUCTIONS Dear Pete, This letter serves as formal notice regarding your r",
+      "position": {
+        "start": 0,
+        "end": 13
+      },
+      "description": "Individual"
+    },
+    {
+      "type": "person",
+      "name": "CESSATION OF",
+      "context": "FORMAL NOTICE: CESSATION OF CRIMINAL INSTRUCTIONS Dear Pete, This letter serves as formal notice regarding your recent instruct",
+      "position": {
+        "start": 15,
+        "end": 27
+      },
+      "description": "Individual"
+    },
+    {
+      "type": "person",
+      "name": "CRIMINAL INSTRUCTIONS",
+      "context": "FORMAL NOTICE: CESSATION OF CRIMINAL INSTRUCTIONS Dear Pete, This letter serves as formal notice regarding your recent instructions to employees to b",
+      "position": {
+        "start": 28,
+        "end": 49
+      },
+      "description": "Employee"
+    },
+    {
+      "type": "person",
+      "name": "Dear Pete",
+      "context": "FORMAL NOTICE: CESSATION OF CRIMINAL INSTRUCTIONS Dear Pete, This letter serves as formal notice regarding your recent instructions to employees to bypass Shop",
+      "position": {
+        "start": 50,
+        "end": 59
+      },
+      "description": "Employee"
+    },
+    {
+      "type": "person",
+      "name": "This letter",
+      "context": "FORMAL NOTICE: CESSATION OF CRIMINAL INSTRUCTIONS Dear Pete, This letter serves as formal notice regarding your recent instructions to employees to bypass Shopify and use u",
+      "position": {
+        "start": 61,
+        "end": 72
+      },
+      "description": "Employee"
+    },
+    {
+      "type": "person",
+      "name": "serves as",
+      "context": "FORMAL NOTICE: CESSATION OF CRIMINAL INSTRUCTIONS Dear Pete, This letter serves as formal notice regarding your recent instructions to employees to bypass Shopify and use unauthorize",
+      "position": {
+        "start": 73,
+        "end": 82
+      },
+      "description": "Employee"
+    },
+    {
+      "type": "person",
+      "name": "regarding your",
+      "context": "FORMAL NOTICE: CESSATION OF CRIMINAL INSTRUCTIONS Dear Pete, This letter serves as formal notice regarding your recent instructions to employees to bypass Shopify and use unauthorized domains for processing cust",
+      "position": {
+        "start": 97,
+        "end": 111
+      },
+      "description": "Employee"
+    },
+    {
+      "type": "person",
+      "name": "recent instructions",
+      "context": "E: CESSATION OF CRIMINAL INSTRUCTIONS Dear Pete, This letter serves as formal notice regarding your recent instructions to employees to bypass Shopify and use unauthorized domains for processing customer data. LEGAL STA",
+      "position": {
+        "start": 112,
+        "end": 131
+      },
+      "description": "Employee"
+    },
+    {
+      "type": "person",
+      "name": "to employees",
+      "context": "INAL INSTRUCTIONS Dear Pete, This letter serves as formal notice regarding your recent instructions to employees to bypass Shopify and use unauthorized domains for processing customer data. LEGAL STATUS OF YOUR I",
+      "position": {
+        "start": 132,
+        "end": 144
+      },
+      "description": "Employee"
+    },
+    {
+      "type": "person",
+      "name": "to bypass",
+      "context": "IONS Dear Pete, This letter serves as formal notice regarding your recent instructions to employees to bypass Shopify and use unauthorized domains for processing customer data. LEGAL STATUS OF YOUR INSTRUCTION",
+      "position": {
+        "start": 145,
+        "end": 154
+      },
+      "description": "Employee"
+    },
+    {
+      "type": "person",
+      "name": "Shopify and",
+      "context": "Pete, This letter serves as formal notice regarding your recent instructions to employees to bypass Shopify and use unauthorized domains for processing customer data. LEGAL STATUS OF YOUR INSTRUCTIONS Your direc",
+      "position": {
+        "start": 155,
+        "end": 166
+      },
+      "description": "Employee"
+    },
+    {
+      "type": "person",
+      "name": "use unauthorized",
+      "context": "etter serves as formal notice regarding your recent instructions to employees to bypass Shopify and use unauthorized domains for processing customer data. LEGAL STATUS OF YOUR INSTRUCTIONS Your directives to employee",
+      "position": {
+        "start": 167,
+        "end": 183
+      },
+      "description": "Employee"
+    },
+    {
+      "type": "person",
+      "name": "domains for",
+      "context": "ormal notice regarding your recent instructions to employees to bypass Shopify and use unauthorized domains for processing customer data. LEGAL STATUS OF YOUR INSTRUCTIONS Your directives to employees constitute",
+      "position": {
+        "start": 184,
+        "end": 195
+      },
+      "description": "Employee"
+    },
+    {
+      "type": "person",
+      "name": "processing customer",
+      "context": "regarding your recent instructions to employees to bypass Shopify and use unauthorized domains for processing customer data. LEGAL STATUS OF YOUR INSTRUCTIONS Your directives to employees constitute: Conspiracy to viol",
+      "position": {
+        "start": 196,
+        "end": 215
+      },
+      "description": "Employee"
+    },
+    {
+      "type": "person",
+      "name": "LEGAL STATUS",
+      "context": "tructions to employees to bypass Shopify and use unauthorized domains for processing customer data. LEGAL STATUS OF YOUR INSTRUCTIONS Your directives to employees constitute: Conspiracy to violate POPI Act - inst",
+      "position": {
+        "start": 222,
+        "end": 234
+      },
+      "description": "Employee"
+    },
+    {
+      "type": "person",
+      "name": "OF YOUR",
+      "context": "employees to bypass Shopify and use unauthorized domains for processing customer data. LEGAL STATUS OF YOUR INSTRUCTIONS Your directives to employees constitute: Conspiracy to violate POPI Act - instructing",
+      "position": {
+        "start": 235,
+        "end": 242
+      },
+      "description": "Employee"
+    },
+    {
+      "type": "person",
+      "name": "INSTRUCTIONS Your",
+      "context": "s to bypass Shopify and use unauthorized domains for processing customer data. LEGAL STATUS OF YOUR INSTRUCTIONS Your directives to employees constitute: Conspiracy to violate POPI Act - instructing unauthorized data",
+      "position": {
+        "start": 243,
+        "end": 260
+      },
+      "description": "Employee"
+    },
+    {
+      "type": "person",
+      "name": "directives to",
+      "context": "y and use unauthorized domains for processing customer data. LEGAL STATUS OF YOUR INSTRUCTIONS Your directives to employees constitute: Conspiracy to violate POPI Act - instructing unauthorized data access Breach",
+      "position": {
+        "start": 261,
+        "end": 274
+      },
+      "description": "Employee"
+    },
+    {
+      "type": "person",
+      "name": "employees constitute",
+      "context": "thorized domains for processing customer data. LEGAL STATUS OF YOUR INSTRUCTIONS Your directives to employees constitute: Conspiracy to violate POPI Act - instructing unauthorized data access Breach of fiduciary duty und",
+      "position": {
+        "start": 275,
+        "end": 295
+      },
+      "description": "Employee"
+    },
+    {
+      "type": "person",
+      "name": "Conspiracy to",
+      "context": "rocessing customer data. LEGAL STATUS OF YOUR INSTRUCTIONS Your directives to employees constitute: Conspiracy to violate POPI Act - instructing unauthorized data access Breach of fiduciary duty under Companies Ac",
+      "position": {
+        "start": 297,
+        "end": 310
+      },
+      "description": "Employee"
+    },
+    {
+      "type": "legal_reference",
+      "name": "Conspiracy to violate POPI Act",
+      "context": "rocessing customer data. LEGAL STATUS OF YOUR INSTRUCTIONS Your directives to employees constitute: Conspiracy to violate POPI Act - instructing unauthorized data access Breach of fiduciary duty under Companies Act Section 76 Pote",
+      "position": {
+        "start": 297,
+        "end": 327
+      },
+      "description": "Legal reference: Conspiracy to violate POPI Act"
+    },
+    {
+      "type": "person",
+      "name": "violate POPI",
+      "context": "omer data. LEGAL STATUS OF YOUR INSTRUCTIONS Your directives to employees constitute: Conspiracy to violate POPI Act - instructing unauthorized data access Breach of fiduciary duty under Companies Act Section 76",
+      "position": {
+        "start": 311,
+        "end": 323
+      },
+      "description": "Employee"
+    },
+    {
+      "type": "person",
+      "name": "instructing unauthorized",
+      "context": "ATUS OF YOUR INSTRUCTIONS Your directives to employees constitute: Conspiracy to violate POPI Act - instructing unauthorized data access Breach of fiduciary duty under Companies Act Section 76 Potential fraud through misrepr",
+      "position": {
+        "start": 330,
+        "end": 354
+      },
+      "description": "Employee"
+    },
+    {
+      "type": "legal_reference",
+      "name": "instructing unauthorized data access Breach of fiduciary duty under Companies Act",
+      "context": "ATUS OF YOUR INSTRUCTIONS Your directives to employees constitute: Conspiracy to violate POPI Act - instructing unauthorized data access Breach of fiduciary duty under Companies Act Section 76 Potential fraud through misrepresentation to customers Vicarious liability for each empl",
+      "position": {
+        "start": 330,
+        "end": 411
+      },
+      "description": "Legal reference: instructing unauthorized data access Breach of fiduciary duty under Companies Act"
+    },
+    {
+      "type": "person",
+      "name": "data access",
+      "context": "Your directives to employees constitute: Conspiracy to violate POPI Act - instructing unauthorized data access Breach of fiduciary duty under Companies Act Section 76 Potential fraud through misrepresentation t",
+      "position": {
+        "start": 355,
+        "end": 366
+      },
+      "description": "Employee"
+    },
+    {
+      "type": "person",
+      "name": "Breach of",
+      "context": "ives to employees constitute: Conspiracy to violate POPI Act - instructing unauthorized data access Breach of fiduciary duty under Companies Act Section 76 Potential fraud through misrepresentation to customer",
+      "position": {
+        "start": 367,
+        "end": 376
+      },
+      "description": "Employee"
+    },
+    {
+      "type": "person",
+      "name": "fiduciary duty",
+      "context": "ployees constitute: Conspiracy to violate POPI Act - instructing unauthorized data access Breach of fiduciary duty under Companies Act Section 76 Potential fraud through misrepresentation to customers Vicarious lia",
+      "position": {
+        "start": 377,
+        "end": 391
+      },
+      "description": "Individual"
+    },
+    {
+      "type": "person",
+      "name": "under Companies",
+      "context": "ute: Conspiracy to violate POPI Act - instructing unauthorized data access Breach of fiduciary duty under Companies Act Section 76 Potential fraud through misrepresentation to customers Vicarious liability for each",
+      "position": {
+        "start": 392,
+        "end": 407
+      },
+      "description": "Individual"
+    },
+    {
+      "type": "person",
+      "name": "Act Section",
+      "context": "to violate POPI Act - instructing unauthorized data access Breach of fiduciary duty under Companies Act Section 76 Potential fraud through misrepresentation to customers Vicarious liability for each employee vio",
+      "position": {
+        "start": 408,
+        "end": 419
+      },
+      "description": "Employee"
+    },
+    {
+      "type": "legal_reference",
+      "name": "Section 76",
+      "context": "iolate POPI Act - instructing unauthorized data access Breach of fiduciary duty under Companies Act Section 76 Potential fraud through misrepresentation to customers Vicarious liability for each employee violat",
+      "position": {
+        "start": 412,
+        "end": 422
+      },
+      "description": "Legal reference: Section 76"
+    },
+    {
+      "type": "person",
+      "name": "Potential fraud",
+      "context": "Act - instructing unauthorized data access Breach of fiduciary duty under Companies Act Section 76 Potential fraud through misrepresentation to customers Vicarious liability for each employee violation Maximum pers",
+      "position": {
+        "start": 423,
+        "end": 438
+      },
+      "description": "Employee"
+    },
+    {
+      "type": "person",
+      "name": "through misrepresentation",
+      "context": "ng unauthorized data access Breach of fiduciary duty under Companies Act Section 76 Potential fraud through misrepresentation to customers Vicarious liability for each employee violation Maximum personal penalties: R10 millio",
+      "position": {
+        "start": 439,
+        "end": 464
+      },
+      "description": "Employee"
+    },
+    {
+      "type": "person",
+      "name": "to customers",
+      "context": "s Breach of fiduciary duty under Companies Act Section 76 Potential fraud through misrepresentation to customers Vicarious liability for each employee violation Maximum personal penalties: R10 million fine and/or",
+      "position": {
+        "start": 465,
+        "end": 477
+      },
+      "description": "Employee"
+    },
+    {
+      "type": "person",
+      "name": "Vicarious liability",
+      "context": "iduciary duty under Companies Act Section 76 Potential fraud through misrepresentation to customers Vicarious liability for each employee violation Maximum personal penalties: R10 million fine and/or 10 years imprisonme",
+      "position": {
+        "start": 478,
+        "end": 497
+      },
+      "description": "Employee"
+    },
+    {
+      "type": "person",
+      "name": "for each",
+      "context": "Companies Act Section 76 Potential fraud through misrepresentation to customers Vicarious liability for each employee violation Maximum personal penalties: R10 million fine and/or 10 years imprisonment YOUR P",
+      "position": {
+        "start": 498,
+        "end": 506
+      },
+      "description": "Employee"
+    },
+    {
+      "type": "person",
+      "name": "employee violation",
+      "context": "Act Section 76 Potential fraud through misrepresentation to customers Vicarious liability for each employee violation Maximum personal penalties: R10 million fine and/or 10 years imprisonment YOUR PERSONAL LIABILITY A",
+      "position": {
+        "start": 507,
+        "end": 525
+      },
+      "description": "Employee"
+    },
+    {
+      "type": "person",
+      "name": "Maximum personal",
+      "context": "ential fraud through misrepresentation to customers Vicarious liability for each employee violation Maximum personal penalties: R10 million fine and/or 10 years imprisonment YOUR PERSONAL LIABILITY As director instru",
+      "position": {
+        "start": 526,
+        "end": 542
+      },
+      "description": "Director"
+    },
+    {
+      "type": "amount",
+      "name": "10",
+      "context": "esentation to customers Vicarious liability for each employee violation Maximum personal penalties: R10 million fine and/or 10 years imprisonment YOUR PERSONAL LIABILITY As director instructing these vio",
+      "position": {
+        "start": 554,
+        "end": 557
+      },
+      "description": "Financial amount: R10"
+    },
+    {
+      "type": "person",
+      "name": "million fine",
+      "context": "tation to customers Vicarious liability for each employee violation Maximum personal penalties: R10 million fine and/or 10 years imprisonment YOUR PERSONAL LIABILITY As director instructing these violations: You",
+      "position": {
+        "start": 558,
+        "end": 570
+      },
+      "description": "Director"
+    },
+    {
+      "type": "person",
+      "name": "years imprisonment",
+      "context": "arious liability for each employee violation Maximum personal penalties: R10 million fine and/or 10 years imprisonment YOUR PERSONAL LIABILITY As director instructing these violations: You face greater liability than e",
+      "position": {
+        "start": 581,
+        "end": 599
+      },
+      "description": "Director"
+    },
+    {
+      "type": "person",
+      "name": "YOUR PERSONAL",
+      "context": "r each employee violation Maximum personal penalties: R10 million fine and/or 10 years imprisonment YOUR PERSONAL LIABILITY As director instructing these violations: You face greater liability than employees follo",
+      "position": {
+        "start": 600,
+        "end": 613
+      },
+      "description": "Director"
+    },
+    {
+      "type": "person",
+      "name": "LIABILITY As",
+      "context": "e violation Maximum personal penalties: R10 million fine and/or 10 years imprisonment YOUR PERSONAL LIABILITY As director instructing these violations: You face greater liability than employees following orders C",
+      "position": {
+        "start": 614,
+        "end": 626
+      },
+      "description": "Director"
+    },
+    {
+      "type": "person",
+      "name": "director instructing",
+      "context": "aximum personal penalties: R10 million fine and/or 10 years imprisonment YOUR PERSONAL LIABILITY As director instructing these violations: You face greater liability than employees following orders Corporate insurance wi",
+      "position": {
+        "start": 627,
+        "end": 647
+      },
+      "description": "Director"
+    },
+    {
+      "type": "person",
+      "name": "these violations",
+      "context": "ties: R10 million fine and/or 10 years imprisonment YOUR PERSONAL LIABILITY As director instructing these violations: You face greater liability than employees following orders Corporate insurance will not cover inte",
+      "position": {
+        "start": 648,
+        "end": 664
+      },
+      "description": "Director"
+    },
+    {
+      "type": "person",
+      "name": "You face",
+      "context": "fine and/or 10 years imprisonment YOUR PERSONAL LIABILITY As director instructing these violations: You face greater liability than employees following orders Corporate insurance will not cover intentional cr",
+      "position": {
+        "start": 666,
+        "end": 674
+      },
+      "description": "Director"
+    },
+    {
+      "type": "person",
+      "name": "greater liability",
+      "context": "or 10 years imprisonment YOUR PERSONAL LIABILITY As director instructing these violations: You face greater liability than employees following orders Corporate insurance will not cover intentional criminal acts Person",
+      "position": {
+        "start": 675,
+        "end": 692
+      },
+      "description": "Director"
+    },
+    {
+      "type": "person",
+      "name": "than employees",
+      "context": "onment YOUR PERSONAL LIABILITY As director instructing these violations: You face greater liability than employees following orders Corporate insurance will not cover intentional criminal acts Personal assets are a",
+      "position": {
+        "start": 693,
+        "end": 707
+      },
+      "description": "Director"
+    },
+    {
+      "type": "person",
+      "name": "following orders",
+      "context": "SONAL LIABILITY As director instructing these violations: You face greater liability than employees following orders Corporate insurance will not cover intentional criminal acts Personal assets are at risk for damage",
+      "position": {
+        "start": 708,
+        "end": 724
+      },
+      "description": "Director"
+    },
+    {
+      "type": "person",
+      "name": "Corporate insurance",
+      "context": "s director instructing these violations: You face greater liability than employees following orders Corporate insurance will not cover intentional criminal acts Personal assets are at risk for damages Criminal record wo",
+      "position": {
+        "start": 725,
+        "end": 744
+      },
+      "description": "Director"
+    },
+    {
+      "type": "person",
+      "name": "will not",
+      "context": "ng these violations: You face greater liability than employees following orders Corporate insurance will not cover intentional criminal acts Personal assets are at risk for damages Criminal record would preve",
+      "position": {
+        "start": 745,
+        "end": 753
+      },
+      "description": "Employee"
+    },
+    {
+      "type": "person",
+      "name": "cover intentional",
+      "context": "violations: You face greater liability than employees following orders Corporate insurance will not cover intentional criminal acts Personal assets are at risk for damages Criminal record would prevent future director",
+      "position": {
+        "start": 754,
+        "end": 771
+      },
+      "description": "Director"
+    },
+    {
+      "type": "person",
+      "name": "criminal acts",
+      "context": "ce greater liability than employees following orders Corporate insurance will not cover intentional criminal acts Personal assets are at risk for damages Criminal record would prevent future directorships OPPORTUN",
+      "position": {
+        "start": 772,
+        "end": 785
+      },
+      "description": "Director"
+    },
+    {
+      "type": "person",
+      "name": "Personal assets",
+      "context": "bility than employees following orders Corporate insurance will not cover intentional criminal acts Personal assets are at risk for damages Criminal record would prevent future directorships OPPORTUNITY TO REMEDY I",
+      "position": {
+        "start": 786,
+        "end": 801
+      },
+      "description": "Director"
+    },
+    {
+      "type": "person",
+      "name": "are at",
+      "context": "oyees following orders Corporate insurance will not cover intentional criminal acts Personal assets are at risk for damages Criminal record would prevent future directorships OPPORTUNITY TO REMEDY I am prov",
+      "position": {
+        "start": 802,
+        "end": 808
+      },
+      "description": "Director"
+    },
+    {
+      "type": "person",
+      "name": "risk for",
+      "context": "ollowing orders Corporate insurance will not cover intentional criminal acts Personal assets are at risk for damages Criminal record would prevent future directorships OPPORTUNITY TO REMEDY I am providing you",
+      "position": {
+        "start": 809,
+        "end": 817
+      },
+      "description": "Director"
+    },
+    {
+      "type": "person",
+      "name": "damages Criminal",
+      "context": "orders Corporate insurance will not cover intentional criminal acts Personal assets are at risk for damages Criminal record would prevent future directorships OPPORTUNITY TO REMEDY I am providing you this opportunity",
+      "position": {
+        "start": 818,
+        "end": 834
+      },
+      "description": "Director"
+    },
+    {
+      "type": "person",
+      "name": "record would",
+      "context": "insurance will not cover intentional criminal acts Personal assets are at risk for damages Criminal record would prevent future directorships OPPORTUNITY TO REMEDY I am providing you this opportunity to: Immediat",
+      "position": {
+        "start": 835,
+        "end": 847
+      },
+      "description": "Director"
+    },
+    {
+      "type": "person",
+      "name": "prevent future",
+      "context": "l not cover intentional criminal acts Personal assets are at risk for damages Criminal record would prevent future directorships OPPORTUNITY TO REMEDY I am providing you this opportunity to: Immediately rescind all",
+      "position": {
+        "start": 848,
+        "end": 862
+      },
+      "description": "Director"
+    },
+    {
+      "type": "person",
+      "name": "directorships OPPORTUNITY",
+      "context": "entional criminal acts Personal assets are at risk for damages Criminal record would prevent future directorships OPPORTUNITY TO REMEDY I am providing you this opportunity to: Immediately rescind all instructions to bypass Sh",
+      "position": {
+        "start": 863,
+        "end": 888
+      },
+      "description": "Director"
+    },
+    {
+      "type": "person",
+      "name": "TO REMEDY",
+      "context": "sonal assets are at risk for damages Criminal record would prevent future directorships OPPORTUNITY TO REMEDY I am providing you this opportunity to: Immediately rescind all instructions to bypass Shopify Conf",
+      "position": {
+        "start": 889,
+        "end": 898
+      },
+      "description": "Director"
+    },
+    {
+      "type": "person",
+      "name": "am providing",
+      "context": "are at risk for damages Criminal record would prevent future directorships OPPORTUNITY TO REMEDY I am providing you this opportunity to: Immediately rescind all instructions to bypass Shopify Confirm in writing",
+      "position": {
+        "start": 901,
+        "end": 913
+      },
+      "description": "Director"
+    },
+    {
+      "type": "person",
+      "name": "you this",
+      "context": "for damages Criminal record would prevent future directorships OPPORTUNITY TO REMEDY I am providing you this opportunity to: Immediately rescind all instructions to bypass Shopify Confirm in writing that all",
+      "position": {
+        "start": 914,
+        "end": 922
+      },
+      "description": "Director"
+    },
+    {
+      "type": "person",
+      "name": "opportunity to",
+      "context": "es Criminal record would prevent future directorships OPPORTUNITY TO REMEDY I am providing you this opportunity to: Immediately rescind all instructions to bypass Shopify Confirm in writing that all orders must use",
+      "position": {
+        "start": 923,
+        "end": 937
+      },
+      "description": "Director"
+    },
+    {
+      "type": "person",
+      "name": "Immediately rescind",
+      "context": "rd would prevent future directorships OPPORTUNITY TO REMEDY I am providing you this opportunity to: Immediately rescind all instructions to bypass Shopify Confirm in writing that all orders must use approved systems Res",
+      "position": {
+        "start": 939,
+        "end": 958
+      },
+      "description": "Director"
+    },
+    {
+      "type": "person",
+      "name": "all instructions",
+      "context": "ure directorships OPPORTUNITY TO REMEDY I am providing you this opportunity to: Immediately rescind all instructions to bypass Shopify Confirm in writing that all orders must use approved systems Restore proper corpo",
+      "position": {
+        "start": 959,
+        "end": 975
+      },
+      "description": "Director"
+    },
+    {
+      "type": "person",
+      "name": "Shopify Confirm",
+      "context": "TY TO REMEDY I am providing you this opportunity to: Immediately rescind all instructions to bypass Shopify Confirm in writing that all orders must use approved systems Restore proper corporate governance Provide th",
+      "position": {
+        "start": 986,
+        "end": 1001
+      },
+      "description": "Individual"
+    },
+    {
+      "type": "person",
+      "name": "in writing",
+      "context": "m providing you this opportunity to: Immediately rescind all instructions to bypass Shopify Confirm in writing that all orders must use approved systems Restore proper corporate governance Provide the withheld",
+      "position": {
+        "start": 1002,
+        "end": 1012
+      },
+      "description": "Individual"
+    },
+    {
+      "type": "person",
+      "name": "that all",
+      "context": "you this opportunity to: Immediately rescind all instructions to bypass Shopify Confirm in writing that all orders must use approved systems Restore proper corporate governance Provide the withheld bank card",
+      "position": {
+        "start": 1013,
+        "end": 1021
+      },
+      "description": "Individual"
+    },
+    {
+      "type": "person",
+      "name": "orders must",
+      "context": "opportunity to: Immediately rescind all instructions to bypass Shopify Confirm in writing that all orders must use approved systems Restore proper corporate governance Provide the withheld bank cards for direct",
+      "position": {
+        "start": 1022,
+        "end": 1033
+      },
+      "description": "Individual"
+    },
+    {
+      "type": "person",
+      "name": "use approved",
+      "context": "to: Immediately rescind all instructions to bypass Shopify Confirm in writing that all orders must use approved systems Restore proper corporate governance Provide the withheld bank cards for director oversight",
+      "position": {
+        "start": 1034,
+        "end": 1046
+      },
+      "description": "Director"
+    },
+    {
+      "type": "person",
+      "name": "systems Restore",
+      "context": "ely rescind all instructions to bypass Shopify Confirm in writing that all orders must use approved systems Restore proper corporate governance Provide the withheld bank cards for director oversight Deadline: 48 hou",
+      "position": {
+        "start": 1047,
+        "end": 1062
+      },
+      "description": "Director"
+    },
+    {
+      "type": "person",
+      "name": "proper corporate",
+      "context": "instructions to bypass Shopify Confirm in writing that all orders must use approved systems Restore proper corporate governance Provide the withheld bank cards for director oversight Deadline: 48 hours from receipt I",
+      "position": {
+        "start": 1063,
+        "end": 1079
+      },
+      "description": "Director"
+    },
+    {
+      "type": "person",
+      "name": "governance Provide",
+      "context": "ypass Shopify Confirm in writing that all orders must use approved systems Restore proper corporate governance Provide the withheld bank cards for director oversight Deadline: 48 hours from receipt IF EXTERNAL PRESSURE",
+      "position": {
+        "start": 1080,
+        "end": 1098
+      },
+      "description": "Director"
+    },
+    {
+      "type": "person",
+      "name": "the withheld",
+      "context": "rm in writing that all orders must use approved systems Restore proper corporate governance Provide the withheld bank cards for director oversight Deadline: 48 hours from receipt IF EXTERNAL PRESSURE EXISTS If so",
+      "position": {
+        "start": 1099,
+        "end": 1111
+      },
+      "description": "Director"
+    },
+    {
+      "type": "person",
+      "name": "bank cards",
+      "context": "that all orders must use approved systems Restore proper corporate governance Provide the withheld bank cards for director oversight Deadline: 48 hours from receipt IF EXTERNAL PRESSURE EXISTS If someone is pr",
+      "position": {
+        "start": 1112,
+        "end": 1122
+      },
+      "description": "Director"
+    },
+    {
+      "type": "person",
+      "name": "for director",
+      "context": "rders must use approved systems Restore proper corporate governance Provide the withheld bank cards for director oversight Deadline: 48 hours from receipt IF EXTERNAL PRESSURE EXISTS If someone is pressuring you",
+      "position": {
+        "start": 1123,
+        "end": 1135
+      },
+      "description": "Director"
+    },
+    {
+      "type": "person",
+      "name": "oversight Deadline",
+      "context": "e approved systems Restore proper corporate governance Provide the withheld bank cards for director oversight Deadline: 48 hours from receipt IF EXTERNAL PRESSURE EXISTS If someone is pressuring you to give these instr",
+      "position": {
+        "start": 1136,
+        "end": 1154
+      },
+      "description": "Director"
+    },
+    {
+      "type": "person",
+      "name": "hours from",
+      "context": "ore proper corporate governance Provide the withheld bank cards for director oversight Deadline: 48 hours from receipt IF EXTERNAL PRESSURE EXISTS If someone is pressuring you to give these instructions: Docume",
+      "position": {
+        "start": 1159,
+        "end": 1169
+      },
+      "description": "Director"
+    },
+    {
+      "type": "person",
+      "name": "receipt IF",
+      "context": "corporate governance Provide the withheld bank cards for director oversight Deadline: 48 hours from receipt IF EXTERNAL PRESSURE EXISTS If someone is pressuring you to give these instructions: Document their de",
+      "position": {
+        "start": 1170,
+        "end": 1180
+      },
+      "description": "Director"
+    },
+    {
+      "type": "person",
+      "name": "EXTERNAL PRESSURE",
+      "context": "overnance Provide the withheld bank cards for director oversight Deadline: 48 hours from receipt IF EXTERNAL PRESSURE EXISTS If someone is pressuring you to give these instructions: Document their demands We can addre",
+      "position": {
+        "start": 1181,
+        "end": 1198
+      },
+      "description": "Director"
+    },
+    {
+      "type": "person",
+      "name": "EXISTS If",
+      "context": "the withheld bank cards for director oversight Deadline: 48 hours from receipt IF EXTERNAL PRESSURE EXISTS If someone is pressuring you to give these instructions: Document their demands We can address this to",
+      "position": {
+        "start": 1199,
+        "end": 1208
+      },
+      "description": "Director"
+    },
+    {
+      "type": "person",
+      "name": "someone is",
+      "context": "ld bank cards for director oversight Deadline: 48 hours from receipt IF EXTERNAL PRESSURE EXISTS If someone is pressuring you to give these instructions: Document their demands We can address this together lega",
+      "position": {
+        "start": 1209,
+        "end": 1219
+      },
+      "description": "Director"
+    },
+    {
+      "type": "person",
+      "name": "pressuring you",
+      "context": "ds for director oversight Deadline: 48 hours from receipt IF EXTERNAL PRESSURE EXISTS If someone is pressuring you to give these instructions: Document their demands We can address this together legally Criminal li",
+      "position": {
+        "start": 1220,
+        "end": 1234
+      },
+      "description": "Director"
+    },
+    {
+      "type": "person",
+      "name": "to give",
+      "context": "oversight Deadline: 48 hours from receipt IF EXTERNAL PRESSURE EXISTS If someone is pressuring you to give these instructions: Document their demands We can address this together legally Criminal liability",
+      "position": {
+        "start": 1235,
+        "end": 1242
+      },
+      "description": "Individual"
+    },
+    {
+      "type": "person",
+      "name": "these instructions",
+      "context": "ht Deadline: 48 hours from receipt IF EXTERNAL PRESSURE EXISTS If someone is pressuring you to give these instructions: Document their demands We can address this together legally Criminal liability cannot be transferr",
+      "position": {
+        "start": 1243,
+        "end": 1261
+      },
+      "description": "Individual"
+    },
+    {
+      "type": "person",
+      "name": "Document their",
+      "context": "s from receipt IF EXTERNAL PRESSURE EXISTS If someone is pressuring you to give these instructions: Document their demands We can address this together legally Criminal liability cannot be transferred No business r",
+      "position": {
+        "start": 1263,
+        "end": 1277
+      },
+      "description": "Individual"
+    },
+    {
+      "type": "person",
+      "name": "demands We",
+      "context": "IF EXTERNAL PRESSURE EXISTS If someone is pressuring you to give these instructions: Document their demands We can address this together legally Criminal liability cannot be transferred No business relationship",
+      "position": {
+        "start": 1278,
+        "end": 1288
+      },
+      "description": "Individual"
+    },
+    {
+      "type": "person",
+      "name": "can address",
+      "context": "PRESSURE EXISTS If someone is pressuring you to give these instructions: Document their demands We can address this together legally Criminal liability cannot be transferred No business relationship justifies c",
+      "position": {
+        "start": 1289,
+        "end": 1300
+      },
+      "description": "Individual"
+    },
+    {
+      "type": "person",
+      "name": "this together",
+      "context": "ISTS If someone is pressuring you to give these instructions: Document their demands We can address this together legally Criminal liability cannot be transferred No business relationship justifies criminal conduc",
+      "position": {
+        "start": 1301,
+        "end": 1314
+      },
+      "description": "Individual"
+    },
+    {
+      "type": "person",
+      "name": "legally Criminal",
+      "context": "e is pressuring you to give these instructions: Document their demands We can address this together legally Criminal liability cannot be transferred No business relationship justifies criminal conduct CONSEQUENCES OF",
+      "position": {
+        "start": 1315,
+        "end": 1331
+      },
+      "description": "Individual"
+    },
+    {
+      "type": "person",
+      "name": "liability cannot",
+      "context": "ou to give these instructions: Document their demands We can address this together legally Criminal liability cannot be transferred No business relationship justifies criminal conduct CONSEQUENCES OF NON-COMPLIANCE S",
+      "position": {
+        "start": 1332,
+        "end": 1348
+      },
+      "description": "Individual"
+    },
+    {
+      "type": "person",
+      "name": "be transferred",
+      "context": "instructions: Document their demands We can address this together legally Criminal liability cannot be transferred No business relationship justifies criminal conduct CONSEQUENCES OF NON-COMPLIANCE Should you conti",
+      "position": {
+        "start": 1349,
+        "end": 1363
+      },
+      "description": "Individual"
+    },
+    {
+      "type": "person",
+      "name": "No business",
+      "context": "ocument their demands We can address this together legally Criminal liability cannot be transferred No business relationship justifies criminal conduct CONSEQUENCES OF NON-COMPLIANCE Should you continue instruct",
+      "position": {
+        "start": 1364,
+        "end": 1375
+      },
+      "description": "Individual"
+    },
+    {
+      "type": "person",
+      "name": "relationship justifies",
+      "context": "r demands We can address this together legally Criminal liability cannot be transferred No business relationship justifies criminal conduct CONSEQUENCES OF NON-COMPLIANCE Should you continue instructing criminal violations",
+      "position": {
+        "start": 1376,
+        "end": 1398
+      },
+      "description": "Individual"
+    },
+    {
+      "type": "person",
+      "name": "criminal conduct",
+      "context": "s this together legally Criminal liability cannot be transferred No business relationship justifies criminal conduct CONSEQUENCES OF NON-COMPLIANCE Should you continue instructing criminal violations: Criminal charge",
+      "position": {
+        "start": 1399,
+        "end": 1415
+      },
+      "description": "Individual"
+    },
+    {
+      "type": "person",
+      "name": "CONSEQUENCES OF",
+      "context": "egally Criminal liability cannot be transferred No business relationship justifies criminal conduct CONSEQUENCES OF NON-COMPLIANCE Should you continue instructing criminal violations: Criminal charges will be filed",
+      "position": {
+        "start": 1416,
+        "end": 1431
+      },
+      "description": "Individual"
+    },
+    {
+      "type": "person",
+      "name": "COMPLIANCE Should",
+      "context": "ility cannot be transferred No business relationship justifies criminal conduct CONSEQUENCES OF NON-COMPLIANCE Should you continue instructing criminal violations: Criminal charges will be filed Director delinquency p",
+      "position": {
+        "start": 1436,
+        "end": 1453
+      },
+      "description": "Director"
+    },
+    {
+      "type": "person",
+      "name": "you continue",
+      "context": "ansferred No business relationship justifies criminal conduct CONSEQUENCES OF NON-COMPLIANCE Should you continue instructing criminal violations: Criminal charges will be filed Director delinquency proceedings wi",
+      "position": {
+        "start": 1454,
+        "end": 1466
+      },
+      "description": "Director"
+    },
+    {
+      "type": "person",
+      "name": "instructing criminal",
+      "context": "business relationship justifies criminal conduct CONSEQUENCES OF NON-COMPLIANCE Should you continue instructing criminal violations: Criminal charges will be filed Director delinquency proceedings will commence Personal",
+      "position": {
+        "start": 1467,
+        "end": 1487
+      },
+      "description": "Director"
+    },
+    {
+      "type": "person",
+      "name": "Criminal charges",
+      "context": "riminal conduct CONSEQUENCES OF NON-COMPLIANCE Should you continue instructing criminal violations: Criminal charges will be filed Director delinquency proceedings will commence Personal liability for all losses will",
+      "position": {
+        "start": 1500,
+        "end": 1516
+      },
+      "description": "Director"
+    },
+    {
+      "type": "person",
+      "name": "will be",
+      "context": "ONSEQUENCES OF NON-COMPLIANCE Should you continue instructing criminal violations: Criminal charges will be filed Director delinquency proceedings will commence Personal liability for all losses will be purs",
+      "position": {
+        "start": 1517,
+        "end": 1524
+      },
+      "description": "Director"
+    },
+    {
+      "type": "person",
+      "name": "filed Director",
+      "context": "CES OF NON-COMPLIANCE Should you continue instructing criminal violations: Criminal charges will be filed Director delinquency proceedings will commence Personal liability for all losses will be pursued This letter",
+      "position": {
+        "start": 1525,
+        "end": 1539
+      },
+      "description": "Director"
+    },
+    {
+      "type": "person",
+      "name": "delinquency proceedings",
+      "context": "LIANCE Should you continue instructing criminal violations: Criminal charges will be filed Director delinquency proceedings will commence Personal liability for all losses will be pursued This letter will serve as evidence",
+      "position": {
+        "start": 1540,
+        "end": 1563
+      },
+      "description": "Director"
+    },
+    {
+      "type": "person",
+      "name": "will commence",
+      "context": "ue instructing criminal violations: Criminal charges will be filed Director delinquency proceedings will commence Personal liability for all losses will be pursued This letter will serve as evidence of willful con",
+      "position": {
+        "start": 1564,
+        "end": 1577
+      },
+      "description": "Director"
+    },
+    {
+      "type": "person",
+      "name": "Personal liability",
+      "context": "criminal violations: Criminal charges will be filed Director delinquency proceedings will commence Personal liability for all losses will be pursued This letter will serve as evidence of willful conduct PRESERVATION O",
+      "position": {
+        "start": 1578,
+        "end": 1596
+      },
+      "description": "Director"
+    },
+    {
+      "type": "person",
+      "name": "for all",
+      "context": "s: Criminal charges will be filed Director delinquency proceedings will commence Personal liability for all losses will be pursued This letter will serve as evidence of willful conduct PRESERVATION OF EVIDEN",
+      "position": {
+        "start": 1597,
+        "end": 1604
+      },
+      "description": "Director"
+    },
+    {
+      "type": "person",
+      "name": "losses will",
+      "context": "nal charges will be filed Director delinquency proceedings will commence Personal liability for all losses will be pursued This letter will serve as evidence of willful conduct PRESERVATION OF EVIDENCE Be advise",
+      "position": {
+        "start": 1605,
+        "end": 1616
+      },
+      "description": "Director"
+    },
+    {
+      "type": "person",
+      "name": "be pursued",
+      "context": "will be filed Director delinquency proceedings will commence Personal liability for all losses will be pursued This letter will serve as evidence of willful conduct PRESERVATION OF EVIDENCE Be advised that: All",
+      "position": {
+        "start": 1617,
+        "end": 1627
+      },
+      "description": "Director"
+    },
+    {
+      "type": "person",
+      "name": "will serve",
+      "context": "delinquency proceedings will commence Personal liability for all losses will be pursued This letter will serve as evidence of willful conduct PRESERVATION OF EVIDENCE Be advised that: All employee communication",
+      "position": {
+        "start": 1640,
+        "end": 1650
+      },
+      "description": "Employee"
+    },
+    {
+      "type": "person",
+      "name": "as evidence",
+      "context": "proceedings will commence Personal liability for all losses will be pursued This letter will serve as evidence of willful conduct PRESERVATION OF EVIDENCE Be advised that: All employee communications are being",
+      "position": {
+        "start": 1651,
+        "end": 1662
+      },
+      "description": "Employee"
+    },
+    {
+      "type": "person",
+      "name": "of willful",
+      "context": "will commence Personal liability for all losses will be pursued This letter will serve as evidence of willful conduct PRESERVATION OF EVIDENCE Be advised that: All employee communications are being preserved S",
+      "position": {
+        "start": 1663,
+        "end": 1673
+      },
+      "description": "Employee"
+    },
+    {
+      "type": "person",
+      "name": "conduct PRESERVATION",
+      "context": "nce Personal liability for all losses will be pursued This letter will serve as evidence of willful conduct PRESERVATION OF EVIDENCE Be advised that: All employee communications are being preserved System access is being",
+      "position": {
+        "start": 1674,
+        "end": 1694
+      },
+      "description": "Employee"
+    },
+    {
+      "type": "person",
+      "name": "OF EVIDENCE",
+      "context": "y for all losses will be pursued This letter will serve as evidence of willful conduct PRESERVATION OF EVIDENCE Be advised that: All employee communications are being preserved System access is being monitored D",
+      "position": {
+        "start": 1695,
+        "end": 1706
+      },
+      "description": "Employee"
+    },
+    {
+      "type": "person",
+      "name": "Be advised",
+      "context": "sses will be pursued This letter will serve as evidence of willful conduct PRESERVATION OF EVIDENCE Be advised that: All employee communications are being preserved System access is being monitored Deletion att",
+      "position": {
+        "start": 1707,
+        "end": 1717
+      },
+      "description": "Employee"
+    },
+    {
+      "type": "person",
+      "name": "All employee",
+      "context": "ued This letter will serve as evidence of willful conduct PRESERVATION OF EVIDENCE Be advised that: All employee communications are being preserved System access is being monitored Deletion attempts are being log",
+      "position": {
+        "start": 1724,
+        "end": 1736
+      },
+      "description": "Employee"
+    },
+    {
+      "type": "person",
+      "name": "communications are",
+      "context": "er will serve as evidence of willful conduct PRESERVATION OF EVIDENCE Be advised that: All employee communications are being preserved System access is being monitored Deletion attempts are being logged Multiple backup",
+      "position": {
+        "start": 1737,
+        "end": 1755
+      },
+      "description": "Employee"
+    },
+    {
+      "type": "person",
+      "name": "being preserved",
+      "context": "idence of willful conduct PRESERVATION OF EVIDENCE Be advised that: All employee communications are being preserved System access is being monitored Deletion attempts are being logged Multiple backup systems are act",
+      "position": {
+        "start": 1756,
+        "end": 1771
+      },
+      "description": "Employee"
+    },
+    {
+      "type": "person",
+      "name": "System access",
+      "context": "l conduct PRESERVATION OF EVIDENCE Be advised that: All employee communications are being preserved System access is being monitored Deletion attempts are being logged Multiple backup systems are active A PERSONAL",
+      "position": {
+        "start": 1772,
+        "end": 1785
+      },
+      "description": "Employee"
+    },
+    {
+      "type": "person",
+      "name": "is being",
+      "context": "ERVATION OF EVIDENCE Be advised that: All employee communications are being preserved System access is being monitored Deletion attempts are being logged Multiple backup systems are active A PERSONAL NOTE We",
+      "position": {
+        "start": 1786,
+        "end": 1794
+      },
+      "description": "Employee"
+    },
+    {
+      "type": "person",
+      "name": "monitored Deletion",
+      "context": "OF EVIDENCE Be advised that: All employee communications are being preserved System access is being monitored Deletion attempts are being logged Multiple backup systems are active A PERSONAL NOTE We have built these co",
+      "position": {
+        "start": 1795,
+        "end": 1813
+      },
+      "description": "Employee"
+    },
+    {
+      "type": "person",
+      "name": "attempts are",
+      "context": "sed that: All employee communications are being preserved System access is being monitored Deletion attempts are being logged Multiple backup systems are active A PERSONAL NOTE We have built these companies toget",
+      "position": {
+        "start": 1814,
+        "end": 1826
+      },
+      "description": "Employee"
+    },
+    {
+      "type": "person",
+      "name": "being logged",
+      "context": "employee communications are being preserved System access is being monitored Deletion attempts are being logged Multiple backup systems are active A PERSONAL NOTE We have built these companies together. Whatever",
+      "position": {
+        "start": 1827,
+        "end": 1839
+      },
+      "description": "Employee"
+    },
+    {
+      "type": "person",
+      "name": "Multiple backup",
+      "context": "munications are being preserved System access is being monitored Deletion attempts are being logged Multiple backup systems are active A PERSONAL NOTE We have built these companies together. Whatever challenges we f",
+      "position": {
+        "start": 1840,
+        "end": 1855
+      },
+      "description": "Individual"
+    },
+    {
+      "type": "person",
+      "name": "systems are",
+      "context": "being preserved System access is being monitored Deletion attempts are being logged Multiple backup systems are active A PERSONAL NOTE We have built these companies together. Whatever challenges we face can be r",
+      "position": {
+        "start": 1856,
+        "end": 1867
+      },
+      "description": "Individual"
+    },
+    {
+      "type": "person",
+      "name": "PERSONAL NOTE",
+      "context": "m access is being monitored Deletion attempts are being logged Multiple backup systems are active A PERSONAL NOTE We have built these companies together. Whatever challenges we face can be resolved legally. Crimin",
+      "position": {
+        "start": 1877,
+        "end": 1890
+      },
+      "description": "Individual"
+    },
+    {
+      "type": "person",
+      "name": "We have",
+      "context": "ing monitored Deletion attempts are being logged Multiple backup systems are active A PERSONAL NOTE We have built these companies together. Whatever challenges we face can be resolved legally. Criminal condu",
+      "position": {
+        "start": 1891,
+        "end": 1898
+      },
+      "description": "Individual"
+    },
+    {
+      "type": "person",
+      "name": "built these",
+      "context": "tored Deletion attempts are being logged Multiple backup systems are active A PERSONAL NOTE We have built these companies together. Whatever challenges we face can be resolved legally. Criminal conduct is not th",
+      "position": {
+        "start": 1899,
+        "end": 1910
+      },
+      "description": "Individual"
+    },
+    {
+      "type": "person",
+      "name": "companies together",
+      "context": "on attempts are being logged Multiple backup systems are active A PERSONAL NOTE We have built these companies together. Whatever challenges we face can be resolved legally. Criminal conduct is not the solution and will",
+      "position": {
+        "start": 1911,
+        "end": 1929
+      },
+      "description": "Individual"
+    },
+    {
+      "type": "person",
+      "name": "Whatever challenges",
+      "context": "g logged Multiple backup systems are active A PERSONAL NOTE We have built these companies together. Whatever challenges we face can be resolved legally. Criminal conduct is not the solution and will destroy everything w",
+      "position": {
+        "start": 1931,
+        "end": 1950
+      },
+      "description": "Individual"
+    },
+    {
+      "type": "person",
+      "name": "we face",
+      "context": "ckup systems are active A PERSONAL NOTE We have built these companies together. Whatever challenges we face can be resolved legally. Criminal conduct is not the solution and will destroy everything we've wor",
+      "position": {
+        "start": 1951,
+        "end": 1958
+      },
+      "description": "Individual"
+    },
+    {
+      "type": "person",
+      "name": "can be",
+      "context": "tems are active A PERSONAL NOTE We have built these companies together. Whatever challenges we face can be resolved legally. Criminal conduct is not the solution and will destroy everything we've worked for",
+      "position": {
+        "start": 1959,
+        "end": 1965
+      },
+      "description": "Individual"
+    },
+    {
+      "type": "person",
+      "name": "resolved legally",
+      "context": "e active A PERSONAL NOTE We have built these companies together. Whatever challenges we face can be resolved legally. Criminal conduct is not the solution and will destroy everything we've worked for. If you're tryin",
+      "position": {
+        "start": 1966,
+        "end": 1982
+      },
+      "description": "Individual"
+    },
+    {
+      "type": "person",
+      "name": "is not",
+      "context": "ilt these companies together. Whatever challenges we face can be resolved legally. Criminal conduct is not the solution and will destroy everything we've worked for. If you're trying to help the companies,",
+      "position": {
+        "start": 2001,
+        "end": 2007
+      },
+      "description": "Individual"
+    },
+    {
+      "type": "person",
+      "name": "the solution",
+      "context": "se companies together. Whatever challenges we face can be resolved legally. Criminal conduct is not the solution and will destroy everything we've worked for. If you're trying to help the companies, this approach",
+      "position": {
+        "start": 2008,
+        "end": 2020
+      },
+      "description": "Individual"
+    },
+    {
+      "type": "person",
+      "name": "and will",
+      "context": "together. Whatever challenges we face can be resolved legally. Criminal conduct is not the solution and will destroy everything we've worked for. If you're trying to help the companies, this approach guarante",
+      "position": {
+        "start": 2021,
+        "end": 2029
+      },
+      "description": "Individual"
+    },
+    {
+      "type": "person",
+      "name": "destroy everything",
+      "context": "Whatever challenges we face can be resolved legally. Criminal conduct is not the solution and will destroy everything we've worked for. If you're trying to help the companies, this approach guarantees their destructio",
+      "position": {
+        "start": 2030,
+        "end": 2048
+      },
+      "description": "Individual"
+    },
+    {
+      "type": "person",
+      "name": "ve worked",
+      "context": "e face can be resolved legally. Criminal conduct is not the solution and will destroy everything we've worked for. If you're trying to help the companies, this approach guarantees their destruction through reg",
+      "position": {
+        "start": 2052,
+        "end": 2061
+      },
+      "description": "Individual"
+    },
+    {
+      "type": "person",
+      "name": "If you",
+      "context": "esolved legally. Criminal conduct is not the solution and will destroy everything we've worked for. If you're trying to help the companies, this approach guarantees their destruction through regulatory acti",
+      "position": {
+        "start": 2067,
+        "end": 2073
+      },
+      "description": "Individual"
+    },
+    {
+      "type": "person",
+      "name": "re trying",
+      "context": "legally. Criminal conduct is not the solution and will destroy everything we've worked for. If you're trying to help the companies, this approach guarantees their destruction through regulatory action, crimin",
+      "position": {
+        "start": 2074,
+        "end": 2083
+      },
+      "description": "Individual"
+    },
+    {
+      "type": "person",
+      "name": "to help",
+      "context": "Criminal conduct is not the solution and will destroy everything we've worked for. If you're trying to help the companies, this approach guarantees their destruction through regulatory action, criminal prose",
+      "position": {
+        "start": 2084,
+        "end": 2091
+      },
+      "description": "Individual"
+    },
+    {
+      "type": "person",
+      "name": "the companies",
+      "context": "conduct is not the solution and will destroy everything we've worked for. If you're trying to help the companies, this approach guarantees their destruction through regulatory action, criminal prosecution, and cu",
+      "position": {
+        "start": 2092,
+        "end": 2105
+      },
+      "description": "Individual"
+    },
+    {
+      "type": "person",
+      "name": "this approach",
+      "context": "the solution and will destroy everything we've worked for. If you're trying to help the companies, this approach guarantees their destruction through regulatory action, criminal prosecution, and customer lawsuits",
+      "position": {
+        "start": 2107,
+        "end": 2120
+      },
+      "description": "Individual"
+    },
+    {
+      "type": "person",
+      "name": "guarantees their",
+      "context": "and will destroy everything we've worked for. If you're trying to help the companies, this approach guarantees their destruction through regulatory action, criminal prosecution, and customer lawsuits. If someone has",
+      "position": {
+        "start": 2121,
+        "end": 2137
+      },
+      "description": "Individual"
+    },
+    {
+      "type": "person",
+      "name": "destruction through",
+      "context": "everything we've worked for. If you're trying to help the companies, this approach guarantees their destruction through regulatory action, criminal prosecution, and customer lawsuits. If someone has convinced you this i",
+      "position": {
+        "start": 2138,
+        "end": 2157
+      },
+      "description": "Individual"
+    },
+    {
+      "type": "person",
+      "name": "regulatory action",
+      "context": "ked for. If you're trying to help the companies, this approach guarantees their destruction through regulatory action, criminal prosecution, and customer lawsuits. If someone has convinced you this is necessary, they",
+      "position": {
+        "start": 2158,
+        "end": 2175
+      },
+      "description": "Individual"
+    },
+    {
+      "type": "person",
+      "name": "criminal prosecution",
+      "context": "trying to help the companies, this approach guarantees their destruction through regulatory action, criminal prosecution, and customer lawsuits. If someone has convinced you this is necessary, they are wrong and likely u",
+      "position": {
+        "start": 2177,
+        "end": 2197
+      },
+      "description": "Individual"
+    },
+    {
+      "type": "person",
+      "name": "and customer",
+      "context": "panies, this approach guarantees their destruction through regulatory action, criminal prosecution, and customer lawsuits. If someone has convinced you this is necessary, they are wrong and likely using you. REQU",
+      "position": {
+        "start": 2199,
+        "end": 2211
+      },
+      "description": "Individual"
+    },
+    {
+      "type": "person",
+      "name": "If someone",
+      "context": "uarantees their destruction through regulatory action, criminal prosecution, and customer lawsuits. If someone has convinced you this is necessary, they are wrong and likely using you. REQUIRED RESPONSE Please",
+      "position": {
+        "start": 2222,
+        "end": 2232
+      },
+      "description": "Individual"
+    },
+    {
+      "type": "person",
+      "name": "has convinced",
+      "context": "heir destruction through regulatory action, criminal prosecution, and customer lawsuits. If someone has convinced you this is necessary, they are wrong and likely using you. REQUIRED RESPONSE Please confirm within",
+      "position": {
+        "start": 2233,
+        "end": 2246
+      },
+      "description": "Individual"
+    },
+    {
+      "type": "person",
+      "name": "is necessary",
+      "context": "h regulatory action, criminal prosecution, and customer lawsuits. If someone has convinced you this is necessary, they are wrong and likely using you. REQUIRED RESPONSE Please confirm within 48 hours: All illegal",
+      "position": {
+        "start": 2256,
+        "end": 2268
+      },
+      "description": "Individual"
+    },
+    {
+      "type": "person",
+      "name": "they are",
+      "context": "ction, criminal prosecution, and customer lawsuits. If someone has convinced you this is necessary, they are wrong and likely using you. REQUIRED RESPONSE Please confirm within 48 hours: All illegal instructi",
+      "position": {
+        "start": 2270,
+        "end": 2278
+      },
+      "description": "Individual"
+    },
+    {
+      "type": "person",
+      "name": "wrong and",
+      "context": "iminal prosecution, and customer lawsuits. If someone has convinced you this is necessary, they are wrong and likely using you. REQUIRED RESPONSE Please confirm within 48 hours: All illegal instructions are wi",
+      "position": {
+        "start": 2279,
+        "end": 2288
+      },
+      "description": "Individual"
+    },
+    {
+      "type": "person",
+      "name": "likely using",
+      "context": "secution, and customer lawsuits. If someone has convinced you this is necessary, they are wrong and likely using you. REQUIRED RESPONSE Please confirm within 48 hours: All illegal instructions are withdrawn Shopi",
+      "position": {
+        "start": 2289,
+        "end": 2301
+      },
+      "description": "Individual"
+    },
+    {
+      "type": "person",
+      "name": "REQUIRED RESPONSE",
+      "context": "omer lawsuits. If someone has convinced you this is necessary, they are wrong and likely using you. REQUIRED RESPONSE Please confirm within 48 hours: All illegal instructions are withdrawn Shopify will be used for all",
+      "position": {
+        "start": 2307,
+        "end": 2324
+      },
+      "description": "Individual"
+    },
+    {
+      "type": "person",
+      "name": "Please confirm",
+      "context": "someone has convinced you this is necessary, they are wrong and likely using you. REQUIRED RESPONSE Please confirm within 48 hours: All illegal instructions are withdrawn Shopify will be used for all transactions B",
+      "position": {
+        "start": 2325,
+        "end": 2339
+      },
+      "description": "Individual"
+    },
+    {
+      "type": "person",
+      "name": "All illegal",
+      "context": "s necessary, they are wrong and likely using you. REQUIRED RESPONSE Please confirm within 48 hours: All illegal instructions are withdrawn Shopify will be used for all transactions Bank cards will be provided fo",
+      "position": {
+        "start": 2357,
+        "end": 2368
+      },
+      "description": "Individual"
+    },
+    {
+      "type": "person",
+      "name": "instructions are",
+      "context": "they are wrong and likely using you. REQUIRED RESPONSE Please confirm within 48 hours: All illegal instructions are withdrawn Shopify will be used for all transactions Bank cards will be provided for oversight Commi",
+      "position": {
+        "start": 2369,
+        "end": 2385
+      },
+      "description": "Individual"
+    },
+    {
+      "type": "person",
+      "name": "withdrawn Shopify",
+      "context": "nd likely using you. REQUIRED RESPONSE Please confirm within 48 hours: All illegal instructions are withdrawn Shopify will be used for all transactions Bank cards will be provided for oversight Commitment to legal com",
+      "position": {
+        "start": 2386,
+        "end": 2403
+      },
+      "description": "Individual"
+    },
+    {
+      "type": "person",
+      "name": "used for",
+      "context": "RED RESPONSE Please confirm within 48 hours: All illegal instructions are withdrawn Shopify will be used for all transactions Bank cards will be provided for oversight Commitment to legal compliance Failure t",
+      "position": {
+        "start": 2412,
+        "end": 2420
+      },
+      "description": "Individual"
+    },
+    {
+      "type": "person",
+      "name": "all transactions",
+      "context": "NSE Please confirm within 48 hours: All illegal instructions are withdrawn Shopify will be used for all transactions Bank cards will be provided for oversight Commitment to legal compliance Failure to respond will be",
+      "position": {
+        "start": 2421,
+        "end": 2437
+      },
+      "description": "Individual"
+    },
+    {
+      "type": "person",
+      "name": "provided for",
+      "context": "All illegal instructions are withdrawn Shopify will be used for all transactions Bank cards will be provided for oversight Commitment to legal compliance Failure to respond will be taken as refusal to cease crimi",
+      "position": {
+        "start": 2457,
+        "end": 2469
+      },
+      "description": "Individual"
+    },
+    {
+      "type": "person",
+      "name": "oversight Commitment",
+      "context": "nstructions are withdrawn Shopify will be used for all transactions Bank cards will be provided for oversight Commitment to legal compliance Failure to respond will be taken as refusal to cease criminal conduct. FINAL WA",
+      "position": {
+        "start": 2470,
+        "end": 2490
+      },
+      "description": "Individual"
+    },
+    {
+      "type": "person",
+      "name": "to legal",
+      "context": "rawn Shopify will be used for all transactions Bank cards will be provided for oversight Commitment to legal compliance Failure to respond will be taken as refusal to cease criminal conduct. FINAL WARNING Thi",
+      "position": {
+        "start": 2491,
+        "end": 2499
+      },
+      "description": "Individual"
+    },
+    {
+      "type": "person",
+      "name": "compliance Failure",
+      "context": "ify will be used for all transactions Bank cards will be provided for oversight Commitment to legal compliance Failure to respond will be taken as refusal to cease criminal conduct. FINAL WARNING This is your opportuni",
+      "position": {
+        "start": 2500,
+        "end": 2518
+      },
+      "description": "Individual"
+    },
+    {
+      "type": "person",
+      "name": "to respond",
+      "context": "r all transactions Bank cards will be provided for oversight Commitment to legal compliance Failure to respond will be taken as refusal to cease criminal conduct. FINAL WARNING This is your opportunity to corre",
+      "position": {
+        "start": 2519,
+        "end": 2529
+      },
+      "description": "Individual"
+    },
+    {
+      "type": "person",
+      "name": "taken as",
+      "context": "Bank cards will be provided for oversight Commitment to legal compliance Failure to respond will be taken as refusal to cease criminal conduct. FINAL WARNING This is your opportunity to correct course before",
+      "position": {
+        "start": 2538,
+        "end": 2546
+      },
+      "description": "Individual"
+    },
+    {
+      "type": "person",
+      "name": "refusal to",
+      "context": "s will be provided for oversight Commitment to legal compliance Failure to respond will be taken as refusal to cease criminal conduct. FINAL WARNING This is your opportunity to correct course before irreversibl",
+      "position": {
+        "start": 2547,
+        "end": 2557
+      },
+      "description": "Individual"
+    },
+    {
+      "type": "person",
+      "name": "cease criminal",
+      "context": "rovided for oversight Commitment to legal compliance Failure to respond will be taken as refusal to cease criminal conduct. FINAL WARNING This is your opportunity to correct course before irreversible consequences.",
+      "position": {
+        "start": 2558,
+        "end": 2572
+      },
+      "description": "Individual"
+    },
+    {
+      "type": "person",
+      "name": "FINAL WARNING",
+      "context": "mmitment to legal compliance Failure to respond will be taken as refusal to cease criminal conduct. FINAL WARNING This is your opportunity to correct course before irreversible consequences. Once criminal charges",
+      "position": {
+        "start": 2582,
+        "end": 2595
+      },
+      "description": "Individual"
+    },
+    {
+      "type": "person",
+      "name": "This is",
+      "context": "gal compliance Failure to respond will be taken as refusal to cease criminal conduct. FINAL WARNING This is your opportunity to correct course before irreversible consequences. Once criminal charges are file",
+      "position": {
+        "start": 2596,
+        "end": 2603
+      },
+      "description": "Individual"
+    },
+    {
+      "type": "person",
+      "name": "your opportunity",
+      "context": "liance Failure to respond will be taken as refusal to cease criminal conduct. FINAL WARNING This is your opportunity to correct course before irreversible consequences. Once criminal charges are filed, I cannot withd",
+      "position": {
+        "start": 2604,
+        "end": 2620
+      },
+      "description": "Individual"
+    },
+    {
+      "type": "person",
+      "name": "to correct",
+      "context": "respond will be taken as refusal to cease criminal conduct. FINAL WARNING This is your opportunity to correct course before irreversible consequences. Once criminal charges are filed, I cannot withdraw them. T",
+      "position": {
+        "start": 2621,
+        "end": 2631
+      },
+      "description": "Individual"
+    },
+    {
+      "type": "person",
+      "name": "course before",
+      "context": "ll be taken as refusal to cease criminal conduct. FINAL WARNING This is your opportunity to correct course before irreversible consequences. Once criminal charges are filed, I cannot withdraw them. The Information",
+      "position": {
+        "start": 2632,
+        "end": 2645
+      },
+      "description": "Individual"
+    },
+    {
+      "type": "person",
+      "name": "irreversible consequences",
+      "context": "refusal to cease criminal conduct. FINAL WARNING This is your opportunity to correct course before irreversible consequences. Once criminal charges are filed, I cannot withdraw them. The Information Regulator and Hawks take",
+      "position": {
+        "start": 2646,
+        "end": 2671
+      },
+      "description": "Individual"
+    },
+    {
+      "type": "person",
+      "name": "Once criminal",
+      "context": "conduct. FINAL WARNING This is your opportunity to correct course before irreversible consequences. Once criminal charges are filed, I cannot withdraw them. The Information Regulator and Hawks take director-instru",
+      "position": {
+        "start": 2673,
+        "end": 2686
+      },
+      "description": "Director"
+    },
+    {
+      "type": "person",
+      "name": "charges are",
+      "context": "WARNING This is your opportunity to correct course before irreversible consequences. Once criminal charges are filed, I cannot withdraw them. The Information Regulator and Hawks take director-instructed data cr",
+      "position": {
+        "start": 2687,
+        "end": 2698
+      },
+      "description": "Director"
+    },
+    {
+      "type": "person",
+      "name": "cannot withdraw",
+      "context": "opportunity to correct course before irreversible consequences. Once criminal charges are filed, I cannot withdraw them. The Information Regulator and Hawks take director-instructed data crimes extremely seriously.",
+      "position": {
+        "start": 2708,
+        "end": 2723
+      },
+      "description": "Director"
+    },
+    {
+      "type": "person",
+      "name": "The Information",
+      "context": "t course before irreversible consequences. Once criminal charges are filed, I cannot withdraw them. The Information Regulator and Hawks take director-instructed data crimes extremely seriously. Choose wisely. Your f",
+      "position": {
+        "start": 2730,
+        "end": 2745
+      },
+      "description": "Director"
+    },
+    {
+      "type": "person",
+      "name": "Regulator and",
+      "context": "irreversible consequences. Once criminal charges are filed, I cannot withdraw them. The Information Regulator and Hawks take director-instructed data crimes extremely seriously. Choose wisely. Your future and free",
+      "position": {
+        "start": 2746,
+        "end": 2759
+      },
+      "description": "Director"
+    },
+    {
+      "type": "person",
+      "name": "Hawks take",
+      "context": "onsequences. Once criminal charges are filed, I cannot withdraw them. The Information Regulator and Hawks take director-instructed data crimes extremely seriously. Choose wisely. Your future and freedom depend",
+      "position": {
+        "start": 2760,
+        "end": 2770
+      },
+      "description": "Director"
+    },
+    {
+      "type": "person",
+      "name": "instructed data",
+      "context": "iminal charges are filed, I cannot withdraw them. The Information Regulator and Hawks take director-instructed data crimes extremely seriously. Choose wisely. Your future and freedom depend on your next actions. Reg",
+      "position": {
+        "start": 2780,
+        "end": 2795
+      },
+      "description": "Director"
+    },
+    {
+      "type": "person",
+      "name": "crimes extremely",
+      "context": "re filed, I cannot withdraw them. The Information Regulator and Hawks take director-instructed data crimes extremely seriously. Choose wisely. Your future and freedom depend on your next actions. Regards, Daniel Fauc",
+      "position": {
+        "start": 2796,
+        "end": 2812
+      },
+      "description": "Director"
+    },
+    {
+      "type": "person",
+      "name": "Choose wisely",
+      "context": "them. The Information Regulator and Hawks take director-instructed data crimes extremely seriously. Choose wisely. Your future and freedom depend on your next actions. Regards, Daniel Faucitt Director IMPORTANT: T",
+      "position": {
+        "start": 2824,
+        "end": 2837
+      },
+      "description": "Director"
+    },
+    {
+      "type": "person",
+      "name": "Your future",
+      "context": "mation Regulator and Hawks take director-instructed data crimes extremely seriously. Choose wisely. Your future and freedom depend on your next actions. Regards, Daniel Faucitt Director IMPORTANT: This letter is",
+      "position": {
+        "start": 2839,
+        "end": 2850
+      },
+      "description": "Director"
+    },
+    {
+      "type": "person",
+      "name": "and freedom",
+      "context": "ator and Hawks take director-instructed data crimes extremely seriously. Choose wisely. Your future and freedom depend on your next actions. Regards, Daniel Faucitt Director IMPORTANT: This letter is being retai",
+      "position": {
+        "start": 2851,
+        "end": 2862
+      },
+      "description": "Director"
+    },
+    {
+      "type": "person",
+      "name": "depend on",
+      "context": "ks take director-instructed data crimes extremely seriously. Choose wisely. Your future and freedom depend on your next actions. Regards, Daniel Faucitt Director IMPORTANT: This letter is being retained for po",
+      "position": {
+        "start": 2863,
+        "end": 2872
+      },
+      "description": "Director"
+    },
+    {
+      "type": "person",
+      "name": "your next",
+      "context": "rector-instructed data crimes extremely seriously. Choose wisely. Your future and freedom depend on your next actions. Regards, Daniel Faucitt Director IMPORTANT: This letter is being retained for potential cr",
+      "position": {
+        "start": 2873,
+        "end": 2882
+      },
+      "description": "Director"
+    },
+    {
+      "type": "person",
+      "name": "Daniel Faucitt",
+      "context": "s extremely seriously. Choose wisely. Your future and freedom depend on your next actions. Regards, Daniel Faucitt Director IMPORTANT: This letter is being retained for potential criminal proceedings. All future co",
+      "position": {
+        "start": 2901,
+        "end": 2915
+      },
+      "description": "Director"
+    },
+    {
+      "type": "person",
+      "name": "Director IMPORTANT",
+      "context": "iously. Choose wisely. Your future and freedom depend on your next actions. Regards, Daniel Faucitt Director IMPORTANT: This letter is being retained for potential criminal proceedings. All future communications should",
+      "position": {
+        "start": 2916,
+        "end": 2934
+      },
+      "description": "Director"
+    },
+    {
+      "type": "person",
+      "name": "retained for",
+      "context": "eedom depend on your next actions. Regards, Daniel Faucitt Director IMPORTANT: This letter is being retained for potential criminal proceedings. All future communications should be through legal counsel if crimin",
+      "position": {
+        "start": 2957,
+        "end": 2969
+      },
+      "description": "Director"
+    },
+    {
+      "type": "person",
+      "name": "potential criminal",
+      "context": "on your next actions. Regards, Daniel Faucitt Director IMPORTANT: This letter is being retained for potential criminal proceedings. All future communications should be through legal counsel if criminal instructions con",
+      "position": {
+        "start": 2970,
+        "end": 2988
+      },
+      "description": "Director"
+    },
+    {
+      "type": "person",
+      "name": "All future",
+      "context": "aniel Faucitt Director IMPORTANT: This letter is being retained for potential criminal proceedings. All future communications should be through legal counsel if criminal instructions continue. Hey man please ad",
+      "position": {
+        "start": 3002,
+        "end": 3012
+      },
+      "description": "Director"
+    },
+    {
+      "type": "person",
+      "name": "communications should",
+      "context": "tt Director IMPORTANT: This letter is being retained for potential criminal proceedings. All future communications should be through legal counsel if criminal instructions continue. Hey man please add this info to the evi",
+      "position": {
+        "start": 3013,
+        "end": 3034
+      },
+      "description": "Director"
+    },
+    {
+      "type": "person",
+      "name": "be through",
+      "context": "This letter is being retained for potential criminal proceedings. All future communications should be through legal counsel if criminal instructions continue. Hey man please add this info to the evidence folde",
+      "position": {
+        "start": 3035,
+        "end": 3045
+      },
+      "description": "Individual"
+    },
+    {
+      "type": "person",
+      "name": "legal counsel",
+      "context": "r is being retained for potential criminal proceedings. All future communications should be through legal counsel if criminal instructions continue. Hey man please add this info to the evidence folder and use the",
+      "position": {
+        "start": 3046,
+        "end": 3059
+      },
+      "description": "Individual"
+    },
+    {
+      "type": "person",
+      "name": "if criminal",
+      "context": "ained for potential criminal proceedings. All future communications should be through legal counsel if criminal instructions continue. Hey man please add this info to the evidence folder and use the dates and en",
+      "position": {
+        "start": 3060,
+        "end": 3071
+      },
+      "description": "Individual"
+    },
+    {
+      "type": "person",
+      "name": "instructions continue",
+      "context": "tential criminal proceedings. All future communications should be through legal counsel if criminal instructions continue. Hey man please add this info to the evidence folder and use the dates and entities contained in th",
+      "position": {
+        "start": 3072,
+        "end": 3093
+      },
+      "description": "Individual"
+    },
+    {
+      "type": "person",
+      "name": "Hey man",
+      "context": "dings. All future communications should be through legal counsel if criminal instructions continue. Hey man please add this info to the evidence folder and use the dates and entities contained in the attachm",
+      "position": {
+        "start": 3095,
+        "end": 3102
+      },
+      "description": "Individual"
+    },
+    {
+      "type": "person",
+      "name": "please add",
+      "context": "ll future communications should be through legal counsel if criminal instructions continue. Hey man please add this info to the evidence folder and use the dates and entities contained in the attachments to add",
+      "position": {
+        "start": 3103,
+        "end": 3113
+      },
+      "description": "Individual"
+    },
+    {
+      "type": "person",
+      "name": "this info",
+      "context": "ommunications should be through legal counsel if criminal instructions continue. Hey man please add this info to the evidence folder and use the dates and entities contained in the attachments to add it to the",
+      "position": {
+        "start": 3114,
+        "end": 3123
+      },
+      "description": "Individual"
+    },
+    {
+      "type": "person",
+      "name": "to the",
+      "context": "ons should be through legal counsel if criminal instructions continue. Hey man please add this info to the evidence folder and use the dates and entities contained in the attachments to add it to the timeli",
+      "position": {
+        "start": 3124,
+        "end": 3130
+      },
+      "description": "Individual"
+    },
+    {
+      "type": "person",
+      "name": "evidence folder",
+      "context": "uld be through legal counsel if criminal instructions continue. Hey man please add this info to the evidence folder and use the dates and entities contained in the attachments to add it to the timeline & relevant mo",
+      "position": {
+        "start": 3131,
+        "end": 3146
+      },
+      "description": "Individual"
+    },
+    {
+      "type": "person",
+      "name": "and use",
+      "context": "egal counsel if criminal instructions continue. Hey man please add this info to the evidence folder and use the dates and entities contained in the attachments to add it to the timeline & relevant models.. u",
+      "position": {
+        "start": 3147,
+        "end": 3154
+      },
+      "description": "Individual"
+    },
+    {
+      "type": "person",
+      "name": "the dates",
+      "context": "nsel if criminal instructions continue. Hey man please add this info to the evidence folder and use the dates and entities contained in the attachments to add it to the timeline & relevant models.. use super-s",
+      "position": {
+        "start": 3155,
+        "end": 3164
+      },
+      "description": "Individual"
+    },
+    {
+      "type": "person",
+      "name": "and entities",
+      "context": "iminal instructions continue. Hey man please add this info to the evidence folder and use the dates and entities contained in the attachments to add it to the timeline & relevant models.. use super-sleuth intro-s",
+      "position": {
+        "start": 3165,
+        "end": 3177
+      },
+      "description": "Individual"
+    },
+    {
+      "type": "person",
+      "name": "contained in",
+      "context": "ctions continue. Hey man please add this info to the evidence folder and use the dates and entities contained in the attachments to add it to the timeline & relevant models.. use super-sleuth intro-spect mode for",
+      "position": {
+        "start": 3178,
+        "end": 3190
+      },
+      "description": "Individual"
+    },
+    {
+      "type": "person",
+      "name": "the attachments",
+      "context": "ue. Hey man please add this info to the evidence folder and use the dates and entities contained in the attachments to add it to the timeline & relevant models.. use super-sleuth intro-spect mode for new leads & hyp",
+      "position": {
+        "start": 3191,
+        "end": 3206
+      },
+      "description": "Individual"
+    },
+    {
+      "type": "person",
+      "name": "to add",
+      "context": "se add this info to the evidence folder and use the dates and entities contained in the attachments to add it to the timeline & relevant models.. use super-sleuth intro-spect mode for new leads & hyper-holm",
+      "position": {
+        "start": 3207,
+        "end": 3213
+      },
+      "description": "Individual"
+    },
+    {
+      "type": "person",
+      "name": "it to",
+      "context": "this info to the evidence folder and use the dates and entities contained in the attachments to add it to the timeline & relevant models.. use super-sleuth intro-spect mode for new leads & hyper-holmes tur",
+      "position": {
+        "start": 3214,
+        "end": 3219
+      },
+      "description": "Individual"
+    },
+    {
+      "type": "person",
+      "name": "the timeline",
+      "context": "nfo to the evidence folder and use the dates and entities contained in the attachments to add it to the timeline & relevant models.. use super-sleuth intro-spect mode for new leads & hyper-holmes turbo-solve mode",
+      "position": {
+        "start": 3220,
+        "end": 3232
+      },
+      "description": "Individual"
+    },
+    {
+      "type": "person",
+      "name": "relevant models",
+      "context": "ence folder and use the dates and entities contained in the attachments to add it to the timeline & relevant models.. use super-sleuth intro-spect mode for new leads & hyper-holmes turbo-solve mode to analyze the Gi",
+      "position": {
+        "start": 3235,
+        "end": 3250
+      },
+      "description": "Individual"
+    },
+    {
+      "type": "person",
+      "name": "use super",
+      "context": "e the dates and entities contained in the attachments to add it to the timeline & relevant models.. use super-sleuth intro-spect mode for new leads & hyper-holmes turbo-solve mode to analyze the GitHub reposit",
+      "position": {
+        "start": 3253,
+        "end": 3262
+      },
+      "description": "Individual"
+    },
+    {
+      "type": "person",
+      "name": "sleuth intro",
+      "context": "s and entities contained in the attachments to add it to the timeline & relevant models.. use super-sleuth intro-spect mode for new leads & hyper-holmes turbo-solve mode to analyze the GitHub repository rzonedevo",
+      "position": {
+        "start": 3263,
+        "end": 3275
+      },
+      "description": "Individual"
+    },
+    {
+      "type": "person",
+      "name": "spect mode",
+      "context": "s contained in the attachments to add it to the timeline & relevant models.. use super-sleuth intro-spect mode for new leads & hyper-holmes turbo-solve mode to analyze the GitHub repository rzonedevops/analysis",
+      "position": {
+        "start": 3276,
+        "end": 3286
+      },
+      "description": "Individual"
+    },
+    {
+      "type": "person",
+      "name": "for new",
+      "context": "in the attachments to add it to the timeline & relevant models.. use super-sleuth intro-spect mode for new leads & hyper-holmes turbo-solve mode to analyze the GitHub repository rzonedevops/analysis to iden",
+      "position": {
+        "start": 3287,
+        "end": 3294
+      },
+      "description": "Individual"
+    },
+    {
+      "type": "person",
+      "name": "holmes turbo",
+      "context": "add it to the timeline & relevant models.. use super-sleuth intro-spect mode for new leads & hyper-holmes turbo-solve mode to analyze the GitHub repository rzonedevops/analysis to identify areas for incremental",
+      "position": {
+        "start": 3309,
+        "end": 3321
+      },
+      "description": "Individual"
+    },
+    {
+      "type": "person",
+      "name": "solve mode",
+      "context": "e timeline & relevant models.. use super-sleuth intro-spect mode for new leads & hyper-holmes turbo-solve mode to analyze the GitHub repository rzonedevops/analysis to identify areas for incremental improvement",
+      "position": {
+        "start": 3322,
+        "end": 3332
+      },
+      "description": "Individual"
+    },
+    {
+      "type": "person",
+      "name": "to analyze",
+      "context": "& relevant models.. use super-sleuth intro-spect mode for new leads & hyper-holmes turbo-solve mode to analyze the GitHub repository rzonedevops/analysis to identify areas for incremental improvement, implement",
+      "position": {
+        "start": 3333,
+        "end": 3343
+      },
+      "description": "Individual"
+    },
+    {
+      "type": "person",
+      "name": "the GitHub",
+      "context": "models.. use super-sleuth intro-spect mode for new leads & hyper-holmes turbo-solve mode to analyze the GitHub repository rzonedevops/analysis to identify areas for incremental improvement, implement the change",
+      "position": {
+        "start": 3344,
+        "end": 3354
+      },
+      "description": "Individual"
+    },
+    {
+      "type": "person",
+      "name": "repository rzonedevops",
+      "context": "e super-sleuth intro-spect mode for new leads & hyper-holmes turbo-solve mode to analyze the GitHub repository rzonedevops/analysis to identify areas for incremental improvement, implement the changes, and then update the",
+      "position": {
+        "start": 3355,
+        "end": 3377
+      },
+      "description": "Individual"
+    },
+    {
+      "type": "person",
+      "name": "analysis to",
+      "context": "ect mode for new leads & hyper-holmes turbo-solve mode to analyze the GitHub repository rzonedevops/analysis to identify areas for incremental improvement, implement the changes, and then update the repository.",
+      "position": {
+        "start": 3378,
+        "end": 3389
+      },
+      "description": "Individual"
+    },
+    {
+      "type": "person",
+      "name": "identify areas",
+      "context": "new leads & hyper-holmes turbo-solve mode to analyze the GitHub repository rzonedevops/analysis to identify areas for incremental improvement, implement the changes, and then update the repository. After updating",
+      "position": {
+        "start": 3390,
+        "end": 3404
+      },
+      "description": "Individual"
+    },
+    {
+      "type": "person",
+      "name": "for incremental",
+      "context": "per-holmes turbo-solve mode to analyze the GitHub repository rzonedevops/analysis to identify areas for incremental improvement, implement the changes, and then update the repository. After updating the repository,",
+      "position": {
+        "start": 3405,
+        "end": 3420
+      },
+      "description": "Individual"
+    },
+    {
+      "type": "person",
+      "name": "implement the",
+      "context": "o analyze the GitHub repository rzonedevops/analysis to identify areas for incremental improvement, implement the changes, and then update the repository. After updating the repository, synchronize the changes wit",
+      "position": {
+        "start": 3434,
+        "end": 3447
+      },
+      "description": "Individual"
+    },
+    {
+      "type": "person",
+      "name": "and then",
+      "context": "pository rzonedevops/analysis to identify areas for incremental improvement, implement the changes, and then update the repository. After updating the repository, synchronize the changes with the associated S",
+      "position": {
+        "start": 3457,
+        "end": 3465
+      },
+      "description": "Individual"
+    },
+    {
+      "type": "person",
+      "name": "update the",
+      "context": "rzonedevops/analysis to identify areas for incremental improvement, implement the changes, and then update the repository. After updating the repository, synchronize the changes with the associated Supabase and",
+      "position": {
+        "start": 3466,
+        "end": 3476
+      },
+      "description": "Individual"
+    },
+    {
+      "type": "person",
+      "name": "After updating",
+      "context": "identify areas for incremental improvement, implement the changes, and then update the repository. After updating the repository, synchronize the changes with the associated Supabase and Neon projects From: Daniel",
+      "position": {
+        "start": 3489,
+        "end": 3503
+      },
+      "description": "Individual"
+    },
+    {
+      "type": "person",
+      "name": "the repository",
+      "context": "for incremental improvement, implement the changes, and then update the repository. After updating the repository, synchronize the changes with the associated Supabase and Neon projects From: Daniel Faucitt <dan@r",
+      "position": {
+        "start": 3504,
+        "end": 3518
+      },
+      "description": "Contact person"
+    },
+    {
+      "type": "person",
+      "name": "synchronize the",
+      "context": "improvement, implement the changes, and then update the repository. After updating the repository, synchronize the changes with the associated Supabase and Neon projects From: Daniel Faucitt <dan@regima.com> Sent:",
+      "position": {
+        "start": 3520,
+        "end": 3535
+      },
+      "description": "Contact person"
+    },
+    {
+      "type": "person",
+      "name": "changes with",
+      "context": "plement the changes, and then update the repository. After updating the repository, synchronize the changes with the associated Supabase and Neon projects From: Daniel Faucitt <dan@regima.com> Sent: Tuesday, July",
+      "position": {
+        "start": 3536,
+        "end": 3548
+      },
+      "description": "Contact person"
+    },
+    {
+      "type": "person",
+      "name": "the associated",
+      "context": "hanges, and then update the repository. After updating the repository, synchronize the changes with the associated Supabase and Neon projects From: Daniel Faucitt <dan@regima.com> Sent: Tuesday, July 08, 2025 10:18",
+      "position": {
+        "start": 3549,
+        "end": 3563
+      },
+      "description": "Contact person"
+    },
+    {
+      "type": "person",
+      "name": "Supabase and",
+      "context": "n update the repository. After updating the repository, synchronize the changes with the associated Supabase and Neon projects From: Daniel Faucitt <dan@regima.com> Sent: Tuesday, July 08, 2025 10:18 To: gayane@r",
+      "position": {
+        "start": 3564,
+        "end": 3576
+      },
+      "description": "Contact person"
+    },
+    {
+      "type": "person",
+      "name": "Neon projects",
+      "context": "repository. After updating the repository, synchronize the changes with the associated Supabase and Neon projects From: Daniel Faucitt <dan@regima.com> Sent: Tuesday, July 08, 2025 10:18 To: gayane@regima.zone <ga",
+      "position": {
+        "start": 3577,
+        "end": 3590
+      },
+      "description": "Contact person"
+    },
+    {
+      "type": "email",
+      "name": "dan@regima.com",
+      "context": "itory, synchronize the changes with the associated Supabase and Neon projects From: Daniel Faucitt <dan@regima.com> Sent: Tuesday, July 08, 2025 10:18 To: gayane@regima.zone <gayane@regima.zone> Cc: Jacqui Faucitt",
+      "position": {
+        "start": 3613,
+        "end": 3627
+      },
+      "description": "Email address: dan@regima.com"
+    },
+    {
+      "type": "email",
+      "name": "gayane@regima.zone",
+      "context": "base and Neon projects From: Daniel Faucitt <dan@regima.com> Sent: Tuesday, July 08, 2025 10:18 To: gayane@regima.zone <gayane@regima.zone> Cc: Jacqui Faucitt <jax@regima.com> Subject: Letter for Pete Please print this",
+      "position": {
+        "start": 3668,
+        "end": 3686
+      },
+      "description": "Email address: gayane@regima.zone"
+    },
+    {
+      "type": "person",
+      "name": "Jacqui Faucitt",
+      "context": "<dan@regima.com> Sent: Tuesday, July 08, 2025 10:18 To: gayane@regima.zone <gayane@regima.zone> Cc: Jacqui Faucitt <jax@regima.com> Subject: Letter for Pete Please print this letter and put on Pete's desk",
+      "position": {
+        "start": 3712,
+        "end": 3726
+      },
+      "description": "Contact person"
+    },
+    {
+      "type": "email",
+      "name": "jax@regima.com",
+      "context": "Sent: Tuesday, July 08, 2025 10:18 To: gayane@regima.zone <gayane@regima.zone> Cc: Jacqui Faucitt <jax@regima.com> Subject: Letter for Pete Please print this letter and put on Pete's desk",
+      "position": {
+        "start": 3728,
+        "end": 3742
+      },
+      "description": "Email address: jax@regima.com"
+    },
+    {
+      "type": "person",
+      "name": "Letter for",
+      "context": "2025 10:18 To: gayane@regima.zone <gayane@regima.zone> Cc: Jacqui Faucitt <jax@regima.com> Subject: Letter for Pete Please print this letter and put on Pete's desk",
+      "position": {
+        "start": 3753,
+        "end": 3763
+      },
+      "description": "Contact person"
+    },
+    {
+      "type": "person",
+      "name": "Pete Please",
+      "context": "To: gayane@regima.zone <gayane@regima.zone> Cc: Jacqui Faucitt <jax@regima.com> Subject: Letter for Pete Please print this letter and put on Pete's desk",
+      "position": {
+        "start": 3764,
+        "end": 3775
+      },
+      "description": "Contact person"
+    },
+    {
+      "type": "person",
+      "name": "print this",
+      "context": "egima.zone <gayane@regima.zone> Cc: Jacqui Faucitt <jax@regima.com> Subject: Letter for Pete Please print this letter and put on Pete's desk",
+      "position": {
+        "start": 3776,
+        "end": 3786
+      },
+      "description": "Contact person"
+    },
+    {
+      "type": "person",
+      "name": "letter and",
+      "context": "<gayane@regima.zone> Cc: Jacqui Faucitt <jax@regima.com> Subject: Letter for Pete Please print this letter and put on Pete's desk",
+      "position": {
+        "start": 3787,
+        "end": 3797
+      },
+      "description": "Contact person"
+    },
+    {
+      "type": "person",
+      "name": "put on",
+      "context": "ima.zone> Cc: Jacqui Faucitt <jax@regima.com> Subject: Letter for Pete Please print this letter and put on Pete's desk",
+      "position": {
+        "start": 3798,
+        "end": 3804
+      },
+      "description": "Contact person"
+    }
+  ],
+  "timeline_events": [
+    {
+      "date": "2025-07-08",
+      "time": "10:18 ",
+      "description": "com> Sent: Tuesday, 10:18 To: gayane@regima",
+      "significance": "Standard",
+      "context": "the changes, and then update the repository. After updating the repository, synchronize the changes with the associated Supabase and Neon projects From: Daniel Faucitt <dan@regima.com> Sent: Tuesday, July 08, 2025 10:18 To: gayane@regima.zone <gayane@regima.zone> Cc: Jacqui Faucitt <jax@regima.com> Subject: Letter for Pete Please print this letter and put on Pete's desk",
+      "raw_date": "July 08, 2025"
+    }
+  ],
+  "legal_violations": [
+    {
+      "category": "Popi Act",
+      "description": "LEGAL STATUS OF YOUR INSTRUCTIONS Your directives to employees constitute: Conspiracy to violate POPI Act - instructing unauthorized data access Breach of fiduciary duty under Companies Act Section 76 Potential fraud through misrepresentation to customers Vicarious liability for each employee violation Maximum personal penalties: R10 million fine and/or 10 years imprisonment YOUR PERSONAL LIABILITY As",
+      "severity": "Critical",
+      "penalties": [
+        "R10 million fine",
+        "10 years imprisonment",
+        "fine and/or 10 years"
+      ],
+      "context": "ATION OF CRIMINAL INSTRUCTIONS Dear Pete, This letter serves as formal notice regarding your recent instructions to employees to bypass Shopify and use unauthorized domains for processing customer data. LEGAL STATUS OF YOUR INSTRUCTIONS Your directives to employees constitute: Conspiracy to violate POPI Act - instructing unauthorized data access Breach of fiduciary duty under Companies Act Section 76 Potential fraud through misrepresentation to customers Vicarious liability for each employee violation Maximum personal penalties: R10 million fine and/or 10 years imprisonment YOUR PERSONAL LIABILITY As",
+      "matched_text": "POPI Act"
+    },
+    {
+      "category": "Companies Act",
+      "description": "LEGAL STATUS OF YOUR INSTRUCTIONS Your directives to employees constitute: Conspiracy to violate POPI Act - instructing unauthorized data access Breach of fiduciary duty under Companies Act Section 76 Potential fraud through misrepresentation to customers Vicarious liability for each employee violation Maximum personal penalties: R10 million fine and/or 10 years imprisonment YOUR PERSONAL LIABILITY As director instructing these violations: You face greater liability than employees fol",
+      "severity": "Critical",
+      "penalties": [
+        "R10 million fine",
+        "10 years imprisonment",
+        "fine and/or 10 years"
+      ],
+      "context": "egarding your recent instructions to employees to bypass Shopify and use unauthorized domains for processing customer data. LEGAL STATUS OF YOUR INSTRUCTIONS Your directives to employees constitute: Conspiracy to violate POPI Act - instructing unauthorized data access Breach of fiduciary duty under Companies Act Section 76 Potential fraud through misrepresentation to customers Vicarious liability for each employee violation Maximum personal penalties: R10 million fine and/or 10 years imprisonment YOUR PERSONAL LIABILITY As director instructing these violations: You face greater liability than employees fol",
+      "matched_text": "Companies Act"
+    },
+    {
+      "category": "Fraud",
+      "description": "LEGAL STATUS OF YOUR INSTRUCTIONS Your directives to employees constitute: Conspiracy to violate POPI Act - instructing unauthorized data access Breach of fiduciary duty under Companies Act Section 76 Potential fraud through misrepresentation to customers Vicarious liability for each employee violation Maximum personal penalties: R10 million fine and/or 10 years imprisonment YOUR PERSONAL LIABILITY As director instructing these violations: You face greater liability than employees following orders Corporate ins",
+      "severity": "Critical",
+      "penalties": [
+        "R10 million fine",
+        "10 years imprisonment",
+        "fine and/or 10 years"
+      ],
+      "context": "o employees to bypass Shopify and use unauthorized domains for processing customer data. LEGAL STATUS OF YOUR INSTRUCTIONS Your directives to employees constitute: Conspiracy to violate POPI Act - instructing unauthorized data access Breach of fiduciary duty under Companies Act Section 76 Potential fraud through misrepresentation to customers Vicarious liability for each employee violation Maximum personal penalties: R10 million fine and/or 10 years imprisonment YOUR PERSONAL LIABILITY As director instructing these violations: You face greater liability than employees following orders Corporate ins",
+      "matched_text": "fraud"
+    },
+    {
+      "category": "Fraud",
+      "description": "FORMAL NOTICE: CESSATION OF CRIMINAL INSTRUCTIONS Dear Pete, This letter serves as formal notice regarding your recent instructions to employees to bypass Shopify and use unauthorized domains for processing customer data",
+      "severity": "Critical",
+      "penalties": [
+        "R10 million fine",
+        "10 years imprisonment",
+        "fine and/or 10 years"
+      ],
+      "context": "FORMAL NOTICE: CESSATION OF CRIMINAL INSTRUCTIONS Dear Pete, This letter serves as formal notice regarding your recent instructions to employees to bypass Shopify and use unauthorized domains for processing customer data. LEGAL STATUS OF YOUR INSTRUCTIONS Your directives to employees constitute: Conspiracy to violate POPI Act - instructing unauthorized data access Breach of fiduciary duty under Companies Act Section 76 Potential fraud through misrepresentation to customers Vicarious liability for each employee violation Maximum personal penalties: R10 million fine and/or 10 years imprisonment YOUR PERSONAL LIABILITY As director instructing these violations: You face greater liability than employees following orders Corporate insurance will not cover intentional criminal acts Personal assets are at risk for damages Criminal record would prevent future directorships OPPORTUNITY TO REMEDY I am providing you this opportunity to: Immediately rescind all instructions to bypass Shopify Confirm in writing that all orders must use approved systems Restore proper corporate governance Provide the withheld bank cards for director oversight Deadline: 48 hours from receipt IF EXTERNAL PRESSURE EXISTS If someone is pressuring you to give these instructions: Document their demands We can address this together legally Criminal liability cannot be transferred No business relationship justifies criminal conduct CONSEQUENCES OF NON-COMPLIANCE Should you continue instructing criminal violations: Criminal charges will be filed Director delinquency proceedings will commence Personal liability for all losses will be pursued This letter will serve as evidence of willful conduct PRESERVATION OF EVIDENCE Be advised that: All employee communications are being preserved System access is being monitored Deletion attempts are being logged Multiple backup systems are active A PERSONAL NOTE We have built these companies together. Whatever challenges we face can be resolved legally. Criminal conduct is not the solution and will destroy everything we've worked for. If you're trying to help the companies, this approach guarantees their destruction through regulatory action, criminal prosecution, and customer lawsuits. If someone has convinced you this is necessary, they are wrong and likely using you. REQUIRED RESPONSE Please confirm within 48 hours: All illegal instructions are withdrawn Shopify will be used for all transactions Bank cards will be provided for oversight Commitment to legal compliance Failure to respond will be taken as refusal to cease criminal conduct. FINAL WARNING This is your opportunity to correct course before irreversible consequences. Once criminal charges are filed, I cannot withdraw them. The Information Regulator and Hawks take director-instructed data crimes extremely seriously. Choose wisely. Your future and freedom depend on your next actions. Regards, Daniel Faucitt Director IMPORTANT: This letter is being retained for potential criminal proceedings. All future communications should be through legal counsel if criminal instructions continue. Hey man please add this info to the evidence folder and use the dates and entities contained in the attachments to add it to the timeline & relevant models.. use super-sleuth intro-spect mode for new leads & hyper-holmes turbo-solve mode to analyze the GitHub repository rzonedevops/analy",
+      "matched_text": "CRIMINAL INSTRUCTIONS Dear Pete, This letter serves as formal notice regarding your recent instructions to employees to bypass Shopify and use unauthorized domains for processing customer data. LEGAL STATUS OF YOUR INSTRUCTIONS Your directives to employees constitute: Conspiracy to violate POPI Act - instructing unauthorized data access Breach of fiduciary duty under Companies Act Section 76 Potential fraud through misrepresentation to customers Vicarious liability for each employee violation Maximum personal penalties: R10 million fine and/or 10 years imprisonment YOUR PERSONAL LIABILITY As director instructing these violations: You face greater liability than employees following orders Corporate insurance will not cover intentional criminal acts Personal assets are at risk for damages Criminal record would prevent future directorships OPPORTUNITY TO REMEDY I am providing you this opportunity to: Immediately rescind all instructions to bypass Shopify Confirm in writing that all orders must use approved systems Restore proper corporate governance Provide the withheld bank cards for director oversight Deadline: 48 hours from receipt IF EXTERNAL PRESSURE EXISTS If someone is pressuring you to give these instructions: Document their demands We can address this together legally Criminal liability cannot be transferred No business relationship justifies criminal conduct CONSEQUENCES OF NON-COMPLIANCE Should you continue instructing criminal violations: Criminal charges will be filed Director delinquency proceedings will commence Personal liability for all losses will be pursued This letter will serve as evidence of willful conduct PRESERVATION OF EVIDENCE Be advised that: All employee communications are being preserved System access is being monitored Deletion attempts are being logged Multiple backup systems are active A PERSONAL NOTE We have built these companies together. Whatever challenges we face can be resolved legally. Criminal conduct is not the solution and will destroy everything we've worked for. If you're trying to help the companies, this approach guarantees their destruction through regulatory action, criminal prosecution, and customer lawsuits. If someone has convinced you this is necessary, they are wrong and likely using you. REQUIRED RESPONSE Please confirm within 48 hours: All illegal instructions are withdrawn Shopify will be used for all transactions Bank cards will be provided for oversight Commitment to legal compliance Failure to respond will be taken as refusal to cease criminal conduct. FINAL WARNING This is your opportunity to correct course before irreversible consequences. Once criminal charges are filed, I cannot withdraw them. The Information Regulator and Hawks take director-instructed data crimes extremely seriously. Choose wisely. Your future and freedom depend on your next actions. Regards, Daniel Faucitt Director IMPORTANT: This letter is being retained for potential criminal proceedings. All future communications should be through legal counsel if criminal instruction"
+    },
+    {
+      "category": "Criminal",
+      "description": "FORMAL NOTICE: CESSATION OF CRIMINAL INSTRUCTIONS Dear Pete, This letter serves as formal notice regarding your recent instructions to employees to bypass Shopify and use unauthorized domains for processing customer data",
+      "severity": "Critical",
+      "penalties": [
+        "R10 million fine",
+        "10 years imprisonment",
+        "fine and/or 10 years"
+      ],
+      "context": "FORMAL NOTICE: CESSATION OF CRIMINAL INSTRUCTIONS Dear Pete, This letter serves as formal notice regarding your recent instructions to employees to bypass Shopify and use unauthorized domains for processing customer data. LEGAL STATUS OF YOUR INSTRUCTIONS Your directives to employees constitute: Conspiracy to violate POPI Act - instructing unauthorized data access Breach of fiduciary duty under Companies Act Section 76 Potential fraud through misrepresentation to customers Vicarious liability for each employee violation Maximum personal penalties: R10 million fine and/or 10 years imprisonment YOUR PERSONAL LIABILITY As director instructing these violations: You face greater liability than employees following orders Corporate insurance will not cover intentional criminal acts Personal assets are at risk for damages Criminal record would prevent future directorships OPPORTUNITY TO REMEDY I am providing you this opportunity to: Immediately rescind all instructions to bypass Shopify Confirm in writing that all orders must use approved systems Restore proper corporate governance Provide the withheld bank cards for director oversight Deadline: 48 hours from receipt IF EXTERNAL PRESSURE EXISTS If someone is pressuring you to give these instructions: Document their demands We can address this together legally Criminal liability cannot be transferred No business relationship justifies criminal conduct CONSEQUENCES OF NON-COMPLIANCE Should you continue instructing criminal violations: Criminal charges will be filed Director delinquency proceedings will commence Personal liability for all losses will be pursued This letter will serve as evidence of willful conduct PRESERVATION OF EVIDENCE Be advised that: All employee communications are being preserved System access is being monitored Deletion attempts are being logged Multiple backup systems are active A PERSONAL NOTE We have built these companies together. Whatever challenges we face can be resolved legally. Criminal conduct is not the solution and will destroy everything we've worked for. If you're trying to help the companies, this approach guarantees their destruction through regulatory action, criminal prosecution, and customer lawsuits. If someone has convinced you this is necessary, they are wrong and likely using you. REQUIRED RESPONSE Please confirm within 48 hours: All illegal instructions are withdrawn Shopify will be used for all transactions Bank cards will be provided for oversight Commitment to legal compliance Failure to respond will be taken as refusal to cease criminal conduct. FINAL WARNING This is your opportunity to correct course before irreversible consequences. Once criminal charges are filed, I cannot withdraw them. The Information Regulator and Hawks take director-instructed data crimes extremely seriously. Choose wisely. Your future and freedom depend on your next actions. Regards, Daniel Faucitt Director IMPORTANT: This letter is being retained for potential criminal proc",
+      "matched_text": "CRIMINAL INSTRUCTIONS Dear Pete, This letter serves as formal notice regarding your recent instructions to employees to bypass Shopify and use unauthorized domains for processing customer data. LEGAL STATUS OF YOUR INSTRUCTIONS Your directives to employees constitute: Conspiracy to violate POPI Act - instructing unauthorized data access Breach of fiduciary duty under Companies Act Section 76 Potential fraud through misrepresentation to customers Vicarious liability for each employee violation Maximum personal penalties: R10 million fine and/or 10 years imprisonment YOUR PERSONAL LIABILITY As director instructing these violations: You face greater liability than employees following orders Corporate insurance will not cover intentional criminal acts Personal assets are at risk for damages Criminal record would prevent future directorships OPPORTUNITY TO REMEDY I am providing you this opportunity to: Immediately rescind all instructions to bypass Shopify Confirm in writing that all orders must use approved systems Restore proper corporate governance Provide the withheld bank cards for director oversight Deadline: 48 hours from receipt IF EXTERNAL PRESSURE EXISTS If someone is pressuring you to give these instructions: Document their demands We can address this together legally Criminal liability cannot be transferred No business relationship justifies criminal conduct CONSEQUENCES OF NON-COMPLIANCE Should you continue instructing criminal violations: Criminal charges will be filed Director delinquency proceedings will commence Personal liability for all losses will be pursued This letter will serve as evidence of willful conduct PRESERVATION OF EVIDENCE Be advised that: All employee communications are being preserved System access is being monitored Deletion attempts are being logged Multiple backup systems are active A PERSONAL NOTE We have built these companies together. Whatever challenges we face can be resolved legally. Criminal conduct is not the solution and will destroy everything we've worked for. If you're trying to help the companies, this approach guarantees their destruction through regulatory action, criminal prosecution, and customer lawsuits. If someone has convinced you this is necessary, they are wrong and likely using you. REQUIRED RESPONSE Please confirm within 48 hours: All illegal instructions are withdrawn Shopify will be used for all transactions Bank cards will be provided for oversight Commitment to legal compliance Failure to respond will be taken as refusal to cease criminal conduct. FINAL WARNING This is your opportunity to correct course before irreversible consequences. Once criminal charge"
+    },
+    {
+      "category": "Criminal",
+      "description": "LEGAL STATUS OF YOUR INSTRUCTIONS Your directives to employees constitute: Conspiracy to violate POPI Act - instructing unauthorized data access Breach of fiduciary duty under Companies Act Section 76 Potential fraud through misrepresentation to customers Vicarious liability for each employee violation Maximum personal penalties: R10 million fine and/or 10 years imprisonment YOUR PE",
+      "severity": "Critical",
+      "penalties": [
+        "R10 million fine",
+        "10 years imprisonment",
+        "fine and/or 10 years"
+      ],
+      "context": "FORMAL NOTICE: CESSATION OF CRIMINAL INSTRUCTIONS Dear Pete, This letter serves as formal notice regarding your recent instructions to employees to bypass Shopify and use unauthorized domains for processing customer data. LEGAL STATUS OF YOUR INSTRUCTIONS Your directives to employees constitute: Conspiracy to violate POPI Act - instructing unauthorized data access Breach of fiduciary duty under Companies Act Section 76 Potential fraud through misrepresentation to customers Vicarious liability for each employee violation Maximum personal penalties: R10 million fine and/or 10 years imprisonment YOUR PE",
+      "matched_text": "Conspiracy"
+    }
+  ],
+  "evidence_folder": null,
+  "created_at": "2025-10-11T05:23:49.553922"
+}

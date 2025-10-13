@@ -1,0 +1,24 @@
+# Josh Rutherford
+
+## Entity Profile
+- **Type**: Persons
+- **Source**: analysis-frontend/node_modules/.pnpm/@types+react-dom@19.1.5_@types+react@19.1.4/node_modules/@types/react-dom/README.md
+- **Last Updated**: 2025-10-12T03:42:07.561948
+- **Status**: Automatically Extracted
+
+## Occurrences
+- Found in: analysis-frontend/node_modules/.pnpm/@types+react-dom@19.1.5_@types+react@19.1.4/node_modules/@types/react-dom/README.md
+- Entity Type: persons
+- Extraction Method: Pattern Matching
+
+## Analysis Notes
+*This entity was automatically extracted. Manual review and enhancement recommended.*
+
+## Related Files
+- analysis-frontend/node_modules/.pnpm/@types+react-dom@19.1.5_@types+react@19.1.4/node_modules/@types/react-dom/README.md
+
+## Actions Required
+- [ ] Verify entity accuracy
+- [ ] Add detailed analysis
+- [ ] Link to related entities
+- [ ] Update timeline if applicable

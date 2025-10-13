@@ -1,0 +1,260 @@
+{
+  "results": [
+    {
+      "input": "/home/ubuntu/upload/RegimA_WWD_270319050.pdf",
+      "output": {
+        "invoice_number": "270319050",
+        "invoice_date": "Sep 4, 2024",
+        "total_usd": "$4,968.74 USD",
+        "total_gbp": "£3,781.21 GBP",
+        "account_billed": "RegimA Worldwide Distributions Pty Ltd",
+        "payment_status": "Paid on Sep 4, 2024",
+        "key_stores": "RegimA WWD: $580.89 USD, RegimA Zone: $3,388.23 USD, RegimA DST: $156.92 USD, RegimA KACHAN: $51.93 USD, RegimA ZA~NE: $156.92 USD, RegimA Zone SA: $74.98 USD, RZoneSandbox2: $15.99 USD, RegimA ZA-GP~NE: $74.98 USD, RegimA Europe: $40.00 USD, Z-ReZon8: $32.97 USD, ZA-GP-BH (Brenda): $55.00 USD, Z Demo 2 Distrib: $219.98 USD, Backup RUK: $19.99 USD, Backup RWD: $19.99 USD, Backup DST: $19.99 USD, Backup KRN: $19.99 USD, Backup KCH: $39.99 USD",
+        "uk_sa_flow_evidence": "RegimA Worldwide Distributions Pty Ltd (UK company) is billed, and 'RegimA Zone SA' is listed as a store with charges, indicating a UK entity paying for South African operations.",
+        "payment_method": "Visa ending in 7147",
+        "billing_address": "Unit 9 Southview Park Reading, RG4 5AF United Kingdom"
+      },
+      "error": ""
+    },
+    {
+      "input": "/home/ubuntu/upload/RegimA_WWD_280805644.pdf",
+      "output": {
+        "invoice_number": "280805644",
+        "invoice_date": "Oct 4, 2024",
+        "total_usd": "$4,840.26 USD",
+        "total_gbp": "£3,649.07 GBP",
+        "account_billed": "RegimA Worldwide Distributions Pty Ltd",
+        "payment_status": "Paid on Oct 4, 2024",
+        "key_stores": "RegimA Zone ($3,386.72 USD), RegimA DST ($136.93 USD), RegimA KACHAN ($51.93 USD), RegimA ZA~NE ($136.93 USD), RegimA Zone SA ($54.99 USD), RZoneSandbox2 ($15.99 USD), RegimA ZA-GP~NE ($54.99 USD), RegimA Europe ($20.00 USD), Z-ReZon8 ($70.95 USD), ZA-GP-BH (Brenda) ($55.00 USD), Z Demo 2 Distrib ($174.98 USD), Backup RUK ($19.99 USD), Backup RWD ($19.99 USD), Backup DST ($19.99 USD), Backup KRN ($19.99 USD), Backup KCH ($39.99 USD)",
+        "uk_sa_flow_evidence": "RegimA Worldwide Distributions Pty Ltd (UK company) is billed for RegimA Zone SA operations.",
+        "payment_method": "Visa ending in 7147",
+        "billing_address": "Unit 9 Southview Park Reading, RG4 5AF United Kingdom"
+      },
+      "error": ""
+    },
+    {
+      "input": "/home/ubuntu/upload/RegimA_WWD_291826020.pdf",
+      "output": {
+        "invoice_number": "291826020",
+        "invoice_date": "Nov 4, 2024",
+        "total_usd": "$4,949.33 USD",
+        "total_gbp": "£3,828.31 GBP",
+        "account_billed": "RegimA Worldwide Distributions Pty Ltd\nUnit 9 Southview Park\nReading, RG4 5AF\nUnited Kingdom\nuk@regima.zone",
+        "payment_status": "Paid on Nov 4, 2024",
+        "key_stores": "RegimA WWD: $630.89 USD, RegimA Zone: $3,409.79 USD, RegimA DST: $136.93 USD, RegimA KACHAN: $51.93 USD, RegimA ZA~NE: $136.93 USD, RegimA Zone SA: $54.99 USD, RZoneSandbox2: $15.99 USD, RegimA ZA-GP~NE: $54.99 USD, RegimA Europe: $20.00 USD, Z-ReZon8: $51.96 USD, ZA-GP-BH (Brenda): $90.00 USD, Z Demo 2 Distrib: $174.98 USD, Backup RUK: $19.99 USD, Backup RWD: $19.99 USD, Backup DST: $19.99 USD, Backup KRN: $19.99 USD, Backup KCH: $39.99 USD",
+        "uk_sa_flow_evidence": "Account billed: RegimA Worldwide Distributions Pty Ltd, United Kingdom. One of the key stores is 'RegimA Zone SA' with a charge of $54.99 USD, indicating a UK company paying for South African operations.",
+        "payment_method": "Visa ending in 7147",
+        "billing_address": "RegimA Worldwide Distributions Pty Ltd\nUnit 9 Southview Park\nReading, RG4 5AF\nUnited Kingdom"
+      },
+      "error": ""
+    },
+    {
+      "input": "/home/ubuntu/upload/RegimA_WWD_33993863.pdf",
+      "output": {
+        "invoice_number": "33993863",
+        "invoice_date": "Jun 4, 2017",
+        "total_usd": "$1,986.83 USD",
+        "total_gbp": "Not shown",
+        "account_billed": "RegimA Worldwide Distributions Pty Ltd",
+        "payment_status": "Paid on Jun 4, 2017",
+        "key_stores": "RegimA Zone (2 items) $2,000.00 USD",
+        "uk_sa_flow_evidence": "RegimA Worldwide Distributions Pty Ltd (South Africa) is billed, and the billing address is in the United Kingdom (Unit 9 Southview Park Reading, RG4 5AF United Kingdom). This indicates a UK entity paying for a South African operation.",
+        "payment_method": "Visa ending in 7147",
+        "billing_address": "Unit 9 Southview Park Reading, RG4 5AF United Kingdom"
+      },
+      "error": ""
+    },
+    {
+      "input": "/home/ubuntu/upload/RegimA_WWD_23639933.pdf",
+      "output": {
+        "invoice_number": "23639933",
+        "invoice_date": "Jul 13, 2016",
+        "total_usd": "$79.00 USD",
+        "total_gbp": "Not shown",
+        "account_billed": "RegimA Worldwide Distributions Pty Ltd",
+        "payment_status": "Paid on Jul 13, 2016",
+        "key_stores": "RegimA Zone (1 item) $79.00 USD",
+        "uk_sa_flow_evidence": "RegimA Worldwide Distributions Pty Ltd (UK company) billed, Shopify Inc. (Canada) is the service provider. Payment made from UK entity to Canadian entity.",
+        "payment_method": "Visa ending in 7147",
+        "billing_address": "Unit 9 Southview Park Reading, RG4 5AF United Kingdom"
+      },
+      "error": ""
+    },
+    {
+      "input": "/home/ubuntu/upload/RegimA_WWD_302740871.pdf",
+      "output": {
+        "invoice_number": "302740871",
+        "invoice_date": "Dec 4, 2024",
+        "total_usd": "$4,822.90 USD",
+        "total_gbp": "£3,810.09 GBP",
+        "account_billed": "RegimA Worldwide Distributions Pty Ltd\nUnit 9 Southview Park\nReading, RG4 5AF\nUnited Kingdom",
+        "payment_status": "Paid on Dec 4, 2024",
+        "key_stores": "RegimA WWD: $560.90 USD (Apps), RegimA Zone: $3,388.35 USD (Store Fees), RegimA DST: $136.93 USD (Store Fees), RegimA KACHAN: $51.93 USD (Store Fees), RegimA ZA~NE: $136.93 USD (Store Fees), RegimA Zone SA: $54.99 USD (Store Fees), RZoneSandbox2: $15.99 USD (Store Fees), RegimA ZA-GP~NE: $54.99 USD (Store Fees), RegimA Europe: $20.00 USD (Store Fees), Z-ReZon8: $51.96 USD (Store Fees), ZA-GP-BH (Brenda): $55.00 USD (Store Fees), Z Demo 2 Distrib: $174.98 USD (Store Fees), Backup RUK: $19.99 USD (Store Fees), Backup RWD: $19.99 USD (Store Fees), Backup DST: $19.99 USD (Store Fees), Backup KRN: $19.99 USD (Store Fees), Backup KCH: $39.99 USD (Store Fees)",
+        "uk_sa_flow_evidence": "RegimA Worldwide Distributions Pty Ltd (UK company) is billed. RegimA Zone SA is listed as a store with charges, indicating a UK company paying for South African operations.",
+        "payment_method": "Visa ending in 7147",
+        "billing_address": "RegimA Worldwide Distributions Pty Ltd\nUnit 9 Southview Park\nReading, RG4 5AF\nUnited Kingdom"
+      },
+      "error": ""
+    },
+    {
+      "input": "/home/ubuntu/upload/RegimA_WWD_314112066.pdf",
+      "output": {
+        "invoice_number": "314112066",
+        "invoice_date": "Jan 4, 2025",
+        "total_usd": "$4,828.58",
+        "total_gbp": "£3,900.53",
+        "account_billed": "RegimA Worldwide Distributions Pty Ltd",
+        "payment_status": "Paid on Jan 4, 2025",
+        "key_stores": "RegimA WWD: $560.90 USD, RegimA Zone: $3,385.03 USD, RegimA DST: $136.93 USD, RegimA KACHAN: $51.93 USD, RegimA ZA~NE: $136.93 USD, RegimA Zone SA: $54.99 USD, RZoneSandbox2: $15.99 USD, RegimA ZA-GP~NE: $54.99 USD, RegimA Europe: $20.00 USD, Z-ReZon8: $60.96 USD, ZA-GP-BH (Brenda): $55.00 USD, Z Demo 2 Distrib: $174.98 USD, Backup RUK: $19.99 USD, Backup RWD: $19.99 USD, Backup DST: $19.99 USD, Backup KRN: $19.99 USD, Backup KCH: $39.99 USD",
+        "uk_sa_flow_evidence": "Account billed: RegimA Worldwide Distributions Pty Ltd, Unit 9 Southview Park Reading, RG4 5AF United Kingdom. Email: uk@regima.zone. This suggests a UK entity (RegimA Worldwide Distributions Pty Ltd, with a UK address and email) is being billed, potentially for operations that could include South African (SA) stores like 'RegimA Zone SA' and 'RegimA ZA~NE'.",
+        "payment_method": "Visa ending in 7147",
+        "billing_address": "Unit 9 Southview Park Reading, RG4 5AF United Kingdom"
+      },
+      "error": ""
+    },
+    {
+      "input": "/home/ubuntu/upload/RegimA_WWD_326518389.pdf",
+      "output": {
+        "invoice_number": "326518389",
+        "invoice_date": "Feb 4, 2025",
+        "total_usd": "$4,850.45 USD",
+        "total_gbp": "£3,945.84 GBP",
+        "account_billed": "RegimA Worldwide Distributions Pty Ltd",
+        "payment_status": "Paid on Feb 4, 2025",
+        "key_stores": "RegimA WWD: $573.85 USD, RegimA Zone: $3,386.96 USD, RegimA DST: $136.93 USD, RegimA KACHAN: $51.93 USD, RegimA ZA~NE: $136.93 USD, RegimA Zone SA: $54.99 USD, RZoneSandbox2: $31.98 USD, RegimA ZA-GP~NE: $54.99 USD, RegimA Europe: $20.00 USD, Z-ReZon8: $51.96 USD, ZA-GP-BH (Brenda): $55.00 USD, Z Demo 2 Distrib: $174.98 USD, Backup RUK: $19.99 USD, Backup RWD: $19.99 USD, Backup DST: $19.99 USD, Backup KRN: $19.99 USD, Backup KCH: $39.99 USD",
+        "uk_sa_flow_evidence": "RegimA Worldwide Distributions Pty Ltd (UK company) is billed, and there are charges for 'RegimA Zone SA' and 'RegimA ZA-GP~NE' which appear to be South African operations.",
+        "payment_method": "Visa ending in 7147",
+        "billing_address": "Unit 9 Southview Park\nReading, RG4 5AF\nUnited Kingdom"
+      },
+      "error": ""
+    },
+    {
+      "input": "/home/ubuntu/upload/RegimA_WWD_337539655.pdf",
+      "output": {
+        "invoice_number": "337539655",
+        "invoice_date": "Mar 4, 2025",
+        "total_usd": "$4,783.35 USD",
+        "total_gbp": "£3,795.59 GBP",
+        "account_billed": "RegimA Worldwide Distributions Pty Ltd\nUnit 9 Southview Park\nReading, RG4 5AF\nUnited Kingdom",
+        "payment_status": "Paid on Mar 4, 2025 (Payment failed Mar 4, Bill paid Mar 4)",
+        "key_stores": "RegimA WWD: $547.95 USD (Apps); RegimA Zone: $3,386.74 USD (Apps, Transaction fees, Platform fees, Marketing emails); RegimA DST: $136.93 USD (Apps); RegimA KACHAN: $51.93 USD (Apps); RegimA ZA~NE: $136.93 USD (Apps); RegimA Zone SA: $54.99 USD (Apps); RegimA ZA-GP~NE: $54.99 USD (Apps); RegimA Europe: $20.00 USD (Apps); Z-ReZon8: $42.96 USD (Apps); ZA-GP-BH (Brenda): $55.00 USD (Apps); Z Demo 2 Distrib: $174.98 USD (Apps); Backup RUK: $19.99 USD (Apps); Backup RWD: $19.99 USD (Apps); Backup DST: $19.99 USD (Apps); Backup KRN: $19.99 USD (Apps); Backup KCH: $39.99 USD (Apps)",
+        "uk_sa_flow_evidence": "Account billed: RegimA Worldwide Distributions Pty Ltd, United Kingdom. Stores include 'RegimA Zone SA' and 'RegimA ZA-GP~NE' which likely refer to South African operations. The billing entity is a UK company.",
+        "payment_method": "Visa ending in 7147",
+        "billing_address": "RegimA Worldwide Distributions Pty Ltd\nUnit 9 Southview Park\nReading, RG4 5AF\nUnited Kingdom"
+      },
+      "error": ""
+    },
+    {
+      "input": "/home/ubuntu/upload/RegimA_WWD_349957613.pdf",
+      "output": {
+        "invoice_number": "349957613",
+        "invoice_date": "Apr 4, 2025",
+        "total_usd": "$4,832.09 USD",
+        "total_gbp": "£3,703.80 GBP",
+        "account_billed": "RegimA Worldwide Distributions Pty Ltd\nUnit 9 Southview Park\nReading, RG4 5AF\nUnited Kingdom\nuk@regima.zone",
+        "payment_status": "Paid on Apr 4, 2025",
+        "key_stores": "RegimA WWD: $560.90 USD, RegimA Zone: $3,388.54 USD, RegimA DST: $136.93 USD, RegimA KACHAN: $51.93 USD, RegimA ZA~NE: $136.93 USD, RegimA Zone SA: $54.99 USD, RZoneSandbox2: $15.99 USD, RegimA ZA-GP~NE: $54.99 USD, RegimA Europe: $20.00 USD, Z-ReZon8: $60.96 USD, ZA-GP-BH (Brenda): $55.00 USD, Z Demo 2 Distrib: $174.98 USD, Backup RUK: $19.99 USD, Backup RWD: $19.99 USD, Backup DST: $19.99 USD, Backup KRN: $19.99 USD, Backup KCH: $39.99 USD",
+        "uk_sa_flow_evidence": "Account billed: RegimA Worldwide Distributions Pty Ltd, United Kingdom. Store: RegimA Zone SA ($54.99 USD). This indicates a UK company is being billed for operations related to 'SA' (South Africa).",
+        "payment_method": "Visa ending in 7147",
+        "billing_address": "RegimA Worldwide Distributions Pty Ltd\nUnit 9 Southview Park\nReading, RG4 5AF\nUnited Kingdom"
+      },
+      "error": ""
+    },
+    {
+      "input": "/home/ubuntu/upload/RegimA_WWD_361936462.pdf",
+      "output": {
+        "invoice_number": "361936462",
+        "invoice_date": "May 4, 2025",
+        "total_usd": "$4,823.85",
+        "total_gbp": "£3,634.29",
+        "account_billed": "RegimA Worldwide Distributions Pty Ltd",
+        "payment_status": "Paid on May 4, 2025",
+        "key_stores": "RegimA WWD: $560.90 USD, RegimA Zone: $3,389.30 USD, RegimA DST: $136.93 USD, RegimA KACHAN: $51.93 USD, RegimA ZA~NE: $136.93 USD, RegimA Zone SA: $54.99 USD, RZoneSandbox2: $15.99 USD, RegimA ZA-GP~NE: $54.99 USD, RegimA Europe: $20.00 USD, Z-ReZon8: $51.96 USD, ZA-GP-BH (Brenda): $55.00 USD, Z Demo 2 Distrib: $174.98 USD, Backup RUK: $19.99 USD, Backup RWD: $19.99 USD, Backup DST: $19.99 USD, Backup KRN: $19.99 USD, Backup KCH: $39.99 USD",
+        "uk_sa_flow_evidence": "RegimA Worldwide Distributions Pty Ltd, United Kingdom is paying for RegimA Zone SA operations.",
+        "payment_method": "Visa ending in 7147",
+        "billing_address": "Unit 9 Southview Park\nReading, RG4 5AF\nUnited Kingdom"
+      },
+      "error": ""
+    },
+    {
+      "input": "/home/ubuntu/upload/RegimA_WWD_374432528.pdf",
+      "output": {
+        "invoice_number": "374432528",
+        "invoice_date": "Jun 4, 2025",
+        "total_usd": "$4,876.70 USD",
+        "total_gbp": "£3,597.05 GBP",
+        "account_billed": "RegimA Worldwide Distributions Unit 9 Southview Park\nPty Ltd Reading, RG4 5AF\nUnited Kingdom",
+        "payment_status": "Paid on Jun 4, 2025",
+        "key_stores": "RegimA Zone: $3,388.21 USD, RegimA DST: $136.93 USD, RegimA KACHAN: $51.93 USD, RegimA ZA~NE: $136.93 USD, RegimA Zone SA: $54.99 USD, RZoneSandbox2: $31.98 USD, RegimA ZA-GP~NE: $54.99 USD, RegimA Europe: $20.00 USD, Z-ReZon8: $76.96 USD, ZA-GP-BH (Brenda): $55.00 USD, Z Demo 2 Distrib: $174.98 USD, Backup RUK: $19.99 USD, Backup RWD: $19.99 USD, Backup DST: $19.99 USD, Backup KRN: $19.99 USD, Backup KCH: $39.99 USD",
+        "uk_sa_flow_evidence": "RegimA Worldwide Distributions Pty Ltd (UK company) is billed, and there are charges for 'RegimA Zone SA' and 'RegimA ZA-GP~NE', indicating operations in South Africa.",
+        "payment_method": "Visa ending in 7147",
+        "billing_address": "RegimA Worldwide Distributions Unit 9 Southview Park\nPty Ltd Reading, RG4 5AF\nUnited Kingdom"
+      },
+      "error": ""
+    },
+    {
+      "input": "/home/ubuntu/upload/RegimA_WWD_386697299.pdf",
+      "output": {
+        "invoice_number": "386697299",
+        "invoice_date": "Jul 4, 2025",
+        "total_usd": "$4,821.17",
+        "total_gbp": "£3,531.99",
+        "account_billed": "RegimA Worldwide Distributions Pty Ltd",
+        "payment_status": "Paid on Jul 4, 2025",
+        "key_stores": "RegimA WWD: $560.90 USD, RegimA Zone: $3,386.62 USD, RegimA DST: $136.93 USD, RegimA KACHAN: $51.93 USD, RegimA ZA~NE: $136.93 USD, RegimA Zone SA: $54.99 USD, RZoneSandbox2: $15.99 USD, RegimA ZA-GP~NE: $54.99 USD, RegimA Europe: $20.00 USD, Z-ReZon8: $51.96 USD, ZA-GP-BH (Brenda): $55.00 USD, Z Demo 2 Distrib: $174.98 USD, Backup RUK: $19.99 USD, Backup RWD: $19.99 USD, Backup DST: $19.99 USD, Backup KRN: $19.99 USD, Backup KCH: $39.99 USD",
+        "uk_sa_flow_evidence": "RegimA Worldwide Distributions Pty Ltd (UK entity) is billed, and pays for 'RegimA Zone SA' and 'RegimA ZA-GP~NE' which appear to be South African operations.",
+        "payment_method": "Visa ending in 7147",
+        "billing_address": "Unit 9 Southview Park Reading, RG4 5AF, United Kingdom"
+      },
+      "error": ""
+    },
+    {
+      "input": "/home/ubuntu/upload/RegimA_WWD_400031880.pdf",
+      "output": {
+        "invoice_number": "400031880",
+        "invoice_date": "Aug 4, 2025",
+        "total_usd": "$4,901.58 USD",
+        "total_gbp": "£3,691.87 GBP",
+        "account_billed": "RegimA Worldwide Distributions Pty Ltd",
+        "payment_status": "Paid on Aug 4, 2025",
+        "key_stores": "RegimA WWD: $575.90 USD (Apps), RegimA Zone: $3,387.04 USD (Apps, Transaction fees, Platform fees), RegimA DST: $136.93 USD (Apps), RegimA KACHAN: $51.93 USD (Apps), RegimA ZA~NE: $136.93 USD (Apps), RegimA Zone SA: $54.99 USD (Apps), RZoneSandbox2: $15.99 USD (Apps), RegimA ZA-GP~NE: $54.99 USD (Apps), RegimA Europe: $20.00 USD (Apps), Z-ReZon8: $51.96 USD (Apps), ZA-GP-BH (Brenda): $55.00 USD (Apps), Z Demo 2 Distrib: $239.97 USD (Apps), Backup RUK: $19.99 USD (Apps), Backup RWD: $19.99 USD (Apps), Backup DST: $19.99 USD (Apps), Backup KRN: $19.99 USD (Apps), Backup KCH: $39.99 USD (Apps)",
+        "uk_sa_flow_evidence": "RegimA Worldwide Distributions Pty Ltd (UK company) is billed. RegimA Zone SA is listed as a store with charges, indicating a UK company paying for South African operations.",
+        "payment_method": "Visa ending in 7147",
+        "billing_address": "Unit 9 Southview Park\nReading, RG4 5AF\nUnited Kingdom"
+      },
+      "error": ""
+    },
+    {
+      "input": "/home/ubuntu/upload/RegimA_WWD_413451554.pdf",
+      "output": {
+        "invoice_number": "413451554",
+        "invoice_date": "Sep 4, 2025",
+        "total_usd": "$4,770.42",
+        "total_gbp": "£3,564.46",
+        "account_billed": "RegimA Worldwide Distributions Pty Ltd",
+        "payment_status": "Paid on Sep 4, 2025",
+        "key_stores": "RegimA WWD: $506.90 USD, RegimA Zone: $3,389.87 USD, RegimA DST: $136.93 USD, RegimA KACHAN: $51.93 USD, RegimA ZA~NE: $136.93 USD, RegimA Zone SA: $54.99 USD, RZoneSandbox2: $15.99 USD, RegimA ZA-GP~NE: $54.99 USD, RegimA Europe: $20.00 USD, Z-ReZon8: $51.96 USD, ZA-GP-BH (Brenda): $55.00 USD, Z Demo 2 Distrib: $174.98 USD, Backup RUK: $19.99 USD, Backup RWD: $19.99 USD, Backup DST: $19.99 USD, Backup KRN: $19.99 USD, Backup KCH: $39.99 USD",
+        "uk_sa_flow_evidence": "RegimA Worldwide Distributions Pty Ltd (UK entity) is billed for 'RegimA Zone SA' ($54.99 USD) and 'RegimA ZA-GP~NE' ($54.99 USD) which appear to be South African operations.",
+        "payment_method": "Visa ending in 7147",
+        "billing_address": "Unit 9 Southview Park\nReading, RG4 5AF\nUnited Kingdom"
+      },
+      "error": ""
+    },
+    {
+      "input": "/home/ubuntu/upload/RegimA_WWD_426552922.pdf",
+      "output": {
+        "invoice_number": "426552922",
+        "invoice_date": "Oct 4, 2025",
+        "total_usd": "$4,526.13 USD",
+        "total_gbp": "£3,366.08 GBP",
+        "account_billed": "RegimA Worldwide Distributions Pty Ltd, Unit 9 Southview Park, Reading, RG4 5AF, United Kingdom",
+        "payment_status": "Paid on Oct 4, 2025",
+        "key_stores": "RegimA WWD: $260.91 USD, RegimA Zone: $3,391.57 USD, RegimA DST: $136.93 USD, RegimA KACHAN: $51.93 USD, RegimA ZA~NE: $136.93 USD, RegimA Zone SA: $54.99 USD, RZoneSandbox2: $15.99 USD, RegimA ZA-GP~NE: $54.99 USD, RegimA Europe: $20.00 USD, Z-ReZon8: $51.96 USD, ZA-GP-BH (Brenda): $55.00 USD, Z Demo 2 Distrib: $174.98 USD, Backup RUK: $19.99 USD, Backup RWD: $19.99 USD, Backup DST: $19.99 USD, Backup KRN: $19.99 USD, Backup KCH: $39.99 USD",
+        "uk_sa_flow_evidence": "RegimA Worldwide Distributions Pty Ltd (UK company) is billed for 'RegimA Zone SA' ($54.99 USD) and 'RZoneSandbox2' ($15.99 USD) which appear to be South African operations based on the 'SA' and 'Sandbox2' naming conventions, suggesting a UK entity is paying for SA-related services.",
+        "payment_method": "Visa ending in 7147",
+        "billing_address": "Unit 9 Southview Park, Reading, RG4 5AF, United Kingdom"
+      },
+      "error": ""
+    }
+  ]
+}

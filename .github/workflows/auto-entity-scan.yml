@@ -1,0 +1,315 @@
+name: Auto Entity and Evidence Scan
+
+on:
+  push:
+    branches: [ main, develop ]
+    paths:
+      - 'evidence/**'
+      - 'entities/**'
+      - '03_timeline/**'
+      - '04_models/**'
+      - 'case_*/**'
+      - '*.md'
+      - '*.json'
+  pull_request:
+    branches: [ main ]
+    paths:
+      - 'evidence/**'
+      - 'entities/**'
+      - '03_timeline/**'
+      - '04_models/**'
+      - 'case_*/**'
+      - '*.md'
+      - '*.json'
+  workflow_dispatch:
+    inputs:
+      scan_mode:
+        description: 'Scanning mode'
+        required: true
+        default: 'incremental'
+        type: choice
+        options:
+        - incremental
+        - full_scan
+        - evidence_only
+        - entities_only
+      force_rebuild:
+        description: 'Force rebuild all models'
+        required: false
+        default: false
+        type: boolean
+
+jobs:
+  detect-changes:
+    runs-on: ubuntu-latest
+    outputs:
+      evidence_changed: ${{ steps.changes.outputs.evidence }}
+      entities_changed: ${{ steps.changes.outputs.entities }}
+      timeline_changed: ${{ steps.changes.outputs.timeline }}
+      models_changed: ${{ steps.changes.outputs.models }}
+      any_changes: ${{ steps.changes.outputs.evidence == 'true' || steps.changes.outputs.entities == 'true' || steps.changes.outputs.timeline == 'true' || steps.changes.outputs.models == 'true' }}
+    
+    steps:
+    - uses: actions/checkout@v4
+      with:
+        fetch-depth: 0
+        
+    - name: Detect file changes
+      id: changes
+      run: |
+        if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+          echo "evidence=true" >> $GITHUB_OUTPUT
+          echo "entities=true" >> $GITHUB_OUTPUT
+          echo "timeline=true" >> $GITHUB_OUTPUT
+          echo "models=true" >> $GITHUB_OUTPUT
+        else
+          # Check for changes in evidence files
+          if git diff --name-only ${{ github.event.before }}..${{ github.sha }} | grep -E "(evidence/|\.md$|\.json$)" > /dev/null; then
+            echo "evidence=true" >> $GITHUB_OUTPUT
+          else
+            echo "evidence=false" >> $GITHUB_OUTPUT
+          fi
+          
+          # Check for changes in entity files
+          if git diff --name-only ${{ github.event.before }}..${{ github.sha }} | grep -E "(entities/|ENTITY|entity)" > /dev/null; then
+            echo "entities=true" >> $GITHUB_OUTPUT
+          else
+            echo "entities=false" >> $GITHUB_OUTPUT
+          fi
+          
+          # Check for changes in timeline files
+          if git diff --name-only ${{ github.event.before }}..${{ github.sha }} | grep -E "(03_timeline/|timeline|TIMELINE)" > /dev/null; then
+            echo "timeline=true" >> $GITHUB_OUTPUT
+          else
+            echo "timeline=false" >> $GITHUB_OUTPUT
+          fi
+          
+          # Check for changes in model files
+          if git diff --name-only ${{ github.event.before }}..${{ github.sha }} | grep -E "(04_models/|models/|MODEL)" > /dev/null; then
+            echo "models=true" >> $GITHUB_OUTPUT
+          else
+            echo "models=false" >> $GITHUB_OUTPUT
+          fi
+        fi
+
+  process-evidence:
+    needs: detect-changes
+    if: needs.detect-changes.outputs.evidence_changed == 'true' || github.event.inputs.scan_mode == 'evidence_only' || github.event.inputs.scan_mode == 'full_scan'
+    runs-on: ubuntu-latest
+    
+    steps:
+    - uses: actions/checkout@v4
+    
+    - name: Set up Python 3.11
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
+        
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -e .[dev]
+        # Install additional dependencies for evidence processing
+        pip install python-docx PyPDF2 eml-parser
+        
+    - name: Run Evidence Processing Pipeline
+      run: |
+        echo "🔍 Processing evidence files..."
+        python -c "
+        import sys
+        sys.path.insert(0, 'src')
+        from evidence_automation.evidence_pipeline import EvidenceProcessor
+        from pathlib import Path
+        
+        # Process evidence directory
+        evidence_dir = Path('evidence')
+        output_dir = Path('processed_evidence')
+        
+        if evidence_dir.exists():
+            processor = EvidenceProcessor(str(evidence_dir), str(output_dir))
+            results = processor.process_evidence_directory()
+            print(f'✅ Processed {len(results)} evidence files')
+        else:
+            print('ℹ️ No evidence directory found')
+        "
+        
+    - name: Integration with Existing Evidence System
+      run: |
+        echo "🔗 Integrating with existing evidence system..."
+        if [ -f "integrate_new_evidence.py" ]; then
+          python integrate_new_evidence.py
+        fi
+        
+    - name: Upload Evidence Processing Results
+      uses: actions/upload-artifact@v4
+      with:
+        name: evidence-processing-results
+        path: processed_evidence/
+        retention-days: 30
+
+  process-entities:
+    needs: detect-changes
+    if: needs.detect-changes.outputs.entities_changed == 'true' || needs.detect-changes.outputs.evidence_changed == 'true' || github.event.inputs.scan_mode == 'entities_only' || github.event.inputs.scan_mode == 'full_scan'
+    runs-on: ubuntu-latest
+    
+    steps:
+    - uses: actions/checkout@v4
+    
+    - name: Set up Python 3.11
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
+        
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -e .[dev]
+        
+    - name: Create Entity Files
+      run: |
+        echo "👥 Creating entity files..."
+        if [ -f "create_entity_files.py" ]; then
+          # Modify paths to work in current directory
+          python scripts/auto_entity_processor.py --mode entities --verbose
+        else
+          echo "ℹ️ create_entity_files.py not found, using built-in entity processing"
+        fi
+        
+    - name: Scan for New Entities in Documents
+      run: |
+        echo "🔍 Scanning for new entities in documents..."
+        python scripts/auto_entity_processor.py --mode evidence --verbose
+        
+    - name: Upload Entity Processing Results
+      uses: actions/upload-artifact@v4
+      with:
+        name: entity-processing-results
+        path: |
+          entities/
+          extracted_entities.json
+        retention-days: 30
+
+  process-timeline:
+    needs: detect-changes
+    if: needs.detect-changes.outputs.timeline_changed == 'true' || needs.detect-changes.outputs.evidence_changed == 'true' || github.event.inputs.scan_mode == 'full_scan'
+    runs-on: ubuntu-latest
+    
+    steps:
+    - uses: actions/checkout@v4
+    
+    - name: Set up Python 3.11
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
+        
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -e .[dev]
+        
+    - name: Process Timeline Updates
+      run: |
+        echo "📅 Processing timeline updates..."
+        python scripts/auto_entity_processor.py --mode timeline --verbose
+        
+    - name: Upload Timeline Processing Results
+      uses: actions/upload-artifact@v4
+      with:
+        name: timeline-processing-results
+        path: 03_timeline/
+        retention-days: 30
+
+  update-models:
+    needs: [detect-changes, process-evidence, process-entities, process-timeline]
+    if: always() && (needs.detect-changes.outputs.any_changes == 'true' || github.event.inputs.force_rebuild == 'true')
+    runs-on: ubuntu-latest
+    
+    steps:
+    - uses: actions/checkout@v4
+    
+    - name: Set up Python 3.11
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
+        
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -e .[dev]
+        
+    - name: Download all processing artifacts
+      uses: actions/download-artifact@v4
+      with:
+        path: processing-results/
+        
+    - name: Update Hypergraph Data
+      run: |
+        echo "🕸️ Updating hypergraph data..."
+        python scripts/auto_entity_processor.py --mode models --verbose
+        
+    - name: Generate Processing Summary
+      run: |
+        echo "📊 Generating processing summary..."
+        python scripts/auto_entity_processor.py --mode full --verbose > processing_log.txt
+        
+        # Create summary from processing results
+        cat > PROCESSING_SUMMARY.md << 'EOF'
+        # Processing Summary - Run ${{ github.run_id }}
+        
+        ## Overview
+        - **Timestamp**: $(date -Iseconds)
+        - **Trigger**: ${{ github.event_name }}
+        - **Actor**: ${{ github.actor }}
+        
+        ## Changes Detected
+        - **Evidence Changed**: ${{ needs.detect-changes.outputs.evidence_changed }}
+        - **Entities Changed**: ${{ needs.detect-changes.outputs.entities_changed }}  
+        - **Timeline Changed**: ${{ needs.detect-changes.outputs.timeline_changed }}
+        - **Models Changed**: ${{ needs.detect-changes.outputs.models_changed }}
+        
+        ## Processing Results
+        - **Entities Created**: $(find entities/ -name "*.md" 2>/dev/null | wc -l)
+        - **Timeline Events**: $(find 03_timeline/ -name "*.json" 2>/dev/null | wc -l)
+        - **Models Updated**: $(find 04_models/ -name "*.json" 2>/dev/null | wc -l)
+        
+        ## Processing Log
+        ```
+        $(tail -20 processing_log.txt)
+        ```
+        
+        ## Next Steps
+        The automated processing has completed. Review the generated files and models for accuracy.
+        EOF
+        
+        echo "💾 Generated processing summary"
+        
+    - name: Upload Final Results
+      uses: actions/upload-artifact@v4
+      with:
+        name: complete-processing-results
+        path: |
+          entities/
+          03_timeline/
+          04_models/
+          PROCESSING_SUMMARY.md
+          processing_summary.json
+        retention-days: 90
+        
+    - name: Comment on PR (if applicable)
+      if: github.event_name == 'pull_request'
+      uses: actions/github-script@v7
+      with:
+        script: |
+          const fs = require('fs');
+          const path = 'PROCESSING_SUMMARY.md';
+          
+          if (fs.existsSync(path)) {
+            const summary = fs.readFileSync(path, 'utf8');
+            
+            github.rest.issues.createComment({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              body: `🤖 **Automated Entity/Evidence Processing Complete**\n\n${summary}`
+            });
+          }

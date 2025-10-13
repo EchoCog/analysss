@@ -1,0 +1,42 @@
+{
+  "timeline_metrics": {
+    "total_events": 22,
+    "critical_events": 14,
+    "total_transaction_value": 86606847.77,
+    "average_entities_per_event": 2.1818181818181817,
+    "phases": {
+      "phase_1": 6,
+      "phase_2": 2,
+      "phase_3": 5,
+      "phase_4": 9
+    }
+  },
+  "entity_metrics": {
+    "total_entities": 12,
+    "most_involved": "RegimA Group",
+    "most_involved_count": 11,
+    "entity_types": {
+      "companies": 6,
+      "persons": 5,
+      "groups": 1
+    }
+  },
+  "transaction_metrics": {
+    "total_transactions": 11,
+    "total_value": 50036006.040000014,
+    "largest_transaction": {
+      "from_entity": "Villa Via",
+      "to_entity": null,
+      "transaction_type": "Capital Extraction",
+      "total_amount": 22800000.0
+    },
+    "fraud_total": 2470722.68,
+    "debt_total": 2006949.27
+  },
+  "hypergraph_properties": {
+    "average_hyperedge_size": 2.1818181818181817,
+    "max_hyperedge_size": 6,
+    "temporal_span_days": 3026,
+    "critical_event_ratio": 0.6363636363636364
+  }
+}

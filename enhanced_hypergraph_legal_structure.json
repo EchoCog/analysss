@@ -1,0 +1,4429 @@
+{
+  "nodes": [
+    {
+      "id": "a8a750ac",
+      "label": "Danie Bantjes",
+      "type": "entity",
+      "category": "people"
+    },
+    {
+      "id": "61ea9de8",
+      "label": "FNb",
+      "type": "entity",
+      "category": "financial_institutions",
+      "relationship_count": 7,
+      "total_relationship_strength": 51
+    },
+    {
+      "id": "e5d84353",
+      "label": "SLG",
+      "type": "entity",
+      "category": "companies",
+      "relationship_count": 3,
+      "total_relationship_strength": 30
+    },
+    {
+      "id": "f3201a0b",
+      "label": "ABSa",
+      "type": "entity",
+      "category": "financial_institutions",
+      "relationship_count": 9,
+      "total_relationship_strength": 44
+    },
+    {
+      "id": "7628f205",
+      "label": "Rwd",
+      "type": "entity",
+      "category": "companies"
+    },
+    {
+      "id": "a8907394",
+      "label": "RwD",
+      "type": "entity",
+      "category": "companies"
+    },
+    {
+      "id": "435996d6",
+      "label": "SARS",
+      "type": "entity",
+      "category": "regulatory",
+      "relationship_count": 1,
+      "total_relationship_strength": 4
+    },
+    {
+      "id": "a1f7528f",
+      "label": "Strategic Logistic",
+      "type": "entity",
+      "category": "companies",
+      "relationship_count": 2,
+      "total_relationship_strength": 20
+    },
+    {
+      "id": "9f7f0fa9",
+      "label": "fNB",
+      "type": "entity",
+      "category": "financial_institutions",
+      "relationship_count": 7,
+      "total_relationship_strength": 51
+    },
+    {
+      "id": "862ccbc1",
+      "label": "RWD",
+      "type": "entity",
+      "category": "companies"
+    },
+    {
+      "id": "90210e80",
+      "label": "fnB",
+      "type": "entity",
+      "category": "financial_institutions",
+      "relationship_count": 7,
+      "total_relationship_strength": 51
+    },
+    {
+      "id": "7441b41a",
+      "label": "Regima Skin Treatments",
+      "type": "entity",
+      "category": "companies",
+      "relationship_count": 5,
+      "total_relationship_strength": 35
+    },
+    {
+      "id": "9a5b510f",
+      "label": "Regima Group",
+      "type": "entity",
+      "category": "companies"
+    },
+    {
+      "id": "f541bcb6",
+      "label": "fnb",
+      "type": "entity",
+      "category": "financial_institutions",
+      "relationship_count": 7,
+      "total_relationship_strength": 51
+    },
+    {
+      "id": "2bf8d69d",
+      "label": "Fnb",
+      "type": "entity",
+      "category": "financial_institutions",
+      "relationship_count": 7,
+      "total_relationship_strength": 51
+    },
+    {
+      "id": "7b608d7d",
+      "label": "REGIMA GROUP",
+      "type": "entity",
+      "category": "companies"
+    },
+    {
+      "id": "76cc70d0",
+      "label": "CIPC",
+      "type": "entity",
+      "category": "regulatory",
+      "relationship_count": 8,
+      "total_relationship_strength": 22
+    },
+    {
+      "id": "d674dfcd",
+      "label": "rst",
+      "type": "entity",
+      "category": "companies",
+      "relationship_count": 6,
+      "total_relationship_strength": 45
+    },
+    {
+      "id": "1229f219",
+      "label": "ABSA",
+      "type": "entity",
+      "category": "financial_institutions",
+      "relationship_count": 9,
+      "total_relationship_strength": 44
+    },
+    {
+      "id": "d7005493",
+      "label": "rwD",
+      "type": "entity",
+      "category": "companies"
+    },
+    {
+      "id": "b7581421",
+      "label": "slg",
+      "type": "entity",
+      "category": "companies",
+      "relationship_count": 3,
+      "total_relationship_strength": 30
+    },
+    {
+      "id": "93681fbf",
+      "label": "RegimA Group",
+      "type": "entity",
+      "category": "companies"
+    },
+    {
+      "id": "e59b2b88",
+      "label": "VVA",
+      "type": "entity",
+      "category": "companies",
+      "relationship_count": 2,
+      "total_relationship_strength": 25
+    },
+    {
+      "id": "ede8d444",
+      "label": "FNB",
+      "type": "entity",
+      "category": "financial_institutions",
+      "relationship_count": 7,
+      "total_relationship_strength": 51
+    },
+    {
+      "id": "e8ee7848",
+      "label": "sLg",
+      "type": "entity",
+      "category": "companies",
+      "relationship_count": 3,
+      "total_relationship_strength": 30
+    },
+    {
+      "id": "d4c3af61",
+      "label": "Absa",
+      "type": "entity",
+      "category": "financial_institutions",
+      "relationship_count": 9,
+      "total_relationship_strength": 44
+    },
+    {
+      "id": "bff7effb",
+      "label": "RegimA group",
+      "type": "entity",
+      "category": "companies"
+    },
+    {
+      "id": "72f3c338",
+      "label": "rwd",
+      "type": "entity",
+      "category": "companies"
+    },
+    {
+      "id": "f675a50b",
+      "label": "RegimA Worldwide Distribution",
+      "type": "entity",
+      "category": "companies",
+      "relationship_count": 4,
+      "total_relationship_strength": 27
+    },
+    {
+      "id": "9cfe367f",
+      "label": "Vva",
+      "type": "entity",
+      "category": "companies",
+      "relationship_count": 2,
+      "total_relationship_strength": 25
+    },
+    {
+      "id": "7dad9647",
+      "label": "Strategic Logistics",
+      "type": "entity",
+      "category": "companies",
+      "relationship_count": 2,
+      "total_relationship_strength": 20
+    },
+    {
+      "id": "8f662ccd",
+      "label": "RegimA Skin Treatments",
+      "type": "entity",
+      "category": "companies",
+      "relationship_count": 5,
+      "total_relationship_strength": 35
+    },
+    {
+      "id": "da8a5a4d",
+      "label": "Villa Via Arcadia",
+      "type": "entity",
+      "category": "companies",
+      "relationship_count": 1,
+      "total_relationship_strength": 10
+    },
+    {
+      "id": "fbe78d39",
+      "label": "RST",
+      "type": "entity",
+      "category": "companies",
+      "relationship_count": 6,
+      "total_relationship_strength": 45
+    },
+    {
+      "id": "event_2025_06_06",
+      "label": "Event 2025-06-06",
+      "type": "event",
+      "date": "2025-06-06"
+    },
+    {
+      "id": "event_2025_06_10",
+      "label": "Event 2025-06-10",
+      "type": "event",
+      "date": "2025-06-10"
+    },
+    {
+      "id": "event_2025_04_14",
+      "label": "Event 2025-04-14",
+      "type": "event",
+      "date": "2025-04-14"
+    },
+    {
+      "id": "legal_group_1",
+      "label": "J P Legal Group",
+      "type": "legal_structure",
+      "category": "ownership_group",
+      "shareholders": [
+        "Jax",
+        "Pete"
+      ],
+      "entity_count": 5,
+      "legal_separation": true
+    },
+    {
+      "id": "legal_group_2",
+      "label": "D J P Legal Group",
+      "type": "legal_structure",
+      "category": "ownership_group",
+      "shareholders": [
+        "Dan",
+        "Jax",
+        "Pete"
+      ],
+      "entity_count": 5,
+      "legal_separation": true
+    },
+    {
+      "id": "legal_group_3",
+      "label": "D P Legal Group",
+      "type": "legal_structure",
+      "category": "ownership_group",
+      "shareholders": [
+        "Dan",
+        "Pete"
+      ],
+      "entity_count": 1,
+      "legal_separation": true
+    },
+    {
+      "id": "legal_group_4",
+      "label": "D Only Legal Group",
+      "type": "legal_structure",
+      "category": "ownership_group",
+      "shareholders": [
+        "Dan"
+      ],
+      "entity_count": 8,
+      "legal_separation": true
+    },
+    {
+      "id": "daniel_faucitt",
+      "label": "Daniel Faucitt",
+      "type": "entity",
+      "category": "people",
+      "role": "Financial Analyst/Whistleblower",
+      "email": "d@rzo.io",
+      "critical_disclosure": true
+    }
+  ],
+  "edges": [
+    {
+      "id": "rel_920c7732",
+      "source": "a8a750ac",
+      "target": "61ea9de8",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_65a6e8f1",
+      "source": "a8a750ac",
+      "target": "e5d84353",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_8833889f",
+      "source": "a8a750ac",
+      "target": "f3201a0b",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_2687b240",
+      "source": "a8a750ac",
+      "target": "7628f205",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_6c3f6807",
+      "source": "a8a750ac",
+      "target": "a8907394",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_5a4caee0",
+      "source": "a8a750ac",
+      "target": "435996d6",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_b51eb9cd",
+      "source": "a8a750ac",
+      "target": "a1f7528f",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_b15b2009",
+      "source": "a8a750ac",
+      "target": "9f7f0fa9",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_179c2362",
+      "source": "a8a750ac",
+      "target": "862ccbc1",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_7f6927f6",
+      "source": "a8a750ac",
+      "target": "90210e80",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_6efb4c42",
+      "source": "a8a750ac",
+      "target": "7441b41a",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_508401bd",
+      "source": "a8a750ac",
+      "target": "9a5b510f",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_cb08a55d",
+      "source": "a8a750ac",
+      "target": "f541bcb6",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_b72ad25d",
+      "source": "a8a750ac",
+      "target": "2bf8d69d",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_950de765",
+      "source": "a8a750ac",
+      "target": "7b608d7d",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_c1152773",
+      "source": "a8a750ac",
+      "target": "76cc70d0",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_5ce3f0fa",
+      "source": "a8a750ac",
+      "target": "d674dfcd",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_a1a6e687",
+      "source": "a8a750ac",
+      "target": "1229f219",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_cc8e70f2",
+      "source": "a8a750ac",
+      "target": "d7005493",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_27766140",
+      "source": "a8a750ac",
+      "target": "b7581421",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_a6b263ff",
+      "source": "a8a750ac",
+      "target": "93681fbf",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_24262851",
+      "source": "a8a750ac",
+      "target": "e59b2b88",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_954e155d",
+      "source": "a8a750ac",
+      "target": "ede8d444",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_556b5f43",
+      "source": "a8a750ac",
+      "target": "e8ee7848",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_e324a6d0",
+      "source": "a8a750ac",
+      "target": "d4c3af61",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_5befd71e",
+      "source": "a8a750ac",
+      "target": "bff7effb",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_c6c1bbb9",
+      "source": "a8a750ac",
+      "target": "72f3c338",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_802e083a",
+      "source": "a8a750ac",
+      "target": "f675a50b",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_6d7cffee",
+      "source": "a8a750ac",
+      "target": "9cfe367f",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_9ea55565",
+      "source": "a8a750ac",
+      "target": "7dad9647",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_167eda84",
+      "source": "a8a750ac",
+      "target": "8f662ccd",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_713620db",
+      "source": "a8a750ac",
+      "target": "da8a5a4d",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_fc3f3fb6",
+      "source": "a8a750ac",
+      "target": "fbe78d39",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_9dad8c9f",
+      "source": "61ea9de8",
+      "target": "e5d84353",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_d1009a17",
+      "source": "61ea9de8",
+      "target": "f3201a0b",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_20a0f1f2",
+      "source": "61ea9de8",
+      "target": "7628f205",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_aa37d2b9",
+      "source": "61ea9de8",
+      "target": "a8907394",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_0e98688f",
+      "source": "61ea9de8",
+      "target": "435996d6",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_6766646d",
+      "source": "61ea9de8",
+      "target": "a1f7528f",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_dfca3808",
+      "source": "61ea9de8",
+      "target": "9f7f0fa9",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_a422a0ba",
+      "source": "61ea9de8",
+      "target": "862ccbc1",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_77c94a67",
+      "source": "61ea9de8",
+      "target": "90210e80",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_b796eac1",
+      "source": "61ea9de8",
+      "target": "7441b41a",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_c60fa42e",
+      "source": "61ea9de8",
+      "target": "9a5b510f",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_2f23ed6f",
+      "source": "61ea9de8",
+      "target": "f541bcb6",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_8fe2d0fb",
+      "source": "61ea9de8",
+      "target": "2bf8d69d",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_3f412f35",
+      "source": "61ea9de8",
+      "target": "7b608d7d",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_7ed4c0e7",
+      "source": "61ea9de8",
+      "target": "76cc70d0",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_bfb70797",
+      "source": "61ea9de8",
+      "target": "d674dfcd",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_6717b9ba",
+      "source": "61ea9de8",
+      "target": "1229f219",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_00df82ad",
+      "source": "61ea9de8",
+      "target": "d7005493",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_40201dc3",
+      "source": "61ea9de8",
+      "target": "b7581421",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_49d60b6d",
+      "source": "61ea9de8",
+      "target": "93681fbf",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_480a6439",
+      "source": "61ea9de8",
+      "target": "e59b2b88",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_9b054ab6",
+      "source": "61ea9de8",
+      "target": "ede8d444",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_265a5154",
+      "source": "61ea9de8",
+      "target": "e8ee7848",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_c4900be3",
+      "source": "61ea9de8",
+      "target": "d4c3af61",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_9abe3f68",
+      "source": "61ea9de8",
+      "target": "bff7effb",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_831424b4",
+      "source": "61ea9de8",
+      "target": "72f3c338",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_dcdfa631",
+      "source": "61ea9de8",
+      "target": "f675a50b",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_175adce0",
+      "source": "61ea9de8",
+      "target": "9cfe367f",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_e7118cb3",
+      "source": "61ea9de8",
+      "target": "7dad9647",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_d2a066f9",
+      "source": "61ea9de8",
+      "target": "8f662ccd",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_6c015d55",
+      "source": "61ea9de8",
+      "target": "da8a5a4d",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_d0d21f27",
+      "source": "61ea9de8",
+      "target": "fbe78d39",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_5f9c831c",
+      "source": "e5d84353",
+      "target": "f3201a0b",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_a04c44bc",
+      "source": "e5d84353",
+      "target": "7628f205",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_cf9832d6",
+      "source": "e5d84353",
+      "target": "a8907394",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_69b8d6b4",
+      "source": "e5d84353",
+      "target": "435996d6",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_e600893b",
+      "source": "e5d84353",
+      "target": "a1f7528f",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_f5aa97b3",
+      "source": "e5d84353",
+      "target": "9f7f0fa9",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_d4d16bc1",
+      "source": "e5d84353",
+      "target": "862ccbc1",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_1bba5ade",
+      "source": "e5d84353",
+      "target": "90210e80",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_678d1169",
+      "source": "e5d84353",
+      "target": "7441b41a",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_6310887c",
+      "source": "e5d84353",
+      "target": "9a5b510f",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_118aa154",
+      "source": "e5d84353",
+      "target": "f541bcb6",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_89d71b3a",
+      "source": "e5d84353",
+      "target": "2bf8d69d",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_7e0a9b61",
+      "source": "e5d84353",
+      "target": "7b608d7d",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_b6b0018d",
+      "source": "e5d84353",
+      "target": "76cc70d0",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_f3e56d55",
+      "source": "e5d84353",
+      "target": "d674dfcd",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_c6c3dafd",
+      "source": "e5d84353",
+      "target": "1229f219",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_f2fe9025",
+      "source": "e5d84353",
+      "target": "d7005493",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_30c18edd",
+      "source": "e5d84353",
+      "target": "b7581421",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_53d2ce89",
+      "source": "e5d84353",
+      "target": "93681fbf",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_aa3b995f",
+      "source": "e5d84353",
+      "target": "e59b2b88",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_c8be3091",
+      "source": "e5d84353",
+      "target": "ede8d444",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_0ba3e96c",
+      "source": "e5d84353",
+      "target": "e8ee7848",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_e200c7b4",
+      "source": "e5d84353",
+      "target": "d4c3af61",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_be5ba06f",
+      "source": "e5d84353",
+      "target": "bff7effb",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_0553e3cf",
+      "source": "e5d84353",
+      "target": "72f3c338",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_e1e99224",
+      "source": "e5d84353",
+      "target": "f675a50b",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_8279ae9b",
+      "source": "e5d84353",
+      "target": "9cfe367f",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_0d76460d",
+      "source": "e5d84353",
+      "target": "7dad9647",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_f640453b",
+      "source": "e5d84353",
+      "target": "8f662ccd",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_bc8998c3",
+      "source": "e5d84353",
+      "target": "da8a5a4d",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_f8509857",
+      "source": "e5d84353",
+      "target": "fbe78d39",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_5307ed6c",
+      "source": "f3201a0b",
+      "target": "7628f205",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_4bad29f6",
+      "source": "f3201a0b",
+      "target": "a8907394",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_37613c60",
+      "source": "f3201a0b",
+      "target": "435996d6",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_fa1010ae",
+      "source": "f3201a0b",
+      "target": "a1f7528f",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_97c01293",
+      "source": "f3201a0b",
+      "target": "9f7f0fa9",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_7d5b0cb1",
+      "source": "f3201a0b",
+      "target": "862ccbc1",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_c24afa80",
+      "source": "f3201a0b",
+      "target": "90210e80",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_8f1fa15d",
+      "source": "f3201a0b",
+      "target": "7441b41a",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_f69b2534",
+      "source": "f3201a0b",
+      "target": "9a5b510f",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_b644fc9e",
+      "source": "f3201a0b",
+      "target": "f541bcb6",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_48b0191b",
+      "source": "f3201a0b",
+      "target": "2bf8d69d",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_5ffbfa2d",
+      "source": "f3201a0b",
+      "target": "7b608d7d",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_574dbd82",
+      "source": "f3201a0b",
+      "target": "76cc70d0",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_e470a170",
+      "source": "f3201a0b",
+      "target": "d674dfcd",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_ce796261",
+      "source": "f3201a0b",
+      "target": "1229f219",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_55a3a04a",
+      "source": "f3201a0b",
+      "target": "d7005493",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_f3178272",
+      "source": "f3201a0b",
+      "target": "b7581421",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_36cb1994",
+      "source": "f3201a0b",
+      "target": "93681fbf",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_41efbdfb",
+      "source": "f3201a0b",
+      "target": "e59b2b88",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_320f536e",
+      "source": "f3201a0b",
+      "target": "ede8d444",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_68c0846b",
+      "source": "f3201a0b",
+      "target": "e8ee7848",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_2a098851",
+      "source": "f3201a0b",
+      "target": "d4c3af61",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_d6deba66",
+      "source": "f3201a0b",
+      "target": "bff7effb",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_cb508224",
+      "source": "f3201a0b",
+      "target": "72f3c338",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_2abff516",
+      "source": "f3201a0b",
+      "target": "f675a50b",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_01a64549",
+      "source": "f3201a0b",
+      "target": "9cfe367f",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_247d17a6",
+      "source": "f3201a0b",
+      "target": "7dad9647",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_6e543163",
+      "source": "f3201a0b",
+      "target": "8f662ccd",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_c6aef381",
+      "source": "f3201a0b",
+      "target": "da8a5a4d",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_f4268c6c",
+      "source": "f3201a0b",
+      "target": "fbe78d39",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_ed4c875d",
+      "source": "7628f205",
+      "target": "a8907394",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_332cf35d",
+      "source": "7628f205",
+      "target": "435996d6",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_95b03ce1",
+      "source": "7628f205",
+      "target": "a1f7528f",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_6b61b44a",
+      "source": "7628f205",
+      "target": "9f7f0fa9",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_acc391e1",
+      "source": "7628f205",
+      "target": "862ccbc1",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_619f87cc",
+      "source": "7628f205",
+      "target": "90210e80",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_b0465e4c",
+      "source": "7628f205",
+      "target": "7441b41a",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_4a99d953",
+      "source": "7628f205",
+      "target": "9a5b510f",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_892de3ba",
+      "source": "7628f205",
+      "target": "f541bcb6",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_e0c29c88",
+      "source": "7628f205",
+      "target": "2bf8d69d",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_fc935835",
+      "source": "7628f205",
+      "target": "7b608d7d",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_42c5b947",
+      "source": "7628f205",
+      "target": "76cc70d0",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_b17b4a2f",
+      "source": "7628f205",
+      "target": "d674dfcd",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_aa6db4dd",
+      "source": "7628f205",
+      "target": "1229f219",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_cd071f32",
+      "source": "7628f205",
+      "target": "d7005493",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_a8fb89ec",
+      "source": "7628f205",
+      "target": "b7581421",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_13d639f0",
+      "source": "7628f205",
+      "target": "93681fbf",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_f6c0491e",
+      "source": "7628f205",
+      "target": "e59b2b88",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_17baa29b",
+      "source": "7628f205",
+      "target": "ede8d444",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_b79c1ec1",
+      "source": "7628f205",
+      "target": "e8ee7848",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_5d356964",
+      "source": "7628f205",
+      "target": "d4c3af61",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_1a5dcebf",
+      "source": "7628f205",
+      "target": "bff7effb",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_7cbaf5af",
+      "source": "7628f205",
+      "target": "72f3c338",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_54945c77",
+      "source": "7628f205",
+      "target": "f675a50b",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_7f1f52a5",
+      "source": "7628f205",
+      "target": "9cfe367f",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_4007db57",
+      "source": "7628f205",
+      "target": "7dad9647",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_c5d778c7",
+      "source": "7628f205",
+      "target": "8f662ccd",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_27ec834e",
+      "source": "7628f205",
+      "target": "da8a5a4d",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_666ec43b",
+      "source": "7628f205",
+      "target": "fbe78d39",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_6f26226d",
+      "source": "a8907394",
+      "target": "435996d6",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_2f6ac253",
+      "source": "a8907394",
+      "target": "a1f7528f",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_2e1e6e56",
+      "source": "a8907394",
+      "target": "9f7f0fa9",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_72bdabd7",
+      "source": "a8907394",
+      "target": "862ccbc1",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_a4a5d761",
+      "source": "a8907394",
+      "target": "90210e80",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_18fa78ac",
+      "source": "a8907394",
+      "target": "7441b41a",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_a5e5bc22",
+      "source": "a8907394",
+      "target": "9a5b510f",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_93480951",
+      "source": "a8907394",
+      "target": "f541bcb6",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_e826a26c",
+      "source": "a8907394",
+      "target": "2bf8d69d",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_94389186",
+      "source": "a8907394",
+      "target": "7b608d7d",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_090f19ee",
+      "source": "a8907394",
+      "target": "76cc70d0",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_cb3df27f",
+      "source": "a8907394",
+      "target": "d674dfcd",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_f35cad98",
+      "source": "a8907394",
+      "target": "1229f219",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_218dbb89",
+      "source": "a8907394",
+      "target": "d7005493",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_2e084d7e",
+      "source": "a8907394",
+      "target": "b7581421",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_7d1acde4",
+      "source": "a8907394",
+      "target": "93681fbf",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_f17059b0",
+      "source": "a8907394",
+      "target": "e59b2b88",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_9bce18a3",
+      "source": "a8907394",
+      "target": "ede8d444",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_3a8816c0",
+      "source": "a8907394",
+      "target": "e8ee7848",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_7cbfab06",
+      "source": "a8907394",
+      "target": "d4c3af61",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_8d2a59b3",
+      "source": "a8907394",
+      "target": "bff7effb",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_6f9243f3",
+      "source": "a8907394",
+      "target": "72f3c338",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_5ee94923",
+      "source": "a8907394",
+      "target": "f675a50b",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_ca8ffa87",
+      "source": "a8907394",
+      "target": "9cfe367f",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_878d445c",
+      "source": "a8907394",
+      "target": "7dad9647",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_f1774056",
+      "source": "a8907394",
+      "target": "8f662ccd",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_87bd6b3e",
+      "source": "a8907394",
+      "target": "da8a5a4d",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_288774ab",
+      "source": "a8907394",
+      "target": "fbe78d39",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_d63e899e",
+      "source": "435996d6",
+      "target": "a1f7528f",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_98d8066b",
+      "source": "435996d6",
+      "target": "9f7f0fa9",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_11ad7753",
+      "source": "435996d6",
+      "target": "862ccbc1",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_e8668fb3",
+      "source": "435996d6",
+      "target": "90210e80",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_e29fdfae",
+      "source": "435996d6",
+      "target": "7441b41a",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_be8d948f",
+      "source": "435996d6",
+      "target": "9a5b510f",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_685852a2",
+      "source": "435996d6",
+      "target": "f541bcb6",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_11f10c79",
+      "source": "435996d6",
+      "target": "2bf8d69d",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_d57d9ee3",
+      "source": "435996d6",
+      "target": "7b608d7d",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_1c2fc8c5",
+      "source": "435996d6",
+      "target": "76cc70d0",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_262a4d9e",
+      "source": "435996d6",
+      "target": "d674dfcd",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_df68c060",
+      "source": "435996d6",
+      "target": "1229f219",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_442dab09",
+      "source": "435996d6",
+      "target": "d7005493",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_6117925f",
+      "source": "435996d6",
+      "target": "b7581421",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_19805b3f",
+      "source": "435996d6",
+      "target": "93681fbf",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_d389344c",
+      "source": "435996d6",
+      "target": "e59b2b88",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_54b647e4",
+      "source": "435996d6",
+      "target": "ede8d444",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_b6ba4595",
+      "source": "435996d6",
+      "target": "e8ee7848",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_7cab8fa7",
+      "source": "435996d6",
+      "target": "d4c3af61",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_b9de9605",
+      "source": "435996d6",
+      "target": "bff7effb",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_6c37c13f",
+      "source": "435996d6",
+      "target": "72f3c338",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_99edc039",
+      "source": "435996d6",
+      "target": "f675a50b",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_b9cc8915",
+      "source": "435996d6",
+      "target": "9cfe367f",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_1b3c1d05",
+      "source": "435996d6",
+      "target": "7dad9647",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_8303a365",
+      "source": "435996d6",
+      "target": "8f662ccd",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_81f51519",
+      "source": "435996d6",
+      "target": "da8a5a4d",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_8279f2cc",
+      "source": "435996d6",
+      "target": "fbe78d39",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_aee0300d",
+      "source": "a1f7528f",
+      "target": "9f7f0fa9",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_bd31b5b2",
+      "source": "a1f7528f",
+      "target": "862ccbc1",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_2a559978",
+      "source": "a1f7528f",
+      "target": "90210e80",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_db5c06d8",
+      "source": "a1f7528f",
+      "target": "7441b41a",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_d47f2f50",
+      "source": "a1f7528f",
+      "target": "9a5b510f",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_39ce5ab2",
+      "source": "a1f7528f",
+      "target": "f541bcb6",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_b80f4ad8",
+      "source": "a1f7528f",
+      "target": "2bf8d69d",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_ae4e34ed",
+      "source": "a1f7528f",
+      "target": "7b608d7d",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_3bb84c14",
+      "source": "a1f7528f",
+      "target": "76cc70d0",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_405a5f32",
+      "source": "a1f7528f",
+      "target": "d674dfcd",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_0f20934b",
+      "source": "a1f7528f",
+      "target": "1229f219",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_9bdadb88",
+      "source": "a1f7528f",
+      "target": "d7005493",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_f2efccf2",
+      "source": "a1f7528f",
+      "target": "b7581421",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_9498ea73",
+      "source": "a1f7528f",
+      "target": "93681fbf",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_b445dd44",
+      "source": "a1f7528f",
+      "target": "e59b2b88",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_4d51988b",
+      "source": "a1f7528f",
+      "target": "ede8d444",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_30bb4e3c",
+      "source": "a1f7528f",
+      "target": "e8ee7848",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_786f1d99",
+      "source": "a1f7528f",
+      "target": "d4c3af61",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_e7bde509",
+      "source": "a1f7528f",
+      "target": "bff7effb",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_03d66cfa",
+      "source": "a1f7528f",
+      "target": "72f3c338",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_f9f96b59",
+      "source": "a1f7528f",
+      "target": "f675a50b",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_0322f531",
+      "source": "a1f7528f",
+      "target": "9cfe367f",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_fb29562d",
+      "source": "a1f7528f",
+      "target": "7dad9647",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_7a954060",
+      "source": "a1f7528f",
+      "target": "8f662ccd",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_0675dad0",
+      "source": "a1f7528f",
+      "target": "da8a5a4d",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_abff643e",
+      "source": "a1f7528f",
+      "target": "fbe78d39",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_47d907e5",
+      "source": "9f7f0fa9",
+      "target": "862ccbc1",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_57886cc2",
+      "source": "9f7f0fa9",
+      "target": "90210e80",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_966d1206",
+      "source": "9f7f0fa9",
+      "target": "7441b41a",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_fb36d6be",
+      "source": "9f7f0fa9",
+      "target": "9a5b510f",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_bfcbbc55",
+      "source": "9f7f0fa9",
+      "target": "f541bcb6",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_9e4ecaee",
+      "source": "9f7f0fa9",
+      "target": "2bf8d69d",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_33f4f2be",
+      "source": "9f7f0fa9",
+      "target": "7b608d7d",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_53a3ade1",
+      "source": "9f7f0fa9",
+      "target": "76cc70d0",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_4628ba91",
+      "source": "9f7f0fa9",
+      "target": "d674dfcd",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_fe57cec7",
+      "source": "9f7f0fa9",
+      "target": "1229f219",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_b1f256c5",
+      "source": "9f7f0fa9",
+      "target": "d7005493",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_33131a4a",
+      "source": "9f7f0fa9",
+      "target": "b7581421",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_0af17f45",
+      "source": "9f7f0fa9",
+      "target": "93681fbf",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_0dfcedb2",
+      "source": "9f7f0fa9",
+      "target": "e59b2b88",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_9f1630d9",
+      "source": "9f7f0fa9",
+      "target": "ede8d444",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_a74f1e51",
+      "source": "9f7f0fa9",
+      "target": "e8ee7848",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_2aecfc9c",
+      "source": "9f7f0fa9",
+      "target": "d4c3af61",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_0d10eaae",
+      "source": "9f7f0fa9",
+      "target": "bff7effb",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_fe3f4d8d",
+      "source": "9f7f0fa9",
+      "target": "72f3c338",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_862d4876",
+      "source": "9f7f0fa9",
+      "target": "f675a50b",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_c091811a",
+      "source": "9f7f0fa9",
+      "target": "9cfe367f",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_686d1112",
+      "source": "9f7f0fa9",
+      "target": "7dad9647",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_5c5062f3",
+      "source": "9f7f0fa9",
+      "target": "8f662ccd",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_59ea1880",
+      "source": "9f7f0fa9",
+      "target": "da8a5a4d",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_0a0c6a8a",
+      "source": "9f7f0fa9",
+      "target": "fbe78d39",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_0e651382",
+      "source": "862ccbc1",
+      "target": "90210e80",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_263314ff",
+      "source": "862ccbc1",
+      "target": "7441b41a",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_b0f45612",
+      "source": "862ccbc1",
+      "target": "9a5b510f",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_f795529b",
+      "source": "862ccbc1",
+      "target": "f541bcb6",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_5e2bfdab",
+      "source": "862ccbc1",
+      "target": "2bf8d69d",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_18cca6b5",
+      "source": "862ccbc1",
+      "target": "7b608d7d",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_4ae21340",
+      "source": "862ccbc1",
+      "target": "76cc70d0",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_f2567aed",
+      "source": "862ccbc1",
+      "target": "d674dfcd",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_4c341bfa",
+      "source": "862ccbc1",
+      "target": "1229f219",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_82d134b1",
+      "source": "862ccbc1",
+      "target": "d7005493",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_9f55a149",
+      "source": "862ccbc1",
+      "target": "b7581421",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_52406ccf",
+      "source": "862ccbc1",
+      "target": "93681fbf",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_2b9f7e73",
+      "source": "862ccbc1",
+      "target": "e59b2b88",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_189d88de",
+      "source": "862ccbc1",
+      "target": "ede8d444",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_4e0c9cab",
+      "source": "862ccbc1",
+      "target": "e8ee7848",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_fefe5326",
+      "source": "862ccbc1",
+      "target": "d4c3af61",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_47db6ed4",
+      "source": "862ccbc1",
+      "target": "bff7effb",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_cc93b0d0",
+      "source": "862ccbc1",
+      "target": "72f3c338",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_ccac0562",
+      "source": "862ccbc1",
+      "target": "f675a50b",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_6ae48ebb",
+      "source": "862ccbc1",
+      "target": "9cfe367f",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_8e28fbe5",
+      "source": "862ccbc1",
+      "target": "7dad9647",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_435e394b",
+      "source": "862ccbc1",
+      "target": "8f662ccd",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_f439b796",
+      "source": "862ccbc1",
+      "target": "da8a5a4d",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_45009648",
+      "source": "862ccbc1",
+      "target": "fbe78d39",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_10204d67",
+      "source": "90210e80",
+      "target": "7441b41a",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_087c7d5d",
+      "source": "90210e80",
+      "target": "9a5b510f",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_864481b0",
+      "source": "90210e80",
+      "target": "f541bcb6",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_b8cd1369",
+      "source": "90210e80",
+      "target": "2bf8d69d",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_877f83d2",
+      "source": "90210e80",
+      "target": "7b608d7d",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_a68ebf3a",
+      "source": "90210e80",
+      "target": "76cc70d0",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_aaae558e",
+      "source": "90210e80",
+      "target": "d674dfcd",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_690e2374",
+      "source": "90210e80",
+      "target": "1229f219",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_d3e56845",
+      "source": "90210e80",
+      "target": "d7005493",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_54f01abb",
+      "source": "90210e80",
+      "target": "b7581421",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_95ee30e1",
+      "source": "90210e80",
+      "target": "93681fbf",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_98ecfc26",
+      "source": "90210e80",
+      "target": "e59b2b88",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_90a0ca30",
+      "source": "90210e80",
+      "target": "ede8d444",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_1de04ae8",
+      "source": "90210e80",
+      "target": "e8ee7848",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_0d2104c4",
+      "source": "90210e80",
+      "target": "d4c3af61",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_6a5a3839",
+      "source": "90210e80",
+      "target": "bff7effb",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_7d0e135c",
+      "source": "90210e80",
+      "target": "72f3c338",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_299325ff",
+      "source": "90210e80",
+      "target": "f675a50b",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_39c0eb4e",
+      "source": "90210e80",
+      "target": "9cfe367f",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_c2071ac1",
+      "source": "90210e80",
+      "target": "7dad9647",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_37fc9d4f",
+      "source": "90210e80",
+      "target": "8f662ccd",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_11cbd995",
+      "source": "90210e80",
+      "target": "da8a5a4d",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_0c505230",
+      "source": "90210e80",
+      "target": "fbe78d39",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_f07fd089",
+      "source": "7441b41a",
+      "target": "9a5b510f",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_897c11c4",
+      "source": "7441b41a",
+      "target": "f541bcb6",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_0aabc16b",
+      "source": "7441b41a",
+      "target": "2bf8d69d",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_3b7c43fd",
+      "source": "7441b41a",
+      "target": "7b608d7d",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_36491943",
+      "source": "7441b41a",
+      "target": "76cc70d0",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_f77fa96b",
+      "source": "7441b41a",
+      "target": "d674dfcd",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_cc8e50c1",
+      "source": "7441b41a",
+      "target": "1229f219",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_b9e22066",
+      "source": "7441b41a",
+      "target": "d7005493",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_fb5a7e7a",
+      "source": "7441b41a",
+      "target": "b7581421",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_35089279",
+      "source": "7441b41a",
+      "target": "93681fbf",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_7e93b47b",
+      "source": "7441b41a",
+      "target": "e59b2b88",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_0c138c33",
+      "source": "7441b41a",
+      "target": "ede8d444",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_87da9e11",
+      "source": "7441b41a",
+      "target": "e8ee7848",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_2fc9f567",
+      "source": "7441b41a",
+      "target": "d4c3af61",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_43c93eb5",
+      "source": "7441b41a",
+      "target": "bff7effb",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_c47e6113",
+      "source": "7441b41a",
+      "target": "72f3c338",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_6cb8b024",
+      "source": "7441b41a",
+      "target": "f675a50b",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_a59e42cb",
+      "source": "7441b41a",
+      "target": "9cfe367f",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_23208e19",
+      "source": "7441b41a",
+      "target": "7dad9647",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_34272aa2",
+      "source": "7441b41a",
+      "target": "8f662ccd",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_5cdefee4",
+      "source": "7441b41a",
+      "target": "da8a5a4d",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_11b5edce",
+      "source": "7441b41a",
+      "target": "fbe78d39",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_1033e9be",
+      "source": "9a5b510f",
+      "target": "f541bcb6",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_cfe640b3",
+      "source": "9a5b510f",
+      "target": "2bf8d69d",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_f5de0626",
+      "source": "9a5b510f",
+      "target": "7b608d7d",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_6fe9b8ca",
+      "source": "9a5b510f",
+      "target": "76cc70d0",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_3d44a5c1",
+      "source": "9a5b510f",
+      "target": "d674dfcd",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_8836cdbe",
+      "source": "9a5b510f",
+      "target": "1229f219",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_27599afd",
+      "source": "9a5b510f",
+      "target": "d7005493",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_17868a94",
+      "source": "9a5b510f",
+      "target": "b7581421",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_6ec85190",
+      "source": "9a5b510f",
+      "target": "93681fbf",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_0ec14eac",
+      "source": "9a5b510f",
+      "target": "e59b2b88",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_7b4676d9",
+      "source": "9a5b510f",
+      "target": "ede8d444",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_04cb8744",
+      "source": "9a5b510f",
+      "target": "e8ee7848",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_3f9aaab2",
+      "source": "9a5b510f",
+      "target": "d4c3af61",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_7fcd0c24",
+      "source": "9a5b510f",
+      "target": "bff7effb",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_51bc9950",
+      "source": "9a5b510f",
+      "target": "72f3c338",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_90e1fd94",
+      "source": "9a5b510f",
+      "target": "f675a50b",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_c9d964f5",
+      "source": "9a5b510f",
+      "target": "9cfe367f",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_e97423b0",
+      "source": "9a5b510f",
+      "target": "7dad9647",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_221fc107",
+      "source": "9a5b510f",
+      "target": "8f662ccd",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_51fd8428",
+      "source": "9a5b510f",
+      "target": "da8a5a4d",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_c3e98a9e",
+      "source": "9a5b510f",
+      "target": "fbe78d39",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_5c0a6982",
+      "source": "f541bcb6",
+      "target": "2bf8d69d",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_655f3f17",
+      "source": "f541bcb6",
+      "target": "7b608d7d",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_5619d5a9",
+      "source": "f541bcb6",
+      "target": "76cc70d0",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_0ac559af",
+      "source": "f541bcb6",
+      "target": "d674dfcd",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_873656dd",
+      "source": "f541bcb6",
+      "target": "1229f219",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_371642be",
+      "source": "f541bcb6",
+      "target": "d7005493",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_4ad2ff91",
+      "source": "f541bcb6",
+      "target": "b7581421",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_f402dbd1",
+      "source": "f541bcb6",
+      "target": "93681fbf",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_90b4bd52",
+      "source": "f541bcb6",
+      "target": "e59b2b88",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_cc554cdc",
+      "source": "f541bcb6",
+      "target": "ede8d444",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_8dab10df",
+      "source": "f541bcb6",
+      "target": "e8ee7848",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_05938ac1",
+      "source": "f541bcb6",
+      "target": "d4c3af61",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_b78578bd",
+      "source": "f541bcb6",
+      "target": "bff7effb",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_952f5526",
+      "source": "f541bcb6",
+      "target": "72f3c338",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_7dad0291",
+      "source": "f541bcb6",
+      "target": "f675a50b",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_d7af3dad",
+      "source": "f541bcb6",
+      "target": "9cfe367f",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_0afa28b8",
+      "source": "f541bcb6",
+      "target": "7dad9647",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_724b644d",
+      "source": "f541bcb6",
+      "target": "8f662ccd",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_d1a56668",
+      "source": "f541bcb6",
+      "target": "da8a5a4d",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_edeb070b",
+      "source": "f541bcb6",
+      "target": "fbe78d39",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_d7f0936b",
+      "source": "2bf8d69d",
+      "target": "7b608d7d",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_a69fb69b",
+      "source": "2bf8d69d",
+      "target": "76cc70d0",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_d00ed70a",
+      "source": "2bf8d69d",
+      "target": "d674dfcd",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_a335c035",
+      "source": "2bf8d69d",
+      "target": "1229f219",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_628d5283",
+      "source": "2bf8d69d",
+      "target": "d7005493",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_6e286ca4",
+      "source": "2bf8d69d",
+      "target": "b7581421",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_3c930312",
+      "source": "2bf8d69d",
+      "target": "93681fbf",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_3377be32",
+      "source": "2bf8d69d",
+      "target": "e59b2b88",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_d34b7b3e",
+      "source": "2bf8d69d",
+      "target": "ede8d444",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_9a1b5035",
+      "source": "2bf8d69d",
+      "target": "e8ee7848",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_658fe6eb",
+      "source": "2bf8d69d",
+      "target": "d4c3af61",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_773bdc45",
+      "source": "2bf8d69d",
+      "target": "bff7effb",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_d62e138c",
+      "source": "2bf8d69d",
+      "target": "72f3c338",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_a7619d75",
+      "source": "2bf8d69d",
+      "target": "f675a50b",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_d6f512f3",
+      "source": "2bf8d69d",
+      "target": "9cfe367f",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_cdb00614",
+      "source": "2bf8d69d",
+      "target": "7dad9647",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_9a1fa7a5",
+      "source": "2bf8d69d",
+      "target": "8f662ccd",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_1e20af34",
+      "source": "2bf8d69d",
+      "target": "da8a5a4d",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_91d68f1d",
+      "source": "2bf8d69d",
+      "target": "fbe78d39",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_3993857f",
+      "source": "7b608d7d",
+      "target": "76cc70d0",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_d0c608d8",
+      "source": "7b608d7d",
+      "target": "d674dfcd",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_c9d965d5",
+      "source": "7b608d7d",
+      "target": "1229f219",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_efeb05f6",
+      "source": "7b608d7d",
+      "target": "d7005493",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_a381696c",
+      "source": "7b608d7d",
+      "target": "b7581421",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_41f7dd62",
+      "source": "7b608d7d",
+      "target": "93681fbf",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_b0dbe9c1",
+      "source": "7b608d7d",
+      "target": "e59b2b88",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_7b7c99a9",
+      "source": "7b608d7d",
+      "target": "ede8d444",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_ac787003",
+      "source": "7b608d7d",
+      "target": "e8ee7848",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_7dee12d3",
+      "source": "7b608d7d",
+      "target": "d4c3af61",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_975a4210",
+      "source": "7b608d7d",
+      "target": "bff7effb",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_22122d08",
+      "source": "7b608d7d",
+      "target": "72f3c338",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_2871b547",
+      "source": "7b608d7d",
+      "target": "f675a50b",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_a8996118",
+      "source": "7b608d7d",
+      "target": "9cfe367f",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_ecc20c29",
+      "source": "7b608d7d",
+      "target": "7dad9647",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_94ae36b7",
+      "source": "7b608d7d",
+      "target": "8f662ccd",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_13d9df2d",
+      "source": "7b608d7d",
+      "target": "da8a5a4d",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_2cd20241",
+      "source": "7b608d7d",
+      "target": "fbe78d39",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_c4b46945",
+      "source": "76cc70d0",
+      "target": "d674dfcd",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_4fa40c75",
+      "source": "76cc70d0",
+      "target": "1229f219",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_1d094887",
+      "source": "76cc70d0",
+      "target": "d7005493",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_047ab5bc",
+      "source": "76cc70d0",
+      "target": "b7581421",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_690168ec",
+      "source": "76cc70d0",
+      "target": "93681fbf",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_fd81a953",
+      "source": "76cc70d0",
+      "target": "e59b2b88",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_f7864852",
+      "source": "76cc70d0",
+      "target": "ede8d444",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_0ac0183a",
+      "source": "76cc70d0",
+      "target": "e8ee7848",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_15711109",
+      "source": "76cc70d0",
+      "target": "d4c3af61",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_2aa00c1b",
+      "source": "76cc70d0",
+      "target": "bff7effb",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_e70670ba",
+      "source": "76cc70d0",
+      "target": "72f3c338",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_83dc72ce",
+      "source": "76cc70d0",
+      "target": "f675a50b",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_c742b720",
+      "source": "76cc70d0",
+      "target": "9cfe367f",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_2c7fc505",
+      "source": "76cc70d0",
+      "target": "7dad9647",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_59302e60",
+      "source": "76cc70d0",
+      "target": "8f662ccd",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_bbaa2b0e",
+      "source": "76cc70d0",
+      "target": "da8a5a4d",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_88a3760e",
+      "source": "76cc70d0",
+      "target": "fbe78d39",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_b7f5d18b",
+      "source": "d674dfcd",
+      "target": "1229f219",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_a7adddea",
+      "source": "d674dfcd",
+      "target": "d7005493",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_4c0f704a",
+      "source": "d674dfcd",
+      "target": "b7581421",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_e018dd4b",
+      "source": "d674dfcd",
+      "target": "93681fbf",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_022bf6a7",
+      "source": "d674dfcd",
+      "target": "e59b2b88",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_bc0e40f6",
+      "source": "d674dfcd",
+      "target": "ede8d444",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_6622761d",
+      "source": "d674dfcd",
+      "target": "e8ee7848",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_727120a4",
+      "source": "d674dfcd",
+      "target": "d4c3af61",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_c137dd15",
+      "source": "d674dfcd",
+      "target": "bff7effb",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_835360a4",
+      "source": "d674dfcd",
+      "target": "72f3c338",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_36fe0104",
+      "source": "d674dfcd",
+      "target": "f675a50b",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_f8fdcd16",
+      "source": "d674dfcd",
+      "target": "9cfe367f",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_840b333e",
+      "source": "d674dfcd",
+      "target": "7dad9647",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_8d78618d",
+      "source": "d674dfcd",
+      "target": "8f662ccd",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_9c1804ca",
+      "source": "d674dfcd",
+      "target": "da8a5a4d",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_c7dc3972",
+      "source": "d674dfcd",
+      "target": "fbe78d39",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_4429e54c",
+      "source": "1229f219",
+      "target": "d7005493",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_b78260e6",
+      "source": "1229f219",
+      "target": "b7581421",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_87c6ef35",
+      "source": "1229f219",
+      "target": "93681fbf",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_f426ffe7",
+      "source": "1229f219",
+      "target": "e59b2b88",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_f0c8b627",
+      "source": "1229f219",
+      "target": "ede8d444",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_4e449a3a",
+      "source": "1229f219",
+      "target": "e8ee7848",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_2afa87a5",
+      "source": "1229f219",
+      "target": "d4c3af61",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_67d5cf43",
+      "source": "1229f219",
+      "target": "bff7effb",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_8a317c54",
+      "source": "1229f219",
+      "target": "72f3c338",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_0862a452",
+      "source": "1229f219",
+      "target": "f675a50b",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_9671811f",
+      "source": "1229f219",
+      "target": "9cfe367f",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_e5aa3c86",
+      "source": "1229f219",
+      "target": "7dad9647",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_36a670dd",
+      "source": "1229f219",
+      "target": "8f662ccd",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_ca3dba14",
+      "source": "1229f219",
+      "target": "da8a5a4d",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_8f1e9bd9",
+      "source": "1229f219",
+      "target": "fbe78d39",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_9d1601a4",
+      "source": "d7005493",
+      "target": "b7581421",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_8b187b6b",
+      "source": "d7005493",
+      "target": "93681fbf",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_d151039c",
+      "source": "d7005493",
+      "target": "e59b2b88",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_8b0bb3c8",
+      "source": "d7005493",
+      "target": "ede8d444",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_e0b928a6",
+      "source": "d7005493",
+      "target": "e8ee7848",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_a6d00044",
+      "source": "d7005493",
+      "target": "d4c3af61",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_1efe6307",
+      "source": "d7005493",
+      "target": "bff7effb",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_6719df82",
+      "source": "d7005493",
+      "target": "72f3c338",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_4be90e8f",
+      "source": "d7005493",
+      "target": "f675a50b",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_e022bce4",
+      "source": "d7005493",
+      "target": "9cfe367f",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_8bd5832e",
+      "source": "d7005493",
+      "target": "7dad9647",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_42032287",
+      "source": "d7005493",
+      "target": "8f662ccd",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_ec3a6d1f",
+      "source": "d7005493",
+      "target": "da8a5a4d",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_6b9c37e7",
+      "source": "d7005493",
+      "target": "fbe78d39",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_f9c3edf6",
+      "source": "b7581421",
+      "target": "93681fbf",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_438573f4",
+      "source": "b7581421",
+      "target": "e59b2b88",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_46cdbf23",
+      "source": "b7581421",
+      "target": "ede8d444",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_8f63853f",
+      "source": "b7581421",
+      "target": "e8ee7848",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_20cde529",
+      "source": "b7581421",
+      "target": "d4c3af61",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_089abc00",
+      "source": "b7581421",
+      "target": "bff7effb",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_a5f076ea",
+      "source": "b7581421",
+      "target": "72f3c338",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_88978988",
+      "source": "b7581421",
+      "target": "f675a50b",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_b9d936d8",
+      "source": "b7581421",
+      "target": "9cfe367f",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_ea15b81f",
+      "source": "b7581421",
+      "target": "7dad9647",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_91723fa6",
+      "source": "b7581421",
+      "target": "8f662ccd",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_d9b8312a",
+      "source": "b7581421",
+      "target": "da8a5a4d",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_6495694e",
+      "source": "b7581421",
+      "target": "fbe78d39",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_b7cbad46",
+      "source": "93681fbf",
+      "target": "e59b2b88",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_c78f7c1c",
+      "source": "93681fbf",
+      "target": "ede8d444",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_4bdadc49",
+      "source": "93681fbf",
+      "target": "e8ee7848",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_7b1382c0",
+      "source": "93681fbf",
+      "target": "d4c3af61",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_2e361f4d",
+      "source": "93681fbf",
+      "target": "bff7effb",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_896ee8b5",
+      "source": "93681fbf",
+      "target": "72f3c338",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_3c342299",
+      "source": "93681fbf",
+      "target": "f675a50b",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_12a307f6",
+      "source": "93681fbf",
+      "target": "9cfe367f",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_c65951df",
+      "source": "93681fbf",
+      "target": "7dad9647",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_c681ce1a",
+      "source": "93681fbf",
+      "target": "8f662ccd",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_66cc35dd",
+      "source": "93681fbf",
+      "target": "da8a5a4d",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_6acf3138",
+      "source": "93681fbf",
+      "target": "fbe78d39",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_b3ba7eef",
+      "source": "e59b2b88",
+      "target": "ede8d444",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_653d9bf7",
+      "source": "e59b2b88",
+      "target": "e8ee7848",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_e1519887",
+      "source": "e59b2b88",
+      "target": "d4c3af61",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_59c2caf7",
+      "source": "e59b2b88",
+      "target": "bff7effb",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_4e3a1ec0",
+      "source": "e59b2b88",
+      "target": "72f3c338",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_fc864caf",
+      "source": "e59b2b88",
+      "target": "f675a50b",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_4954c07e",
+      "source": "e59b2b88",
+      "target": "9cfe367f",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_f7ba5852",
+      "source": "e59b2b88",
+      "target": "7dad9647",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_c90cc996",
+      "source": "e59b2b88",
+      "target": "8f662ccd",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_9702e984",
+      "source": "e59b2b88",
+      "target": "da8a5a4d",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_dad6f6bd",
+      "source": "e59b2b88",
+      "target": "fbe78d39",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_f32ce8c5",
+      "source": "ede8d444",
+      "target": "e8ee7848",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_55c8bd63",
+      "source": "ede8d444",
+      "target": "d4c3af61",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_3e413842",
+      "source": "ede8d444",
+      "target": "bff7effb",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_4900d7a4",
+      "source": "ede8d444",
+      "target": "72f3c338",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_0ca6bff8",
+      "source": "ede8d444",
+      "target": "f675a50b",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_f4619f46",
+      "source": "ede8d444",
+      "target": "9cfe367f",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_26822620",
+      "source": "ede8d444",
+      "target": "7dad9647",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_eab58d62",
+      "source": "ede8d444",
+      "target": "8f662ccd",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_12bc0fba",
+      "source": "ede8d444",
+      "target": "da8a5a4d",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_38cc4d4d",
+      "source": "ede8d444",
+      "target": "fbe78d39",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_619fd9eb",
+      "source": "e8ee7848",
+      "target": "d4c3af61",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_dec317f7",
+      "source": "e8ee7848",
+      "target": "bff7effb",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_8806e84c",
+      "source": "e8ee7848",
+      "target": "72f3c338",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_9fd2940d",
+      "source": "e8ee7848",
+      "target": "f675a50b",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_518f0bd0",
+      "source": "e8ee7848",
+      "target": "9cfe367f",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_ee93ac54",
+      "source": "e8ee7848",
+      "target": "7dad9647",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_86e9f857",
+      "source": "e8ee7848",
+      "target": "8f662ccd",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_7409b1d2",
+      "source": "e8ee7848",
+      "target": "da8a5a4d",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_a9b1cb20",
+      "source": "e8ee7848",
+      "target": "fbe78d39",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_f6e462f9",
+      "source": "d4c3af61",
+      "target": "bff7effb",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_bd9ebfbf",
+      "source": "d4c3af61",
+      "target": "72f3c338",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_5bf7f4f2",
+      "source": "d4c3af61",
+      "target": "f675a50b",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_31cde351",
+      "source": "d4c3af61",
+      "target": "9cfe367f",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_570781fc",
+      "source": "d4c3af61",
+      "target": "7dad9647",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_c2a0cc7f",
+      "source": "d4c3af61",
+      "target": "8f662ccd",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_d051cae2",
+      "source": "d4c3af61",
+      "target": "da8a5a4d",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_adad3ca5",
+      "source": "d4c3af61",
+      "target": "fbe78d39",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_9ecd6370",
+      "source": "bff7effb",
+      "target": "72f3c338",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_b3412f1a",
+      "source": "bff7effb",
+      "target": "f675a50b",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_a27fb794",
+      "source": "bff7effb",
+      "target": "9cfe367f",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_1592f721",
+      "source": "bff7effb",
+      "target": "7dad9647",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_b6ed5bdb",
+      "source": "bff7effb",
+      "target": "8f662ccd",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_4f13105c",
+      "source": "bff7effb",
+      "target": "da8a5a4d",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_74693e93",
+      "source": "bff7effb",
+      "target": "fbe78d39",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_7a686fcc",
+      "source": "72f3c338",
+      "target": "f675a50b",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_41d7febd",
+      "source": "72f3c338",
+      "target": "9cfe367f",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_4b3b4ff1",
+      "source": "72f3c338",
+      "target": "7dad9647",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_1f236bde",
+      "source": "72f3c338",
+      "target": "8f662ccd",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_0363302b",
+      "source": "72f3c338",
+      "target": "da8a5a4d",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_e0c378a7",
+      "source": "72f3c338",
+      "target": "fbe78d39",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_b46c5c6d",
+      "source": "f675a50b",
+      "target": "9cfe367f",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_9be58603",
+      "source": "f675a50b",
+      "target": "7dad9647",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_24da137d",
+      "source": "f675a50b",
+      "target": "8f662ccd",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_d9037f01",
+      "source": "f675a50b",
+      "target": "da8a5a4d",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_7c8014d0",
+      "source": "f675a50b",
+      "target": "fbe78d39",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_62f41afe",
+      "source": "9cfe367f",
+      "target": "7dad9647",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_54fbbc4d",
+      "source": "9cfe367f",
+      "target": "8f662ccd",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_abe9e3b9",
+      "source": "9cfe367f",
+      "target": "da8a5a4d",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_fb2a3a68",
+      "source": "9cfe367f",
+      "target": "fbe78d39",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_f96f9465",
+      "source": "7dad9647",
+      "target": "8f662ccd",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_e76de38a",
+      "source": "7dad9647",
+      "target": "da8a5a4d",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_a84f9bcc",
+      "source": "7dad9647",
+      "target": "fbe78d39",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_e73809f9",
+      "source": "8f662ccd",
+      "target": "da8a5a4d",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_db2856de",
+      "source": "8f662ccd",
+      "target": "fbe78d39",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "rel_b56cefeb",
+      "source": "da8a5a4d",
+      "target": "fbe78d39",
+      "type": "relationship",
+      "weight": 1.0
+    },
+    {
+      "id": "legal_sep_1_2",
+      "source": "legal_group_1",
+      "target": "legal_group_2",
+      "type": "legal_separation",
+      "weight": 1.0,
+      "requires_justification": true
+    },
+    {
+      "id": "legal_sep_1_3",
+      "source": "legal_group_1",
+      "target": "legal_group_3",
+      "type": "legal_separation",
+      "weight": 1.0,
+      "requires_justification": true
+    },
+    {
+      "id": "legal_sep_1_4",
+      "source": "legal_group_1",
+      "target": "legal_group_4",
+      "type": "legal_separation",
+      "weight": 1.0,
+      "requires_justification": true
+    },
+    {
+      "id": "legal_sep_2_3",
+      "source": "legal_group_2",
+      "target": "legal_group_3",
+      "type": "legal_separation",
+      "weight": 1.0,
+      "requires_justification": true
+    },
+    {
+      "id": "legal_sep_2_4",
+      "source": "legal_group_2",
+      "target": "legal_group_4",
+      "type": "legal_separation",
+      "weight": 1.0,
+      "requires_justification": true
+    },
+    {
+      "id": "legal_sep_3_4",
+      "source": "legal_group_3",
+      "target": "legal_group_4",
+      "type": "legal_separation",
+      "weight": 1.0,
+      "requires_justification": true
+    }
+  ],
+  "metadata": {
+    "generated_at": "2025-10-11T05:53:40.110448",
+    "total_nodes": 37,
+    "total_edges": 561,
+    "fraud_indicators": {
+      "transfer_pricing_scheme": {
+        "detected": true,
+        "evidence": [
+          {
+            "file": "vva_financial_analysis.md",
+            "pattern": "inter-?company",
+            "match": "Inter-company",
+            "context": "| Description | 2024 | 2025 | Change | % Change |\n|---------|-------------|------|------|--------|----------|\n| 5200/000 | Retained Income | (20,083,498) | (24,313,225) | (4,229,727) | +21.1% |\n\n#### Inter-company Loans\n| Account | Description | 2024 | 2025 | Change | % Change |\n|---------|-------------|------|------|--------|----------|\n| 5460/000 | RegimA - Loan Account | 0 | 1,506,813 | 1,506,813 | N/A |\n|",
+            "position": 5813
+          },
+          {
+            "file": "vva_financial_analysis.md",
+            "pattern": "inter-?company",
+            "match": "Inter-company",
+            "context": "* | +912,103 | +33.8% | \ud83d\udfe1 **Tenant receivables growth** - higher rental debtors |\n| **Tax Liabilities** | +1,224,258 | N/A | \ud83d\udd34 **Tax provision increase** - higher profitability tax consequences |\n| **Inter-company Loans** | +2,361,813 | +21.6% | \ud83d\udd34 **Group financing expansion** - increased lending to group entities |\n\n---\n\n## BUSINESS TRANSFORMATION ANALYSIS\n\n### \ud83c\udfe2 **VVA AS THE GROUP'S ASSET BASE & CASH GENERAT",
+            "position": 8022
+          },
+          {
+            "file": "vva_financial_analysis.md",
+            "pattern": "inter-?company",
+            "match": "Inter-company",
+            "context": "io Expansion**: +R3.0M investment in land & buildings\n- **Stable Income Stream**: Consistent rental revenue (~R4.5M annually)\n- **Group Liquidity Provider**: Deployed R4.3M cash for group funding\n- **Inter-company Bank**: Increased loans to group entities by R2.4M\n\n### \ud83d\udcb0 **STRATEGIC CASH DEPLOYMENT**\nVVA's cash management reveals group strategy:\n- **Interest Income Collapse**: -70% drop indicates cash moved fr",
+            "position": 8514
+          },
+          {
+            "file": "vva_financial_analysis.md",
+            "pattern": "inter-?company",
+            "match": "inter-company",
+            "context": "trategy:\n- **Interest Income Collapse**: -70% drop indicates cash moved from investments to group funding\n- **Property Investment**: R3.0M deployed to expand asset base\n- **Group Support**: Increased inter-company lending while maintaining operations\n\n### \ud83c\udfd7\ufe0f **PROPERTY PORTFOLIO ENHANCEMENT**\nMajor capital improvements and expansion:\n- **Land & Buildings**: +12% expansion worth R3.0M\n- **Tenant Improvements**:",
+            "position": 8853
+          },
+          {
+            "file": "vva_financial_analysis.md",
+            "pattern": "inter-?company",
+            "match": "inter-company",
+            "context": "al Excellence**: Enhanced property management capabilities with infrastructure upgrades and tenant facility improvements, while maintaining stable rental income.\n\n4. **Financial Hub Role**: Increased inter-company lending by R2.4M, becoming a key funding source for RST's working capital needs and SLG's operational support.\n\n**The Bottom Line**: VVA transformed from a passive property investment vehicle to an *",
+            "position": 10228
+          },
+          {
+            "file": "vva_financial_analysis.md",
+            "pattern": "inter-?company",
+            "match": "inter-company",
+            "context": "**Cost Management**: Implement energy efficiency and maintenance optimization programs\n3. **Receivables Management**: Strengthen tenant collection processes\n4. **Group Funding Structure**: Formalize inter-company financing arrangements with proper terms\n\n---\n\n## CONCLUSION\n\nVVA's 2025 performance reflects a strategic evolution from passive property investment to active group financial management. While indivi",
+            "position": 11887
+          }
+        ],
+        "entities_involved": [
+          "VVA",
+          "VVA",
+          "VVA",
+          "VVA",
+          "SLG",
+          "RST",
+          "VVA",
+          "VVA",
+          "VVA",
+          "VVA"
+        ],
+        "estimated_impact": 0
+      },
+      "inventory_manipulation": {
+        "detected": false,
+        "evidence": [],
+        "entities_involved": [],
+        "estimated_impact": 0
+      },
+      "expense_dumping": {
+        "detected": false,
+        "evidence": [],
+        "victim_entities": [],
+        "perpetrator_entities": []
+      },
+      "profit_extraction": {
+        "detected": false,
+        "evidence": [],
+        "mechanisms": [],
+        "beneficiaries": []
+      }
+    },
+    "insights": [
+      {
+        "type": "fraud_detection",
+        "severity": "high",
+        "title": "Transfer Pricing Manipulation Detected",
+        "description": "Evidence suggests systematic transfer pricing manipulation between related entities",
+        "evidence_count": 6,
+        "entities_involved": [
+          "VVA",
+          "RST",
+          "SLG"
+        ],
+        "recommendation": "Conduct detailed transfer pricing audit and review inter-company agreements"
+      },
+      {
+        "type": "structural_analysis",
+        "severity": "low",
+        "title": "Complex Inter-Entity Relationships",
+        "description": "Multiple entities show complex relationship patterns",
+        "complex_entities": [
+          "RegimA Worldwide",
+          "RST",
+          "RegimA Skin Treatments",
+          "FNB",
+          "CIPC",
+          "ABSA"
+        ],
+        "recommendation": "Map complete organizational structure and ownership relationships"
+      }
+    ],
+    "last_updated": "2025-10-11T05:57:15.109363",
+    "legal_structure_analysis": true,
+    "legal_groups_identified": 4,
+    "not_a_group_structure": true,
+    "critical_disclosure_date": "2025-06-06",
+    "disclosure_source": "Daniel Faucitt"
+  }
+}
