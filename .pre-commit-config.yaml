@@ -4,7 +4,7 @@
 repos:
   # Black - Python code formatter
   - repo: https://github.com/psf/black
-    rev: 23.12.1
+    rev: 25.9.0
     hooks:
       - id: black
         language_version: python3
@@ -12,27 +12,22 @@ repos:
 
   # isort - Import sorting
   - repo: https://github.com/pycqa/isort
-    rev: 5.13.2
+    rev: 7.0.0
     hooks:
       - id: isort
         args: [--profile=black, --line-length=88]
 
   # flake8 - Linting
   - repo: https://github.com/pycqa/flake8
-    rev: 7.0.0
+    rev: 7.3.0
     hooks:
       - id: flake8
         args: [--max-line-length=88, --extend-ignore=E203,W503]
 
-  # pyflakes - Static analysis
-  - repo: https://github.com/PyCQA/pyflakes
-    rev: 3.2.0
-    hooks:
-      - id: pyflakes
 
   # mypy - Type checking
   - repo: https://github.com/pre-commit/mirrors-mypy
-    rev: v1.8.0
+    rev: v1.18.2
     hooks:
       - id: mypy
         additional_dependencies: [types-requests, types-python-dateutil]
@@ -40,7 +35,7 @@ repos:
 
   # General pre-commit hooks
   - repo: https://github.com/pre-commit/pre-commit-hooks
-    rev: v4.5.0
+    rev: v6.0.0
     hooks:
       # Remove trailing whitespace
       - id: trailing-whitespace
@@ -67,7 +62,7 @@ repos:
 
   # Security checks with bandit
   - repo: https://github.com/PyCQA/bandit
-    rev: 1.7.5
+    rev: 1.8.6
     hooks:
       - id: bandit
         args: [-r, ., -f, json, -o, bandit-report.json]
@@ -95,7 +90,7 @@ repos:
 
 # Configuration for specific tools
 default_language_version:
-  python: python3.11
+  python: python3.12
 
 # Files to exclude from all hooks
 exclude: |
