@@ -45,7 +45,7 @@ Without proper contextualization, the documents may appear as routine business r
 - ❌ Standard regulatory issues
 
 ### With Proper Context, Documents Reveal:
-- ✅ **Criminal Enterprise:** Multi-million rand systematic fraud
+- ✅ **Criminal Enterprise:** Multi-million-rand systematic fraud
 - ✅ **Legal Conspiracy:** Perjury and abuse of court processes
 - ✅ **Professional Corruption:** Statutory officials facilitating crime
 - ✅ **Victim Scapegoating:** Sophisticated manipulation scheme

@@ -9,7 +9,7 @@
 
 ## EXECUTIVE SUMMARY
 
-**This note provides critical contextualization for understanding why the documents in Case 2025-137857 are essential for establishing and prosecuting a sophisticated multi-million rand criminal fraud conspiracy.** Without this context, the documents appear as routine business records; with proper context, they reveal one of the most sophisticated legal conspiracies in recent South African commercial crime history.
+**This note provides critical contextualization for understanding why the documents in Case 2025-137857 are essential for establishing and prosecuting a sophisticated multi-million-rand criminal fraud conspiracy.** Without this context, the documents appear as routine business records; with proper context, they reveal one of the most sophisticated legal conspiracies in recent South African commercial crime history.
 
 ---
 
@@ -24,7 +24,7 @@ When viewed individually or without proper legal context, the case documents app
 
 ### The Reality With Proper Context
 When properly contextualized, the same documents reveal:
-- **Criminal Enterprise:** Systematic fraud exceeding R9+ million
+- **Criminal Enterprise:** Systematic fraud exceeding R9 million
 - **Legal Conspiracy:** Perjury and abuse of court processes
 - **Professional Corruption:** Statutory officials facilitating crime
 - **Victim Manipulation:** Sophisticated scapegoating scheme
@@ -191,7 +191,7 @@ Commissioner Abuse → Attorney Misconduct → Legal System Manipulation → Cri
 - **Scope:** All assets obtained through or facilitated by criminal activity
 
 #### **Damages Claims**
-- **Quantified Losses:** Minimum R9+ million in documented fraudulent transactions
+- **Quantified Losses:** Minimum R9 million in documented fraudulent transactions
 - **Additional Damages:** Lost business opportunities, legal costs, reputational harm
 - **Evidence Standard:** Causation linking criminal activity to financial losses
 - **Recovery Potential:** Full restitution plus punitive damages
@@ -289,7 +289,7 @@ The hidden empire evidence reveals systematic exploitation of corporate structur
 
 ### The Stakes
 
-**This case represents more than individual justice - it tests whether South Africa's legal and financial systems can identify, expose, and prosecute sophisticated criminal enterprises that exploit legitimate institutions.**
+**This case represents more than individual justice - it tests whether South African legal and financial systems can identify, expose, and prosecute sophisticated criminal enterprises that exploit legitimate institutions.**
 
 ### The Requirement
 
