@@ -71,6 +71,38 @@ Comprehensive analysis and revised affidavit versions:
 - **FINAL_SUMMARY_v3.md** - Complete overview of all changes and strategic elements
 - **SUMMARY_OF_CHANGES.md** - Version history and change summary
 
+### 📁 `/family-trust/`
+**FORENSIC EVIDENCE ANALYSIS - Family Trust Manipulation and Breach Scheme**
+
+Comprehensive forensic analysis of systematic family trust manipulation and breach scheme targeting Faucitt family trust structures from March-August 2025. Contains evidence for 5 major trust violation events with documented financial losses exceeding R2.85 million.
+
+**Sub-directories:**
+- **`15-mar-trust-establishment/`** - Trust structure establishment documentation (March 15, 2025)
+- **`02-may-beneficiary-changes/`** - Unauthorized beneficiary modifications (May 2, 2025)
+- **`18-june-trust-violation/`** - Systematic trust obligation breaches (June 18, 2025)
+- **`25-july-asset-misappropriation/`** - Trust asset misappropriation scheme (July 25, 2025)
+- **`10-aug-trust-breach-evidence/`** - Comprehensive trust breach documentation (August 10, 2025)
+
+**Key Files:**
+- **`README.md`** - Complete trust violation forensic analysis overview
+- **Trust law violation framework** - Legal foundation for trust crime prosecution
+
+### 📁 `/financial-flows/`
+**FORENSIC EVIDENCE ANALYSIS - Financial Manipulation and Fund Diversion Scheme**
+
+Comprehensive forensic analysis of systematic financial manipulation and fund diversion scheme affecting legitimate business and trust financial flows from April-August 2025. Contains evidence for 5 major financial crime events with documented losses exceeding R4.275 million.
+
+**Sub-directories:**
+- **`01-apr-payment-redirection/`** - Systematic payment redirection scheme (April 1, 2025)
+- **`15-may-unauthorized-transfers/`** - Large-scale unauthorized financial transfers (May 15, 2025)
+- **`30-june-fund-diversions/`** - Coordinated fund diversion operations (June 30, 2025)
+- **`12-july-account-manipulations/`** - Bank account manipulation and control seizure (July 12, 2025)
+- **`20-aug-financial-concealment/`** - Financial evidence concealment and destruction (August 20, 2025)
+
+**Key Files:**
+- **`README.md`** - Complete financial crime forensic analysis overview
+- **Financial flow network analysis** - Comprehensive mapping of fund diversions and criminal coordination
+
 ---
 
 ## Current Version: v3
