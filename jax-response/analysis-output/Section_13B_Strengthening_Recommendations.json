@@ -1,0 +1,227 @@
+{
+  "executive_summary": {
+    "current_strength": "Strong narrative with clear timeline and logical inferences",
+    "opportunities": "Can be strengthened with additional documentary evidence, witness testimony, and comparative analysis",
+    "priority_additions": [
+      "Peter's own communications showing knowledge of reports before card cancellation",
+      "Evidence of Peter's historical conduct (never cancelled cards before)",
+      "Comparative analysis of other directors' conduct in similar situations",
+      "Expert evidence on standard business practices",
+      "Financial impact quantification of Peter's actions"
+    ]
+  },
+  "evidence_recommendations": [
+    {
+      "category": "Documentary Evidence - Timeline Proof",
+      "priority": "CRITICAL",
+      "items": [
+        {
+          "evidence": "Email/correspondence from Daniel to Bantjes providing reports",
+          "annexure": "JF-REPORTS-TO-BANTJES",
+          "purpose": "Proves Daniel provided reports mid-June 2025",
+          "strengthens": "Establishes baseline: Daniel cooperated fully",
+          "how_to_obtain": "Request from Daniel's email records, Bantjes' records"
+        },
+        {
+          "evidence": "Bantjes' acknowledgment of receiving reports",
+          "annexure": "JF-BANTJES-ACK",
+          "purpose": "Independent confirmation Daniel provided documentation",
+          "strengthens": "Third-party corroboration of Daniel's cooperation",
+          "how_to_obtain": "Request from Bantjes or subpoena if necessary"
+        },
+        {
+          "evidence": "Bank records showing exact date of card cancellations",
+          "annexure": "JF-CARD-CANCEL-BANK",
+          "purpose": "Proves cards cancelled day after reports provided",
+          "strengthens": "Establishes suspicious timing with precision",
+          "how_to_obtain": "Bank statements from FNB/ABSA showing cancellation dates"
+        },
+        {
+          "evidence": "Peter's communication to bank requesting card cancellations",
+          "annexure": "JF-PETER-CANCEL-REQUEST",
+          "purpose": "Shows Peter initiated cancellations, proves no discussion with Jax/Daniel",
+          "strengthens": "Demonstrates unilateral action without consultation",
+          "how_to_obtain": "Bank records, Peter's email records (discovery)"
+        },
+        {
+          "evidence": "Service disruption notifications (domains, subscriptions)",
+          "annexure": "JF-SERVICE-DISRUPTION",
+          "purpose": "Proves operational chaos caused by card cancellations",
+          "strengthens": "Demonstrates consequences of Peter's actions",
+          "how_to_obtain": "Email notifications from service providers"
+        }
+      ]
+    },
+    {
+      "category": "Evidence of Peter's Knowledge and Intent",
+      "priority": "CRITICAL",
+      "items": [
+        {
+          "evidence": "Peter's communications BEFORE card cancellation showing he received/reviewed reports",
+          "annexure": "JF-PETER-REVIEWED-REPORTS",
+          "purpose": "Proves Peter had the information he claims to need BEFORE cancelling cards",
+          "strengthens": "Destroys Peter's narrative that he needed more information",
+          "how_to_obtain": "Peter's emails, WhatsApp messages (discovery)"
+        },
+        {
+          "evidence": "Peter's communications with Bantjes about the reports",
+          "annexure": "JF-PETER-BANTJES-COMMS",
+          "purpose": "Shows Peter discussed reports with accountant before acting",
+          "strengthens": "Proves Peter had opportunity to raise concerns before creating crisis",
+          "how_to_obtain": "Bantjes' records, Peter's communications (discovery)"
+        },
+        {
+          "evidence": "Peter's communications with attorneys BEFORE card cancellation",
+          "annexure": "JF-PETER-ATTORNEY-PRE",
+          "purpose": "Proves Peter was planning legal action before alleged 'discovery' of misconduct",
+          "strengthens": "Establishes premeditation - Peter planned this attack in advance",
+          "how_to_obtain": "Attorney billing records, correspondence (discovery, may be privileged)"
+        },
+        {
+          "evidence": "Draft settlement agreement dated BEFORE card cancellations",
+          "annexure": "JF-SETTLEMENT-DRAFT-PRE",
+          "purpose": "Shows settlement was being negotiated before alleged crisis",
+          "strengthens": "Proves coordinated strategy: settlement + manufactured crisis + interdict",
+          "how_to_obtain": "Email records showing draft circulation dates"
+        }
+      ]
+    },
+    {
+      "category": "Historical Pattern Evidence",
+      "priority": "HIGH",
+      "items": [
+        {
+          "evidence": "Historical records showing Peter NEVER cancelled cards before",
+          "annexure": "JF-NO-PRIOR-CANCELLATIONS",
+          "purpose": "Proves this was unprecedented action, not standard practice",
+          "strengthens": "Demonstrates this was extraordinary measure, not routine",
+          "how_to_obtain": "Bank records over past 5-10 years"
+        },
+        {
+          "evidence": "Historical records of Bantjes' prior visits (annual tax work)",
+          "annexure": "JF-BANTJES-HISTORY",
+          "purpose": "Proves Bantjes' June 2025 visit was routine, not triggered by crisis",
+          "strengthens": "Contextualizes accountant visit as normal tax season work",
+          "how_to_obtain": "Bantjes' billing records, appointment history"
+        },
+        {
+          "evidence": "Historical records showing Daniel previously provided documentation when requested",
+          "annexure": "JF-DANIEL-COOPERATION-HISTORY",
+          "purpose": "Proves Daniel has track record of cooperation",
+          "strengthens": "Undermines Peter's characterization of Daniel as uncooperative",
+          "how_to_obtain": "Email records, correspondence over past years"
+        },
+        {
+          "evidence": "Historical records showing Peter's own withdrawals/expenses without documentation",
+          "annexure": "JF-PETER-WITHDRAWALS-HISTORY",
+          "purpose": "Proves Peter participated in informal model for years",
+          "strengthens": "Exposes Peter's hypocrisy - he did exactly what he now condemns",
+          "how_to_obtain": "Bank statements, director loan account records"
+        }
+      ]
+    },
+    {
+      "category": "Witness Evidence",
+      "priority": "HIGH",
+      "items": [
+        {
+          "evidence": "Affidavit from Daniel James Faucitt",
+          "annexure": "JF-DANIEL-AFFIDAVIT",
+          "purpose": "First-hand account of providing reports and Peter's subsequent actions",
+          "strengthens": "Direct testimony of timeline and Peter's conduct",
+          "content_should_include": [
+            "Detailed account of providing reports to Bantjes",
+            "Peter's conduct immediately after (card cancellations)",
+            "Impact of card cancellations on Daniel's ability to respond",
+            "Peter's menacing/coercive conduct",
+            "Daniel's attempts to cooperate despite restrictions"
+          ]
+        },
+        {
+          "evidence": "Affidavit from Daniel Jacobus Bantjes (accountant)",
+          "annexure": "JF-BANTJES-AFFIDAVIT",
+          "purpose": "Independent third-party confirmation of timeline and reports provided",
+          "strengthens": "Corroborates Daniel's account, challenges Peter's 'discrepancies' claim",
+          "content_should_include": [
+            "Confirmation of mid-June 2025 visit for routine tax work",
+            "Confirmation Daniel provided all requested reports",
+            "Clarification: did Bantjes actually find 'discrepancies' or is this Peter's characterization?",
+            "Context: this was routine tax season work, not crisis investigation"
+          ]
+        },
+        {
+          "evidence": "Affidavits from staff members affected by card cancellations",
+          "annexure": "JF-STAFF-AFFIDAVITS",
+          "purpose": "Demonstrates operational impact of Peter's actions",
+          "strengthens": "Shows real-world consequences of manufactured crisis",
+          "content_should_include": [
+            "Inability to perform duties due to service disruptions",
+            "Confusion and chaos caused by sudden cancellations",
+            "Daniel's efforts to restore services",
+            "Peter's lack of communication about cancellations"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Comparative and Contextual Evidence",
+      "priority": "MEDIUM",
+      "items": [
+        {
+          "evidence": "Expert affidavit on standard business practices",
+          "annexure": "JF-EXPERT-BUSINESS-PRACTICES",
+          "purpose": "Establishes what reasonable director would do in similar circumstances",
+          "strengthens": "Shows Peter's conduct was unreasonable and outside norms",
+          "expert_should_opine": [
+            "Standard practice when director has concerns: internal discussion first",
+            "Cancelling all cards without notice is extreme and disruptive",
+            "Reasonable director would use trust powers before seeking interdict",
+            "Pattern of conduct suggests manufactured crisis, not genuine concern"
+          ]
+        },
+        {
+          "evidence": "Comparative analysis: other companies' handling of similar situations",
+          "annexure": "JF-COMPARATIVE-ANALYSIS",
+          "purpose": "Shows Peter's approach was extraordinary",
+          "strengthens": "Demonstrates Peter's conduct was outside normal business practice",
+          "analysis_should_show": [
+            "Other directors address concerns through internal processes",
+            "Interdicts are last resort, not first response",
+            "Cancelling cards without notice is virtually unheard of"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Financial Impact Evidence",
+      "priority": "MEDIUM",
+      "items": [
+        {
+          "evidence": "Quantification of financial harm caused by card cancellations",
+          "annexure": "JF-FINANCIAL-HARM",
+          "purpose": "Demonstrates Peter's actions caused measurable damage",
+          "strengthens": "Shows Peter's conduct was harmful, not protective",
+          "should_quantify": [
+            "Lost revenue due to service disruptions",
+            "Cost of restoring services",
+            "Late fees and penalties from service providers",
+            "Staff time lost dealing with crisis",
+            "Potential client losses due to service interruptions"
+          ]
+        },
+        {
+          "evidence": "Analysis of May 2026 investment payout",
+          "annexure": "JF-INVESTMENT-PAYOUT-ANALYSIS",
+          "purpose": "Establishes Peter's financial motive",
+          "strengthens": "Proves ulterior motive for seizing control",
+          "should_detail": [
+            "Amount of investment payout expected",
+            "Distribution structure (how would funds be distributed?)",
+            "Peter's control through interdict affects distribution",
+            "Timing: 9 months from interdict to payout"
+          ]
+        }
+      ]
+    }
+  ]
+}
