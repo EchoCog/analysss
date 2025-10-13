@@ -86,10 +86,10 @@ Evidence Suppression:      August-September 2025 (Attorney conspiracy)
 - **Next Steps**: Coordinate with criminal proceedings
 
 ### Criminal Proceedings (Timeline Evidence)
-- **Status**: ❌ Not yet filed despite sufficient evidence  
-- **Evidence**: ✅ Complete documentation ready for Hawks
+- **Status**: 🔄 Evidence organized in dedicated criminal case folder (`crim/`)  
+- **Evidence**: ✅ Complete documentation ready for Hawks (see [Criminal Case Files](../crim/README.md))
 - **Scope**: Murder conspiracy, financial fraud, attorney misconduct
-- **Next Steps**: 🔴 Immediate Hawks filing required
+- **Next Steps**: 🔴 Immediate Hawks filing required (see [Prosecution Guide](../crim/prosecution/README.md))
 
 ---
 
@@ -163,15 +163,20 @@ Evidence Suppression:      August-September 2025 (Attorney conspiracy)
 ## 🔗 Related Documentation
 
 **Primary Analysis:**
-- [Court Order Timeline Cross-Reference Analysis](court-order-timeline-cross-reference-analysis.md) - Complete detailed analysis
+- [Court Order Timeline Cross-Reference Analysis](../crim/timelines/court-order-timeline-cross-reference-analysis.md) - Complete detailed analysis
 
-**Source Documents:**
-- [Court Order 2025-137857](court_order_2025_137857.md) - Civil proceedings
-- [APR-SEP-2025 Timeline](APR-SEP-2025.md) - Criminal evidence timeline
-- [Evidence Thread Analysis](eviden-thread.md) - Safety protocols and procedures
+**Civil Proceedings:**
+- [Court Order 2025-137857](court_order_2025_137857.md) - Civil asset protection proceedings
+
+**Criminal Proceedings (Separated):**
+- **[Criminal Case Overview](../crim/README.md)** - Main criminal case documentation
+- [APR-SEP-2025 Timeline](../crim/timelines/APR-SEP-2025.md) - Criminal evidence timeline
+- [Evidence Thread Analysis](../crim/evidence/eviden-thread.md) - Criminal evidence and safety protocols
+- [Criminal Evidence Index](../crim/evidence/README.md) - Complete criminal evidence catalog
+- [Prosecution Guide](../crim/prosecution/README.md) - Hawks filing preparation
 
 **Framework Documents:**
-- [Criminal Case Timeline Outline](../criminal-case-timeline-outline-sa.md) - Core framework
+- [Criminal Case Timeline Outline](../crim/frameworks/criminal-case-timeline-outline-sa.md) - Core criminal framework
 - [Timeline Processing Guide](../timeline-processor.md) - Processing and validation tools
 
 ---
@@ -183,7 +188,9 @@ Evidence Suppression:      August-September 2025 (Attorney conspiracy)
 - **Action Status**: 🔴 Immediate criminal filing required
 
 **Quick Access:**
-- For detailed analysis → [Full Cross-Reference Analysis](court-order-timeline-cross-reference-analysis.md)
-- For criminal evidence → [Timeline](APR-SEP-2025.md)  
-- For safety protocols → [Evidence Thread](eviden-thread.md)
-- For framework guidance → [Timeline Outline](../criminal-case-timeline-outline-sa.md)
+- **For criminal case overview** → [Criminal Case Files](../crim/README.md)
+- **For detailed criminal analysis** → [Criminal Timeline Analysis](../crim/timelines/court-order-timeline-cross-reference-analysis.md)
+- **For criminal evidence** → [Criminal Evidence Index](../crim/evidence/README.md)  
+- **For Hawks filing** → [Prosecution Guide](../crim/prosecution/README.md)
+- **For safety protocols** → [Criminal Safety Guide](../crim/frameworks/criminal_matter_safety_guide.md)
+- **For framework guidance** → [Criminal Timeline Framework](../crim/frameworks/criminal-case-timeline-outline-sa.md)

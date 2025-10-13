@@ -46,11 +46,16 @@ The repository includes an **Auto Entity and Evidence Scan** GitHub Action that 
 ### 🚀 Quick Start
 
 #### For Legal Practitioners
+
+**📁 Case Organization:**
+- **🚨 Civil Case**: Main repository contains civil proceedings documentation
+- **⚖️ Criminal Case**: See [`crim/`](crim/README.md) folder for separated criminal proceedings
+
 1. **🚨 CRITICAL FIRST READ**: [Document Fraud Contextualization Index](DOCUMENT_FRAUD_CONTEXTUALIZATION_INDEX.md) - **Essential for understanding Case 2025-137857 fraud context**
-2. **Documentation Hub**: Start at [docs/README.md](docs/README.md) for organized access to all documentation
-3. **Legal Frameworks**: Review [docs/legal/frameworks/](docs/legal/frameworks/) for case analysis methodologies
-4. **Templates**: Access [docs/legal/templates/](docs/legal/templates/) for legal document templates
-5. **Evidence Management**: See [Evidence Management Guide](FOLDER_STRUCTURE_IMPLEMENTATION.md) for evidence handling
+2. **Criminal Case**: Start at [crim/README.md](crim/README.md) for criminal proceedings (murder conspiracy, fraud, attorney misconduct)
+3. **Documentation Hub**: Access [docs/README.md](docs/README.md) for civil case documentation
+4. **Legal Frameworks**: Review [crim/frameworks/](crim/frameworks/) for criminal law frameworks
+5. **Evidence Management**: See [crim/evidence/](crim/evidence/) for criminal evidence and [Evidence Management Guide](FOLDER_STRUCTURE_IMPLEMENTATION.md) for civil evidence
 
 #### For Technical Users
 1. **System Architecture**: Review [Technical Architecture](TECHNICAL_ARCHITECTURE.md) for system design
