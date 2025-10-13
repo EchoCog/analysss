@@ -32,9 +32,12 @@ SAVINGS ACCOU ACCOU
 - **After Transfer**: R 4,822,294.91
 - **Net Effect**: R 3,090,000.00 transferred OUT but balance increased
 
-**ANOMALY**: Balance increased despite large outbound transfer, suggesting:
+**REQUIRES VERIFICATION**: OCR extraction shows balance increased despite large outbound transfer. This apparent inconsistency could indicate:
 1. Simultaneous large inbound transfer before the outbound
-2. Or accounting irregularity requiring investigation
+2. OCR extraction error requiring verification against original documents
+3. Accounting irregularity requiring forensic investigation
+
+**NOTE**: This mathematical inconsistency in the OCR data highlights the need for verification against original bank records.
 
 ## ⚖️ LEGAL SIGNIFICANCE
 

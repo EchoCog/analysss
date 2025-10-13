@@ -16,7 +16,7 @@
 | Strategic Main Account | 62432501494 | **R 640,000.00** | OUT (TRF TO SAVINGS) |
 | Regima Skin Main Account | 55270035642 | **R 3,090,000.00** | OUT (TRF TO SAVINGS) |
 
-**TOTAL AMOUNT EMPTIED: R 8,550,000** (Over 8.5 Million Rand)
+**TOTAL AMOUNT INDICATED AS TRANSFERRED: R 8,550,000** (Over 8.5 Million Rand - OCR analysis, requires verification)
 
 ## 🔍 KEY EVIDENCE DETAILS
 
