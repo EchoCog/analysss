@@ -9,6 +9,8 @@
 
 This summary is based exclusively on material evidence from the **October 9, 2025 evidence package** and prior documented facts. The findings irrefutably establish a **sophisticated, multi-year criminal fraud scheme**. **Jax Faucitt is the clear and intended victim of this scheme**, with overwhelming evidence demonstrating she has been systematically scapegoated to conceal a massive, profitable, and hidden business empire.
 
+**CRITICAL NOTE:** For proper understanding of document relevance and importance in establishing fraud, see the **[Document Relevance and Importance Note](analysis/DOCUMENT_RELEVANCE_AND_IMPORTANCE_NOTE.md)** which provides essential contextualization for all evidence in this case.
+
 ## Critical Established Facts (Evidence-Based)
 
 ### 1. Systematic Financial Manipulation & Control Seizure

@@ -51,6 +51,10 @@ Contains all official court documents including:
 - Relationship analyses
 - Communication patterns
 
+**📋 CRITICAL REFERENCE DOCUMENTS:**
+- **[COMPREHENSIVE_DOCUMENT_ANALYSIS.md](analysis/COMPREHENSIVE_DOCUMENT_ANALYSIS.md)** - Complete legal document processing and evidence integration
+- **[DOCUMENT_RELEVANCE_AND_IMPORTANCE_NOTE.md](analysis/DOCUMENT_RELEVANCE_AND_IMPORTANCE_NOTE.md)** - **ESSENTIAL: Explains document relevance for fraud contextualization**
+
 ### 04_correspondence/
 #### incoming/
 - Received correspondence

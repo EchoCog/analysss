@@ -44,10 +44,11 @@ The repository includes an **Auto Entity and Evidence Scan** GitHub Action that 
 ### 🚀 Quick Start
 
 #### For Legal Practitioners
-1. **Documentation Hub**: Start at [docs/README.md](docs/README.md) for organized access to all documentation
-2. **Legal Frameworks**: Review [docs/legal/frameworks/](docs/legal/frameworks/) for case analysis methodologies
-3. **Templates**: Access [docs/legal/templates/](docs/legal/templates/) for legal document templates
-4. **Evidence Management**: See [Evidence Management Guide](FOLDER_STRUCTURE_IMPLEMENTATION.md) for evidence handling
+1. **🚨 CRITICAL FIRST READ**: [Document Fraud Contextualization Index](DOCUMENT_FRAUD_CONTEXTUALIZATION_INDEX.md) - **Essential for understanding Case 2025-137857 fraud context**
+2. **Documentation Hub**: Start at [docs/README.md](docs/README.md) for organized access to all documentation
+3. **Legal Frameworks**: Review [docs/legal/frameworks/](docs/legal/frameworks/) for case analysis methodologies
+4. **Templates**: Access [docs/legal/templates/](docs/legal/templates/) for legal document templates
+5. **Evidence Management**: See [Evidence Management Guide](FOLDER_STRUCTURE_IMPLEMENTATION.md) for evidence handling
 
 #### For Technical Users
 1. **System Architecture**: Review [Technical Architecture](TECHNICAL_ARCHITECTURE.md) for system design
