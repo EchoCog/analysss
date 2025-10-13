@@ -12,7 +12,8 @@ from pathlib import Path
 from typing import Any, Dict, List, Optional
 
 try:
-    from supabase import create_client, Client
+    from supabase import Client, create_client
+
     SUPABASE_AVAILABLE = True
 except ImportError:
     SUPABASE_AVAILABLE = False
@@ -20,6 +21,7 @@ except ImportError:
 try:
     import psycopg2
     from psycopg2.extras import RealDictCursor
+
     NEON_AVAILABLE = True
 except ImportError:
     NEON_AVAILABLE = False
@@ -62,7 +64,9 @@ class RealTimeDatabaseSync:
     def _init_supabase(self):
         """Initialize Supabase client."""
         if not SUPABASE_AVAILABLE:
-            print("Warning: Supabase library not installed. Install with: pip install supabase")
+            print(
+                "Warning: Supabase library not installed. Install with: pip install supabase"
+            )
             return
 
         url = self.config.get("supabase_url")
@@ -80,7 +84,9 @@ class RealTimeDatabaseSync:
     def _init_neon(self):
         """Initialize Neon PostgreSQL connection."""
         if not NEON_AVAILABLE:
-            print("Warning: psycopg2 library not installed. Install with: pip install psycopg2-binary")
+            print(
+                "Warning: psycopg2 library not installed. Install with: pip install psycopg2-binary"
+            )
             return
 
         conn_string = self.config.get("neon_connection_string")
@@ -93,7 +99,9 @@ class RealTimeDatabaseSync:
             password = self.config.get("neon_password")
 
             if all([host, database, user, password]):
-                conn_string = f"postgresql://{user}:{password}@{host}/{database}?sslmode=require"
+                conn_string = (
+                    f"postgresql://{user}:{password}@{host}/{database}?sslmode=require"
+                )
 
         if conn_string:
             try:
@@ -124,7 +132,9 @@ class RealTimeDatabaseSync:
         if self.supabase_client:
             try:
                 # Execute schema via Supabase RPC or direct SQL
-                self.supabase_client.postgrest.rpc("exec_sql", {"sql": schema_sql}).execute()
+                self.supabase_client.postgrest.rpc(
+                    "exec_sql", {"sql": schema_sql}
+                ).execute()
                 results["supabase"]["success"] = True
                 results["supabase"]["message"] = "Schema synchronized successfully"
             except Exception as e:
@@ -188,7 +198,9 @@ class RealTimeDatabaseSync:
 
                     # Assuming first column is primary key for conflict resolution
                     pk_column = columns[0]
-                    update_cols = ", ".join([f"{col} = EXCLUDED.{col}" for col in columns[1:]])
+                    update_cols = ", ".join(
+                        [f"{col} = EXCLUDED.{col}" for col in columns[1:]]
+                    )
 
                     query = f"""
                         INSERT INTO {table_name} ({columns_str})
@@ -317,4 +329,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-

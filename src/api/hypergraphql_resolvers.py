@@ -445,119 +445,126 @@ class HyperGraphQLResolver:
         return mapping.to_graphql_type()
 
     # Evidence Refinery Resolvers
-    
+
     def set_evidence_refinery(self, evidence_refinery) -> None:
         """Set the evidence refinery instance for resolver integration"""
         self.evidence_refinery = evidence_refinery
-    
+
     def resolve_add_raw_evidence(self, input_data: Dict[str, Any]) -> Dict[str, Any]:
         """Add raw evidence to the refinery"""
         if not self.evidence_refinery:
             return {"error": "Evidence refinery not configured"}
-        
+
         try:
             evidence = self.evidence_refinery.add_raw_evidence(
                 evidence_id=input_data["evidenceId"],
                 content=input_data["content"],
                 source=input_data.get("source", "unknown"),
-                metadata=input_data.get("metadata")
+                metadata=input_data.get("metadata"),
             )
             return evidence.to_dict()
         except Exception as e:
             logger.error(f"Failed to add raw evidence: {str(e)}")
             return {"error": str(e)}
-    
+
     def resolve_process_evidence(self, evidence_id: str) -> Dict[str, Any]:
         """Process evidence through the refinery pipeline"""
         if not self.evidence_refinery:
             return {"error": "Evidence refinery not configured"}
-        
+
         try:
             evidence = self.evidence_refinery.process_evidence(evidence_id)
             return evidence.to_dict()
         except Exception as e:
             logger.error(f"Failed to process evidence {evidence_id}: {str(e)}")
             return {"error": str(e)}
-    
+
     def resolve_refined_evidence(self, evidence_id: str) -> Dict[str, Any]:
         """Get refined evidence by ID"""
         if not self.evidence_refinery:
             return {"error": "Evidence refinery not configured"}
-        
+
         if evidence_id not in self.evidence_refinery.refined_evidence:
             return {"error": f"Evidence not found: {evidence_id}"}
-        
+
         evidence = self.evidence_refinery.refined_evidence[evidence_id]
         return evidence.to_dict()
-    
+
     def resolve_evidence_summary(self, evidence_id: str) -> Dict[str, Any]:
         """Get evidence summary"""
         if not self.evidence_refinery:
             return {"error": "Evidence refinery not configured"}
-        
+
         return self.evidence_refinery.get_evidence_summary_graphql(evidence_id)
-    
-    def resolve_related_evidence(self, evidence_id: str, threshold: float = 0.7) -> List[str]:
+
+    def resolve_related_evidence(
+        self, evidence_id: str, threshold: float = 0.7
+    ) -> List[str]:
         """Find related evidence"""
         if not self.evidence_refinery:
             return []
-        
+
         return self.evidence_refinery.find_related_evidence(evidence_id, threshold)
-    
+
     def resolve_create_evidence_relationship(self, input_data: Dict[str, Any]) -> bool:
         """Create relationship between evidence items"""
         if not self.evidence_refinery:
             return False
-        
+
         try:
             return self.evidence_refinery.create_evidence_relationship(
                 source_id=input_data["sourceId"],
                 target_id=input_data["targetId"],
                 relationship_type=input_data.get("relationshipType", "related_to"),
-                strength=input_data.get("strength", 0.8)
+                strength=input_data.get("strength", 0.8),
             )
         except Exception as e:
             logger.error(f"Failed to create evidence relationship: {str(e)}")
             return False
-    
-    def resolve_update_evidence_quality(self, evidence_id: str, 
-                                       quality_score: str, confidence: float) -> Dict[str, Any]:
+
+    def resolve_update_evidence_quality(
+        self, evidence_id: str, quality_score: str, confidence: float
+    ) -> Dict[str, Any]:
         """Update evidence quality assessment"""
         if not self.evidence_refinery:
             return {"error": "Evidence refinery not configured"}
-        
+
         if evidence_id not in self.evidence_refinery.refined_evidence:
             return {"error": f"Evidence not found: {evidence_id}"}
-        
+
         try:
-            from src.api.opencog_hypergraphql_orggml_evidence_refinery import EvidenceQualityScore
-            
+            from src.api.opencog_hypergraphql_orggml_evidence_refinery import (
+                EvidenceQualityScore,
+            )
+
             evidence = self.evidence_refinery.refined_evidence[evidence_id]
             evidence.quality_score = EvidenceQualityScore(quality_score)
             evidence.confidence = confidence
             evidence.last_updated = datetime.now()
-            
+
             # Update processing log
-            evidence.processing_log.append({
-                "timestamp": datetime.now().isoformat(),
-                "action": "quality_updated",
-                "quality_score": quality_score,
-                "confidence": confidence
-            })
-            
+            evidence.processing_log.append(
+                {
+                    "timestamp": datetime.now().isoformat(),
+                    "action": "quality_updated",
+                    "quality_score": quality_score,
+                    "confidence": confidence,
+                }
+            )
+
             return evidence.to_dict()
         except Exception as e:
             logger.error(f"Failed to update evidence quality: {str(e)}")
             return {"error": str(e)}
-    
+
     def resolve_evidence_quality_report(self, case_id: str) -> Dict[str, Any]:
         """Get evidence quality report for case"""
         if not self.evidence_refinery:
             return {"error": "Evidence refinery not configured"}
-        
+
         if self.evidence_refinery.case_id != case_id:
             return {"error": f"Case ID mismatch: {case_id}"}
-        
+
         summary = self.evidence_refinery.get_processing_summary()
         return {
             "caseId": case_id,
@@ -566,17 +573,17 @@ class HyperGraphQLResolver:
             "statusDistribution": summary["status_distribution"],
             "averageConfidence": summary["average_confidence"],
             "totalRelationships": summary["total_relationships"],
-            "reportTimestamp": datetime.now().isoformat()
+            "reportTimestamp": datetime.now().isoformat(),
         }
-    
+
     def resolve_processing_status(self, case_id: str) -> Dict[str, Any]:
         """Get processing status report"""
         if not self.evidence_refinery:
             return {"error": "Evidence refinery not configured"}
-        
+
         if self.evidence_refinery.case_id != case_id:
             return {"error": f"Case ID mismatch: {case_id}"}
-        
+
         summary = self.evidence_refinery.get_processing_summary()
         return {
             "caseId": case_id,
@@ -585,39 +592,41 @@ class HyperGraphQLResolver:
             "hyperGraphQLNodes": summary["hypergraphql_nodes"],
             "hyperGraphQLEdges": summary["hypergraphql_edges"],
             "ggmlPerformance": summary["ggml_performance"],
-            "reportTimestamp": datetime.now().isoformat()
+            "reportTimestamp": datetime.now().isoformat(),
         }
-    
-    def resolve_export_refined_evidence(self, case_id: str, format: str = "json") -> Dict[str, Any]:
+
+    def resolve_export_refined_evidence(
+        self, case_id: str, format: str = "json"
+    ) -> Dict[str, Any]:
         """Export refined evidence"""
         if not self.evidence_refinery:
             return {
                 "success": False,
                 "message": "Evidence refinery not configured",
-                "recordCount": 0
+                "recordCount": 0,
             }
-        
+
         if self.evidence_refinery.case_id != case_id:
             return {
                 "success": False,
                 "message": f"Case ID mismatch: {case_id}",
-                "recordCount": 0
+                "recordCount": 0,
             }
-        
+
         try:
             filepath = self.evidence_refinery.export_refined_evidence(format)
             record_count = len(self.evidence_refinery.refined_evidence)
-            
+
             return {
                 "success": True,
                 "filepath": filepath,
                 "message": f"Exported {record_count} evidence records",
-                "recordCount": record_count
+                "recordCount": record_count,
             }
         except Exception as e:
             logger.error(f"Failed to export evidence: {str(e)}")
             return {
                 "success": False,
                 "message": f"Export failed: {str(e)}",
-                "recordCount": 0
+                "recordCount": 0,
             }
