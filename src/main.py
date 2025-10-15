@@ -64,6 +64,31 @@ def setup_argparse() -> argparse.ArgumentParser:
     )
     sim_parser.add_argument("--output-dir", help="Output directory for simulations")
 
+    # AD Hypergraph Repository Mapping commands
+    ad_parser = subparsers.add_parser(
+        "ad-hypergraph", help="AD hypergraph repository mapping operations"
+    )
+    ad_subparsers = ad_parser.add_subparsers(dest="ad_command", help="AD hypergraph commands")
+    
+    # Scan repositories
+    scan_parser = ad_subparsers.add_parser("scan", help="Scan repositories for AD hypergraph mapping")
+    scan_parser.add_argument("--repo", help="Specific repository to scan (default: all)")
+    scan_parser.add_argument("--output", "-o", help="Output file for scan results")
+    
+    # Load repositories into unified schema
+    load_parser = ad_subparsers.add_parser("load", help="Load repositories into unified hypergraph schema")
+    load_parser.add_argument("--repo", help="Specific repository to load (default: all)")
+    
+    # Generate cross-repository links
+    link_parser = ad_subparsers.add_parser("link", help="Generate cross-repository entity links")
+    
+    # Export unified hypergraph
+    export_parser = ad_subparsers.add_parser("export", help="Export unified AD hypergraph")
+    export_parser.add_argument("--output", "-o", required=True, help="Output file path")
+    
+    # Repository summary
+    summary_parser = ad_subparsers.add_parser("summary", help="Show repository mapping summary")
+
     return parser
 
 
@@ -275,6 +300,116 @@ def run_all_simulations(
     return simulation_results
 
 
+def run_ad_hypergraph_command(args) -> Dict[str, Any]:
+    """
+    Run AD hypergraph repository mapping commands.
+    
+    Args:
+        args: Parsed command line arguments
+        
+    Returns:
+        Dictionary containing command results
+    """
+    import sys
+    from pathlib import Path
+    sys.path.insert(0, '.')
+    from src.api.ad_hypergraph_repository_mapper import ADHypergraphRepositoryMapper
+    
+    mapper = ADHypergraphRepositoryMapper()
+    
+    if args.ad_command == "scan":
+        if args.repo:
+            if args.repo not in mapper.repositories:
+                result = {"error": f"Repository {args.repo} not found"}
+                print(json.dumps(result, indent=2))
+                return result
+            scan_results = mapper.scan_local_repository(args.repo)
+        else:
+            # Scan all available local repositories
+            scan_results = {}
+            for repo_name, repo_config in mapper.repositories.items():
+                if repo_config.local_path:
+                    try:
+                        scan_results[repo_name] = mapper.scan_local_repository(repo_name)
+                    except Exception as e:
+                        scan_results[repo_name] = {"error": str(e)}
+        
+        if args.output:
+            output_file = Path(args.output)
+            with open(output_file, 'w') as f:
+                json.dump(scan_results, f, indent=2)
+            logger.info(f"Scan results saved to {output_file}")
+        else:
+            print(json.dumps(scan_results, indent=2))
+        
+        return scan_results
+        
+    elif args.ad_command == "load":
+        total_loaded = 0
+        load_results = {}
+        
+        if args.repo:
+            if args.repo not in mapper.repositories:
+                result = {"error": f"Repository {args.repo} not found"}
+                print(json.dumps(result, indent=2))
+                return result
+            loaded = mapper.load_repository_into_schema(args.repo)
+            load_results[args.repo] = loaded
+            total_loaded = loaded
+        else:
+            # Load all available local repositories
+            for repo_name, repo_config in mapper.repositories.items():
+                if repo_config.local_path:
+                    try:
+                        loaded = mapper.load_repository_into_schema(repo_name)
+                        load_results[repo_name] = loaded
+                        total_loaded += loaded
+                    except Exception as e:
+                        load_results[repo_name] = {"error": str(e)}
+        
+        result = {
+            "total_loaded": total_loaded,
+            "repositories": load_results,
+            "schema_stats": {
+                "entities": len(mapper.schema.nodes),
+                "relations": len(mapper.schema.edges)
+            }
+        }
+        print(json.dumps(result, indent=2))
+        return result
+        
+    elif args.ad_command == "link":
+        cross_links = mapper.generate_cross_repository_links()
+        result = {
+            "cross_links_generated": len(cross_links),
+            "total_entities": len(mapper.schema.nodes),
+            "total_relations": len(mapper.schema.edges)
+        }
+        print(json.dumps(result, indent=2))
+        return result
+        
+    elif args.ad_command == "export":
+        export_data = mapper.export_unified_hypergraph(args.output)
+        result = {
+            "exported_to": args.output,
+            "entities": len(export_data.get("nodes", [])),
+            "relations": len(export_data.get("edges", [])),
+            "repositories": len(export_data["metadata"]["ad_hypergraph"]["repositories"])
+        }
+        print(json.dumps(result, indent=2))
+        return result
+        
+    elif args.ad_command == "summary":
+        summary = mapper.get_repository_summary()
+        print(json.dumps(summary, indent=2))
+        return summary
+        
+    else:
+        result = {"error": "Invalid AD hypergraph command"}
+        print(json.dumps(result, indent=2))
+        return result
+
+
 def main():
     """Main entry point for the application."""
     parser = setup_argparse()
@@ -288,6 +423,8 @@ def main():
         run_hypergraph_analysis(args.case_id, args.output)
     elif args.command == "run-all-simulations":
         run_all_simulations(args.case_id, args.output_dir)
+    elif args.command == "ad-hypergraph":
+        run_ad_hypergraph_command(args)
     else:
         parser.print_help()
 
