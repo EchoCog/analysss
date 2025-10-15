@@ -630,3 +630,130 @@ class HyperGraphQLResolver:
                 "message": f"Export failed: {str(e)}",
                 "recordCount": 0,
             }
+
+    # AD Hypergraph Repository Mapping Resolvers
+
+    def resolve_ad_hypergraph_summary(self) -> Dict[str, Any]:
+        """Get AD hypergraph repository mapping summary"""
+        try:
+            from .ad_hypergraph_repository_mapper import ADHypergraphRepositoryMapper
+            mapper = ADHypergraphRepositoryMapper()
+            return mapper.get_repository_summary()
+        except Exception as e:
+            logger.error(f"Failed to get AD hypergraph summary: {str(e)}")
+            return {"error": str(e)}
+
+    def resolve_ad_hypergraph_scan(self, repo_name: Optional[str] = None) -> Dict[str, Any]:
+        """Scan repositories for AD hypergraph mapping"""
+        try:
+            from .ad_hypergraph_repository_mapper import ADHypergraphRepositoryMapper
+            mapper = ADHypergraphRepositoryMapper()
+            
+            if repo_name:
+                if repo_name not in mapper.repositories:
+                    return {"error": f"Repository {repo_name} not found"}
+                return mapper.scan_local_repository(repo_name)
+            else:
+                # Scan all available local repositories
+                scan_results = {}
+                for repo_name, repo_config in mapper.repositories.items():
+                    if repo_config.local_path:
+                        try:
+                            scan_results[repo_name] = mapper.scan_local_repository(repo_name)
+                        except Exception as e:
+                            scan_results[repo_name] = {"error": str(e)}
+                return scan_results
+        except Exception as e:
+            logger.error(f"Failed to scan AD hypergraph repositories: {str(e)}")
+            return {"error": str(e)}
+
+    def resolve_ad_hypergraph_load(self, repo_name: Optional[str] = None) -> Dict[str, Any]:
+        """Load repositories into AD hypergraph schema"""
+        try:
+            from .ad_hypergraph_repository_mapper import ADHypergraphRepositoryMapper
+            mapper = ADHypergraphRepositoryMapper()
+            
+            total_loaded = 0
+            load_results = {}
+            
+            if repo_name:
+                if repo_name not in mapper.repositories:
+                    return {"error": f"Repository {repo_name} not found"}
+                loaded = mapper.load_repository_into_schema(repo_name)
+                load_results[repo_name] = loaded
+                total_loaded = loaded
+            else:
+                # Load all available local repositories
+                for repo_name, repo_config in mapper.repositories.items():
+                    if repo_config.local_path:
+                        try:
+                            loaded = mapper.load_repository_into_schema(repo_name)
+                            load_results[repo_name] = loaded
+                            total_loaded += loaded
+                        except Exception as e:
+                            load_results[repo_name] = {"error": str(e)}
+            
+            return {
+                "total_loaded": total_loaded,
+                "repositories": load_results,
+                "schema_stats": {
+                    "entities": len(mapper.schema.nodes),
+                    "relations": len(mapper.schema.edges)
+                }
+            }
+        except Exception as e:
+            logger.error(f"Failed to load AD hypergraph repositories: {str(e)}")
+            return {"error": str(e)}
+
+    def resolve_ad_hypergraph_generate_links(self) -> Dict[str, Any]:
+        """Generate cross-repository links in AD hypergraph"""
+        try:
+            from .ad_hypergraph_repository_mapper import ADHypergraphRepositoryMapper
+            mapper = ADHypergraphRepositoryMapper()
+            
+            # First load all available repositories
+            for repo_name, repo_config in mapper.repositories.items():
+                if repo_config.local_path:
+                    try:
+                        mapper.load_repository_into_schema(repo_name)
+                    except Exception as e:
+                        logger.warning(f"Could not load repository {repo_name}: {e}")
+            
+            # Generate cross-repository links
+            cross_links = mapper.generate_cross_repository_links()
+            
+            return {
+                "cross_links_generated": len(cross_links),
+                "total_entities": len(mapper.schema.nodes),
+                "total_relations": len(mapper.schema.edges)
+            }
+        except Exception as e:
+            logger.error(f"Failed to generate AD hypergraph cross-repository links: {str(e)}")
+            return {"error": str(e)}
+
+    def resolve_ad_hypergraph_export(self, output_path: str) -> Dict[str, Any]:
+        """Export unified AD hypergraph"""
+        try:
+            from .ad_hypergraph_repository_mapper import ADHypergraphRepositoryMapper
+            mapper = ADHypergraphRepositoryMapper()
+            
+            # Load all repositories and generate links
+            for repo_name, repo_config in mapper.repositories.items():
+                if repo_config.local_path:
+                    try:
+                        mapper.load_repository_into_schema(repo_name)
+                    except Exception as e:
+                        logger.warning(f"Could not load repository {repo_name}: {e}")
+            
+            mapper.generate_cross_repository_links()
+            export_data = mapper.export_unified_hypergraph(output_path)
+            
+            return {
+                "exported_to": output_path,
+                "entities": len(export_data.get("nodes", [])),
+                "relations": len(export_data.get("edges", [])),
+                "repositories": len(export_data["metadata"]["ad_hypergraph"]["repositories"])
+            }
+        except Exception as e:
+            logger.error(f"Failed to export AD hypergraph: {str(e)}")
+            return {"error": str(e)}

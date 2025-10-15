@@ -291,6 +291,13 @@ type Query {
   relatedEvidence(evidenceId: String!, threshold: Float = 0.7): [String!]!
   evidenceQualityReport(caseId: String!): EvidenceQualityReport
   processingStatus(caseId: String!): ProcessingStatusReport
+  
+  # AD Hypergraph Repository Mapping Queries
+  adHypergraphSummary: ADHypergraphSummary
+  adHypergraphScan(repoName: String): JSON
+  adHypergraphLoad(repoName: String): ADHypergraphLoadResult
+  adHypergraphGenerateLinks: ADHypergraphLinkResult
+  adHypergraphExport(outputPath: String!): ADHypergraphExportResult
 }
 
 type Mutation {
@@ -430,4 +437,38 @@ input EvidenceRelationshipInput {
   relationshipType: String = "related_to"
   strength: Float = 0.8
 }
+
+# AD Hypergraph Repository Mapping Types
+
+type ADHypergraphSummary {
+  totalRepositories: Int!
+  repositories: JSON!
+  evidenceDistribution: JSON!
+  organizationDistribution: JSON!
+  totalEntities: Int!
+  totalRelations: Int!
+  summaryTimestamp: DateTime!
+}
+
+type ADHypergraphLoadResult {
+  totalLoaded: Int!
+  repositories: JSON!
+  schemaStats: JSON!
+}
+
+type ADHypergraphLinkResult {
+  crossLinksGenerated: Int!
+  totalEntities: Int!
+  totalRelations: Int!
+}
+
+type ADHypergraphExportResult {
+  exportedTo: String!
+  entities: Int!
+  relations: Int!
+  repositories: Int!
+}
+
+scalar DateTime
+scalar JSON
 """
