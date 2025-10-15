@@ -312,7 +312,12 @@ def run_ad_hypergraph_command(args) -> Dict[str, Any]:
     """
     import sys
     from pathlib import Path
-    sys.path.insert(0, '.')
+    
+    # Ensure current directory is in path for module imports
+    current_dir = str(Path(__file__).parent.parent)
+    if current_dir not in sys.path:
+        sys.path.insert(0, current_dir)
+    
     from src.api.ad_hypergraph_repository_mapper import ADHypergraphRepositoryMapper
     
     mapper = ADHypergraphRepositoryMapper()

@@ -19,10 +19,10 @@ import logging
 import os
 from datetime import datetime
 from pathlib import Path
-from typing import Any, Dict, List, Optional, Set
+from typing import Any, Dict, List, Optional
 from urllib.parse import urlparse
 
-from .hypergraphql_github import GitHubRepoProjection, OrgAwareManager
+from .hypergraphql_github import OrgAwareManager
 from .hypergraphql_schema import (
     EntityTypeQL,
     HyperGraphQLEdge,
@@ -100,7 +100,12 @@ class ADHypergraphRepositoryMapper:
         Args:
             base_path: Base directory for repository operations
         """
-        self.base_path = Path(base_path or "/home/runner/work/analysss/analysss")
+        # Use current working directory as default, or environment variable if set
+        default_path = Path.cwd()
+        if "ANALYSSS_BASE_PATH" in os.environ:
+            default_path = Path(os.environ["ANALYSSS_BASE_PATH"])
+        
+        self.base_path = Path(base_path or default_path)
         self.repositories: Dict[str, RepositoryConfig] = {}
         self.schema = HyperGraphQLSchema()
         self.org_managers: Dict[str, OrgAwareManager] = {}
